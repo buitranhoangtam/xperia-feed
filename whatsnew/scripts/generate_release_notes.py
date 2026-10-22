@@ -1,0 +1,362 @@
+import os, json
+
+feed_root = r"d:\xperia-feed\whatsnew"
+notes_dir = os.path.join(feed_root, "release_notes")
+os.makedirs(notes_dir, exist_ok=True)
+
+apps_meta = [
+    {
+        "id": "walkman",
+        "package": "com.sonyericsson.walkman",
+        "name": "Sony Walkman™ (Music)",
+        "version": "9.4.16.A.1.23",
+        "size": 22124953,
+        "size_str": "21.1 MB",
+        "publisher": "Sony Corporation",
+        "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/audio_icon.png",
+        "desc": "Trình phát nhạc Sony Walkman huyền thoại mang lại chất lượng âm thanh nguyên bản chuẩn studio. Tích hợp công nghệ giải mã âm thanh Hi-Res Audio, ClearAudio+, DSEE HX và bộ hiệu ứng Visualizer 60fps rực rỡ.",
+        "features": [
+            "Tương thích hoàn hảo hệ điều hành Android 14/15/16 và Xiaomi HyperOS",
+            "Nâng cấp engine âm thanh Hi-Res Audio và tăng cường dải bass Clear BASS",
+            "Visualizer 60fps mượt mà, tối ưu hóa tiêu thụ pin khi phát nhạc nền",
+            "Hỗ trợ bộ chỉnh âm chuyên nghiệp 10-band Equalizer và Dynamic Normalizer"
+        ],
+        "screenshots": [
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_walkman_real.png",
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_wh1000xm5_real.png"
+        ]
+    },
+    {
+        "id": "album",
+        "package": "com.sonyericsson.album",
+        "name": "Sony Album (Bravia Suite)",
+        "version": "9.9.A.0.20",
+        "size": 21390950,
+        "size_str": "20.4 MB",
+        "publisher": "Sony Corporation",
+        "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/pro_icon.png",
+        "desc": "Bộ sưu tập ảnh và video Sony Album với công nghệ hiển thị hình ảnh X-Reality và Triluminos Display độc quyền từ dòng TV Sony Bravia cao cấp. Quản lý album thông minh theo ngày tháng, địa điểm và khuôn mặt.",
+        "features": [
+            "Tích hợp công nghệ tối ưu hiển thị X-Reality for mobile sắc nét",
+            "Hiệu ứng vuốt phóng to thu nhỏ lưới ảnh đa kích thước mượt mà",
+            "Tối ưu hóa tải ảnh RAW và video 4K HDR tốc độ cao",
+            "Khắc phục triệt để tương thích thư mục hình ảnh trên Android 15"
+        ],
+        "screenshots": [
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_sensor_real.png",
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_alpha_real.png"
+        ]
+    },
+    {
+        "id": "calendar",
+        "package": "com.sonymobile.calendar",
+        "name": "Sony Calendar™",
+        "version": "20.4.C.3.21",
+        "size": 14050918,
+        "size_str": "13.4 MB",
+        "publisher": "Sony Mobile Communications",
+        "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/pro_icon.png",
+        "desc": "Lịch sự kiện Sony Xperia phong cách tối giản thanh lịch, đồng bộ thời gian thực 2 chiều với Google Calendar và Microsoft Exchange. Hỗ trợ hiển thị thời tiết tích hợp và lời nhắc thông minh.",
+        "features": [
+            "Giao diện hiện đại hỗ trợ Dark Theme chuẩn AMOLED",
+            "Đồng bộ hóa sự kiện Google Calendar và Exchange ổn định",
+            "Widget lịch màn hình chính đa dạng kích thước phong cách Sony",
+            "Sửa lỗi đồng bộ múi giờ tự động theo mạng viễn thông"
+        ],
+        "screenshots": [
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_stock_real.png",
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_kando_real.png"
+        ]
+    },
+    {
+        "id": "organizer",
+        "package": "com.sonyericsson.organizer",
+        "name": "Sony Clock & Alarm",
+        "version": "20.2.A.2.54",
+        "size": 8074035,
+        "size_str": "7.7 MB",
+        "publisher": "Sony Mobile Communications",
+        "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/pro_icon.png",
+        "desc": "Đồng hồ thế giới, bấm giờ thể thao chính xác mili-giây, đếm ngược và báo thức thông minh Sony Xperia. Thiết kế kim đồng hồ và mặt số số học đặc trưng dòng điện thoại Xperia Z Series.",
+        "features": [
+            "Báo thức thông minh với âm lượng tăng dần êm ái",
+            "Đồng hồ thế giới hiển thị múi giờ hơn 500 thành phố",
+            "Widget đồng hồ cơ số học Sony huyền thoại trên màn hình khóa",
+            "Khắc phục báo thức chạy ngầm trên trình tiết kiệm pin Android 15"
+        ],
+        "screenshots": [
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_stock_real.png",
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_kando_real.png"
+        ]
+    },
+    {
+        "id": "sketch",
+        "package": "com.sonymobile.sketch",
+        "name": "Sony Sketch (Họa Sĩ)",
+        "version": "9.0.A.0.6",
+        "size": 34917580,
+        "size_str": "33.3 MB",
+        "publisher": "Sony Mobile Communications",
+        "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/pro_icon.png",
+        "desc": "Ứng dụng vẽ và phác thảo nghệ thuật chuyên nghiệp Sony Sketch. Cung cấp đầy đủ cọ vẽ, bút chì, màu nước, bút dạ, thước kẻ và lớp vẽ layers không giới hạn cho mọi độ phân giải.",
+        "features": [
+            "Mở khóa toàn bộ sticker gói cọ vẽ nghệ thuật độc quyền Sony",
+            "Hỗ trợ vẽ đa lớp (Layers) và xuất file độ phân giải siêu nét",
+            "Tối ưu hóa độ trễ nét vẽ khi sử dụng bút cảm ứng",
+            "Hoạt động hoàn toàn độc lập ngoại tuyến (Offline 100%)"
+        ],
+        "screenshots": [
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_sensor_real.png",
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_alpha_real.png"
+        ]
+    },
+    {
+        "id": "contacts",
+        "package": "com.sonymobile.android.contacts",
+        "name": "Sony Contacts (Danh Bạ)",
+        "version": "1.8.2-amoled-font",
+        "size": 11639193,
+        "size_str": "11.1 MB",
+        "publisher": "Sony Mobile Communications",
+        "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/pro_icon.png",
+        "desc": "Danh bạ Sony Xperia thiết kế thuần khiết, hỗ trợ lọc thông minh, gộp danh bạ trùng lặp, sao lưu danh bạ an toàn và tương thích hoàn toàn 2 SIM trên điện thoại hiện đại.",
+        "features": [
+            "Tích hợp giao diện AMOLED Dark Mode tiết kiệm năng lượng",
+            "Hỗ trợ phông chữ Apple SF Pro Text sắc nét",
+            "Tìm kiếm danh bạ thông minh theo tiếng Việt có dấu và không dấu",
+            "Tương thích cuộc gọi 2 SIM tiêu chuẩn VoLTE"
+        ],
+        "screenshots": [
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_viii.png",
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_vi.png"
+        ]
+    },
+    {
+        "id": "dialer",
+        "package": "com.sonymobile.android.dialer",
+        "name": "Sony Dialer (Điện Thoại)",
+        "version": "19.5.A.25",
+        "size": 19188940,
+        "size_str": "18.3 MB",
+        "publisher": "Sony Mobile Communications",
+        "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/pro_icon.png",
+        "desc": "Trình quay số điện thoại Sony Xperia với bàn phím số thanh lịch, tốc độ phản hồi tức thì và hiệu ứng bấm phím đặc trưng. Hỗ trợ đầy đủ chức năng quản lý cuộc gọi hiện đại.",
+        "features": [
+            "Bàn phím quay số T9 tìm kiếm danh bạ siêu tốc",
+            "Hỗ trợ chọn SIM chủ động khi thực hiện cuộc gọi",
+            "Tối ưu hóa độ phân giải màn hình 2K/4K sắc nét",
+            "Hoạt động ổn định trên nền Android 15 không bị kill tiến trình"
+        ],
+        "screenshots": [
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_viii.png",
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_vi.png"
+        ]
+    },
+    {
+        "id": "conversations",
+        "package": "com.sonyericsson.conversations",
+        "name": "Sony Conversations (Tin Nhắn)",
+        "version": "30.0.A.024",
+        "size": 20971520,
+        "size_str": "20.0 MB",
+        "publisher": "Sony Mobile Communications",
+        "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/pro_icon.png",
+        "desc": "Ứng dụng nhắn tin SMS & MMS Sony Xperia giao diện bong bóng trò chuyện trực quan, hỗ trợ gửi hình ảnh, âm thanh, danh thiếp và tin nhắn đa SIM.",
+        "features": [
+            "Giao diện bong bóng tin nhắn Sony nguyên bản",
+            "Hỗ trợ sao lưu và phục hồi tin nhắn SMS",
+            "Tìm kiếm nội dung tin nhắn nhanh chóng",
+            "Tối ưu hóa gửi nhận SMS trên mạng 5G"
+        ],
+        "screenshots": [
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_viii.png",
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_vi.png"
+        ]
+    },
+    {
+        "id": "email",
+        "package": "com.sonymobile.email",
+        "name": "Sony Email™",
+        "version": "16.0.A.2031",
+        "size": 11534336,
+        "size_str": "11.0 MB",
+        "publisher": "Sony Mobile Communications",
+        "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/pro_icon.png",
+        "desc": "Trình quản lý thư điện tử Sony Email hỗ trợ đa tài khoản: Gmail, Microsoft Outlook, Yahoo Mail và máy chủ doanh nghiệp Exchange / IMAP bảo mật cao.",
+        "features": [
+            "Hỗ trợ hộp thư hợp nhất Unified Inbox",
+            "Mã hóa bảo mật giao thức TLS 1.3 hiện đại",
+            "Xem trước tệp đính kèm tài liệu và hình ảnh mượt mà",
+            "Thông báo đẩy thời gian thực Real-time Push"
+        ],
+        "screenshots": [
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_stock_real.png",
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_kando_real.png"
+        ]
+    },
+    {
+        "id": "lifelog",
+        "package": "com.sonymobile.lifelog",
+        "name": "Sony Lifelog (Nhật Ký Đời Sống)",
+        "version": "4.0.A.0.53",
+        "size": 18874368,
+        "size_str": "18.0 MB",
+        "publisher": "Sony Mobile Communications",
+        "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/pro_icon.png",
+        "desc": "Ứng dụng theo dõi sức khỏe và ghi lại mọi khoảnh khắc cuộc sống độc đáo của Sony. Ghi nhận số bước đi, lượng calo, giấc ngủ, thời gian nghe nhạc, chụp ảnh và sử dụng điện thoại.",
+        "features": [
+            "Bản đồ hành trình cuộc sống Life Bookmark tương tác",
+            "Ghi nhận chính xác số bước chân qua cảm biến phần cứng",
+            "Hoạt động độc lập không cần SmartBand hoặc kết nối máy chủ Sony",
+            "Bảo mật dữ liệu cá nhân lưu trữ nội bộ trên máy"
+        ],
+        "screenshots": [
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_kando_real.png",
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_wh1000xm5_real.png"
+        ]
+    },
+    {
+        "id": "trackid",
+        "package": "com.sonyericsson.trackid",
+        "name": "Sony TrackID™ (Nhận Diện Nhạc)",
+        "version": "4.6.C.0.21",
+        "size": 9437184,
+        "size_str": "9.0 MB",
+        "publisher": "Sony Mobile Communications",
+        "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/audio_icon.png",
+        "desc": "Trình nhận diện âm nhạc huyền thoại Sony TrackID. Lắng nghe và nhận diện bài hát đang phát xung quanh chỉ trong vài giây, hiển thị ca sĩ, album, lời bài hát và phát trên Walkman.",
+        "features": [
+            "Tích hợp engine nhận diện âm nhạc ACRCloud siêu nhanh",
+            "Hiển thị bảng xếp hạng âm nhạc được tìm kiếm nhiều nhất",
+            "Chuyển tiếp phát bài hát sang app Sony Walkman bằng một chạm",
+            "Lịch sử nhận diện nhạc lưu trữ tiện lợi"
+        ],
+        "screenshots": [
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_walkman_real.png",
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_wf1000xm5_real.png"
+        ]
+    },
+    {
+        "id": "support",
+        "package": "com.sonymobile.support",
+        "name": "Sony Xperia Support",
+        "version": "8.4.2",
+        "size": 15728640,
+        "size_str": "15.0 MB",
+        "publisher": "Sony Mobile Communications",
+        "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/pro_icon.png",
+        "desc": "Trung tâm hỗ trợ và chẩn đoán phần cứng thiết bị Sony Xperia: Kiểm tra màn hình cảm ứng, loa, micro, camera, cảm biến vân tay và tình trạng sức khỏe pin.",
+        "features": [
+            "Bộ công cụ kiểm tra toàn diện 20 thành phần phần cứng máy",
+            "Hướng dẫn sử dụng và mẹo tính năng Xperia hữu ích",
+            "Kiểm tra tình trạng chu kỳ sạc và độ chai pin",
+            "Tương thích thiết bị Android 15 không báo lỗi quyền"
+        ],
+        "screenshots": [
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_sensor_real.png",
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_alpha_real.png"
+        ]
+    },
+    {
+        "id": "assist",
+        "package": "com.sonymobile.assist_light",
+        "name": "Sony Xperia Assist",
+        "version": "1.0.A.0.26",
+        "size": 6291456,
+        "size_str": "6.0 MB",
+        "publisher": "Sony Mobile Communications",
+        "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/pro_icon.png",
+        "desc": "Trợ lý thông minh Sony Xperia tự động đề xuất cấu hình tối ưu khi đi ngủ, tập luyện, di chuyển và làm việc. Tự động bật chế độ không làm phiền và tiết kiệm pin.",
+        "features": [
+            "Tính năng Xperia Actions thông minh theo khung giờ và địa điểm",
+            "Tối ưu hóa sạc pin thông minh bảo vệ tuổi thọ pin (Battery Care)",
+            "Chế độ hỗ trợ tập trung cho công việc và học tập",
+            "Hoạt động nhẹ nhàng không tốn RAM"
+        ],
+        "screenshots": [
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_kando_real.png",
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_stock_real.png"
+        ]
+    },
+    {
+        "id": "entrance",
+        "package": "com.sonymobile.entrance",
+        "name": "Sony What's New Reborn",
+        "version": "4.2.A.0.19",
+        "size": 9165524,
+        "size_str": "8.7 MB",
+        "publisher": "Sony Mobile Communications",
+        "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/pro_icon.png",
+        "desc": "Cổng thông tin giải trí và phong cách sống đặc sắc của Sony Xperia. Tích hợp tin tức VnExpress Sony News Suite, Bảng xếp hạng NhacCuaTui, Giá xăng dầu Petrolimex thời gian thực và Trung tâm cập nhật hệ thống Sony.",
+        "features": [
+            "Giao diện Sony FlixView 3D nguyên bản mượt mà, zero overlay",
+            "Tin nóng VnExpress 20 bài với lưới 3 cột và nút MORE xanh lá",
+            "100% hình ảnh chụp thực tế studio sắc nét từ Sony và VnExpress",
+            "Trung tâm cập nhật Xperia Update Center hỗ trợ 14 ứng dụng Sony"
+        ],
+        "screenshots": [
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_viii.png",
+            "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/petrolimex_real_1.png"
+        ]
+    }
+]
+
+# Generate XML files
+for app in apps_meta:
+    app_id = app["id"]
+    xml_path = os.path.join(notes_dir, f"{app_id}.xml")
+    
+    features_xml = "\n".join([f"            <feature>{f}</feature>" for f in app["features"]])
+    screenshots_xml = "\n".join([f"        <image>{s}</image>" for s in app["screenshots"]])
+    
+    xml_content = f"""<?xml version="1.0" encoding="utf-8"?>
+<component-release-notes>
+    <description>
+        <sections>
+            <section>{app["desc"]}</section>
+        </sections>
+    </description>
+    <whatsnew>
+        <feature-list>
+{features_xml}
+        </feature-list>
+    </whatsnew>
+    <screenshots>
+{screenshots_xml}
+    </screenshots>
+</component-release-notes>
+"""
+    with open(xml_path, "w", encoding="utf-8") as f:
+        f.write(xml_content.strip())
+    print(f"Generated {app_id}.xml")
+
+# Generate xperia_apps_manifest.json linking all apps
+manifest_data = {
+    "version": 1,
+    "last_updated": "2026-10-22T12:45:00Z",
+    "apps": []
+}
+
+for app in apps_meta:
+    item = {
+        "id": app["id"],
+        "package": app["package"],
+        "name": app["name"],
+        "version": app["version"],
+        "size": app["size"],
+        "size_str": app["size_str"],
+        "publisher": app["publisher"],
+        "icon": app["icon"],
+        "release_notes_url": f"https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/{app['id']}.xml",
+        "download_url": f"https://drive.google.com/drive/folders/1YP-aA65ZVy8dAH21DWwxI1w_rYcrq-9h",
+        "description": app["desc"],
+        "features": app["features"],
+        "screenshots": app["screenshots"]
+    }
+    manifest_data["apps"].append(item)
+
+manifest_path = os.path.join(feed_root, "xperia_apps_manifest.json")
+with open(manifest_path, "w", encoding="utf-8") as f:
+    json.dump(manifest_data, f, indent=2, ensure_ascii=False)
+
+print(f"Generated {manifest_path} with {len(apps_meta)} apps.")
