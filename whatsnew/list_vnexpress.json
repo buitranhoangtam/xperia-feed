@@ -4,7 +4,7 @@
   "items": [
     {
       "id": "vne_1",
-      "name": "Cảm biến CMOS - từ thí nghiệm NASA đến linh kiện trên hàng tỷ camera",
+      "name": "'Xác thực sinh trắc học ở nhiều ngân hàng vẫn bị vượt qua'",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -18,6 +18,276 @@
         "links": [
           {
             "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_1.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://vnexpress.net/xac-thuc-sinh-trac-hoc-o-nhieu-ngan-hang-van-bi-vuot-qua-5135657.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://vnexpress.net/xac-thuc-sinh-trac-hoc-o-nhieu-ngan-hang-van-bi-vuot-qua-5135657.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://vnexpress.net/xac-thuc-sinh-trac-hoc-o-nhieu-ngan-hang-van-bi-vuot-qua-5135657.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://vnexpress.net/xac-thuc-sinh-trac-hoc-o-nhieu-ngan-hang-van-bi-vuot-qua-5135657.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "'Xác thực sinh trắc học ở nhiều ngân hàng vẫn bị vượt qua'",
+          "text": "Theo Phó Cục trưởng A05, dòng tiền trong nhiều vụ tấn công được luân chuyển rất nhanh, khi xác thực sinh trắc học tại nhiều ngân hàng bị vượt qua bởi ảnh và video deepfake.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "vne_2",
+      "name": "Meta bị phạt 25 tỷ USD",
+      "label": "VnExpress • Công Nghệ",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_2.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_2.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://vnexpress.net/meta-bi-phat-25-ty-usd-5135615.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://vnexpress.net/meta-bi-phat-25-ty-usd-5135615.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://vnexpress.net/meta-bi-phat-25-ty-usd-5135615.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://vnexpress.net/meta-bi-phat-25-ty-usd-5135615.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Meta bị phạt 25 tỷ USD",
+          "text": "Meta đối diện khoản phạt cao nhất lịch sử công ty, khi thẩm phán bang New Mexico ra phán quyết họ phải trả 25 tỷ USD do vi phạm quyền riêng tư.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "vne_3",
+      "name": "Máy tính lượng tử chính xác nhất thế giới lập kỷ lục mới",
+      "label": "VnExpress • Công Nghệ",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_3.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_3.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://vnexpress.net/may-tinh-luong-tu-chinh-xac-nhat-the-gioi-lap-ky-luc-moi-5135284.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://vnexpress.net/may-tinh-luong-tu-chinh-xac-nhat-the-gioi-lap-ky-luc-moi-5135284.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://vnexpress.net/may-tinh-luong-tu-chinh-xac-nhat-the-gioi-lap-ky-luc-moi-5135284.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://vnexpress.net/may-tinh-luong-tu-chinh-xac-nhat-the-gioi-lap-ky-luc-moi-5135284.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Máy tính lượng tử chính xác nhất thế giới lập kỷ lục mới",
+          "text": "Máy tính lượng tử của Quantinuum lập kỷ lục mới về khả năng tự sửa lỗi với độ chính xác 99,9995% và tỷ lệ lỗi thấp hơn 100 lần so với kết quả của Google Quantum AI.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "vne_4",
+      "name": "'Bố già' Geoffrey Hinton: 'Kết bạn với AI, nếu không sẽ gặp họa'",
+      "label": "VnExpress • Công Nghệ",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_4.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_4.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://vnexpress.net/bo-gia-geoffrey-hinton-ket-ban-voi-ai-neu-khong-se-gap-hoa-5135145.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://vnexpress.net/bo-gia-geoffrey-hinton-ket-ban-voi-ai-neu-khong-se-gap-hoa-5135145.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://vnexpress.net/bo-gia-geoffrey-hinton-ket-ban-voi-ai-neu-khong-se-gap-hoa-5135145.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://vnexpress.net/bo-gia-geoffrey-hinton-ket-ban-voi-ai-neu-khong-se-gap-hoa-5135145.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "'Bố già' Geoffrey Hinton: 'Kết bạn với AI, nếu không sẽ gặp họa'",
+          "text": "GS Geoffrey Hinton, nhà khoa học đoạt giải Nobel Vật lý 2024, cho rằng AI \"đang có dấu hiệu của ý thức\", nên con người phải cẩn thận để không bị coi là kẻ thù.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "vne_5",
+      "name": "Ngày tồi tệ của Internet",
+      "label": "VnExpress • Công Nghệ",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_5.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_5.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://vnexpress.net/ngay-toi-te-cua-internet-5135404.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://vnexpress.net/ngay-toi-te-cua-internet-5135404.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://vnexpress.net/ngay-toi-te-cua-internet-5135404.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://vnexpress.net/ngay-toi-te-cua-internet-5135404.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Ngày tồi tệ của Internet",
+          "text": "Ngày 21/10 được xem là \"ngày tồi tệ của an ninh mạng và Internet\" khi AI liên tiếp phát hiện lỗ hổng bảo mật trong nhiều hệ thống trên toàn cầu.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "vne_6",
+      "name": "Cảm biến CMOS - từ thí nghiệm NASA đến linh kiện trên hàng tỷ camera",
+      "label": "VnExpress • Công Nghệ",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_6.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_6.png"
           }
         ]
       },
@@ -47,7 +317,7 @@
         {
           "type": "text",
           "name": "Cảm biến CMOS - từ thí nghiệm NASA đến linh kiện trên hàng tỷ camera",
-          "text": "Từ nghiên cứu để khám phá không gian, cảm biến ảnh CMOS thành linh kiện phổ biến trong điện thoại và là câu chuyện thương mại hóa sáng chế thành công nhất của NASA.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Từ nghiên cứu để khám phá không gian, cảm biến ảnh CMOS thành linh kiện phổ biến trong điện thoại và là câu chuyện thương mại hóa sáng chế thành công nhất của NASA.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -57,75 +327,21 @@
       }
     },
     {
-      "id": "vne_2",
-      "name": "Khi AI khiến người dùng từ bỏ dịch vụ",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_2.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_2.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "https://vnexpress.net/khi-ai-khien-nguoi-dung-tu-bo-dich-vu-5134567.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/khi-ai-khien-nguoi-dung-tu-bo-dich-vu-5134567.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "https://vnexpress.net/khi-ai-khien-nguoi-dung-tu-bo-dich-vu-5134567.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/khi-ai-khien-nguoi-dung-tu-bo-dich-vu-5134567.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Khi AI khiến người dùng từ bỏ dịch vụ",
-          "text": "Vào website một thương hiệu quen để mua giày, Thu Hà nhíu mày khi video giới thiệu được tạo từ AI chứ không phải tự quay như trước.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "vne_3",
+      "id": "vne_7",
       "name": "Điều gì xảy ra nếu tác nhân AI 'nói' ngôn ngữ riêng?",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_3.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_7.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_3.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_7.png"
           }
         ]
       },
@@ -155,7 +371,7 @@
         {
           "type": "text",
           "name": "Điều gì xảy ra nếu tác nhân AI 'nói' ngôn ngữ riêng?",
-          "text": "Nếu tác nhân AI tự hình thành ngôn ngữ riêng, chúng có thể trao đổi thông tin hiệu quả hơn, nhưng gây khó cho khả năng giám sát của con người.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Nếu tác nhân AI tự hình thành ngôn ngữ riêng, chúng có thể trao đổi thông tin hiệu quả hơn, nhưng gây khó cho khả năng giám sát của con người.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -165,75 +381,21 @@
       }
     },
     {
-      "id": "vne_4",
-      "name": "Xe bay Tesla - màn trình diễn hay công nghệ tương lai?",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_4.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_4.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "https://vnexpress.net/xe-bay-tesla-man-trinh-dien-hay-cong-nghe-tuong-lai-5135267.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/xe-bay-tesla-man-trinh-dien-hay-cong-nghe-tuong-lai-5135267.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "https://vnexpress.net/xe-bay-tesla-man-trinh-dien-hay-cong-nghe-tuong-lai-5135267.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/xe-bay-tesla-man-trinh-dien-hay-cong-nghe-tuong-lai-5135267.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Xe bay Tesla - màn trình diễn hay công nghệ tương lai?",
-          "text": "Màn nhào lộn trên không của xe Tesla Roadster trong buổi ra mắt dấy lên câu hỏi lớn về tính khả thi khi đưa vào sản xuất.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "vne_5",
+      "id": "vne_8",
       "name": "'Ngôi sao' hacker Trung Quốc gia nhập Z.AI",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_5.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_8.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_5.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_8.png"
           }
         ]
       },
@@ -263,169 +425,7 @@
         {
           "type": "text",
           "name": "'Ngôi sao' hacker Trung Quốc gia nhập Z.AI",
-          "text": "Yuki Chen, được gọi là \"ngôi sao hacker \" Trung Quốc, gia nhập startup trí tuệ nhân tạo Z.AI với mục tiêu đảm bảo an toàn an ninh mạng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "vne_6",
-      "name": "Robot AI đầu tiên sắp bay tới Mặt Trăng",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_6.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_6.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "https://vnexpress.net/robot-ai-dau-tien-sap-bay-toi-mat-trang-5135113.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/robot-ai-dau-tien-sap-bay-toi-mat-trang-5135113.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "https://vnexpress.net/robot-ai-dau-tien-sap-bay-toi-mat-trang-5135113.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/robot-ai-dau-tien-sap-bay-toi-mat-trang-5135113.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Robot AI đầu tiên sắp bay tới Mặt Trăng",
-          "text": "Công ty Astrolab sẽ phóng robot tự hành, tích hợp máy tính chạy mô hình ngôn ngữ lớn, để hỗ trợ hoạt động tìm kiếm băng nước ở cực nam Mặt Trăng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "vne_7",
-      "name": "Tổng giám đốc FPT Smart Cloud: 'Cần chấp nhận rủi ro khi ứng dụng AI'",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_7.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_7.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "https://vnexpress.net/tong-giam-doc-fpt-smart-cloud-can-chap-nhan-rui-ro-khi-ung-dung-ai-5134630.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/tong-giam-doc-fpt-smart-cloud-can-chap-nhan-rui-ro-khi-ung-dung-ai-5134630.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "https://vnexpress.net/tong-giam-doc-fpt-smart-cloud-can-chap-nhan-rui-ro-khi-ung-dung-ai-5134630.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/tong-giam-doc-fpt-smart-cloud-can-chap-nhan-rui-ro-khi-ung-dung-ai-5134630.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Tổng giám đốc FPT Smart Cloud: 'Cần chấp nhận rủi ro khi ứng dụng AI'",
-          "text": "Trong bối cảnh AI còn mới, doanh nghiệp cần chủ động thử nghiệm, chấp nhận rủi ro và đánh giá hiệu quả từ thực tế thay vì chờ đủ cơ sở mới bắt đầu, theo ông Lê Hồng Việt, Tổng giám đốc FPT Smart Cloud, Tập đoàn FPT.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "vne_8",
-      "name": "Mở hộp điện thoại gập iPhone Duo sắp bán tại Việt Nam",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_8.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_8.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "https://vnexpress.net/mo-hop-dien-thoai-gap-iphone-duo-sap-ban-tai-viet-nam-5135211.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/mo-hop-dien-thoai-gap-iphone-duo-sap-ban-tai-viet-nam-5135211.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "https://vnexpress.net/mo-hop-dien-thoai-gap-iphone-duo-sap-ban-tai-viet-nam-5135211.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/mo-hop-dien-thoai-gap-iphone-duo-sap-ban-tai-viet-nam-5135211.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Mở hộp điện thoại gập iPhone Duo sắp bán tại Việt Nam",
-          "text": "Smartphone màn hình gập iPhone Duo có thiết kế hộp đựng khác biệt, sử dụng mã X/A cho thị trường Việt Nam và tới tay người dùng từ ngày 23/10.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Yuki Chen, được gọi là \"ngôi sao hacker \" Trung Quốc, gia nhập startup trí tuệ nhân tạo Z.AI với mục tiêu đảm bảo an toàn an ninh mạng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -436,7 +436,7 @@
     },
     {
       "id": "vne_9",
-      "name": "Musk: 'Tiền không còn quan trọng' trong tầm nhìn đa hành tinh",
+      "name": "Khi AI khiến người dùng từ bỏ dịch vụ",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -457,29 +457,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/musk-tien-khong-con-quan-trong-trong-tam-nhin-da-hanh-tinh-5134870.html"
+            "href": "https://vnexpress.net/khi-ai-khien-nguoi-dung-tu-bo-dich-vu-5134567.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/musk-tien-khong-con-quan-trong-trong-tam-nhin-da-hanh-tinh-5134870.html"
+            "data": "https://vnexpress.net/khi-ai-khien-nguoi-dung-tu-bo-dich-vu-5134567.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/musk-tien-khong-con-quan-trong-trong-tam-nhin-da-hanh-tinh-5134870.html"
+            "href": "https://vnexpress.net/khi-ai-khien-nguoi-dung-tu-bo-dich-vu-5134567.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/musk-tien-khong-con-quan-trong-trong-tam-nhin-da-hanh-tinh-5134870.html"
+            "data": "https://vnexpress.net/khi-ai-khien-nguoi-dung-tu-bo-dich-vu-5134567.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Musk: 'Tiền không còn quan trọng' trong tầm nhìn đa hành tinh",
-          "text": "Elon Musk dự đoán, những tiến bộ về robot và du hành vũ trụ sẽ tạo ra nền kinh tế đa hành tinh, khiến tiền bạc không còn quan trọng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Khi AI khiến người dùng từ bỏ dịch vụ",
+          "text": "Vào website một thương hiệu quen để mua giày, Thu Hà nhíu mày khi video giới thiệu được tạo từ AI chứ không phải tự quay như trước.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -490,7 +490,7 @@
     },
     {
       "id": "vne_10",
-      "name": "Cuộc gọi 44 phút đưa Alexandr Wang đến Meta",
+      "name": "Xe bay Tesla - màn trình diễn hay công nghệ tương lai?",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -511,29 +511,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/cuoc-goi-44-phut-dua-alexandr-wang-den-meta-5134378.html"
+            "href": "https://vnexpress.net/xe-bay-tesla-man-trinh-dien-hay-cong-nghe-tuong-lai-5135267.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/cuoc-goi-44-phut-dua-alexandr-wang-den-meta-5134378.html"
+            "data": "https://vnexpress.net/xe-bay-tesla-man-trinh-dien-hay-cong-nghe-tuong-lai-5135267.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/cuoc-goi-44-phut-dua-alexandr-wang-den-meta-5134378.html"
+            "href": "https://vnexpress.net/xe-bay-tesla-man-trinh-dien-hay-cong-nghe-tuong-lai-5135267.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/cuoc-goi-44-phut-dua-alexandr-wang-den-meta-5134378.html"
+            "data": "https://vnexpress.net/xe-bay-tesla-man-trinh-dien-hay-cong-nghe-tuong-lai-5135267.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Cuộc gọi 44 phút đưa Alexandr Wang đến Meta",
-          "text": "Từ cuộc trao đổi qua điện thoại, CEO Meta Mark Zuckerberg quyết định chi số tiền lớn để mời tỷ phú trẻ Alexandr Wang về lãnh đạo bộ phận AI.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Xe bay Tesla - màn trình diễn hay công nghệ tương lai?",
+          "text": "Màn nhào lộn trên không của xe Tesla Roadster trong buổi ra mắt dấy lên câu hỏi lớn về tính khả thi khi đưa vào sản xuất.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -544,7 +544,7 @@
     },
     {
       "id": "vne_11",
-      "name": "Điểm tin 6h: Các ứng viên bộ máy lãnh đạo VFF nhiệm kỳ mới | Chứng khoán bùng nổ diện rộng",
+      "name": "Đập kính ôtô, đâm tử vong tài xế vì nghi có tình cảm với vợ cũ",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -565,29 +565,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/diem-tin-6h-cac-ung-vien-bo-may-lanh-dao-vff-nhiem-ky-moi-chung-khoan-bung-no-dien-rong-5135366.html"
+            "href": "https://vnexpress.net/dap-kinh-oto-dam-tu-vong-tai-xe-vi-nghi-co-tinh-cam-voi-vo-cu-5135668.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/diem-tin-6h-cac-ung-vien-bo-may-lanh-dao-vff-nhiem-ky-moi-chung-khoan-bung-no-dien-rong-5135366.html"
+            "data": "https://vnexpress.net/dap-kinh-oto-dam-tu-vong-tai-xe-vi-nghi-co-tinh-cam-voi-vo-cu-5135668.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/diem-tin-6h-cac-ung-vien-bo-may-lanh-dao-vff-nhiem-ky-moi-chung-khoan-bung-no-dien-rong-5135366.html"
+            "href": "https://vnexpress.net/dap-kinh-oto-dam-tu-vong-tai-xe-vi-nghi-co-tinh-cam-voi-vo-cu-5135668.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/diem-tin-6h-cac-ung-vien-bo-may-lanh-dao-vff-nhiem-ky-moi-chung-khoan-bung-no-dien-rong-5135366.html"
+            "data": "https://vnexpress.net/dap-kinh-oto-dam-tu-vong-tai-xe-vi-nghi-co-tinh-cam-voi-vo-cu-5135668.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Điểm tin 6h: Các ứng viên bộ máy lãnh đạo VFF nhiệm kỳ mới | Chứng khoán bùng nổ diện rộng",
-          "text": "Vợ ông Bùi Thành Nhơn đăng ký bán hơn 6 triệu cổ phiếu Novaland; Cước vận tải tăng vọt, các nhà máy lọc dầu châu Á và châu Âu rơi vào cảnh thua lỗ...\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Đập kính ôtô, đâm tử vong tài xế vì nghi có tình cảm với vợ cũ",
+          "text": "Camera ghi cảnh Nguyễn Quý Hoan, 47 tuổi, chặn đường, dùng búa tấn công người được cho là tình mới của vợ cũ trên phố Bắc Cầu, trước khi đâm nạn nhân tử vong.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -598,7 +598,7 @@
     },
     {
       "id": "vne_12",
-      "name": "Vì sao nhiều nước đặt mục tiêu lạm phát?",
+      "name": "Thành phố lớn thứ ba nước Pháp ban lệnh cấm biểu tình",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -619,29 +619,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/vi-sao-nhieu-nuoc-dat-muc-tieu-lam-phat-5135342.html"
+            "href": "https://vnexpress.net/thanh-pho-lon-thu-ba-nuoc-phap-ban-lenh-cam-bieu-tinh-5135682.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/vi-sao-nhieu-nuoc-dat-muc-tieu-lam-phat-5135342.html"
+            "data": "https://vnexpress.net/thanh-pho-lon-thu-ba-nuoc-phap-ban-lenh-cam-bieu-tinh-5135682.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/vi-sao-nhieu-nuoc-dat-muc-tieu-lam-phat-5135342.html"
+            "href": "https://vnexpress.net/thanh-pho-lon-thu-ba-nuoc-phap-ban-lenh-cam-bieu-tinh-5135682.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/vi-sao-nhieu-nuoc-dat-muc-tieu-lam-phat-5135342.html"
+            "data": "https://vnexpress.net/thanh-pho-lon-thu-ba-nuoc-phap-ban-lenh-cam-bieu-tinh-5135682.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Vì sao nhiều nước đặt mục tiêu lạm phát?",
-          "text": "Dù lạm phát khiến giá cả tăng, các nền kinh tế vẫn chủ động giữ lạm phát ở mức nhẹ để kích thích sản xuất và chi tiêu.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Thành phố lớn thứ ba nước Pháp ban lệnh cấm biểu tình",
+          "text": "Giới chức Lyon ban hành lệnh cấm \"mọi cuộc biểu tình\" vào thứ 7 tuần này khi làn sóng bạo lực gia tăng.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -652,7 +652,7 @@
     },
     {
       "id": "vne_13",
-      "name": "Nhiều ngân hàng cho vay bình quân trên 11% trước đợt hạ lãi suất",
+      "name": "Điểm tin 17h: Nhiều thảo luận về Luật Đất đai sửa đổi | Giá xăng E10 giảm hơn 1.800 đồng một lít",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -673,29 +673,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/nhieu-ngan-hang-cho-vay-binh-quan-tren-11-truoc-dot-ha-lai-suat-5135336.html"
+            "href": "https://vnexpress.net/diem-tin-17h-nhieu-thao-luan-ve-luat-dat-dai-sua-doi-gia-xang-e10-giam-hon-1-800-dong-mot-lit-5135709.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/nhieu-ngan-hang-cho-vay-binh-quan-tren-11-truoc-dot-ha-lai-suat-5135336.html"
+            "data": "https://vnexpress.net/diem-tin-17h-nhieu-thao-luan-ve-luat-dat-dai-sua-doi-gia-xang-e10-giam-hon-1-800-dong-mot-lit-5135709.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/nhieu-ngan-hang-cho-vay-binh-quan-tren-11-truoc-dot-ha-lai-suat-5135336.html"
+            "href": "https://vnexpress.net/diem-tin-17h-nhieu-thao-luan-ve-luat-dat-dai-sua-doi-gia-xang-e10-giam-hon-1-800-dong-mot-lit-5135709.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/nhieu-ngan-hang-cho-vay-binh-quan-tren-11-truoc-dot-ha-lai-suat-5135336.html"
+            "data": "https://vnexpress.net/diem-tin-17h-nhieu-thao-luan-ve-luat-dat-dai-sua-doi-gia-xang-e10-giam-hon-1-800-dong-mot-lit-5135709.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Nhiều ngân hàng cho vay bình quân trên 11% trước đợt hạ lãi suất",
-          "text": "Techcombank, OCB, TPBank, BVBank… cho khách hàng cá nhân vay lãi suất hơn 11% mỗi năm trước đợt điều chỉnh theo yêu cầu của Ngân hàng Nhà nước.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Điểm tin 17h: Nhiều thảo luận về Luật Đất đai sửa đổi | Giá xăng E10 giảm hơn 1.800 đồng một lít",
+          "text": "Chính phủ đề xuất điều chỉnh bảng giá đất 3 năm một lần; Trình Quốc hội giải pháp hoán đổi đất ở, bảo đảm sinh kế khi thu hồi đất...\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -706,7 +706,7 @@
     },
     {
       "id": "vne_14",
-      "name": "Khoá bên ngoài, đốt nhà người tình cũ",
+      "name": "Huế sắp đấu giá khu đất hơn 6.700 m2 làm tổ hợp khách sạn 5 sao",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -727,29 +727,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/khoa-ben-ngoai-dot-nha-nguoi-tinh-cu-5135328.html"
+            "href": "https://vnexpress.net/hue-sap-dau-gia-khu-dat-hon-6-700-m2-lam-to-hop-khach-san-5-sao-5135540.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/khoa-ben-ngoai-dot-nha-nguoi-tinh-cu-5135328.html"
+            "data": "https://vnexpress.net/hue-sap-dau-gia-khu-dat-hon-6-700-m2-lam-to-hop-khach-san-5-sao-5135540.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/khoa-ben-ngoai-dot-nha-nguoi-tinh-cu-5135328.html"
+            "href": "https://vnexpress.net/hue-sap-dau-gia-khu-dat-hon-6-700-m2-lam-to-hop-khach-san-5-sao-5135540.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/khoa-ben-ngoai-dot-nha-nguoi-tinh-cu-5135328.html"
+            "data": "https://vnexpress.net/hue-sap-dau-gia-khu-dat-hon-6-700-m2-lam-to-hop-khach-san-5-sao-5135540.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Khoá bên ngoài, đốt nhà người tình cũ",
-          "text": "Đã có vợ và 2 con, Lương Văn Tuấn vẫn qua lại với người phụ nữ đồng hương suốt 7 năm, khi bị dứt tình đã tưới xăng đốt nhà trọ cô này.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Huế sắp đấu giá khu đất hơn 6.700 m2 làm tổ hợp khách sạn 5 sao",
+          "text": "Khu đất hơn 6.700 m2 ở trung tâm TP Huế sắp được đưa ra đấu giá, với mức khởi điểm 281 tỷ đồng để làm khách sạn 5 sao.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -760,7 +760,7 @@
     },
     {
       "id": "vne_15",
-      "name": "Tôi nên làm gì khi chồng mất, mẹ chồng đòi đất đã tặng riêng",
+      "name": "Ông Zelensky: Nga 'không thay đổi' sau các cuộc đàm phán với Mỹ",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -781,29 +781,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/toi-nen-lam-gi-khi-chong-mat-me-chong-doi-dat-da-tang-rieng-5134955.html"
+            "href": "https://vnexpress.net/ong-zelensky-nga-khong-thay-doi-sau-cac-cuoc-dam-phan-voi-my-5135662.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/toi-nen-lam-gi-khi-chong-mat-me-chong-doi-dat-da-tang-rieng-5134955.html"
+            "data": "https://vnexpress.net/ong-zelensky-nga-khong-thay-doi-sau-cac-cuoc-dam-phan-voi-my-5135662.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/toi-nen-lam-gi-khi-chong-mat-me-chong-doi-dat-da-tang-rieng-5134955.html"
+            "href": "https://vnexpress.net/ong-zelensky-nga-khong-thay-doi-sau-cac-cuoc-dam-phan-voi-my-5135662.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/toi-nen-lam-gi-khi-chong-mat-me-chong-doi-dat-da-tang-rieng-5134955.html"
+            "data": "https://vnexpress.net/ong-zelensky-nga-khong-thay-doi-sau-cac-cuoc-dam-phan-voi-my-5135662.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Tôi nên làm gì khi chồng mất, mẹ chồng đòi đất đã tặng riêng",
-          "text": "Năm 2016, mẹ chồng tặng riêng cho chồng tôi một mảnh đất và làm sổ đỏ đứng tên anh nhưng anh vừa qua đời, mẹ chồng cùng người nhà sang đòi lại.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Ông Zelensky: Nga 'không thay đổi' sau các cuộc đàm phán với Mỹ",
+          "text": "Tổng thống Ukraine nói các vụ tấn công tên lửa của Nga cho thấy Điện Kremlin \"không hề thay đổi\" sau các cuộc đàm phán với Mỹ.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -814,7 +814,7 @@
     },
     {
       "id": "vne_16",
-      "name": "Cuộc chiến giành lại giấc ngủ của người trẻ nghiện điện thoại",
+      "name": "Tìm người đàn ông thong dong, chân thành",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -835,29 +835,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/cuoc-chien-gianh-lai-giac-ngu-cua-nguoi-tre-nghien-dien-thoai-5133604.html"
+            "href": "https://vnexpress.net/tim-nguoi-dan-ong-thong-dong-chan-thanh-5135478.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/cuoc-chien-gianh-lai-giac-ngu-cua-nguoi-tre-nghien-dien-thoai-5133604.html"
+            "data": "https://vnexpress.net/tim-nguoi-dan-ong-thong-dong-chan-thanh-5135478.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/cuoc-chien-gianh-lai-giac-ngu-cua-nguoi-tre-nghien-dien-thoai-5133604.html"
+            "href": "https://vnexpress.net/tim-nguoi-dan-ong-thong-dong-chan-thanh-5135478.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/cuoc-chien-gianh-lai-giac-ngu-cua-nguoi-tre-nghien-dien-thoai-5133604.html"
+            "data": "https://vnexpress.net/tim-nguoi-dan-ong-thong-dong-chan-thanh-5135478.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Cuộc chiến giành lại giấc ngủ của người trẻ nghiện điện thoại",
-          "text": "Ba giờ sáng, Minh Thư nằm nghiêng trên giường, mắt cay xè, thái dương nhói từng cơn, ngón tay cô vẫn quẹt lên quẹt xuống màn hình TikTok.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Tìm người đàn ông thong dong, chân thành",
+          "text": "Mình ngoài 40 tuổi, sống và làm việc tại Hà Nội, cao 1m57, nặng 52 kg, tính cách nhẹ nhàng, trẻ trung, đang làm văn phòng.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -868,7 +868,7 @@
     },
     {
       "id": "vne_17",
-      "name": "Gian nan xóa nhà siêu mỏng sau mở đường",
+      "name": "Số phận bi thảm của em gái cố tổng thống Mỹ Kennedy",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -889,29 +889,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/gian-nan-xoa-nha-sieu-mong-sau-mo-duong-5133523.html"
+            "href": "https://vnexpress.net/so-phan-bi-tham-cua-em-gai-co-tong-thong-my-kennedy-5135665.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/gian-nan-xoa-nha-sieu-mong-sau-mo-duong-5133523.html"
+            "data": "https://vnexpress.net/so-phan-bi-tham-cua-em-gai-co-tong-thong-my-kennedy-5135665.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/gian-nan-xoa-nha-sieu-mong-sau-mo-duong-5133523.html"
+            "href": "https://vnexpress.net/so-phan-bi-tham-cua-em-gai-co-tong-thong-my-kennedy-5135665.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/gian-nan-xoa-nha-sieu-mong-sau-mo-duong-5133523.html"
+            "data": "https://vnexpress.net/so-phan-bi-tham-cua-em-gai-co-tong-thong-my-kennedy-5135665.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Gian nan xóa nhà siêu mỏng sau mở đường",
-          "text": "Dù chính quyền vận động gộp đất để xóa nhà siêu mỏng sau mở đường, nhiều hộ dân vẫn mắc kẹt vì hàng xóm bất đồng hoặc thiếu hướng dẫn pháp lý.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Số phận bi thảm của em gái cố tổng thống Mỹ Kennedy",
+          "text": "Rosemary Kennedy từng được tôn vinh là mỹ nhân của giới thượng lưu nhưng cô đã biến mất khỏi xã hội ở tuổi 23 khi bị cha ép cắt thùy não.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -922,7 +922,7 @@
     },
     {
       "id": "vne_18",
-      "name": "Vì sao xe máy xăng vẫn bán tốt tại Việt Nam?",
+      "name": "Tiền Phong Nam tăng trưởng qua gần hai thập kỷ",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -943,29 +943,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/vi-sao-xe-may-xang-van-ban-tot-tai-viet-nam-5135076.html"
+            "href": "https://vnexpress.net/tien-phong-nam-tang-truong-qua-gan-hai-thap-ky-5135684.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/vi-sao-xe-may-xang-van-ban-tot-tai-viet-nam-5135076.html"
+            "data": "https://vnexpress.net/tien-phong-nam-tang-truong-qua-gan-hai-thap-ky-5135684.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/vi-sao-xe-may-xang-van-ban-tot-tai-viet-nam-5135076.html"
+            "href": "https://vnexpress.net/tien-phong-nam-tang-truong-qua-gan-hai-thap-ky-5135684.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/vi-sao-xe-may-xang-van-ban-tot-tai-viet-nam-5135076.html"
+            "data": "https://vnexpress.net/tien-phong-nam-tang-truong-qua-gan-hai-thap-ky-5135684.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Vì sao xe máy xăng vẫn bán tốt tại Việt Nam?",
-          "text": "Xu hướng xe máy điện tăng nhanh ở Việt Nam nhưng xe máy xăng vẫn hấp dẫn số đông và là trụ cột doanh số của ngành xe hai bánh.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Tiền Phong Nam tăng trưởng qua gần hai thập kỷ",
+          "text": "Tiền Phong Nam từng bước tạo nền tảng từ năng lực sản xuất, mở rộng dấu ấn thị trường đến những đóng góp cho cộng đồng, góp phần nối dài hành trình của doanh nghiệp tại phía Nam.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -976,7 +976,7 @@
     },
     {
       "id": "vne_19",
-      "name": "Sếp U60 Hàn Quốc học tiếng Việt để lấy bằng thạc sĩ",
+      "name": "Sun PhuQuoc Airways chuẩn bị mở đường bay đến Nga",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -997,29 +997,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/sep-u60-han-quoc-hoc-tieng-viet-de-lay-bang-thac-si-5135009.html"
+            "href": "https://vnexpress.net/sun-phuquoc-airways-chuan-bi-mo-duong-bay-den-nga-5135462.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/sep-u60-han-quoc-hoc-tieng-viet-de-lay-bang-thac-si-5135009.html"
+            "data": "https://vnexpress.net/sun-phuquoc-airways-chuan-bi-mo-duong-bay-den-nga-5135462.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/sep-u60-han-quoc-hoc-tieng-viet-de-lay-bang-thac-si-5135009.html"
+            "href": "https://vnexpress.net/sun-phuquoc-airways-chuan-bi-mo-duong-bay-den-nga-5135462.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/sep-u60-han-quoc-hoc-tieng-viet-de-lay-bang-thac-si-5135009.html"
+            "data": "https://vnexpress.net/sun-phuquoc-airways-chuan-bi-mo-duong-bay-den-nga-5135462.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Sếp U60 Hàn Quốc học tiếng Việt để lấy bằng thạc sĩ",
-          "text": "Có hai bằng cử nhân ở Hàn Quốc, ông Choi Chang Young, 52 tuổi, quyết tâm học tiếng Việt để chinh phục bằng thạc sĩ Quản trị kinh doanh ở Việt Nam.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Sun PhuQuoc Airways chuẩn bị mở đường bay đến Nga",
+          "text": "Sun PhuQuoc Airways tổ chức hội thảo tại Moscow, kết nối hơn 105 đối tác Nga trước khi khai thác đường bay thẳng từ Phú Quốc bằng tàu bay Airbus A330 từ ngày 13/11.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -1030,7 +1030,7 @@
     },
     {
       "id": "vne_20",
-      "name": "Arsenal thoát thua Bayern ở Champions League",
+      "name": "Victoria School giành hai giải thưởng đổi mới sáng tạo châu Á",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1051,29 +1051,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/arsenal-thoat-thua-bayern-o-champions-league-5135363.html"
+            "href": "https://vnexpress.net/victoria-school-gianh-hai-giai-thuong-doi-moi-sang-tao-chau-a-5135265.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/arsenal-thoat-thua-bayern-o-champions-league-5135363.html"
+            "data": "https://vnexpress.net/victoria-school-gianh-hai-giai-thuong-doi-moi-sang-tao-chau-a-5135265.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/arsenal-thoat-thua-bayern-o-champions-league-5135363.html"
+            "href": "https://vnexpress.net/victoria-school-gianh-hai-giai-thuong-doi-moi-sang-tao-chau-a-5135265.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/arsenal-thoat-thua-bayern-o-champions-league-5135363.html"
+            "data": "https://vnexpress.net/victoria-school-gianh-hai-giai-thuong-doi-moi-sang-tao-chau-a-5135265.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Arsenal thoát thua Bayern ở Champions League",
-          "text": "Tiền vệ Declan Rice ghi bàn cuối trận, giúp Arsenal hòa Bayern 2-2 trên sân Allianz ở lượt ba vòng phân hạng Champions League ngày 21/10.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 10:16 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Victoria School giành hai giải thưởng đổi mới sáng tạo châu Á",
+          "text": "Victoria School được vinh danh tại Asian Innovation Excellence Awards 2026 với hai giải thưởng về phát triển đội ngũ và ứng dụng công nghệ trong quản trị trường học.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 19:32 - 22/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
