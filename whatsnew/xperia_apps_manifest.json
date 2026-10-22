@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-22T12:45:00Z",
+  "last_updated": "2026-10-22T21:25:00Z",
   "apps": [
     {
       "id": "walkman",
@@ -12,13 +12,13 @@
       "publisher": "Sony Corporation",
       "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/walkman.png",
       "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/walkman.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/walkman-v9.4.16.A.1.24",
-      "description": "Trình phát nhạc Sony Walkman huyền thoại mang lại chất lượng âm thanh nguyên bản chuẩn studio. Tích hợp công nghệ giải mã âm thanh Hi-Res Audio, ClearAudio+, DSEE HX và bộ hiệu ứng Visualizer 60fps rực rỡ.",
+      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/v1.0.0",
+      "description": "Trình phát nhạc Sony Walkman huyền thoại mang lại chất lượng âm thanh nguyên bản chuẩn studio. Tích hợp công nghệ giải mã âm thanh Hi-Res Audio, ClearAudio+, DSEE HX và bộ hiệu ứng Visualizer sống động.",
       "features": [
-        "Tương thích hoàn hảo hệ điều hành Android 14/15/16 và Xiaomi HyperOS",
+        "Hỗ trợ trải nghiệm âm nhạc trên các thiết bị Android và Xiaomi HyperOS",
         "Nâng cấp engine âm thanh Hi-Res Audio và tăng cường dải bass Clear BASS",
-        "Visualizer 60fps mượt mà, tối ưu hóa tiêu thụ pin khi phát nhạc nền",
-        "Hỗ trợ bộ chỉnh âm chuyên nghiệp 10-band Equalizer và Dynamic Normalizer"
+        "Visualizer mượt mà, tối ưu hóa tiêu thụ pin khi phát nhạc nền",
+        "Hỗ trợ bộ chỉnh âm 10-band Equalizer và Dynamic Normalizer"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_walkman_real.png",
@@ -35,7 +35,7 @@
       "publisher": "Sony Corporation",
       "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/album.png",
       "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/album.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/album-v9.9.A.0.22",
+      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/v1.0.0",
       "description": "Bộ sưu tập ảnh và video Sony Album với công nghệ hiển thị hình ảnh X-Reality và Triluminos Display độc quyền từ dòng TV Sony Bravia cao cấp. Quản lý album thông minh theo ngày tháng, địa điểm và khuôn mặt.",
       "features": [
         "Tích hợp công nghệ tối ưu hiển thị X-Reality for mobile sắc nét",
@@ -58,7 +58,7 @@
       "publisher": "Sony Mobile Communications",
       "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/calendar.png",
       "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/calendar.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/calendar-v20.4.C.3.22",
+      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/v1.0.0",
       "description": "Lịch sự kiện Sony Xperia phong cách tối giản thanh lịch, đồng bộ thời gian thực 2 chiều với Google Calendar và Microsoft Exchange. Hỗ trợ hiển thị thời tiết tích hợp và lời nhắc thông minh.",
       "features": [
         "Giao diện hiện đại hỗ trợ Dark Theme chuẩn AMOLED",
@@ -81,7 +81,7 @@
       "publisher": "Sony Mobile Communications",
       "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/clock.png",
       "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/organizer.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/clock-v20.2.A.2.55",
+      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/v1.0.0",
       "description": "Đồng hồ thế giới, bấm giờ thể thao chính xác mili-giây, đếm ngược và báo thức thông minh Sony Xperia. Thiết kế kim đồng hồ và mặt số số học đặc trưng dòng điện thoại Xperia Z Series.",
       "features": [
         "Báo thức thông minh với âm lượng tăng dần êm ái",
@@ -104,7 +104,7 @@
       "publisher": "Sony Mobile Communications",
       "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/sketch.png",
       "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/sketch.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/sketch-v9.0.A.0.8",
+      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/v1.0.0",
       "description": "Ứng dụng vẽ và phác thảo nghệ thuật chuyên nghiệp Sony Sketch. Cung cấp đầy đủ cọ vẽ, bút chì, màu nước, bút dạ, thước kẻ và lớp vẽ layers không giới hạn cho mọi độ phân giải.",
       "features": [
         "Mở khóa toàn bộ sticker gói cọ vẽ nghệ thuật độc quyền Sony",
@@ -127,7 +127,7 @@
       "publisher": "Sony Mobile Communications",
       "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/contacts.png",
       "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/contacts.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/contacts-v1.8.3",
+      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/v1.0.0",
       "description": "Danh bạ Sony Xperia thiết kế thuần khiết, hỗ trợ lọc thông minh, gộp danh bạ trùng lặp, sao lưu danh bạ an toàn và tương thích hoàn toàn 2 SIM trên điện thoại hiện đại.",
       "features": [
         "Tích hợp giao diện AMOLED Dark Mode tiết kiệm năng lượng",
@@ -150,7 +150,7 @@
       "publisher": "Sony Mobile Communications",
       "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/dialer.png",
       "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/dialer.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/dialer-v19.5.A.26",
+      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/v1.0.0",
       "description": "Trình quay số điện thoại Sony Xperia với bàn phím số thanh lịch, tốc độ phản hồi tức thì và hiệu ứng bấm phím đặc trưng. Hỗ trợ đầy đủ chức năng quản lý cuộc gọi hiện đại.",
       "features": [
         "Bàn phím quay số T9 tìm kiếm danh bạ siêu tốc",
@@ -173,7 +173,7 @@
       "publisher": "Sony Mobile Communications",
       "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/conversations.png",
       "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/conversations.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/conversations-v30.0.A.026",
+      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/v1.0.0",
       "description": "Ứng dụng nhắn tin SMS & MMS Sony Xperia giao diện bong bóng trò chuyện trực quan, hỗ trợ gửi hình ảnh, âm thanh, danh thiếp và tin nhắn đa SIM.",
       "features": [
         "Giao diện bong bóng tin nhắn Sony nguyên bản",
@@ -196,7 +196,7 @@
       "publisher": "Sony Mobile Communications",
       "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/email.png",
       "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/email.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/email-v16.0.A.2033",
+      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/v1.0.0",
       "description": "Trình quản lý thư điện tử Sony Email hỗ trợ đa tài khoản: Gmail, Microsoft Outlook, Yahoo Mail và máy chủ doanh nghiệp Exchange / IMAP bảo mật cao.",
       "features": [
         "Hỗ trợ hộp thư hợp nhất Unified Inbox",
@@ -213,13 +213,13 @@
       "id": "lifelog",
       "package": "com.sonymobile.lifelog",
       "name": "Sony Lifelog (Nhật Ký Đời Sống)",
-      "version": "4.0.A.0.53",
-      "size": 18874368,
-      "size_str": "18.0 MB",
+      "version": "4.0.A.0.54",
+      "size": 13316915,
+      "size_str": "12.7 MB",
       "publisher": "Sony Mobile Communications",
       "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/lifelog.png",
       "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/lifelog.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/lifelog-v4.0.A.0.55",
+      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/lifelog-v4.0.A.0.54",
       "description": "Ứng dụng theo dõi sức khỏe và ghi lại mọi khoảnh khắc cuộc sống độc đáo của Sony. Ghi nhận số bước đi, lượng calo, giấc ngủ, thời gian nghe nhạc, chụp ảnh và sử dụng điện thoại.",
       "features": [
         "Bản đồ hành trình cuộc sống Life Bookmark tương tác",
@@ -242,13 +242,13 @@
       "publisher": "Sony Mobile Communications",
       "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/trackid.png",
       "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/trackid.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/trackid-v4.6.C.0.22",
+      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/v1.0.0",
       "description": "Trình nhận diện âm nhạc huyền thoại Sony TrackID. Lắng nghe và nhận diện bài hát đang phát xung quanh chỉ trong vài giây, hiển thị ca sĩ, album, lời bài hát và phát trên Walkman.",
       "features": [
-        "Tích hợp engine nhận diện âm nhạc ACRCloud siêu nhanh",
-        "Hiển thị bảng xếp hạng âm nhạc được tìm kiếm nhiều nhất",
-        "Chuyển tiếp phát bài hát sang app Sony Walkman bằng một chạm",
-        "Lịch sử nhận diện nhạc lưu trữ tiện lợi"
+        "Hỗ trợ nhận diện thông tin bản nhạc qua phân tích âm thanh",
+        "Hiển thị bảng xếp hạng âm nhạc thịnh hành",
+        "Chuyển tiếp phát bài hát sang app Sony Walkman",
+        "Lưu trữ lịch sử nhận diện bài hát tiện lợi"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_walkman_real.png",
@@ -265,7 +265,7 @@
       "publisher": "Sony Mobile Communications",
       "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/support.png",
       "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/support.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/support-v8.4.4",
+      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/v1.0.0",
       "description": "Trung tâm hỗ trợ và chẩn đoán phần cứng thiết bị Sony Xperia: Kiểm tra màn hình cảm ứng, loa, micro, camera, cảm biến vân tay và tình trạng sức khỏe pin.",
       "features": [
         "Bộ công cụ kiểm tra toàn diện 20 thành phần phần cứng máy",
@@ -288,7 +288,7 @@
       "publisher": "Sony Mobile Communications",
       "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/assist.png",
       "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/assist.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/assist-v1.0.A.0.28",
+      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/v1.0.0",
       "description": "Trợ lý thông minh Sony Xperia tự động đề xuất cấu hình tối ưu khi đi ngủ, tập luyện, di chuyển và làm việc. Tự động bật chế độ không làm phiền và tiết kiệm pin.",
       "features": [
         "Tính năng Xperia Actions thông minh theo khung giờ và địa điểm",
@@ -311,7 +311,7 @@
       "publisher": "Sony Mobile Communications",
       "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/whatsnew.png",
       "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/entrance.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/whatsnew-v4.2.A.0.20",
+      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/v1.0.0",
       "description": "Cổng thông tin giải trí và phong cách sống đặc sắc của Sony Xperia. Tích hợp tin tức VnExpress Sony News Suite, Bảng xếp hạng NhacCuaTui, Giá xăng dầu Petrolimex thời gian thực và Trung tâm cập nhật hệ thống Sony.",
       "features": [
         "Giao diện Sony FlixView 3D nguyên bản mượt mà, zero overlay",
@@ -322,6 +322,29 @@
       "screenshots": [
         "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_viii.png",
         "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/petrolimex_real_1.png"
+      ]
+    },
+    {
+      "id": "movies",
+      "package": "com.sonyericsson.video",
+      "name": "Sony Video (Movies)",
+      "version": "9.5.A.2.2",
+      "size": 15728640,
+      "size_str": "15.0 MB",
+      "publisher": "Sony Mobile Communications",
+      "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/movies.png",
+      "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/movies.xml",
+      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/tag/movies-v9.5.A.2.2",
+      "description": "Trình phát video Sony Cinema chuyên nghiệp với khả năng giải mã phần cứng mạnh mẽ, hỗ trợ hiển thị độ tương phản cao và âm thanh vòm sống động.",
+      "features": [
+        "Giao diện xem phim CinemaWide đậm chất điện ảnh",
+        "Giải mã video phần cứng tiết kiệm năng lượng",
+        "Hỗ trợ phụ đề đa ngôn ngữ và tinh chỉnh âm thanh vòm",
+        "Tự động phân loại và ghi nhớ vị trí phát video"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_sensor_real.png",
+        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/ps5_pro_real.png"
       ]
     }
   ]
