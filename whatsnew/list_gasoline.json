@@ -1,0 +1,124 @@
+{
+  "id": "gasoline",
+  "name": "Giá Xăng Dầu Petrolimex",
+  "items": [
+    {
+      "id": "gasoline_ron95",
+      "name": "Xăng RON 95-V & III",
+      "label": "27.520 đ / lít",
+      "price": "Petrolimex Vùng 1",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/petrolimex_real_1.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/petrolimex_real_1.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.petrolimex.com.vn/nd/gia-xang-dau.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.petrolimex.com.vn/nd/gia-xang-dau.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.petrolimex.com.vn/nd/gia-xang-dau.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.petrolimex.com.vn/nd/gia-xang-dau.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Bảng Giá Xăng Cao Cấp Petrolimex",
+          "text": "• Xăng E10 RON 95-V: 27.520 đ/lít (Vùng 1)\n• Xăng E10 RON 95-III: 26.720 đ/lít (Vùng 1)\n\nCập nhật trực tiếp: 08:55 - 22/10/2026\nÁp dụng tại toàn bộ hệ thống Petrolimex Việt Nam."
+        },
+        {
+          "type": "text",
+          "name": "Cơ Chế Cập Nhật Tự Động",
+          "text": "Dữ liệu được cập nhật tự động 3 lần/ngày (7h15, 15h15, 20h15 GMT+7) qua GitHub Actions, 0% hao pin thiết bị."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "gasoline",
+        "name": "Xăng Dầu"
+      }
+    },
+    {
+      "id": "gasoline_e5_do",
+      "name": "Xăng E5 & Dầu Diesel",
+      "label": "26.670 đ / lít",
+      "price": "Tiết kiệm & Sinh học",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/petrolimex_real_2.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/petrolimex_real_2.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.petrolimex.com.vn/nd/gia-xang-dau.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.petrolimex.com.vn/nd/gia-xang-dau.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.petrolimex.com.vn/nd/gia-xang-dau.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.petrolimex.com.vn/nd/gia-xang-dau.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Bảng Giá Nhiên Liệu Sinh Học & Dầu",
+          "text": "• Xăng E5 RON 92-II: 26.670 đ/lít (Vùng 1)\n• Dầu DO 0,05S-II: 28.800 đ/lít (Vùng 1)\n• Dầu DO 0,001S-V: 30.200 đ/lít\n• Dầu Hỏa: 30.410 đ/lít\n\nCập nhật trực tiếp: 08:55 - 22/10/2026"
+        },
+        {
+          "type": "text",
+          "name": "Chính Sách & Thông Báo",
+          "text": "Petrolimex cam kết bình ổn giá và cung ứng đầy đủ tại tất cả các cửa hàng xăng dầu trên cả nước."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "gasoline",
+        "name": "Xăng Dầu"
+      }
+    }
+  ]
+}

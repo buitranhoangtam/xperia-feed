@@ -1,0 +1,54 @@
+{
+  "id": "sony_vn",
+  "name": "Sony Official Vietnam & Global",
+  "lists": [
+    {
+      "id": "smartphones",
+      "name": "Điện thoại Xperia",
+      "links": [
+        {
+          "name": "default",
+          "rel": "items",
+          "title": "Điện thoại Xperia",
+          "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/list_smartphones.json"
+        }
+      ]
+    },
+    {
+      "id": "sony_ir",
+      "name": "Tài chính & Cổ phiếu Sony",
+      "links": [
+        {
+          "name": "default",
+          "rel": "items",
+          "title": "Tài chính Sony",
+          "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/list_sony_ir.json"
+        }
+      ]
+    },
+    {
+      "id": "about_sony",
+      "name": "Di sản & Triết lý Sony",
+      "links": [
+        {
+          "name": "default",
+          "rel": "items",
+          "title": "Về Sony",
+          "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/list_about_sony.json"
+        }
+      ]
+    },
+    {
+      "id": "audio",
+      "name": "Thiết bị âm thanh Sony",
+      "links": [
+        {
+          "name": "default",
+          "rel": "items",
+          "title": "Âm thanh Sony",
+          "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/list_audio.json"
+        }
+      ]
+    }
+  ]
+}

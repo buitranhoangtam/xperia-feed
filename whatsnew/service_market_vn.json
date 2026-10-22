@@ -1,0 +1,39 @@
+{
+  "id": "market_vn",
+  "name": "Thị Trường & Giải Trí Việt Nam",
+  "lists": [
+    {
+      "id": "gasoline",
+      "links": [
+        {
+          "name": "default",
+          "rel": "items",
+          "title": "Giá Xăng Dầu",
+          "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/list_gasoline.json"
+        }
+      ]
+    },
+    {
+      "id": "vnexpress",
+      "links": [
+        {
+          "name": "default",
+          "rel": "items",
+          "title": "Tin Tức VnExpress",
+          "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/list_vnexpress.json"
+        }
+      ]
+    },
+    {
+      "id": "nct_music",
+      "links": [
+        {
+          "name": "default",
+          "rel": "items",
+          "title": "BXH NhacCuaTui",
+          "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/list_nct_music.json"
+        }
+      ]
+    }
+  ]
+}

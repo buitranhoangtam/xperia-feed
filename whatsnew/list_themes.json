@@ -1,0 +1,168 @@
+{
+  "id": "themes",
+  "name": "Chủ đề Xperia™ độc quyền",
+  "items": [
+    {
+      "id": "theme_cosmic",
+      "name": "Cosmic Flow",
+      "label": "Dải Sóng Ánh Sáng",
+      "price": "Xperia S & Z Series",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/theme_cosmic_flow.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/theme_cosmic_flow.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.sony.com.vn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com.vn"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.sony.com.vn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com.vn"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Cosmic Flow Theme",
+          "text": "Hình nền động dải sóng uốn lượn huyền thoại của kỷ nguyên Sony Xperia."
+        }
+      ],
+      "type": {
+        "service": "sony_themes",
+        "id": "themes",
+        "name": "Chủ đề Xperia"
+      }
+    },
+    {
+      "id": "theme_playstation",
+      "name": "PlayStation™ 30th",
+      "label": "Kỷ Niệm 30 Năm",
+      "price": "Biểu Tượng PS Cổ Điển",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/theme_playstation.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/theme_playstation.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.playstation.com"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.playstation.com"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.playstation.com"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.playstation.com"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "PlayStation Edition",
+          "text": "Giao diện lấy cảm hứng từ tay cầm PlayStation với biểu tượng hình học sắc nét."
+        }
+      ],
+      "type": {
+        "service": "sony_themes",
+        "id": "themes",
+        "name": "Chủ đề Xperia"
+      }
+    },
+    {
+      "id": "theme_purple",
+      "name": "Purple Elegance",
+      "label": "Màu Tím Huyền Thoại",
+      "price": "OmniBalance Design",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/theme_purple_elegance.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/theme_purple_elegance.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.sony.com.vn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com.vn"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.sony.com.vn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com.vn"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Purple Elegance",
+          "text": "Tôn vinh sắc tím độc bản từng làm say đắm hàng triệu người dùng Xperia Z1, Z2."
+        }
+      ],
+      "type": {
+        "service": "sony_themes",
+        "id": "themes",
+        "name": "Chủ đề Xperia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "configuration": {
+    "filters": [
+      {
+        "id": "landingpage",
+        "type": "drawer",
+        "name": "Sony Xperia",
+        "card_groups": [
+          {
+            "id": "group_vnexpress_news",
+            "cards": [
+              "card_vnexpress_news"
+            ]
+          },
+          {
+            "id": "group_smartphones",
+            "cards": [
+              "card_smartphones_grid"
+            ]
+          },
+          {
+            "id": "group_nct_music",
+            "cards": [
+              "card_nct_music"
+            ]
+          },
+          {
+            "id": "group_audio",
+            "cards": [
+              "card_audio_grid"
+            ]
+          },
+          {
+            "id": "group_gasoline",
+            "cards": [
+              "card_gasoline_grid"
+            ]
+          },
+          {
+            "id": "group_sony_ir",
+            "cards": [
+              "card_sony_ir_grid"
+            ]
+          },
+          {
+            "id": "group_about_sony",
+            "cards": [
+              "card_about_sony_grid"
+            ]
+          },
+          {
+            "id": "group_themes",
+            "cards": [
+              "card_themes_list"
+            ]
+          }
+        ]
+      }
+    ],
+    "cards": [
+      {
+        "id": "card_vnexpress_news",
+        "type": "media_items",
+        "version": 1,
+        "name": "Tin Nóng VnExpress (Sony News Suite)",
+        "lists": [
+          {
+            "service": "market_vn",
+            "id": "vnexpress"
+          }
+        ],
+        "layout": {
+          "style": "columns",
+          "columns": 3,
+          "elements": 6
+        }
+      },
+      {
+        "id": "card_smartphones_grid",
+        "type": "media_items",
+        "version": 1,
+        "name": "Điện thoại Xperia™",
+        "lists": [
+          {
+            "service": "sony_vn",
+            "id": "smartphones"
+          }
+        ],
+        "layout": {
+          "style": "columns",
+          "columns": 3,
+          "elements": 3
+        }
+      },
+      {
+        "id": "card_nct_music",
+        "type": "media_items",
+        "version": 1,
+        "name": "Bảng Xếp Hạng NhacCuaTui Top Hits",
+        "lists": [
+          {
+            "service": "market_vn",
+            "id": "nct_music"
+          }
+        ],
+        "layout": {
+          "style": "columns",
+          "columns": 3,
+          "elements": 3
+        }
+      },
+      {
+        "id": "card_audio_grid",
+        "type": "media_items",
+        "version": 1,
+        "name": "Âm thanh Hi-Res & PlayStation",
+        "lists": [
+          {
+            "service": "sony_vn",
+            "id": "audio"
+          }
+        ],
+        "layout": {
+          "style": "columns",
+          "columns": 3,
+          "elements": 3
+        }
+      },
+      {
+        "id": "card_gasoline_grid",
+        "type": "media_items",
+        "version": 1,
+        "name": "Giá xăng dầu Petrolimex hôm nay",
+        "lists": [
+          {
+            "service": "market_vn",
+            "id": "gasoline"
+          }
+        ],
+        "layout": {
+          "style": "columns",
+          "columns": 2,
+          "elements": 2
+        }
+      },
+      {
+        "id": "card_sony_ir_grid",
+        "type": "media_items",
+        "version": 1,
+        "name": "Tài chính & Cổ phiếu SONY Live",
+        "lists": [
+          {
+            "service": "sony_vn",
+            "id": "sony_ir"
+          }
+        ],
+        "layout": {
+          "style": "columns",
+          "columns": 3,
+          "elements": 3
+        }
+      },
+      {
+        "id": "card_about_sony_grid",
+        "type": "media_items",
+        "version": 1,
+        "name": "Di sản & Triết lý Kando (感動)",
+        "lists": [
+          {
+            "service": "sony_vn",
+            "id": "about_sony"
+          }
+        ],
+        "layout": {
+          "style": "columns",
+          "columns": 3,
+          "elements": 3
+        }
+      },
+      {
+        "id": "card_themes_list",
+        "type": "media_items",
+        "version": 1,
+        "name": "Chủ đề Xperia™ độc quyền",
+        "lists": [
+          {
+            "service": "sony_themes",
+            "id": "themes"
+          }
+        ],
+        "layout": {
+          "style": "columns",
+          "columns": 3,
+          "elements": 3
+        }
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": "sony_vn",
+      "links": [
+        {
+          "name": "default",
+          "rel": "lists",
+          "title": "Sony Store Vietnam",
+          "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/service_sony_vn_v3.json"
+        }
+      ]
+    },
+    {
+      "id": "sony_themes",
+      "links": [
+        {
+          "name": "default",
+          "rel": "lists",
+          "title": "Sony Xperia Themes",
+          "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/service_themes.json"
+        }
+      ]
+    },
+    {
+      "id": "market_vn",
+      "links": [
+        {
+          "name": "default",
+          "rel": "lists",
+          "title": "Thị Trường Việt Nam",
+          "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/service_market_vn.json"
+        }
+      ]
+    }
+  ]
+}

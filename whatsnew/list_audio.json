@@ -1,0 +1,168 @@
+{
+  "id": "audio",
+  "name": "Âm thanh Sony & PlayStation",
+  "items": [
+    {
+      "id": "wh_1000xm5",
+      "name": "WH-1000XM5",
+      "label": "Chống ồn số 1 thế giới",
+      "price": "Âm thanh Hi-Res",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_wh1000xm5_real.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_wh1000xm5_real.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.sony.com.vn/headphones/products/wh-1000xm5"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com.vn/headphones/products/wh-1000xm5"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.sony.com.vn/headphones/products/wh-1000xm5"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com.vn/headphones/products/wh-1000xm5"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Tai Nghe Chụp Tai Đỉnh Cao",
+          "text": "• Chip V1 và QN1 điều khiển 8 micro chống ồn chủ động\n• Củ loa 30mm màng sợi carbon siêu nhẹ\n• Thiết kế không khớp nối đeo êm ái cả ngày"
+        }
+      ],
+      "type": {
+        "service": "sony_vn",
+        "id": "audio",
+        "name": "Thiết bị âm thanh"
+      }
+    },
+    {
+      "id": "wf_1000xm5",
+      "name": "WF-1000XM5",
+      "label": "True Wireless Đỉnh Cao",
+      "price": "Dynamic Driver X",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_wf1000xm5_real.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_wf1000xm5_real.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.sony.com.vn/headphones/products/wf-1000xm5"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com.vn/headphones/products/wf-1000xm5"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.sony.com.vn/headphones/products/wf-1000xm5"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com.vn/headphones/products/wf-1000xm5"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Tai Nghe Nhét Tai Không Dây",
+          "text": "• Bộ xử lý V2 và QN2e mới nhất\n• Củ loa Dynamic Driver X tái tạo âm bass sâu lắng\n• Cảm biến dẫn truyền qua xương thu âm cuộc gọi siêu nét"
+        }
+      ],
+      "type": {
+        "service": "sony_vn",
+        "id": "audio",
+        "name": "Thiết bị âm thanh"
+      }
+    },
+    {
+      "id": "ps5_pro",
+      "name": "PlayStation 5 Pro",
+      "label": "Thế Hệ Console Mới",
+      "price": "Nâng tầm đồ họa AI",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/ps5_pro_real.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/ps5_pro_real.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.playstation.com"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.playstation.com"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.playstation.com"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.playstation.com"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Đỉnh Cao Giải Trí Game",
+          "text": "• GPU nâng cấp mạnh hơn 67%\n• Công nghệ siêu phân giải AI PlayStation Spectral Super Resolution (PSSR)\n• Dò tia nâng cao Ray Tracing thế hệ mới"
+        }
+      ],
+      "type": {
+        "service": "sony_vn",
+        "id": "audio",
+        "name": "Thiết bị âm thanh"
+      }
+    }
+  ]
+}

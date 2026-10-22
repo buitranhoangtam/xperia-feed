@@ -1,0 +1,168 @@
+{
+  "id": "about_sony",
+  "name": "Di sản & Triết lý Sony",
+  "items": [
+    {
+      "id": "sony_kando_philosophy",
+      "name": "Triết Lý Kando (感動)",
+      "label": "Sức Mạnh Cảm Xúc",
+      "price": "Tầm nhìn sáng tạo",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_kando.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_kando.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com/en/SonyInfo/CorporateInfo/"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com/en/SonyInfo/CorporateInfo/"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Triết Lý Thương Hiệu Sony",
+          "text": "• Kando (感動): Trong tiếng Nhật có nghĩa là cảm xúc rung động sâu sắc khi trải nghiệm một điều kỳ diệu\n• Sứ mệnh của Sony: Kết nối công nghệ đỉnh cao với đam mê của người sáng tạo nội dung"
+        }
+      ],
+      "type": {
+        "service": "sony_vn",
+        "id": "about_sony",
+        "name": "Về Sony"
+      }
+    },
+    {
+      "id": "walkman_history",
+      "name": "Di Sản Walkman",
+      "label": "Từ 1979 Đến Nay",
+      "price": "Âm thanh phòng thu",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_walkman_heritage.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_walkman_heritage.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com/en/SonyInfo/CorporateInfo/"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com/en/SonyInfo/CorporateInfo/"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Huyền Thoại Âm Nhạc Cá Nhân",
+          "text": "• Năm 1979, Sony ra mắt chiếc máy nghe nhạc cassette Walkman TPS-L2 đầu tiên\n• Định hình văn hóa nghe nhạc di động toàn cầu suốt hơn 4 thập kỷ\n• Ngày nay tiếp tục dẫn đầu với tiêu chuẩn Hi-Res Audio và 360 Reality Audio"
+        }
+      ],
+      "type": {
+        "service": "sony_vn",
+        "id": "about_sony",
+        "name": "Về Sony"
+      }
+    },
+    {
+      "id": "alpha_bravia_tech",
+      "name": "Alpha & Bravia",
+      "label": "Hội Tụ Tinh Hoa",
+      "price": "Công nghệ Nhật Bản",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_alpha_tech.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_alpha_tech.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com/en/SonyInfo/CorporateInfo/"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.sony.com/en/SonyInfo/CorporateInfo/"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com/en/SonyInfo/CorporateInfo/"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Sự Kết Hợp Độc Quyền Trên Xperia",
+          "text": "• Thừa hưởng thuật toán lấy nét tự động thời gian thực từ dòng máy ảnh Alpha chuyên nghiệp\n• Màn hình OLED được tinh chỉnh bởi đội ngũ kỹ sư TV Sony Bravia\n• Tạo nên trải nghiệm nghe nhìn và nhiếp ảnh hoàn hảo nhất"
+        }
+      ],
+      "type": {
+        "service": "sony_vn",
+        "id": "about_sony",
+        "name": "Về Sony"
+      }
+    }
+  ]
+}

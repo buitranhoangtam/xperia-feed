@@ -1,0 +1,15 @@
+{
+  "channels": [
+    {
+      "id": "mobile",
+      "links": [
+        {
+          "name": "default",
+          "rel": "services",
+          "title": "Sony Mobile Channel",
+          "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/aggregator_v3.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "id": "nct_music",
+  "name": "Bảng Xếp Hạng NhacCuaTui Top Hits",
+  "items": [
+    {
+      "id": "nct_rank_1",
+      "name": "#1 ĐỘC NHẤT VÔ NHỊ",
+      "label": "NhacCuaTui Top Hits",
+      "price": "Bảng Xếp Hạng",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/nct_chart_1.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/nct_chart_1.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.nhaccuatui.com/song/kk5K7brQLHqd"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.nhaccuatui.com/song/kk5K7brQLHqd"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.nhaccuatui.com/song/kk5K7brQLHqd"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.nhaccuatui.com/song/kk5K7brQLHqd"
+          }
+        },
+        {
+          "type": "play",
+          "link": {
+            "href": "https://www.nhaccuatui.com/song/kk5K7brQLHqd"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.nhaccuatui.com/song/kk5K7brQLHqd"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Top #1 Nhạc Thịnh Hành",
+          "text": "Bài hát: ĐỘC NHẤT VÔ NHỊ\nBảng xếp hạng: NhacCuaTui Top 20 Nhạc Việt\nCập nhật: 10:16 - 22/10/2026\n\nBấm nút OPEN ở góc trên để phát ngay bài hát trên trình phát."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "nct_music",
+        "name": "Âm Nhạc"
+      }
+    },
+    {
+      "id": "nct_rank_2",
+      "name": "#2 CHILL GUYS NGON ZAI",
+      "label": "NhacCuaTui Top Hits",
+      "price": "Bảng Xếp Hạng",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/nct_chart_2.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/nct_chart_2.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.nhaccuatui.com/song/zT3pgYuoXEqa"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.nhaccuatui.com/song/zT3pgYuoXEqa"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.nhaccuatui.com/song/zT3pgYuoXEqa"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.nhaccuatui.com/song/zT3pgYuoXEqa"
+          }
+        },
+        {
+          "type": "play",
+          "link": {
+            "href": "https://www.nhaccuatui.com/song/zT3pgYuoXEqa"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.nhaccuatui.com/song/zT3pgYuoXEqa"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Top #2 Nhạc Thịnh Hành",
+          "text": "Bài hát: CHILL GUYS NGON ZAI\nBảng xếp hạng: NhacCuaTui Top 20 Nhạc Việt\nCập nhật: 10:16 - 22/10/2026\n\nBấm nút OPEN ở góc trên để phát ngay bài hát trên trình phát."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "nct_music",
+        "name": "Âm Nhạc"
+      }
+    },
+    {
+      "id": "nct_rank_3",
+      "name": "#3 We Don't Know Everything",
+      "label": "NhacCuaTui Top Hits",
+      "price": "Bảng Xếp Hạng",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/nct_chart_3.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/nct_chart_3.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.nhaccuatui.com/song/Rwm4YRRQIa9q"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.nhaccuatui.com/song/Rwm4YRRQIa9q"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.nhaccuatui.com/song/Rwm4YRRQIa9q"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.nhaccuatui.com/song/Rwm4YRRQIa9q"
+          }
+        },
+        {
+          "type": "play",
+          "link": {
+            "href": "https://www.nhaccuatui.com/song/Rwm4YRRQIa9q"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.nhaccuatui.com/song/Rwm4YRRQIa9q"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Top #3 Nhạc Thịnh Hành",
+          "text": "Bài hát: We Don't Know Everything\nBảng xếp hạng: NhacCuaTui Top 20 Nhạc Việt\nCập nhật: 10:16 - 22/10/2026\n\nBấm nút OPEN ở góc trên để phát ngay bài hát trên trình phát."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "nct_music",
+        "name": "Âm Nhạc"
+      }
+    },
+    {
+      "id": "nct_rank_4",
+      "name": "#4 Kho Báu",
+      "label": "NhacCuaTui Top Hits",
+      "price": "Bảng Xếp Hạng",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/nct_chart_4.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/nct_chart_4.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.nhaccuatui.com/song/UV8S5HlKISf1"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.nhaccuatui.com/song/UV8S5HlKISf1"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.nhaccuatui.com/song/UV8S5HlKISf1"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.nhaccuatui.com/song/UV8S5HlKISf1"
+          }
+        },
+        {
+          "type": "play",
+          "link": {
+            "href": "https://www.nhaccuatui.com/song/UV8S5HlKISf1"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.nhaccuatui.com/song/UV8S5HlKISf1"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Top #4 Nhạc Thịnh Hành",
+          "text": "Bài hát: Kho Báu\nBảng xếp hạng: NhacCuaTui Top 20 Nhạc Việt\nCập nhật: 10:16 - 22/10/2026\n\nBấm nút OPEN ở góc trên để phát ngay bài hát trên trình phát."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "nct_music",
+        "name": "Âm Nhạc"
+      }
+    },
+    {
+      "id": "nct_rank_5",
+      "name": "#5 Còn Gì Đẹp Hơn (Mưa Đỏ Original Soundtrack)",
+      "label": "NhacCuaTui Top Hits",
+      "price": "Bảng Xếp Hạng",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/nct_chart_5.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/nct_chart_5.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.nhaccuatui.com/song/My2LYptZ1GS5"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.nhaccuatui.com/song/My2LYptZ1GS5"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.nhaccuatui.com/song/My2LYptZ1GS5"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.nhaccuatui.com/song/My2LYptZ1GS5"
+          }
+        },
+        {
+          "type": "play",
+          "link": {
+            "href": "https://www.nhaccuatui.com/song/My2LYptZ1GS5"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.nhaccuatui.com/song/My2LYptZ1GS5"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Top #5 Nhạc Thịnh Hành",
+          "text": "Bài hát: Còn Gì Đẹp Hơn (Mưa Đỏ Original Soundtrack)\nBảng xếp hạng: NhacCuaTui Top 20 Nhạc Việt\nCập nhật: 10:16 - 22/10/2026\n\nBấm nút OPEN ở góc trên để phát ngay bài hát trên trình phát."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "nct_music",
+        "name": "Âm Nhạc"
+      }
+    },
+    {
+      "id": "nct_rank_6",
+      "name": "#6 Không Buông",
+      "label": "NhacCuaTui Top Hits",
+      "price": "Bảng Xếp Hạng",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/nct_chart_6.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/nct_chart_6.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.nhaccuatui.com/song/l8cuO7N4Gx3J"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.nhaccuatui.com/song/l8cuO7N4Gx3J"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.nhaccuatui.com/song/l8cuO7N4Gx3J"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.nhaccuatui.com/song/l8cuO7N4Gx3J"
+          }
+        },
+        {
+          "type": "play",
+          "link": {
+            "href": "https://www.nhaccuatui.com/song/l8cuO7N4Gx3J"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.nhaccuatui.com/song/l8cuO7N4Gx3J"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Top #6 Nhạc Thịnh Hành",
+          "text": "Bài hát: Không Buông\nBảng xếp hạng: NhacCuaTui Top 20 Nhạc Việt\nCập nhật: 10:16 - 22/10/2026\n\nBấm nút OPEN ở góc trên để phát ngay bài hát trên trình phát."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "nct_music",
+        "name": "Âm Nhạc"
+      }
+    }
+  ]
+}

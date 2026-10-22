@@ -1,0 +1,168 @@
+{
+  "id": "sony_ir",
+  "name": "Tài chính & Cổ phiếu Sony Live",
+  "items": [
+    {
+      "id": "sony_group_stock",
+      "name": "Cổ Phiếu SONY (NYSE)",
+      "label": "Vốn Hóa + Tỷ USD",
+      "price": "Tăng trưởng +18.4% YoY",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_ir_stock.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_ir_stock.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.sony.com/en/SonyInfo/IR/"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com/en/SonyInfo/IR/"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.sony.com/en/SonyInfo/IR/"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com/en/SonyInfo/IR/"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Báo Cáo Tài Chính Sony Group",
+          "text": "• Mã cổ phiếu: NYSE: SONY | Tokyo: 6758.T\n• Doanh thu tập đoàn: Vượt  tỷ USD/năm\n• Lợi nhuận vận hành tăng trưởng mạnh mẽ nhờ mảng Trò chơi (PlayStation), Cảm biến máy ảnh và Âm nhạc"
+        }
+      ],
+      "type": {
+        "service": "sony_vn",
+        "id": "sony_ir",
+        "name": "Tài chính Sony"
+      }
+    },
+    {
+      "id": "ps_services_ir",
+      "name": "PlayStation & Game",
+      "label": "Trụ cột doanh thu #1",
+      "price": "PlayStation®5 & PSN",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/ps5_pro.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/ps5_pro.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.sony.com/en/SonyInfo/IR/"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com/en/SonyInfo/IR/"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.sony.com/en/SonyInfo/IR/"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com/en/SonyInfo/IR/"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Mảng Trò Chơi & Dịch Vụ Mạng",
+          "text": "• Đóng góp hơn 30% tổng doanh thu tập đoàn\n• Hệ sinh thái PlayStation Network đạt kỷ lục người dùng hoạt động hàng tháng (MAU)\n• Ra mắt PlayStation 5 Pro tăng cường đồ họa AI PSSR"
+        }
+      ],
+      "type": {
+        "service": "sony_vn",
+        "id": "sony_ir",
+        "name": "Tài chính Sony"
+      }
+    },
+    {
+      "id": "semiconductor_ir",
+      "name": "Bán Dẫn & Cảm Biến",
+      "label": "Thị phần cảm biến #1",
+      "price": "Exmor T & LYTIA",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_alpha_tech.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_alpha_tech.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.sony.com/en/SonyInfo/IR/"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com/en/SonyInfo/IR/"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.sony.com/en/SonyInfo/IR/"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com/en/SonyInfo/IR/"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Công Nghệ Cảm Biến Hình Ảnh",
+          "text": "• Sony chiếm hơn 53% thị phần cảm biến hình ảnh toàn cầu\n• Cung ứng cảm biến cao cấp cho máy ảnh chuyên nghiệp và smartphone flagship trên thế giới\n• Đột phá cấu trúc Transistor 2 tầng thu sáng gấp đôi"
+        }
+      ],
+      "type": {
+        "service": "sony_vn",
+        "id": "sony_ir",
+        "name": "Tài chính Sony"
+      }
+    }
+  ]
+}

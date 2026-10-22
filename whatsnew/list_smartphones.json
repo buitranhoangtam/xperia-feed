@@ -1,0 +1,222 @@
+{
+  "id": "smartphones",
+  "name": "Điện thoại Xperia™ mới nhất",
+  "items": [
+    {
+      "id": "xperia_1_viii",
+      "name": "Xperia 1 VIII",
+      "label": "Flagship Đỉnh Cao",
+      "price": "Snapdragon 8 Elite",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_viii.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_viii.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.sony.com.vn/smartphones/products/xperia-1m8"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com.vn/smartphones/products/xperia-1m8"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.sony.com.vn/smartphones/products/xperia-1m8"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com.vn/smartphones/products/xperia-1m8"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Đỉnh Cao Nhiếp Ảnh Sony Alpha",
+          "text": "• Chip xử lý: Snapdragon 8 Elite NPU thế hệ mới\n• Màn hình: 6.5 inch FHD+ OLED 120Hz Bravia TV Sunlight Vision\n• Camera: Cảm biến Exmor T thế hệ mới & Telephoto Exmor RS lớn\n• Thiết kế ORE tối giản, khung viền rãnh bám tay, kính Victus 2"
+        }
+      ],
+      "type": {
+        "service": "sony_vn",
+        "id": "smartphones",
+        "name": "Điện thoại thông minh"
+      }
+    },
+    {
+      "id": "xperia_1_vi",
+      "name": "Xperia 1 VI",
+      "label": "Zoom Quang Học 85-170mm",
+      "price": "Snapdragon 8 Gen 3",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_vi.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_vi.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.sony.com.vn/smartphones/products/xperia-1m6"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com.vn/smartphones/products/xperia-1m6"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.sony.com.vn/smartphones/products/xperia-1m6"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com.vn/smartphones/products/xperia-1m6"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Kiệt Tác Công Nghệ Alpha & Bravia",
+          "text": "• Màn hình: 6.5 inch OLED LTPO 1-120Hz tỷ lệ 19.5:9 sáng hơn 50%\n• Camera: Ống kính zoom quang học liên tục 85-170mm & Telemacro\n• Tản nhiệt buồng hơi Vapor Chamber lần đầu xuất hiện\n• Pin 5.000mAh thời lượng 2 ngày, giắc cắm tai nghe 3.5mm cao cấp"
+        }
+      ],
+      "type": {
+        "service": "sony_vn",
+        "id": "smartphones",
+        "name": "Điện thoại thông minh"
+      }
+    },
+    {
+      "id": "xperia_10_vii",
+      "name": "Xperia 10 VII",
+      "label": "Pin 2 Ngày Bền Bỉ",
+      "price": "Siêu nhẹ 164g",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_10_vii.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_10_vii.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.sony.com.vn/smartphones/products/xperia-10m7"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com.vn/smartphones/products/xperia-10m7"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.sony.com.vn/smartphones/products/xperia-10m7"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com.vn/smartphones/products/xperia-10m7"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Gọn Nhẹ Bền Bỉ Chuẩn Sony",
+          "text": "• Pin: Dung lượng lớn 5.000mAh thời lượng 2 ngày liên tục\n• Màn hình: OLED sắc nét bảo vệ mắt chuẩn điện ảnh\n• Trọng lượng siêu nhẹ chỉ 164g, hoàn thiện nhám mờ thanh lịch\n• Kháng nước kháng bụi tiêu chuẩn cao cấp IP65/IP68"
+        }
+      ],
+      "type": {
+        "service": "sony_vn",
+        "id": "smartphones",
+        "name": "Điện thoại thông minh"
+      }
+    },
+    {
+      "id": "xperia_pro_i",
+      "name": "Xperia PRO-I",
+      "label": "Cảm Biến 1.0-inch Exmor RS",
+      "price": "Nhiếp Ảnh Chuyên Nghiệp",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_pro_i.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_pro_i.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://www.sony.com.vn/smartphones/products/xperia-pro-i"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com.vn/smartphones/products/xperia-pro-i"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://www.sony.com.vn/smartphones/products/xperia-pro-i"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://www.sony.com.vn/smartphones/products/xperia-pro-i"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Máy Ảnh Chuyên Nghiệp Trong Điện Thoại",
+          "text": "• Cảm biến máy ảnh 1.0-inch Exmor RS với khẩu độ kép F2.0 / F4.0\n• Ống kính quang học ZEISS® Tessar T* chống lóa quang sai\n• Bộ xử lý hình ảnh BIONZ X™ for mobile chuyên dụng\n• Phím bấm chụp cơ học vân nổi đặc trưng và quay 4K HDR 120fps"
+        }
+      ],
+      "type": {
+        "service": "sony_vn",
+        "id": "smartphones",
+        "name": "Điện thoại thông minh"
+      }
+    }
+  ]
+}
