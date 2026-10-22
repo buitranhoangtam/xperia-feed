@@ -13,6 +13,12 @@
             ]
           },
           {
+            "id": "group_updates",
+            "cards": [
+              "card_updates_grid"
+            ]
+          },
+          {
             "id": "group_smartphones",
             "cards": [
               "card_smartphones_grid"
@@ -52,6 +58,19 @@
             "id": "group_themes",
             "cards": [
               "card_themes_list"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "application_updates",
+        "type": "drawer",
+        "name": "Updates",
+        "card_groups": [
+          {
+            "id": "group_updates",
+            "cards": [
+              "card_updates_grid"
             ]
           }
         ]
@@ -193,6 +212,23 @@
           "columns": 3,
           "elements": 3
         }
+      },
+      {
+        "id": "card_updates_grid",
+        "type": "media_items",
+        "version": 1,
+        "name": "Sony Xperia Updates",
+        "lists": [
+          {
+            "service": "updatecenter",
+            "id": "all"
+          }
+        ],
+        "layout": {
+          "style": "columns",
+          "columns": 1,
+          "elements": 20
+        }
       }
     ]
   },
@@ -227,6 +263,18 @@
           "rel": "lists",
           "title": "Thị Trường Việt Nam",
           "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/service_market_vn.json"
+        }
+      ]
+    },
+    {
+      "id": "updatecenter",
+      "name": "Sony Update Center",
+      "links": [
+        {
+          "name": "default",
+          "rel": "lists",
+          "title": "Sony Update Center",
+          "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/xperia_apps_manifest.json"
         }
       ]
     }
