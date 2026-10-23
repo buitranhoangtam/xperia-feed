@@ -86,7 +86,13 @@ if __name__ == "__main__":
     print(f"[*] Starting feed update in {base_dir}")
     update_gasoline_feed(base_dir)
     try:
+        import sys
+        scripts_dir = os.path.dirname(os.path.abspath(__file__))
+        if scripts_dir not in sys.path:
+            sys.path.insert(0, scripts_dir)
         from generate_news_music import generate_feeds
         generate_feeds(base_dir)
     except Exception as e:
-        print(f"[-] Note: generate_news_music encountered: {e}")
+        import traceback
+        print(f"[-] Error: generate_news_music encountered: {e}")
+        traceback.print_exc()

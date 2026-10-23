@@ -10,7 +10,11 @@ import urllib.request
 import xml.etree.ElementTree as ET
 import re, json, os, io
 from datetime import datetime, timezone, timedelta
-from PIL import Image
+try:
+    from PIL import Image
+    HAS_PIL = True
+except ImportError:
+    HAS_PIL = False
 
 def get_vietnam_time():
     vn_tz = timezone(timedelta(hours=7))
@@ -18,11 +22,16 @@ def get_vietnam_time():
 
 def save_optimized_png(raw_bytes, out_path, size=(480, 270)):
     try:
-        im = Image.open(io.BytesIO(raw_bytes))
-        im = im.convert("RGB")
-        im = im.resize(size, Image.Resampling.LANCZOS)
-        im.save(out_path, "PNG", optimize=True)
-        return True
+        if HAS_PIL:
+            im = Image.open(io.BytesIO(raw_bytes))
+            im = im.convert("RGB")
+            im = im.resize(size, Image.Resampling.LANCZOS)
+            im.save(out_path, "PNG", optimize=True)
+            return True
+        else:
+            with open(out_path, "wb") as f:
+                f.write(raw_bytes)
+            return True
     except Exception as e:
         print(f"[-] Image optimize error: {e}")
         return False
