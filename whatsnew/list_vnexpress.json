@@ -4,7 +4,7 @@
   "items": [
     {
       "id": "vne_1",
-      "name": "TP HCM vận hành khu đóng gói bán dẫn dùng chung",
+      "name": "Cách kỹ sư Việt làm chủ công nghệ thi công dưới lòng đô thị",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -25,29 +25,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/tp-hcm-van-hanh-khu-dong-goi-ban-dan-dung-chung-5136052.html"
+            "href": "https://vnexpress.net/cach-ky-su-viet-lam-chu-cong-nghe-thi-cong-duoi-long-do-thi-5136104.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/tp-hcm-van-hanh-khu-dong-goi-ban-dan-dung-chung-5136052.html"
+            "data": "https://vnexpress.net/cach-ky-su-viet-lam-chu-cong-nghe-thi-cong-duoi-long-do-thi-5136104.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/tp-hcm-van-hanh-khu-dong-goi-ban-dan-dung-chung-5136052.html"
+            "href": "https://vnexpress.net/cach-ky-su-viet-lam-chu-cong-nghe-thi-cong-duoi-long-do-thi-5136104.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/tp-hcm-van-hanh-khu-dong-goi-ban-dan-dung-chung-5136052.html"
+            "data": "https://vnexpress.net/cach-ky-su-viet-lam-chu-cong-nghe-thi-cong-duoi-long-do-thi-5136104.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "TP HCM vận hành khu đóng gói bán dẫn dùng chung",
-          "text": "SHTP ATP Lab đặt tại khu Công nghệ cao TP HCM, các trường đại học, cao đẳng, viện nghiên cứu, doanh nghiệp có thể cùng khai thác hạ tầng để thực hành.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Cách kỹ sư Việt làm chủ công nghệ thi công dưới lòng đô thị",
+          "text": "Từ chỗ phụ thuộc hoàn toàn vào chuyên gia nước ngoài những ngày đầu, các kỹ sư Việt Nam dần làm chủ công nghệ hiện đại và vận hành máy đào TBM để thi công các đường hầm metro.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -58,128 +58,20 @@
     },
     {
       "id": "vne_2",
-      "name": "Robot hộ vệ có thể nâng bổng ôtô, tước vũ khí kẻ tấn công",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_2.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_2.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "https://vnexpress.net/robot-ho-ve-co-the-nang-bong-oto-tuoc-vu-khi-ke-tan-cong-5135726.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/robot-ho-ve-co-the-nang-bong-oto-tuoc-vu-khi-ke-tan-cong-5135726.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "https://vnexpress.net/robot-ho-ve-co-the-nang-bong-oto-tuoc-vu-khi-ke-tan-cong-5135726.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/robot-ho-ve-co-the-nang-bong-oto-tuoc-vu-khi-ke-tan-cong-5135726.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Robot hộ vệ có thể nâng bổng ôtô, tước vũ khí kẻ tấn công",
-          "text": "Robot hình người H2-X do Unitree Robotics phát triển thể hiện khả năng tước vũ khí của tội phạm và nhấc bổng xe để cứu người trong video giới thiệu hôm 21/10.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "vne_3",
-      "name": "Jensen Huang: 'Tận thế AI là nỗ lực gây chú ý rẻ tiền'",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_3.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_3.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "https://vnexpress.net/jensen-huang-tan-the-ai-la-no-luc-gay-chu-y-re-tien-5136003.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/jensen-huang-tan-the-ai-la-no-luc-gay-chu-y-re-tien-5136003.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "https://vnexpress.net/jensen-huang-tan-the-ai-la-no-luc-gay-chu-y-re-tien-5136003.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/jensen-huang-tan-the-ai-la-no-luc-gay-chu-y-re-tien-5136003.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Jensen Huang: 'Tận thế AI là nỗ lực gây chú ý rẻ tiền'",
-          "text": "Jensen Huang, CEO Nvidia, cho rằng những cảnh báo về việc AI xóa sổ loài người không chính xác mà chỉ nhằm thu hút sự chú ý của dư luận.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "vne_4",
       "name": "Tác nhân OpenAI nói dối, tự tắt hệ thống giám sát",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_4.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_2.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_4.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_2.png"
           }
         ]
       },
@@ -209,7 +101,7 @@
         {
           "type": "text",
           "name": "Tác nhân OpenAI nói dối, tự tắt hệ thống giám sát",
-          "text": "OpenAI hé lộ, tác nhân AI của công ty vô hiệu hóa hoặc làm suy yếu hệ thống giám sát trong lúc thực hiện nhiệm vụ và sau đó phủ nhận hành vi.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "OpenAI hé lộ, tác nhân AI của công ty vô hiệu hóa hoặc làm suy yếu hệ thống giám sát trong lúc thực hiện nhiệm vụ và sau đó phủ nhận hành vi.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -219,75 +111,21 @@
       }
     },
     {
-      "id": "vne_5",
-      "name": "Mở hộp Apple Watch Series 12 sản xuất tại Việt Nam",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_5.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_5.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "https://vnexpress.net/mo-hop-apple-watch-series-12-san-xuat-tai-viet-nam-5135727.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/mo-hop-apple-watch-series-12-san-xuat-tai-viet-nam-5135727.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "https://vnexpress.net/mo-hop-apple-watch-series-12-san-xuat-tai-viet-nam-5135727.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/mo-hop-apple-watch-series-12-san-xuat-tai-viet-nam-5135727.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Mở hộp Apple Watch Series 12 sản xuất tại Việt Nam",
-          "text": "Apple Watch Series 12 mở bán từ ngày 22/10 với hệ thống cảm biến sức khỏe mới, phiên bản chính hãng sản xuất tại Việt Nam, giá từ 11,5 triệu đồng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "vne_6",
+      "id": "vne_3",
       "name": "Biến cố 25 năm trước và chiến lược 'mật độ nhân tài' tại Netflix",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_6.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_3.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_6.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_3.png"
           }
         ]
       },
@@ -317,7 +155,7 @@
         {
           "type": "text",
           "name": "Biến cố 25 năm trước và chiến lược 'mật độ nhân tài' tại Netflix",
-          "text": "Từ biến cố cách đây 25 năm, Netflix tin rằng việc chọn lọc nhóm nhỏ những người phù hợp sẽ mang lại hiệu quả tốt hơn cố giữ nhiều nhân viên.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Từ biến cố cách đây 25 năm, Netflix tin rằng việc chọn lọc nhóm nhỏ những người phù hợp sẽ mang lại hiệu quả tốt hơn cố giữ nhiều nhân viên.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -327,21 +165,75 @@
       }
     },
     {
-      "id": "vne_7",
-      "name": "Startup Mỹ dùng virus do AI thiết kế điều trị bệnh",
+      "id": "vne_4",
+      "name": "Điều gì xảy ra nếu tác nhân AI 'nói' ngôn ngữ riêng?",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_7.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_4.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_7.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_4.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://vnexpress.net/dieu-gi-xay-ra-neu-tac-nhan-ai-noi-ngon-ngu-rieng-5134247.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://vnexpress.net/dieu-gi-xay-ra-neu-tac-nhan-ai-noi-ngon-ngu-rieng-5134247.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://vnexpress.net/dieu-gi-xay-ra-neu-tac-nhan-ai-noi-ngon-ngu-rieng-5134247.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://vnexpress.net/dieu-gi-xay-ra-neu-tac-nhan-ai-noi-ngon-ngu-rieng-5134247.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Điều gì xảy ra nếu tác nhân AI 'nói' ngôn ngữ riêng?",
+          "text": "Nếu tác nhân AI tự hình thành ngôn ngữ riêng, chúng có thể trao đổi thông tin hiệu quả hơn, nhưng gây khó cho khả năng giám sát của con người.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "vne_5",
+      "name": "Startup Mỹ dùng virus do AI thiết kế điều trị bệnh",
+      "label": "VnExpress • Công Nghệ",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_5.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_5.png"
           }
         ]
       },
@@ -371,7 +263,115 @@
         {
           "type": "text",
           "name": "Startup Mỹ dùng virus do AI thiết kế điều trị bệnh",
-          "text": "Lần đầu tiên các nhà khoa học sử dụng virus thiết kế bởi AI gọi là thực khuẩn thể, để điều trị cho một bệnh nhân bị nhiễm trùng vi khuẩn nghiêm trọng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Lần đầu tiên các nhà khoa học sử dụng virus thiết kế bởi AI gọi là thực khuẩn thể, để điều trị cho một bệnh nhân bị nhiễm trùng vi khuẩn nghiêm trọng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "vne_6",
+      "name": "TP HCM vận hành khu đóng gói bán dẫn dùng chung",
+      "label": "VnExpress • Công Nghệ",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_6.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_6.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://vnexpress.net/tp-hcm-van-hanh-khu-dong-goi-ban-dan-dung-chung-5136052.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://vnexpress.net/tp-hcm-van-hanh-khu-dong-goi-ban-dan-dung-chung-5136052.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://vnexpress.net/tp-hcm-van-hanh-khu-dong-goi-ban-dan-dung-chung-5136052.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://vnexpress.net/tp-hcm-van-hanh-khu-dong-goi-ban-dan-dung-chung-5136052.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "TP HCM vận hành khu đóng gói bán dẫn dùng chung",
+          "text": "SHTP ATP Lab đặt tại khu Công nghệ cao TP HCM, các trường đại học, cao đẳng, viện nghiên cứu, doanh nghiệp có thể cùng khai thác hạ tầng để thực hành.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "vne_7",
+      "name": "Robot hộ vệ có thể nâng bổng ôtô, tước vũ khí kẻ tấn công",
+      "label": "VnExpress • Công Nghệ",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_7.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_7.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://vnexpress.net/robot-ho-ve-co-the-nang-bong-oto-tuoc-vu-khi-ke-tan-cong-5135726.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://vnexpress.net/robot-ho-ve-co-the-nang-bong-oto-tuoc-vu-khi-ke-tan-cong-5135726.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://vnexpress.net/robot-ho-ve-co-the-nang-bong-oto-tuoc-vu-khi-ke-tan-cong-5135726.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://vnexpress.net/robot-ho-ve-co-the-nang-bong-oto-tuoc-vu-khi-ke-tan-cong-5135726.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Robot hộ vệ có thể nâng bổng ôtô, tước vũ khí kẻ tấn công",
+          "text": "Robot hình người H2-X do Unitree Robotics phát triển thể hiện khả năng tước vũ khí của tội phạm và nhấc bổng xe để cứu người trong video giới thiệu hôm 21/10.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -382,7 +382,7 @@
     },
     {
       "id": "vne_8",
-      "name": "'Chung cư' cho heo, chuồng trại AI tại triển lãm chăn nuôi",
+      "name": "Jensen Huang: 'Tận thế AI là nỗ lực gây chú ý rẻ tiền'",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -396,6 +396,60 @@
         "links": [
           {
             "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_8.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "https://vnexpress.net/jensen-huang-tan-the-ai-la-no-luc-gay-chu-y-re-tien-5136003.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://vnexpress.net/jensen-huang-tan-the-ai-la-no-luc-gay-chu-y-re-tien-5136003.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "https://vnexpress.net/jensen-huang-tan-the-ai-la-no-luc-gay-chu-y-re-tien-5136003.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "data": "https://vnexpress.net/jensen-huang-tan-the-ai-la-no-luc-gay-chu-y-re-tien-5136003.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Jensen Huang: 'Tận thế AI là nỗ lực gây chú ý rẻ tiền'",
+          "text": "Jensen Huang, CEO Nvidia, cho rằng những cảnh báo về việc AI xóa sổ loài người không chính xác mà chỉ nhằm thu hút sự chú ý của dư luận.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "vne_9",
+      "name": "'Chung cư' cho heo, chuồng trại AI tại triển lãm chăn nuôi",
+      "label": "VnExpress • Công Nghệ",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_9.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_9.png"
           }
         ]
       },
@@ -425,7 +479,7 @@
         {
           "type": "text",
           "name": "'Chung cư' cho heo, chuồng trại AI tại triển lãm chăn nuôi",
-          "text": "Mô hình \"chung cư\" cho heo, chăn nuôi tự động bằng AI, máy chế biến thức ăn, xử lý chất thải hiện đại được giới thiệu tại triển lãm Vietstock 2026.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Mô hình \"chung cư\" cho heo, chăn nuôi tự động bằng AI, máy chế biến thức ăn, xử lý chất thải hiện đại được giới thiệu tại triển lãm Vietstock 2026.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -435,21 +489,21 @@
       }
     },
     {
-      "id": "vne_9",
+      "id": "vne_10",
       "name": "SpaceX muốn tiếp cận 80.000 trạm thu phát sóng di động ở Mỹ",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_9.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_10.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_9.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_10.png"
           }
         ]
       },
@@ -479,61 +533,7 @@
         {
           "type": "text",
           "name": "SpaceX muốn tiếp cận 80.000 trạm thu phát sóng di động ở Mỹ",
-          "text": "SpaceX đang đàm phán với các công ty hạ tầng để bảo đảm quyền tiếp cận hơn 80.000 trạm thu phát sóng di động trên khắp nước Mỹ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "vne_10",
-      "name": "AI đang làm đảo lộn giới an ninh mạng thế nào",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_10.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_10.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "https://vnexpress.net/lo-hong-php2shell-khi-ai-lam-dao-lon-gioi-an-ninh-mang-5135794.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/lo-hong-php2shell-khi-ai-lam-dao-lon-gioi-an-ninh-mang-5135794.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "https://vnexpress.net/lo-hong-php2shell-khi-ai-lam-dao-lon-gioi-an-ninh-mang-5135794.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/lo-hong-php2shell-khi-ai-lam-dao-lon-gioi-an-ninh-mang-5135794.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "AI đang làm đảo lộn giới an ninh mạng thế nào",
-          "text": "Hai lỗ hổng PHP2Shell đã tồn tại từ lâu và gần như không bị phát hiện, cho đến khi AI giúp phơi bày chúng ra ánh sáng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "SpaceX đang đàm phán với các công ty hạ tầng để bảo đảm quyền tiếp cận hơn 80.000 trạm thu phát sóng di động trên khắp nước Mỹ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -544,7 +544,7 @@
     },
     {
       "id": "vne_11",
-      "name": "Người dùng kỳ vọng AI làm được nhiều việc hơn",
+      "name": "Sáng kiến nâng cao sức khỏe lao động nữ tại khu công nghiệp",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -565,29 +565,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/nguoi-dung-ky-vong-ai-lam-duoc-nhieu-viec-hon-5128507.html"
+            "href": "https://vnexpress.net/sang-kien-nang-cao-suc-khoe-lao-dong-nu-tai-khu-cong-nghiep-5136025.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/nguoi-dung-ky-vong-ai-lam-duoc-nhieu-viec-hon-5128507.html"
+            "data": "https://vnexpress.net/sang-kien-nang-cao-suc-khoe-lao-dong-nu-tai-khu-cong-nghiep-5136025.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/nguoi-dung-ky-vong-ai-lam-duoc-nhieu-viec-hon-5128507.html"
+            "href": "https://vnexpress.net/sang-kien-nang-cao-suc-khoe-lao-dong-nu-tai-khu-cong-nghiep-5136025.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/nguoi-dung-ky-vong-ai-lam-duoc-nhieu-viec-hon-5128507.html"
+            "data": "https://vnexpress.net/sang-kien-nang-cao-suc-khoe-lao-dong-nu-tai-khu-cong-nghiep-5136025.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Người dùng kỳ vọng AI làm được nhiều việc hơn",
-          "text": "Theo khảo sát trên VnExpress, các nền tảng AI hiện nay vẫn chưa đáp ứng hết nhu cầu người dùng, mở ra dư địa phát triển cho các sản phẩm 'Made in Vietnam'.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Sáng kiến nâng cao sức khỏe lao động nữ tại khu công nghiệp",
+          "text": "Kao Việt Nam khởi xướng chương trình Care within Reach, đưa các hoạt động chăm sóc sức khỏe đến gần nơi làm việc, góp phần chăm sóc sức khỏe cho lao động nữ di cư.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -598,7 +598,7 @@
     },
     {
       "id": "vne_12",
-      "name": "Người 38 năm chăm sóc mộ liệt sĩ được khen thưởng",
+      "name": "'Tương lai xe điện không chỉ nằm ở công nghệ'",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -619,29 +619,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/nguoi-38-nam-cham-soc-mo-liet-si-duoc-khen-thuong-5136043.html"
+            "href": "https://vnexpress.net/tuong-lai-xe-dien-khong-chi-nam-o-cong-nghe-5135806.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/nguoi-38-nam-cham-soc-mo-liet-si-duoc-khen-thuong-5136043.html"
+            "data": "https://vnexpress.net/tuong-lai-xe-dien-khong-chi-nam-o-cong-nghe-5135806.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/nguoi-38-nam-cham-soc-mo-liet-si-duoc-khen-thuong-5136043.html"
+            "href": "https://vnexpress.net/tuong-lai-xe-dien-khong-chi-nam-o-cong-nghe-5135806.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/nguoi-38-nam-cham-soc-mo-liet-si-duoc-khen-thuong-5136043.html"
+            "data": "https://vnexpress.net/tuong-lai-xe-dien-khong-chi-nam-o-cong-nghe-5135806.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Người 38 năm chăm sóc mộ liệt sĩ được khen thưởng",
-          "text": "Ông Võ Đình Thế, người tự nguyện cất bốc và chăm sóc phần mộ 17 liệt sĩ suốt 38 năm qua, vừa được Chủ tịch UBND TP Đà Nẵng tặng bằng khen.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "'Tương lai xe điện không chỉ nằm ở công nghệ'",
+          "text": "Công nghệ cần chuyển thành giá trị sử dụng thực tế, giúp xe điện đến gần hơn với cuộc sống của nhiều người, theo lãnh đạo Wuling tại Việt Nam.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -652,7 +652,7 @@
     },
     {
       "id": "vne_13",
-      "name": "Thực đơn bữa sáng của thiếu niên cao 1m95 tiềm ẩn nguy cơ béo phì",
+      "name": "Ukraine tuyên bố mở chiến dịch luồn ống, tập hậu lực lượng Nga",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -673,29 +673,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/thuc-don-bua-sang-cua-thieu-nien-cao-1m95-tiem-an-nguy-co-beo-phi-5136067.html"
+            "href": "https://vnexpress.net/ukraine-tuyen-bo-mo-chien-dich-luon-ong-tap-hau-luc-luong-nga-5135922.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/thuc-don-bua-sang-cua-thieu-nien-cao-1m95-tiem-an-nguy-co-beo-phi-5136067.html"
+            "data": "https://vnexpress.net/ukraine-tuyen-bo-mo-chien-dich-luon-ong-tap-hau-luc-luong-nga-5135922.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/thuc-don-bua-sang-cua-thieu-nien-cao-1m95-tiem-an-nguy-co-beo-phi-5136067.html"
+            "href": "https://vnexpress.net/ukraine-tuyen-bo-mo-chien-dich-luon-ong-tap-hau-luc-luong-nga-5135922.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/thuc-don-bua-sang-cua-thieu-nien-cao-1m95-tiem-an-nguy-co-beo-phi-5136067.html"
+            "data": "https://vnexpress.net/ukraine-tuyen-bo-mo-chien-dich-luon-ong-tap-hau-luc-luong-nga-5135922.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Thực đơn bữa sáng của thiếu niên cao 1m95 tiềm ẩn nguy cơ béo phì",
-          "text": "Thực đơn bữa sáng của một cậu bé 13 tuổi cao 1m95 ở Sơn Đông lan truyền trên mạng xã hội, nhưng bác sĩ Vương Na, Trưởng khoa Nhi Bệnh viện số 1 Vũ Hán, cảnh báo cha mẹ chớ sao chép.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Ukraine tuyên bố mở chiến dịch luồn ống, tập hậu lực lượng Nga",
+          "text": "Ukraine dùng đường ống ngầm để tấn công lực lượng Nga tại Kupyansk, tuyên bố đây là chiến dịch phản công đầu tiên trên thế giới theo phương thức này.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -706,7 +706,7 @@
     },
     {
       "id": "vne_14",
-      "name": "Đấu giá bất thành 4 nhà đất liên quan bà Trương Mỹ Lan",
+      "name": "Rò rỉ bồn hóa chất tại Mỹ, hàng chục người nhập viện",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -727,29 +727,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/dau-gia-bat-thanh-4-nha-dat-lien-quan-ba-truong-my-lan-5136123.html"
+            "href": "https://vnexpress.net/ro-ri-bon-hoa-chat-tai-my-hang-chuc-nguoi-nhap-vien-5135986.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/dau-gia-bat-thanh-4-nha-dat-lien-quan-ba-truong-my-lan-5136123.html"
+            "data": "https://vnexpress.net/ro-ri-bon-hoa-chat-tai-my-hang-chuc-nguoi-nhap-vien-5135986.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/dau-gia-bat-thanh-4-nha-dat-lien-quan-ba-truong-my-lan-5136123.html"
+            "href": "https://vnexpress.net/ro-ri-bon-hoa-chat-tai-my-hang-chuc-nguoi-nhap-vien-5135986.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/dau-gia-bat-thanh-4-nha-dat-lien-quan-ba-truong-my-lan-5136123.html"
+            "data": "https://vnexpress.net/ro-ri-bon-hoa-chat-tai-my-hang-chuc-nguoi-nhap-vien-5135986.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Đấu giá bất thành 4 nhà đất liên quan bà Trương Mỹ Lan",
-          "text": "Bốn bất động sản tại trung tâm TP HCM, liên quan bà Trương Mỹ Lan, có tổng giá khởi điểm hơn 375 tỷ đồng đấu giá bất thành do không có người mua.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Rò rỉ bồn hóa chất tại Mỹ, hàng chục người nhập viện",
+          "text": "Bồn chứa hóa chất công nghiệp tại thành phố Toledo gặp sự cố rò rỉ, khiến gần 1.000 người sơ tán và hàng chục người nhập viện.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -760,7 +760,7 @@
     },
     {
       "id": "vne_15",
-      "name": "Tàu cổ ở Hội An dự kiến được khai quật vào năm sau",
+      "name": "Em thích vun vén cho những điều mình yêu quý",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -781,29 +781,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/tau-co-o-hoi-an-du-kien-duoc-khai-quat-vao-nam-sau-5136035.html"
+            "href": "https://vnexpress.net/em-thich-vun-ven-cho-nhung-dieu-minh-yeu-quy-5134085.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/tau-co-o-hoi-an-du-kien-duoc-khai-quat-vao-nam-sau-5136035.html"
+            "data": "https://vnexpress.net/em-thich-vun-ven-cho-nhung-dieu-minh-yeu-quy-5134085.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/tau-co-o-hoi-an-du-kien-duoc-khai-quat-vao-nam-sau-5136035.html"
+            "href": "https://vnexpress.net/em-thich-vun-ven-cho-nhung-dieu-minh-yeu-quy-5134085.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/tau-co-o-hoi-an-du-kien-duoc-khai-quat-vao-nam-sau-5136035.html"
+            "data": "https://vnexpress.net/em-thich-vun-ven-cho-nhung-dieu-minh-yeu-quy-5134085.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Tàu cổ ở Hội An dự kiến được khai quật vào năm sau",
-          "text": "Bộ Văn hóa Thể thao và Du lịch đồng ý chủ trương khai quật xác tàu cổ có niên đại thế kỷ XIV-XVI lộ ra sát bờ biển Hội An, dự kiến thực hiện năm 2027.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Em thích vun vén cho những điều mình yêu quý",
+          "text": "Em là người cẩn thận, nhẹ nhàng, biết quan sát và khá để ý đến những điều nhỏ trong cách cư xử.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -814,7 +814,7 @@
     },
     {
       "id": "vne_16",
-      "name": "FPT Retail 10 năm liền vào 'Top 10 công ty uy tín ngành bán lẻ'",
+      "name": "Tôi bỏ việc lương cao sau 6 tháng bị sếp giao việc ngoài giờ",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -835,29 +835,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/fpt-retail-10-nam-lien-vao-top-10-cong-ty-uy-tin-nganh-ban-le-5136087.html"
+            "href": "https://vnexpress.net/toi-bo-viec-luong-cao-sau-6-thang-bi-sep-giao-viec-ngoai-gio-5136042.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/fpt-retail-10-nam-lien-vao-top-10-cong-ty-uy-tin-nganh-ban-le-5136087.html"
+            "data": "https://vnexpress.net/toi-bo-viec-luong-cao-sau-6-thang-bi-sep-giao-viec-ngoai-gio-5136042.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/fpt-retail-10-nam-lien-vao-top-10-cong-ty-uy-tin-nganh-ban-le-5136087.html"
+            "href": "https://vnexpress.net/toi-bo-viec-luong-cao-sau-6-thang-bi-sep-giao-viec-ngoai-gio-5136042.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/fpt-retail-10-nam-lien-vao-top-10-cong-ty-uy-tin-nganh-ban-le-5136087.html"
+            "data": "https://vnexpress.net/toi-bo-viec-luong-cao-sau-6-thang-bi-sep-giao-viec-ngoai-gio-5136042.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "FPT Retail 10 năm liền vào 'Top 10 công ty uy tín ngành bán lẻ'",
-          "text": "Công ty Cổ phần Bán lẻ Kỹ thuật số FPT (FPT Retail) được vinh danh trong bảng xếp hạng Top 10 Công ty uy tín ngành Bán lẻ năm 2026 do Vietnam Report công bố, ngày 22/10.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Tôi bỏ việc lương cao sau 6 tháng bị sếp giao việc ngoài giờ",
+          "text": "Mỗi lần gọi giao việc ngoài giờ, sếp chưa một lần hỏi xem tôi có đang bận không, hay cảm ơn sau khi tôi hoàn thành.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -868,7 +868,7 @@
     },
     {
       "id": "vne_17",
-      "name": "Yếu tố nào thúc đẩy phát triển tế bào tiền ung thư?",
+      "name": "Khánh thành cụm 11 công trình vệ sinh đạt chuẩn ở Sơn La",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -889,29 +889,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/yeu-to-nao-thuc-day-phat-trien-te-bao-tien-ung-thu-5135886.html"
+            "href": "https://vnexpress.net/khanh-thanh-cum-11-cong-trinh-ve-sinh-dat-chuan-o-son-la-5135815.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/yeu-to-nao-thuc-day-phat-trien-te-bao-tien-ung-thu-5135886.html"
+            "data": "https://vnexpress.net/khanh-thanh-cum-11-cong-trinh-ve-sinh-dat-chuan-o-son-la-5135815.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/yeu-to-nao-thuc-day-phat-trien-te-bao-tien-ung-thu-5135886.html"
+            "href": "https://vnexpress.net/khanh-thanh-cum-11-cong-trinh-ve-sinh-dat-chuan-o-son-la-5135815.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/yeu-to-nao-thuc-day-phat-trien-te-bao-tien-ung-thu-5135886.html"
+            "data": "https://vnexpress.net/khanh-thanh-cum-11-cong-trinh-ve-sinh-dat-chuan-o-son-la-5135815.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Yếu tố nào thúc đẩy phát triển tế bào tiền ung thư?",
-          "text": "Hút thuốc lá, hít khói thuốc thụ động và nhiễm dai dẳng một số vi khuẩn, virus có thể làm tăng nguy cơ hình thành tổn thương tiền ung thư.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Khánh thành cụm 11 công trình vệ sinh đạt chuẩn ở Sơn La",
+          "text": "Sáng 22/10, Quỹ Hy vọng cùng Opella Việt Nam và BW Industrial bàn giao cụm 11 công trình vệ sinh học đường tại 6 xã, tổng tài trợ gần 3 tỷ đồng.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -922,7 +922,7 @@
     },
     {
       "id": "vne_18",
-      "name": "Xe chở giám đốc Nhật bị nghi gây cháy 520.000 ha khu bảo tồn Mông Cổ",
+      "name": "Công ty bầu Đức chốt hợp đồng bán 1.000 tấn cà phê sang Trung Quốc",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -943,29 +943,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/xe-cho-giam-doc-nhat-bi-nghi-gay-chay-520-000-ha-khu-bao-ton-mong-co-5136045.html"
+            "href": "https://vnexpress.net/cong-ty-bau-duc-chot-hop-dong-ban-1-000-tan-ca-phe-sang-trung-quoc-5135978.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/xe-cho-giam-doc-nhat-bi-nghi-gay-chay-520-000-ha-khu-bao-ton-mong-co-5136045.html"
+            "data": "https://vnexpress.net/cong-ty-bau-duc-chot-hop-dong-ban-1-000-tan-ca-phe-sang-trung-quoc-5135978.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/xe-cho-giam-doc-nhat-bi-nghi-gay-chay-520-000-ha-khu-bao-ton-mong-co-5136045.html"
+            "href": "https://vnexpress.net/cong-ty-bau-duc-chot-hop-dong-ban-1-000-tan-ca-phe-sang-trung-quoc-5135978.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/xe-cho-giam-doc-nhat-bi-nghi-gay-chay-520-000-ha-khu-bao-ton-mong-co-5136045.html"
+            "data": "https://vnexpress.net/cong-ty-bau-duc-chot-hop-dong-ban-1-000-tan-ca-phe-sang-trung-quoc-5135978.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Xe chở giám đốc Nhật bị nghi gây cháy 520.000 ha khu bảo tồn Mông Cổ",
-          "text": "Nhóm lãnh đạo người Nhật của nhà mạng Mobicom tại Mông Cổ đi xe vào khu bảo tồn Numrug và có thể đã gây đám cháy thiêu rụi hơn 520.000 ha.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Công ty bầu Đức chốt hợp đồng bán 1.000 tấn cà phê sang Trung Quốc",
+          "text": "Gần 3.000 ha cà phê HAG năm sau mới thu hoạch, nhưng bầu Đức đã chốt hợp đồng xuất khẩu 1.000 tấn sang Trung Quốc với giá 182.000 đồng một kg.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
@@ -976,7 +976,7 @@
     },
     {
       "id": "vne_19",
-      "name": "Dòng tiền đổ vào cổ phiếu ngân hàng",
+      "name": "Phút ngỡ ngàng của tù nhân Mỹ khi được Nga phóng thích",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -997,83 +997,29 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/dong-tien-do-vao-co-phieu-ngan-hang-5136071.html"
+            "href": "https://vnexpress.net/phut-ngo-ngang-cua-tu-nhan-my-khi-duoc-nga-phong-thich-5135959.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/dong-tien-do-vao-co-phieu-ngan-hang-5136071.html"
+            "data": "https://vnexpress.net/phut-ngo-ngang-cua-tu-nhan-my-khi-duoc-nga-phong-thich-5135959.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/dong-tien-do-vao-co-phieu-ngan-hang-5136071.html"
+            "href": "https://vnexpress.net/phut-ngo-ngang-cua-tu-nhan-my-khi-duoc-nga-phong-thich-5135959.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/dong-tien-do-vao-co-phieu-ngan-hang-5136071.html"
+            "data": "https://vnexpress.net/phut-ngo-ngang-cua-tu-nhan-my-khi-duoc-nga-phong-thich-5135959.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Dòng tiền đổ vào cổ phiếu ngân hàng",
-          "text": "STB tăng trần, ACB dẫn đầu thanh khoản, sắc xanh cổ phiếu ngân hàng chiếm phần lớn bảng điện khiến nhóm này thành động lực chính kéo chứng khoán tăng hơn 13 điểm.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "vne_20",
-      "name": "Tên lửa 'đáng sợ hơn UAV phản lực' của Nga khiến Ukraine lo ngại",
-      "label": "VnExpress • Thời Sự",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_20.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/vne_news_20.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "https://vnexpress.net/ten-lua-dang-so-hon-uav-phan-luc-cua-nga-khien-ukraine-lo-ngai-5136026.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/ten-lua-dang-so-hon-uav-phan-luc-cua-nga-khien-ukraine-lo-ngai-5136026.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "https://vnexpress.net/ten-lua-dang-so-hon-uav-phan-luc-cua-nga-khien-ukraine-lo-ngai-5136026.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/ten-lua-dang-so-hon-uav-phan-luc-cua-nga-khien-ukraine-lo-ngai-5136026.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Tên lửa 'đáng sợ hơn UAV phản lực' của Nga khiến Ukraine lo ngại",
-          "text": "Nga bắt đầu triển khai tên lửa Filin có giá rẻ và đặc tính tốt hơn UAV phản lực Geran vốn đang gây khó cho phòng không Ukraine.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:49 - 23/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Phút ngỡ ngàng của tù nhân Mỹ khi được Nga phóng thích",
+          "text": "Stephen Hubbard, công dân Mỹ được Nga phóng thích sau hơn 4 năm giam giữ, chỉ nhận ra mình được tự do khi bước lên máy bay và nhìn thấy lá cờ quê hương.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
         }
       ],
       "type": {
