@@ -10,7 +10,7 @@ if hasattr(sys.stdout, 'reconfigure'):
     except Exception:
         pass
 
-BASE_FEED_DIR = r"D:\ANTIGRAVITY\xperia-feed\whatsnew"
+BASE_FEED_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 IMAGES_DIR = os.path.join(BASE_FEED_DIR, "images")
 os.makedirs(IMAGES_DIR, exist_ok=True)
 
@@ -185,7 +185,7 @@ def process_and_save(base_dir=None):
     for idx, item in enumerate(items_raw):
         item_num = idx + 1
         img_filename = f"news_{item_num}.png"
-        img_local_path = os.path.join(IMAGES_DIR, img_filename)
+        img_local_path = os.path.join(images_dir, img_filename)
         
         # Download and optimize
         success = False
@@ -261,7 +261,7 @@ def process_and_save(base_dir=None):
             print(f"  Processed {item_num}/{len(items_raw)} items...")
 
     # Write list_vnexpress.json
-    out_list_path = os.path.join(BASE_FEED_DIR, "list_vnexpress.json")
+    out_list_path = os.path.join(base_dir, "list_vnexpress.json")
     with open(out_list_path, "w", encoding="utf-8") as f:
         json.dump({
             "id": "vnexpress",
@@ -271,7 +271,7 @@ def process_and_save(base_dir=None):
     print(f"[+] Saved {len(final_items)} items to {out_list_path}")
 
     # Also update aggregator_v3.json to rename group to "Sony News Suite"
-    agg_path = os.path.join(BASE_FEED_DIR, "aggregator_v3.json")
+    agg_path = os.path.join(base_dir, "aggregator_v3.json")
     with open(agg_path, "r", encoding="utf-8") as f:
         agg = json.load(f)
 

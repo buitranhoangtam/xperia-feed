@@ -96,3 +96,4 @@ if __name__ == "__main__":
         import traceback
         print(f"[-] Error: generate_news_music encountered: {e}")
         traceback.print_exc()
+        raise e
