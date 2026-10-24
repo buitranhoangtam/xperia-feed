@@ -19,8 +19,19 @@
         {
           "name": "default",
           "rel": "items",
-          "title": "Tin Tức VnExpress",
+          "title": "Sony News Suite",
           "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/list_vnexpress.json"
+        }
+      ]
+    },
+    {
+      "id": "buyttphcm",
+      "links": [
+        {
+          "name": "default",
+          "rel": "items",
+          "title": "Xe Buýt TP.HCM (Tra Cứu Lộ Trình)",
+          "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/list_buyttphcm.json"
         }
       ]
     },

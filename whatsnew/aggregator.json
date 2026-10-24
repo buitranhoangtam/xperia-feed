@@ -13,6 +13,12 @@
             ]
           },
           {
+            "id": "group_buyt_tphcm",
+            "cards": [
+              "card_buyt_tphcm"
+            ]
+          },
+          {
             "id": "group_smartphones",
             "cards": [
               "card_smartphones_grid"
@@ -192,6 +198,23 @@
           "style": "columns",
           "columns": 3,
           "elements": 3
+        }
+      },
+      {
+        "id": "card_buyt_tphcm",
+        "type": "media_items",
+        "version": 1,
+        "name": "Xe Buýt TP.HCM (Tra Cứu Lộ Trình)",
+        "lists": [
+          {
+            "service": "market_vn",
+            "id": "buyttphcm"
+          }
+        ],
+        "layout": {
+          "style": "columns",
+          "columns": 3,
+          "elements": 6
         }
       }
     ]

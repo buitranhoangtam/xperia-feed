@@ -1,0 +1,750 @@
+{
+  "id": "buyttphcm",
+  "name": "Xe Buýt TP.HCM (Tra Cứu Lộ Trình)",
+  "items": [
+    {
+      "id": "buyt_hub",
+      "name": "Tra cứu toàn diện 200+ Tuyến Buýt TP.HCM",
+      "label": "Buýt TP.HCM • Tra Cứu Toàn Tuyến",
+      "price": "Tra Cứu",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_hub.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_hub.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_hub.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_hub.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Route"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Route"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Route"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Route"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Tra cứu toàn diện 200+ Tuyến Buýt TP.HCM",
+          "text": "Cổng tra cứu trực tuyến toàn diện hơn 200 tuyến xe buýt TP.HCM: xem biểu đồ giờ chạy, lộ trình chi tiết từng trạm dừng chiều đi và chiều về, giá vé sinh viên và phổ thông.\n\nNguồn: Trung Tâm Quản Lý Giao Thông Công Cộng TP.HCM (buyttphcm.com.vn)\n\nBấm nút OPEN để tra cứu trực tuyến lộ trình chi tiết và biểu đồ giờ chạy."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "buyttphcm",
+        "name": "Xe Buýt TP.HCM"
+      }
+    },
+    {
+      "id": "buyt_08",
+      "name": "Tuyến 08: Bến xe Quận 8 - ĐH Quốc Gia",
+      "label": "Tuyến 08 • Trợ Giá",
+      "price": "7.000 đ",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_08.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_08.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_08.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_08.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/8"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/8"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/8"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/8"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Tuyến 08: Bến xe Quận 8 - ĐH Quốc Gia",
+          "text": "Tuyến xe buýt huyết mạch nối liền Quận 8, Chợ Lớn, Tân Bình, Phú Nhuận, Bình Thạnh, Thủ Đức đến Khu Đô Thị ĐHQG. Thời gian hoạt động: 04:40 - 20:30.\n\nNguồn: Trung Tâm Quản Lý Giao Thông Công Cộng TP.HCM (buyttphcm.com.vn)\n\nBấm nút OPEN để tra cứu trực tuyến lộ trình chi tiết và biểu đồ giờ chạy."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "buyttphcm",
+        "name": "Xe Buýt TP.HCM"
+      }
+    },
+    {
+      "id": "buyt_150",
+      "name": "Tuyến 150: Bến xe Chợ Lớn - Ngã 3 Tân Vạn",
+      "label": "Tuyến 150 • Trợ Giá",
+      "price": "7.000 đ",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_150.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_150.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_150.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_150.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/150"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/150"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/150"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/150"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Tuyến 150: Bến xe Chợ Lớn - Ngã 3 Tân Vạn",
+          "text": "Tuyến xe buýt trục chính xuyên tâm dài nhất kết nối trung tâm Chợ Lớn qua Điện Biên Phủ, Xa Lộ Hà Nội đến ranh giới Đồng Nai. Xe lớn, mát mẻ.\n\nNguồn: Trung Tâm Quản Lý Giao Thông Công Cộng TP.HCM (buyttphcm.com.vn)\n\nBấm nút OPEN để tra cứu trực tuyến lộ trình chi tiết và biểu đồ giờ chạy."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "buyttphcm",
+        "name": "Xe Buýt TP.HCM"
+      }
+    },
+    {
+      "id": "buyt_109",
+      "name": "Tuyến 109: Sài Gòn - Sân bay Tân Sơn Nhất",
+      "label": "Tuyến 109 • Tuyến Sân Bay",
+      "price": "15.000 đ",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_109.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_109.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_109.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_109.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/109"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/109"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/109"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/109"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Tuyến 109: Sài Gòn - Sân bay Tân Sơn Nhất",
+          "text": "Tuyến xe buýt chất lượng cao đón trả khách trực tiếp tại Ga Quốc Nội và Quốc Tế sân bay Tân Sơn Nhất về Bến Thành. Wifi miễn phí, khoang hành lý rộng.\n\nNguồn: Trung Tâm Quản Lý Giao Thông Công Cộng TP.HCM (buyttphcm.com.vn)\n\nBấm nút OPEN để tra cứu trực tuyến lộ trình chi tiết và biểu đồ giờ chạy."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "buyttphcm",
+        "name": "Xe Buýt TP.HCM"
+      }
+    },
+    {
+      "id": "buyt_19",
+      "name": "Tuyến 19: Bến Thành - KCX Linh Trung - ĐH Quốc Gia",
+      "label": "Tuyến 19 • Sinh Viên",
+      "price": "7.000 đ",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_19.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_19.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_19.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_19.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/19"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/19"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/19"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/19"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Tuyến 19: Bến Thành - KCX Linh Trung - ĐH Quốc Gia",
+          "text": "Tuyến xe buýt sinh viên đông đúc từ trung tâm Quận 1 đi qua Đinh Tiên Hoàng, Xa Lộ Hà Nội vào Ký túc xá ĐHQG. Giờ chạy 05:00 - 20:15.\n\nNguồn: Trung Tâm Quản Lý Giao Thông Công Cộng TP.HCM (buyttphcm.com.vn)\n\nBấm nút OPEN để tra cứu trực tuyến lộ trình chi tiết và biểu đồ giờ chạy."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "buyttphcm",
+        "name": "Xe Buýt TP.HCM"
+      }
+    },
+    {
+      "id": "buyt_56",
+      "name": "Tuyến 56: Bến xe Chợ Lớn - ĐH Giao Thông Vận Tải",
+      "label": "Tuyến 56 • Trợ Giá",
+      "price": "7.000 đ",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_56.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_56.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_56.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_56.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/56"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/56"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/56"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/56"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Tuyến 56: Bến xe Chợ Lớn - ĐH Giao Thông Vận Tải",
+          "text": "Tuyến xe buýt phục vụ sinh viên ĐH GTVT và người dân khu Đông. Hành trình kết nối Quận 5, Quận 1 và TP. Thủ Đức.\n\nNguồn: Trung Tâm Quản Lý Giao Thông Công Cộng TP.HCM (buyttphcm.com.vn)\n\nBấm nút OPEN để tra cứu trực tuyến lộ trình chi tiết và biểu đồ giờ chạy."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "buyttphcm",
+        "name": "Xe Buýt TP.HCM"
+      }
+    },
+    {
+      "id": "buyt_180",
+      "name": "Tuyến 180: Bến xe buýt Khu CNC - ĐH Quốc Gia",
+      "label": "Tuyến 180 • Tuyến Mới",
+      "price": "6.000 đ",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_180.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_180.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_180.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_180.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/180"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/180"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/180"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/180"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Tuyến 180: Bến xe buýt Khu CNC - ĐH Quốc Gia",
+          "text": "Tuyến buýt mới kết nối Khu Công nghệ cao TP.HCM với các trường đại học thành viên ĐHQG. Phục vụ kỹ sư và sinh viên thực tập.\n\nNguồn: Trung Tâm Quản Lý Giao Thông Công Cộng TP.HCM (buyttphcm.com.vn)\n\nBấm nút OPEN để tra cứu trực tuyến lộ trình chi tiết và biểu đồ giờ chạy."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "buyttphcm",
+        "name": "Xe Buýt TP.HCM"
+      }
+    },
+    {
+      "id": "buyt_d4",
+      "name": "Tuyến D4: Vinhome Grand Park - Sài Gòn (Xe Buýt Điện)",
+      "label": "Tuyến D4 • Xe Buýt Điện",
+      "price": "7.000 đ",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_d4.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_d4.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_d4.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_d4.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/D4"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/D4"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/D4"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/D4"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Tuyến D4: Vinhome Grand Park - Sài Gòn (Xe Buýt Điện)",
+          "text": "Xe buýt điện thông minh VinBus không khí thải, không tiếng ồn, trang bị camera AI an toàn và cổng sạc USB tại từng ghế ngồi.\n\nNguồn: Trung Tâm Quản Lý Giao Thông Công Cộng TP.HCM (buyttphcm.com.vn)\n\nBấm nút OPEN để tra cứu trực tuyến lộ trình chi tiết và biểu đồ giờ chạy."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "buyttphcm",
+        "name": "Xe Buýt TP.HCM"
+      }
+    },
+    {
+      "id": "buyt_33",
+      "name": "Tuyến 33: Bến xe An Sương - Suối Tiên - ĐHQG",
+      "label": "Tuyến 33 • Vành Đai QL1A",
+      "price": "7.000 đ",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_33.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_33.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_33.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_33.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/33"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/33"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/33"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Route/Detail/33"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Tuyến 33: Bến xe An Sương - Suối Tiên - ĐHQG",
+          "text": "Tuyến buýt vành đai chạy dọc Quốc Lộ 1A phục vụ công nhân và sinh viên di chuyển giữa Tây Bắc và Đông Bắc Sài Gòn.\n\nNguồn: Trung Tâm Quản Lý Giao Thông Công Cộng TP.HCM (buyttphcm.com.vn)\n\nBấm nút OPEN để tra cứu trực tuyến lộ trình chi tiết và biểu đồ giờ chạy."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "buyttphcm",
+        "name": "Xe Buýt TP.HCM"
+      }
+    },
+    {
+      "id": "buyt_metro2",
+      "name": "Tạm điều chỉnh 13 tuyến xe buýt phục vụ thi công Metro Số 2",
+      "label": "Thông Báo • Thi Công Metro 2",
+      "price": "Lộ Trình",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_metro2.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_metro2.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_metro2.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_metro2.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Home/ArtMID/546/ArticleID/5033/T%e1%ba%a0M-%c4%90I%e1%bb%80U-CH%e1%bb%88NH-H192NH-TR204NH-13-TUY%e1%ba%beN-XE-BU221T-PH%e1%bb%a4C-V%e1%bb%a4-THI-C212NG-METRO-S%e1%bb%90-2"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Home/ArtMID/546/ArticleID/5033/T%e1%ba%a0M-%c4%90I%e1%bb%80U-CH%e1%bb%88NH-H192NH-TR204NH-13-TUY%e1%ba%beN-XE-BU221T-PH%e1%bb%a4C-V%e1%bb%a4-THI-C212NG-METRO-S%e1%bb%90-2"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Home/ArtMID/546/ArticleID/5033/T%e1%ba%a0M-%c4%90I%e1%bb%80U-CH%e1%bb%88NH-H192NH-TR204NH-13-TUY%e1%ba%beN-XE-BU221T-PH%e1%bb%a4C-V%e1%bb%a4-THI-C212NG-METRO-S%e1%bb%90-2"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Home/ArtMID/546/ArticleID/5033/T%e1%ba%a0M-%c4%90I%e1%bb%80U-CH%e1%bb%88NH-H192NH-TR204NH-13-TUY%e1%ba%beN-XE-BU221T-PH%e1%bb%a4C-V%e1%bb%a4-THI-C212NG-METRO-S%e1%bb%90-2"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Tạm điều chỉnh 13 tuyến xe buýt phục vụ thi công Metro Số 2",
+          "text": "Thông báo điều chỉnh lộ trình tạm thời của 13 tuyến xe buýt khu vực đường Cách Mạng Tháng Tám và Trường Chinh phục vụ rào chắn thi công Metro Tuyến số 2 Bến Thành - Tham Lương.\n\nNguồn: Trung Tâm Quản Lý Giao Thông Công Cộng TP.HCM (buyttphcm.com.vn)\n\nBấm nút OPEN để tra cứu trực tuyến lộ trình chi tiết và biểu đồ giờ chạy."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "buyttphcm",
+        "name": "Xe Buýt TP.HCM"
+      }
+    },
+    {
+      "id": "buyt_tapin",
+      "name": "Hướng dẫn Tap-in – Tap-out khi đi xe buýt từ ngày 1/10/2026",
+      "label": "Hướng Dẫn • Vé Điện Tử",
+      "price": "Vé Số",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_tapin.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_tapin.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_tapin.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_tapin.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Home/ArtMID/546/ArticleID/5043/H%c6%af%e1%bb%9aNG-D%e1%ba%aaN-TAP-IN-%e2%80%93-TAP-OUT-KHI-%c4%90I-XE-BU221T-T%e1%bb%aa-NG192Y-1102026"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Home/ArtMID/546/ArticleID/5043/H%c6%af%e1%bb%9aNG-D%e1%ba%aaN-TAP-IN-%e2%80%93-TAP-OUT-KHI-%c4%90I-XE-BU221T-T%e1%bb%aa-NG192Y-1102026"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Home/ArtMID/546/ArticleID/5043/H%c6%af%e1%bb%9aNG-D%e1%ba%aaN-TAP-IN-%e2%80%93-TAP-OUT-KHI-%c4%90I-XE-BU221T-T%e1%bb%aa-NG192Y-1102026"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Home/ArtMID/546/ArticleID/5043/H%c6%af%e1%bb%9aNG-D%e1%ba%aaN-TAP-IN-%e2%80%93-TAP-OUT-KHI-%c4%90I-XE-BU221T-T%e1%bb%aa-NG192Y-1102026"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Hướng dẫn Tap-in – Tap-out khi đi xe buýt từ ngày 1/10/2026",
+          "text": "Hướng dẫn sử dụng thẻ vé thông minh và ứng dụng điện thoại để quẹt thẻ lúc lên xe (Tap-In) và lúc xuống xe (Tap-Out), tự động tính cước chặng chuẩn xác.\n\nNguồn: Trung Tâm Quản Lý Giao Thông Công Cộng TP.HCM (buyttphcm.com.vn)\n\nBấm nút OPEN để tra cứu trực tuyến lộ trình chi tiết và biểu đồ giờ chạy."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "buyttphcm",
+        "name": "Xe Buýt TP.HCM"
+      }
+    },
+    {
+      "id": "buyt_lienthong",
+      "name": "TP.HCM hướng đến liên thông vé xe buýt - Metro tạo thuận lợi",
+      "label": "Tin Vui • Liên Thông Vé",
+      "price": "Giao Thông",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_lienthong.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_lienthong.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/buyt_lienthong.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/buyt_lienthong.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Home/ArtMID/546/ArticleID/5040/TPHCM-H%c6%af%e1%bb%9aNG-%c4%90%e1%ba%beN-LI202N-TH212NG-V201-XE-BU221T-METRO-T%e1%ba%a0O-THU%e1%ba%acN-L%e1%bb%a2I-CHO-H192NH-KH193CH"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Home/ArtMID/546/ArticleID/5040/TPHCM-H%c6%af%e1%bb%9aNG-%c4%90%e1%ba%beN-LI202N-TH212NG-V201-XE-BU221T-METRO-T%e1%ba%a0O-THU%e1%ba%acN-L%e1%bb%a2I-CHO-H192NH-KH193CH"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://buyttphcm.com.vn/Home/ArtMID/546/ArticleID/5040/TPHCM-H%c6%af%e1%bb%9aNG-%c4%90%e1%ba%beN-LI202N-TH212NG-V201-XE-BU221T-METRO-T%e1%ba%a0O-THU%e1%ba%acN-L%e1%bb%a2I-CHO-H192NH-KH193CH"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://buyttphcm.com.vn/Home/ArtMID/546/ArticleID/5040/TPHCM-H%c6%af%e1%bb%9aNG-%c4%90%e1%ba%beN-LI202N-TH212NG-V201-XE-BU221T-METRO-T%e1%ba%a0O-THU%e1%ba%acN-L%e1%bb%a2I-CHO-H192NH-KH193CH"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "TP.HCM hướng đến liên thông vé xe buýt - Metro tạo thuận lợi",
+          "text": "Đề án phát triển hệ thống vé liên thông một chạm sử dụng chung cho mạng lưới xe buýt và Tuyến Metro Số 1 Bến Thành - Suối Tiên.\n\nNguồn: Trung Tâm Quản Lý Giao Thông Công Cộng TP.HCM (buyttphcm.com.vn)\n\nBấm nút OPEN để tra cứu trực tuyến lộ trình chi tiết và biểu đồ giờ chạy."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "buyttphcm",
+        "name": "Xe Buýt TP.HCM"
+      }
+    }
+  ]
+}
