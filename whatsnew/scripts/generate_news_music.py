@@ -88,18 +88,20 @@ def fetch_vnexpress_news(images_dir):
                     "actions": [
                         {
                             "type": "get",
-                            "link": {"href": link},
+                            "link": {"href": f"entrance://webview/{link}"},
                             "intent": {
                                 "action": "android.intent.action.VIEW",
-                                "data": link
+                                "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+                                "data": f"entrance://webview/{link}"
                             }
                         },
                         {
                             "type": "open",
-                            "link": {"href": link},
+                            "link": {"href": f"entrance://webview/{link}"},
                             "intent": {
                                 "action": "android.intent.action.VIEW",
-                                "data": link
+                                "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+                                "data": f"entrance://webview/{link}"
                             }
                         }
                     ],
@@ -107,7 +109,7 @@ def fetch_vnexpress_news(images_dir):
                         {
                             "type": "text",
                             "name": title,
-                            "text": f"{clean_desc}\n\nNguồn: VnExpress ({category})\nCập nhật lúc: {get_vietnam_time()}\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+                            "text": f"{clean_desc}\n\nNguồn: VnExpress ({category})\nCập nhật lúc: {get_vietnam_time()}\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
                         }
                     ],
                     "type": {

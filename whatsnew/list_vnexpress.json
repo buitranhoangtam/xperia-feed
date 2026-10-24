@@ -4,7 +4,7 @@
   "items": [
     {
       "id": "vne_1",
-      "name": "Cách kỹ sư Việt làm chủ công nghệ thi công dưới lòng đô thị",
+      "name": "48 tiếng không ngủ của giới an ninh mạng",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -25,29 +25,31 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/cach-ky-su-viet-lam-chu-cong-nghe-thi-cong-duoi-long-do-thi-5136104.html"
+            "href": "entrance://webview/https://vnexpress.net/48-tieng-khong-ngu-cua-gioi-an-ninh-mang-5136169.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/cach-ky-su-viet-lam-chu-cong-nghe-thi-cong-duoi-long-do-thi-5136104.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/48-tieng-khong-ngu-cua-gioi-an-ninh-mang-5136169.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/cach-ky-su-viet-lam-chu-cong-nghe-thi-cong-duoi-long-do-thi-5136104.html"
+            "href": "entrance://webview/https://vnexpress.net/48-tieng-khong-ngu-cua-gioi-an-ninh-mang-5136169.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/cach-ky-su-viet-lam-chu-cong-nghe-thi-cong-duoi-long-do-thi-5136104.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/48-tieng-khong-ngu-cua-gioi-an-ninh-mang-5136169.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Cách kỹ sư Việt làm chủ công nghệ thi công dưới lòng đô thị",
-          "text": "Từ chỗ phụ thuộc hoàn toàn vào chuyên gia nước ngoài những ngày đầu, các kỹ sư Việt Nam dần làm chủ công nghệ hiện đại và vận hành máy đào TBM để thi công các đường hầm metro.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "48 tiếng không ngủ của giới an ninh mạng",
+          "text": "Các chuyên gia bảo mật đang chạy đua với thời gian để cập nhật bản vá lỗ hổng ẩn trong ngôn ngữ lập trình PHP trước khi tin tặc gây ra những cuộc tấn công diện rộng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
@@ -58,7 +60,7 @@
     },
     {
       "id": "vne_2",
-      "name": "Tác nhân OpenAI nói dối, tự tắt hệ thống giám sát",
+      "name": "Cách kỹ sư Việt làm chủ công nghệ thi công dưới lòng đô thị",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -79,29 +81,31 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/tac-nhan-openai-noi-doi-tu-tat-he-thong-giam-sat-5135673.html"
+            "href": "entrance://webview/https://vnexpress.net/cach-ky-su-viet-lam-chu-cong-nghe-thi-cong-duoi-long-do-thi-5136104.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/tac-nhan-openai-noi-doi-tu-tat-he-thong-giam-sat-5135673.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/cach-ky-su-viet-lam-chu-cong-nghe-thi-cong-duoi-long-do-thi-5136104.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/tac-nhan-openai-noi-doi-tu-tat-he-thong-giam-sat-5135673.html"
+            "href": "entrance://webview/https://vnexpress.net/cach-ky-su-viet-lam-chu-cong-nghe-thi-cong-duoi-long-do-thi-5136104.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/tac-nhan-openai-noi-doi-tu-tat-he-thong-giam-sat-5135673.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/cach-ky-su-viet-lam-chu-cong-nghe-thi-cong-duoi-long-do-thi-5136104.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Tác nhân OpenAI nói dối, tự tắt hệ thống giám sát",
-          "text": "OpenAI hé lộ, tác nhân AI của công ty vô hiệu hóa hoặc làm suy yếu hệ thống giám sát trong lúc thực hiện nhiệm vụ và sau đó phủ nhận hành vi.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Cách kỹ sư Việt làm chủ công nghệ thi công dưới lòng đô thị",
+          "text": "Từ chỗ phụ thuộc hoàn toàn vào chuyên gia nước ngoài những ngày đầu, các kỹ sư Việt Nam dần làm chủ công nghệ hiện đại và vận hành máy đào TBM để thi công các đường hầm metro.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
@@ -112,7 +116,7 @@
     },
     {
       "id": "vne_3",
-      "name": "Biến cố 25 năm trước và chiến lược 'mật độ nhân tài' tại Netflix",
+      "name": "Tác nhân OpenAI nói dối, tự tắt hệ thống giám sát",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -133,29 +137,31 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/bien-co-25-nam-truoc-va-chien-luoc-mat-do-nhan-tai-tai-netflix-5135358.html"
+            "href": "entrance://webview/https://vnexpress.net/tac-nhan-openai-noi-doi-tu-tat-he-thong-giam-sat-5135673.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/bien-co-25-nam-truoc-va-chien-luoc-mat-do-nhan-tai-tai-netflix-5135358.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/tac-nhan-openai-noi-doi-tu-tat-he-thong-giam-sat-5135673.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/bien-co-25-nam-truoc-va-chien-luoc-mat-do-nhan-tai-tai-netflix-5135358.html"
+            "href": "entrance://webview/https://vnexpress.net/tac-nhan-openai-noi-doi-tu-tat-he-thong-giam-sat-5135673.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/bien-co-25-nam-truoc-va-chien-luoc-mat-do-nhan-tai-tai-netflix-5135358.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/tac-nhan-openai-noi-doi-tu-tat-he-thong-giam-sat-5135673.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Biến cố 25 năm trước và chiến lược 'mật độ nhân tài' tại Netflix",
-          "text": "Từ biến cố cách đây 25 năm, Netflix tin rằng việc chọn lọc nhóm nhỏ những người phù hợp sẽ mang lại hiệu quả tốt hơn cố giữ nhiều nhân viên.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "name": "Tác nhân OpenAI nói dối, tự tắt hệ thống giám sát",
+          "text": "OpenAI hé lộ, tác nhân AI của công ty vô hiệu hóa hoặc làm suy yếu hệ thống giám sát trong lúc thực hiện nhiệm vụ và sau đó phủ nhận hành vi.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
@@ -187,21 +193,23 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/dieu-gi-xay-ra-neu-tac-nhan-ai-noi-ngon-ngu-rieng-5134247.html"
+            "href": "entrance://webview/https://vnexpress.net/dieu-gi-xay-ra-neu-tac-nhan-ai-noi-ngon-ngu-rieng-5134247.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/dieu-gi-xay-ra-neu-tac-nhan-ai-noi-ngon-ngu-rieng-5134247.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/dieu-gi-xay-ra-neu-tac-nhan-ai-noi-ngon-ngu-rieng-5134247.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/dieu-gi-xay-ra-neu-tac-nhan-ai-noi-ngon-ngu-rieng-5134247.html"
+            "href": "entrance://webview/https://vnexpress.net/dieu-gi-xay-ra-neu-tac-nhan-ai-noi-ngon-ngu-rieng-5134247.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/dieu-gi-xay-ra-neu-tac-nhan-ai-noi-ngon-ngu-rieng-5134247.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/dieu-gi-xay-ra-neu-tac-nhan-ai-noi-ngon-ngu-rieng-5134247.html"
           }
         }
       ],
@@ -209,7 +217,7 @@
         {
           "type": "text",
           "name": "Điều gì xảy ra nếu tác nhân AI 'nói' ngôn ngữ riêng?",
-          "text": "Nếu tác nhân AI tự hình thành ngôn ngữ riêng, chúng có thể trao đổi thông tin hiệu quả hơn, nhưng gây khó cho khả năng giám sát của con người.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Nếu tác nhân AI tự hình thành ngôn ngữ riêng, chúng có thể trao đổi thông tin hiệu quả hơn, nhưng gây khó cho khả năng giám sát của con người.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
@@ -241,21 +249,23 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/startup-my-dung-virus-do-ai-thiet-ke-dieu-tri-benh-5135702.html"
+            "href": "entrance://webview/https://vnexpress.net/startup-my-dung-virus-do-ai-thiet-ke-dieu-tri-benh-5135702.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/startup-my-dung-virus-do-ai-thiet-ke-dieu-tri-benh-5135702.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/startup-my-dung-virus-do-ai-thiet-ke-dieu-tri-benh-5135702.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/startup-my-dung-virus-do-ai-thiet-ke-dieu-tri-benh-5135702.html"
+            "href": "entrance://webview/https://vnexpress.net/startup-my-dung-virus-do-ai-thiet-ke-dieu-tri-benh-5135702.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/startup-my-dung-virus-do-ai-thiet-ke-dieu-tri-benh-5135702.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/startup-my-dung-virus-do-ai-thiet-ke-dieu-tri-benh-5135702.html"
           }
         }
       ],
@@ -263,7 +273,7 @@
         {
           "type": "text",
           "name": "Startup Mỹ dùng virus do AI thiết kế điều trị bệnh",
-          "text": "Lần đầu tiên các nhà khoa học sử dụng virus thiết kế bởi AI gọi là thực khuẩn thể, để điều trị cho một bệnh nhân bị nhiễm trùng vi khuẩn nghiêm trọng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Lần đầu tiên các nhà khoa học sử dụng virus thiết kế bởi AI gọi là thực khuẩn thể, để điều trị cho một bệnh nhân bị nhiễm trùng vi khuẩn nghiêm trọng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
@@ -295,21 +305,23 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/tp-hcm-van-hanh-khu-dong-goi-ban-dan-dung-chung-5136052.html"
+            "href": "entrance://webview/https://vnexpress.net/tp-hcm-van-hanh-khu-dong-goi-ban-dan-dung-chung-5136052.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/tp-hcm-van-hanh-khu-dong-goi-ban-dan-dung-chung-5136052.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/tp-hcm-van-hanh-khu-dong-goi-ban-dan-dung-chung-5136052.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/tp-hcm-van-hanh-khu-dong-goi-ban-dan-dung-chung-5136052.html"
+            "href": "entrance://webview/https://vnexpress.net/tp-hcm-van-hanh-khu-dong-goi-ban-dan-dung-chung-5136052.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/tp-hcm-van-hanh-khu-dong-goi-ban-dan-dung-chung-5136052.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/tp-hcm-van-hanh-khu-dong-goi-ban-dan-dung-chung-5136052.html"
           }
         }
       ],
@@ -317,7 +329,7 @@
         {
           "type": "text",
           "name": "TP HCM vận hành khu đóng gói bán dẫn dùng chung",
-          "text": "SHTP ATP Lab đặt tại khu Công nghệ cao TP HCM, các trường đại học, cao đẳng, viện nghiên cứu, doanh nghiệp có thể cùng khai thác hạ tầng để thực hành.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "SHTP ATP Lab đặt tại khu Công nghệ cao TP HCM, các trường đại học, cao đẳng, viện nghiên cứu, doanh nghiệp có thể cùng khai thác hạ tầng để thực hành.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
@@ -349,21 +361,23 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/robot-ho-ve-co-the-nang-bong-oto-tuoc-vu-khi-ke-tan-cong-5135726.html"
+            "href": "entrance://webview/https://vnexpress.net/robot-ho-ve-co-the-nang-bong-oto-tuoc-vu-khi-ke-tan-cong-5135726.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/robot-ho-ve-co-the-nang-bong-oto-tuoc-vu-khi-ke-tan-cong-5135726.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/robot-ho-ve-co-the-nang-bong-oto-tuoc-vu-khi-ke-tan-cong-5135726.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/robot-ho-ve-co-the-nang-bong-oto-tuoc-vu-khi-ke-tan-cong-5135726.html"
+            "href": "entrance://webview/https://vnexpress.net/robot-ho-ve-co-the-nang-bong-oto-tuoc-vu-khi-ke-tan-cong-5135726.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/robot-ho-ve-co-the-nang-bong-oto-tuoc-vu-khi-ke-tan-cong-5135726.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/robot-ho-ve-co-the-nang-bong-oto-tuoc-vu-khi-ke-tan-cong-5135726.html"
           }
         }
       ],
@@ -371,7 +385,7 @@
         {
           "type": "text",
           "name": "Robot hộ vệ có thể nâng bổng ôtô, tước vũ khí kẻ tấn công",
-          "text": "Robot hình người H2-X do Unitree Robotics phát triển thể hiện khả năng tước vũ khí của tội phạm và nhấc bổng xe để cứu người trong video giới thiệu hôm 21/10.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Robot hình người H2-X do Unitree Robotics phát triển thể hiện khả năng tước vũ khí của tội phạm và nhấc bổng xe để cứu người trong video giới thiệu hôm 21/10.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
@@ -403,21 +417,23 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/jensen-huang-tan-the-ai-la-no-luc-gay-chu-y-re-tien-5136003.html"
+            "href": "entrance://webview/https://vnexpress.net/jensen-huang-tan-the-ai-la-no-luc-gay-chu-y-re-tien-5136003.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/jensen-huang-tan-the-ai-la-no-luc-gay-chu-y-re-tien-5136003.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/jensen-huang-tan-the-ai-la-no-luc-gay-chu-y-re-tien-5136003.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/jensen-huang-tan-the-ai-la-no-luc-gay-chu-y-re-tien-5136003.html"
+            "href": "entrance://webview/https://vnexpress.net/jensen-huang-tan-the-ai-la-no-luc-gay-chu-y-re-tien-5136003.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/jensen-huang-tan-the-ai-la-no-luc-gay-chu-y-re-tien-5136003.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/jensen-huang-tan-the-ai-la-no-luc-gay-chu-y-re-tien-5136003.html"
           }
         }
       ],
@@ -425,7 +441,7 @@
         {
           "type": "text",
           "name": "Jensen Huang: 'Tận thế AI là nỗ lực gây chú ý rẻ tiền'",
-          "text": "Jensen Huang, CEO Nvidia, cho rằng những cảnh báo về việc AI xóa sổ loài người không chính xác mà chỉ nhằm thu hút sự chú ý của dư luận.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Jensen Huang, CEO Nvidia, cho rằng những cảnh báo về việc AI xóa sổ loài người không chính xác mà chỉ nhằm thu hút sự chú ý của dư luận.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
@@ -457,21 +473,23 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/chung-cu-cho-heo-chuong-trai-ai-tai-trien-lam-chan-nuoi-5135894.html"
+            "href": "entrance://webview/https://vnexpress.net/chung-cu-cho-heo-chuong-trai-ai-tai-trien-lam-chan-nuoi-5135894.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/chung-cu-cho-heo-chuong-trai-ai-tai-trien-lam-chan-nuoi-5135894.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/chung-cu-cho-heo-chuong-trai-ai-tai-trien-lam-chan-nuoi-5135894.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/chung-cu-cho-heo-chuong-trai-ai-tai-trien-lam-chan-nuoi-5135894.html"
+            "href": "entrance://webview/https://vnexpress.net/chung-cu-cho-heo-chuong-trai-ai-tai-trien-lam-chan-nuoi-5135894.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/chung-cu-cho-heo-chuong-trai-ai-tai-trien-lam-chan-nuoi-5135894.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/chung-cu-cho-heo-chuong-trai-ai-tai-trien-lam-chan-nuoi-5135894.html"
           }
         }
       ],
@@ -479,7 +497,7 @@
         {
           "type": "text",
           "name": "'Chung cư' cho heo, chuồng trại AI tại triển lãm chăn nuôi",
-          "text": "Mô hình \"chung cư\" cho heo, chăn nuôi tự động bằng AI, máy chế biến thức ăn, xử lý chất thải hiện đại được giới thiệu tại triển lãm Vietstock 2026.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Mô hình \"chung cư\" cho heo, chăn nuôi tự động bằng AI, máy chế biến thức ăn, xử lý chất thải hiện đại được giới thiệu tại triển lãm Vietstock 2026.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
@@ -511,21 +529,23 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/spacex-muon-tiep-can-80-000-tram-thu-phat-song-di-dong-o-my-5135847.html"
+            "href": "entrance://webview/https://vnexpress.net/spacex-muon-tiep-can-80-000-tram-thu-phat-song-di-dong-o-my-5135847.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/spacex-muon-tiep-can-80-000-tram-thu-phat-song-di-dong-o-my-5135847.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/spacex-muon-tiep-can-80-000-tram-thu-phat-song-di-dong-o-my-5135847.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/spacex-muon-tiep-can-80-000-tram-thu-phat-song-di-dong-o-my-5135847.html"
+            "href": "entrance://webview/https://vnexpress.net/spacex-muon-tiep-can-80-000-tram-thu-phat-song-di-dong-o-my-5135847.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/spacex-muon-tiep-can-80-000-tram-thu-phat-song-di-dong-o-my-5135847.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/spacex-muon-tiep-can-80-000-tram-thu-phat-song-di-dong-o-my-5135847.html"
           }
         }
       ],
@@ -533,7 +553,7 @@
         {
           "type": "text",
           "name": "SpaceX muốn tiếp cận 80.000 trạm thu phát sóng di động ở Mỹ",
-          "text": "SpaceX đang đàm phán với các công ty hạ tầng để bảo đảm quyền tiếp cận hơn 80.000 trạm thu phát sóng di động trên khắp nước Mỹ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "SpaceX đang đàm phán với các công ty hạ tầng để bảo đảm quyền tiếp cận hơn 80.000 trạm thu phát sóng di động trên khắp nước Mỹ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
@@ -565,21 +585,23 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/sang-kien-nang-cao-suc-khoe-lao-dong-nu-tai-khu-cong-nghiep-5136025.html"
+            "href": "entrance://webview/https://vnexpress.net/sang-kien-nang-cao-suc-khoe-lao-dong-nu-tai-khu-cong-nghiep-5136025.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/sang-kien-nang-cao-suc-khoe-lao-dong-nu-tai-khu-cong-nghiep-5136025.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/sang-kien-nang-cao-suc-khoe-lao-dong-nu-tai-khu-cong-nghiep-5136025.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/sang-kien-nang-cao-suc-khoe-lao-dong-nu-tai-khu-cong-nghiep-5136025.html"
+            "href": "entrance://webview/https://vnexpress.net/sang-kien-nang-cao-suc-khoe-lao-dong-nu-tai-khu-cong-nghiep-5136025.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/sang-kien-nang-cao-suc-khoe-lao-dong-nu-tai-khu-cong-nghiep-5136025.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/sang-kien-nang-cao-suc-khoe-lao-dong-nu-tai-khu-cong-nghiep-5136025.html"
           }
         }
       ],
@@ -587,7 +609,7 @@
         {
           "type": "text",
           "name": "Sáng kiến nâng cao sức khỏe lao động nữ tại khu công nghiệp",
-          "text": "Kao Việt Nam khởi xướng chương trình Care within Reach, đưa các hoạt động chăm sóc sức khỏe đến gần nơi làm việc, góp phần chăm sóc sức khỏe cho lao động nữ di cư.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Kao Việt Nam khởi xướng chương trình Care within Reach, đưa các hoạt động chăm sóc sức khỏe đến gần nơi làm việc, góp phần chăm sóc sức khỏe cho lao động nữ di cư.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
@@ -619,21 +641,23 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/tuong-lai-xe-dien-khong-chi-nam-o-cong-nghe-5135806.html"
+            "href": "entrance://webview/https://vnexpress.net/tuong-lai-xe-dien-khong-chi-nam-o-cong-nghe-5135806.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/tuong-lai-xe-dien-khong-chi-nam-o-cong-nghe-5135806.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/tuong-lai-xe-dien-khong-chi-nam-o-cong-nghe-5135806.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/tuong-lai-xe-dien-khong-chi-nam-o-cong-nghe-5135806.html"
+            "href": "entrance://webview/https://vnexpress.net/tuong-lai-xe-dien-khong-chi-nam-o-cong-nghe-5135806.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/tuong-lai-xe-dien-khong-chi-nam-o-cong-nghe-5135806.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/tuong-lai-xe-dien-khong-chi-nam-o-cong-nghe-5135806.html"
           }
         }
       ],
@@ -641,7 +665,7 @@
         {
           "type": "text",
           "name": "'Tương lai xe điện không chỉ nằm ở công nghệ'",
-          "text": "Công nghệ cần chuyển thành giá trị sử dụng thực tế, giúp xe điện đến gần hơn với cuộc sống của nhiều người, theo lãnh đạo Wuling tại Việt Nam.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Công nghệ cần chuyển thành giá trị sử dụng thực tế, giúp xe điện đến gần hơn với cuộc sống của nhiều người, theo lãnh đạo Wuling tại Việt Nam.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
@@ -673,21 +697,23 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/ukraine-tuyen-bo-mo-chien-dich-luon-ong-tap-hau-luc-luong-nga-5135922.html"
+            "href": "entrance://webview/https://vnexpress.net/ukraine-tuyen-bo-mo-chien-dich-luon-ong-tap-hau-luc-luong-nga-5135922.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/ukraine-tuyen-bo-mo-chien-dich-luon-ong-tap-hau-luc-luong-nga-5135922.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/ukraine-tuyen-bo-mo-chien-dich-luon-ong-tap-hau-luc-luong-nga-5135922.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/ukraine-tuyen-bo-mo-chien-dich-luon-ong-tap-hau-luc-luong-nga-5135922.html"
+            "href": "entrance://webview/https://vnexpress.net/ukraine-tuyen-bo-mo-chien-dich-luon-ong-tap-hau-luc-luong-nga-5135922.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/ukraine-tuyen-bo-mo-chien-dich-luon-ong-tap-hau-luc-luong-nga-5135922.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/ukraine-tuyen-bo-mo-chien-dich-luon-ong-tap-hau-luc-luong-nga-5135922.html"
           }
         }
       ],
@@ -695,7 +721,7 @@
         {
           "type": "text",
           "name": "Ukraine tuyên bố mở chiến dịch luồn ống, tập hậu lực lượng Nga",
-          "text": "Ukraine dùng đường ống ngầm để tấn công lực lượng Nga tại Kupyansk, tuyên bố đây là chiến dịch phản công đầu tiên trên thế giới theo phương thức này.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Ukraine dùng đường ống ngầm để tấn công lực lượng Nga tại Kupyansk, tuyên bố đây là chiến dịch phản công đầu tiên trên thế giới theo phương thức này.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
@@ -727,21 +753,23 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/ro-ri-bon-hoa-chat-tai-my-hang-chuc-nguoi-nhap-vien-5135986.html"
+            "href": "entrance://webview/https://vnexpress.net/ro-ri-bon-hoa-chat-tai-my-hang-chuc-nguoi-nhap-vien-5135986.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/ro-ri-bon-hoa-chat-tai-my-hang-chuc-nguoi-nhap-vien-5135986.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/ro-ri-bon-hoa-chat-tai-my-hang-chuc-nguoi-nhap-vien-5135986.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/ro-ri-bon-hoa-chat-tai-my-hang-chuc-nguoi-nhap-vien-5135986.html"
+            "href": "entrance://webview/https://vnexpress.net/ro-ri-bon-hoa-chat-tai-my-hang-chuc-nguoi-nhap-vien-5135986.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/ro-ri-bon-hoa-chat-tai-my-hang-chuc-nguoi-nhap-vien-5135986.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/ro-ri-bon-hoa-chat-tai-my-hang-chuc-nguoi-nhap-vien-5135986.html"
           }
         }
       ],
@@ -749,7 +777,7 @@
         {
           "type": "text",
           "name": "Rò rỉ bồn hóa chất tại Mỹ, hàng chục người nhập viện",
-          "text": "Bồn chứa hóa chất công nghiệp tại thành phố Toledo gặp sự cố rò rỉ, khiến gần 1.000 người sơ tán và hàng chục người nhập viện.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Bồn chứa hóa chất công nghiệp tại thành phố Toledo gặp sự cố rò rỉ, khiến gần 1.000 người sơ tán và hàng chục người nhập viện.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
@@ -781,21 +809,23 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/em-thich-vun-ven-cho-nhung-dieu-minh-yeu-quy-5134085.html"
+            "href": "entrance://webview/https://vnexpress.net/em-thich-vun-ven-cho-nhung-dieu-minh-yeu-quy-5134085.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/em-thich-vun-ven-cho-nhung-dieu-minh-yeu-quy-5134085.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/em-thich-vun-ven-cho-nhung-dieu-minh-yeu-quy-5134085.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/em-thich-vun-ven-cho-nhung-dieu-minh-yeu-quy-5134085.html"
+            "href": "entrance://webview/https://vnexpress.net/em-thich-vun-ven-cho-nhung-dieu-minh-yeu-quy-5134085.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/em-thich-vun-ven-cho-nhung-dieu-minh-yeu-quy-5134085.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/em-thich-vun-ven-cho-nhung-dieu-minh-yeu-quy-5134085.html"
           }
         }
       ],
@@ -803,7 +833,7 @@
         {
           "type": "text",
           "name": "Em thích vun vén cho những điều mình yêu quý",
-          "text": "Em là người cẩn thận, nhẹ nhàng, biết quan sát và khá để ý đến những điều nhỏ trong cách cư xử.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Em là người cẩn thận, nhẹ nhàng, biết quan sát và khá để ý đến những điều nhỏ trong cách cư xử.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
@@ -835,21 +865,23 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/toi-bo-viec-luong-cao-sau-6-thang-bi-sep-giao-viec-ngoai-gio-5136042.html"
+            "href": "entrance://webview/https://vnexpress.net/toi-bo-viec-luong-cao-sau-6-thang-bi-sep-giao-viec-ngoai-gio-5136042.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/toi-bo-viec-luong-cao-sau-6-thang-bi-sep-giao-viec-ngoai-gio-5136042.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/toi-bo-viec-luong-cao-sau-6-thang-bi-sep-giao-viec-ngoai-gio-5136042.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/toi-bo-viec-luong-cao-sau-6-thang-bi-sep-giao-viec-ngoai-gio-5136042.html"
+            "href": "entrance://webview/https://vnexpress.net/toi-bo-viec-luong-cao-sau-6-thang-bi-sep-giao-viec-ngoai-gio-5136042.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/toi-bo-viec-luong-cao-sau-6-thang-bi-sep-giao-viec-ngoai-gio-5136042.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/toi-bo-viec-luong-cao-sau-6-thang-bi-sep-giao-viec-ngoai-gio-5136042.html"
           }
         }
       ],
@@ -857,7 +889,7 @@
         {
           "type": "text",
           "name": "Tôi bỏ việc lương cao sau 6 tháng bị sếp giao việc ngoài giờ",
-          "text": "Mỗi lần gọi giao việc ngoài giờ, sếp chưa một lần hỏi xem tôi có đang bận không, hay cảm ơn sau khi tôi hoàn thành.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Mỗi lần gọi giao việc ngoài giờ, sếp chưa một lần hỏi xem tôi có đang bận không, hay cảm ơn sau khi tôi hoàn thành.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
@@ -889,21 +921,23 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/khanh-thanh-cum-11-cong-trinh-ve-sinh-dat-chuan-o-son-la-5135815.html"
+            "href": "entrance://webview/https://vnexpress.net/khanh-thanh-cum-11-cong-trinh-ve-sinh-dat-chuan-o-son-la-5135815.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/khanh-thanh-cum-11-cong-trinh-ve-sinh-dat-chuan-o-son-la-5135815.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/khanh-thanh-cum-11-cong-trinh-ve-sinh-dat-chuan-o-son-la-5135815.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/khanh-thanh-cum-11-cong-trinh-ve-sinh-dat-chuan-o-son-la-5135815.html"
+            "href": "entrance://webview/https://vnexpress.net/khanh-thanh-cum-11-cong-trinh-ve-sinh-dat-chuan-o-son-la-5135815.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/khanh-thanh-cum-11-cong-trinh-ve-sinh-dat-chuan-o-son-la-5135815.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/khanh-thanh-cum-11-cong-trinh-ve-sinh-dat-chuan-o-son-la-5135815.html"
           }
         }
       ],
@@ -911,7 +945,7 @@
         {
           "type": "text",
           "name": "Khánh thành cụm 11 công trình vệ sinh đạt chuẩn ở Sơn La",
-          "text": "Sáng 22/10, Quỹ Hy vọng cùng Opella Việt Nam và BW Industrial bàn giao cụm 11 công trình vệ sinh học đường tại 6 xã, tổng tài trợ gần 3 tỷ đồng.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Sáng 22/10, Quỹ Hy vọng cùng Opella Việt Nam và BW Industrial bàn giao cụm 11 công trình vệ sinh học đường tại 6 xã, tổng tài trợ gần 3 tỷ đồng.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
@@ -943,21 +977,23 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/cong-ty-bau-duc-chot-hop-dong-ban-1-000-tan-ca-phe-sang-trung-quoc-5135978.html"
+            "href": "entrance://webview/https://vnexpress.net/cong-ty-bau-duc-chot-hop-dong-ban-1-000-tan-ca-phe-sang-trung-quoc-5135978.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/cong-ty-bau-duc-chot-hop-dong-ban-1-000-tan-ca-phe-sang-trung-quoc-5135978.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/cong-ty-bau-duc-chot-hop-dong-ban-1-000-tan-ca-phe-sang-trung-quoc-5135978.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/cong-ty-bau-duc-chot-hop-dong-ban-1-000-tan-ca-phe-sang-trung-quoc-5135978.html"
+            "href": "entrance://webview/https://vnexpress.net/cong-ty-bau-duc-chot-hop-dong-ban-1-000-tan-ca-phe-sang-trung-quoc-5135978.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/cong-ty-bau-duc-chot-hop-dong-ban-1-000-tan-ca-phe-sang-trung-quoc-5135978.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/cong-ty-bau-duc-chot-hop-dong-ban-1-000-tan-ca-phe-sang-trung-quoc-5135978.html"
           }
         }
       ],
@@ -965,7 +1001,7 @@
         {
           "type": "text",
           "name": "Công ty bầu Đức chốt hợp đồng bán 1.000 tấn cà phê sang Trung Quốc",
-          "text": "Gần 3.000 ha cà phê HAG năm sau mới thu hoạch, nhưng bầu Đức đã chốt hợp đồng xuất khẩu 1.000 tấn sang Trung Quốc với giá 182.000 đồng một kg.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Gần 3.000 ha cà phê HAG năm sau mới thu hoạch, nhưng bầu Đức đã chốt hợp đồng xuất khẩu 1.000 tấn sang Trung Quốc với giá 182.000 đồng một kg.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
@@ -997,21 +1033,23 @@
         {
           "type": "get",
           "link": {
-            "href": "https://vnexpress.net/phut-ngo-ngang-cua-tu-nhan-my-khi-duoc-nga-phong-thich-5135959.html"
+            "href": "entrance://webview/https://vnexpress.net/phut-ngo-ngang-cua-tu-nhan-my-khi-duoc-nga-phong-thich-5135959.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/phut-ngo-ngang-cua-tu-nhan-my-khi-duoc-nga-phong-thich-5135959.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/phut-ngo-ngang-cua-tu-nhan-my-khi-duoc-nga-phong-thich-5135959.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "https://vnexpress.net/phut-ngo-ngang-cua-tu-nhan-my-khi-duoc-nga-phong-thich-5135959.html"
+            "href": "entrance://webview/https://vnexpress.net/phut-ngo-ngang-cua-tu-nhan-my-khi-duoc-nga-phong-thich-5135959.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
-            "data": "https://vnexpress.net/phut-ngo-ngang-cua-tu-nhan-my-khi-duoc-nga-phong-thich-5135959.html"
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/phut-ngo-ngang-cua-tu-nhan-my-khi-duoc-nga-phong-thich-5135959.html"
           }
         }
       ],
@@ -1019,7 +1057,7 @@
         {
           "type": "text",
           "name": "Phút ngỡ ngàng của tù nhân Mỹ khi được Nga phóng thích",
-          "text": "Stephen Hubbard, công dân Mỹ được Nga phóng thích sau hơn 4 năm giam giữ, chỉ nhận ra mình được tự do khi bước lên máy bay và nhìn thấy lá cờ quê hương.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 08:51 - 24/10/2026\n\nBấm nút OPEN để mở bài viết gốc trên VnExpress."
+          "text": "Stephen Hubbard, công dân Mỹ được Nga phóng thích sau hơn 4 năm giam giữ, chỉ nhận ra mình được tự do khi bước lên máy bay và nhìn thấy lá cờ quê hương.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 09:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp toàn bài trên Sony News Suite Reader."
         }
       ],
       "type": {
