@@ -1,352 +1,174 @@
 {
-  "version": 1,
-  "last_updated": "2026-10-22T14:09:49Z",
+  "last_updated": "2026-10-24T12:42:56.842415+00:00",
   "apps": [
     {
-      "id": "walkman",
-      "package": "com.sonyericsson.walkman",
-      "name": "Sony Walkman™ (Music)",
-      "version": "9.4.16.A.1.23",
-      "size": 22124953,
-      "size_str": "21.1 MB",
-      "publisher": "Sony Corporation",
-      "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/walkman.png",
-      "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/walkman.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Walkman_Universal.apk",
-      "description": "Trình phát nhạc Sony Walkman huyền thoại mang lại chất lượng âm thanh nguyên bản chuẩn studio. Tích hợp công nghệ giải mã âm thanh Hi-Res Audio, ClearAudio+, DSEE HX và bộ hiệu ứng Visualizer sống động.",
-      "features": [
-        "Hỗ trợ trải nghiệm âm nhạc trên các thiết bị Android và Xiaomi HyperOS",
-        "Nâng cấp engine âm thanh Hi-Res Audio và tăng cường dải bass Clear BASS",
-        "Visualizer mượt mà, tối ưu hóa tiêu thụ pin khi phát nhạc nền",
-        "Hỗ trợ bộ chỉnh âm 10-band Equalizer và Dynamic Normalizer"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_walkman_real.png",
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_wh1000xm5_real.png"
-      ]
+      "packageName": "com.sonyericsson.walkman",
+      "size": "21.1 MB",
+      "driveUrl": "https://drive.google.com/drive/folders/1YP-aA65ZVy8dAH21DWwxI1w_rYcrq-9h",
+      "fileName": "Sony_Walkman_Universal.apk",
+      "versionCode": 19530775,
+      "changelog": "Tối ưu hóa âm thanh Hi-Res Audio, Visualizer 60fps, tương thích Android 14/15/16.",
+      "versionName": "9.4.16.A.1.23",
+      "appName": "Sony Walkman",
+      "fileId": "1UIoY-_vyRvoUe9Mx2_SCfBPk2LhSqynr",
+      "downloadUrl": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Walkman_Universal.apk"
     },
     {
-      "id": "album",
-      "package": "com.sonyericsson.album",
-      "name": "Sony Album (Bravia Suite)",
-      "version": "9.9.A.0.20",
-      "size": 21390950,
-      "size_str": "20.4 MB",
-      "publisher": "Sony Corporation",
-      "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/album.png",
-      "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/album.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Album_Universal.apk",
-      "description": "Bộ sưu tập ảnh và video Sony Album với công nghệ hiển thị hình ảnh X-Reality và Triluminos Display độc quyền từ dòng TV Sony Bravia cao cấp. Quản lý album thông minh theo ngày tháng, địa điểm và khuôn mặt.",
-      "features": [
-        "Tích hợp công nghệ tối ưu hiển thị X-Reality for mobile sắc nét",
-        "Hiệu ứng vuốt phóng to thu nhỏ lưới ảnh đa kích thước mượt mà",
-        "Tối ưu hóa tải ảnh RAW và video 4K HDR tốc độ cao",
-        "Khắc phục triệt để tương thích thư mục hình ảnh trên Android 15"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_sensor_real.png",
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_alpha_real.png"
-      ]
+      "packageName": "com.sonyericsson.album",
+      "size": "20.4 MB",
+      "driveUrl": "https://drive.google.com/drive/folders/1YP-aA65ZVy8dAH21DWwxI1w_rYcrq-9h",
+      "fileName": "Sony_Album_Universal.apk",
+      "versionCode": 20054036,
+      "changelog": "Trình xem ảnh Sony Album Bravia Engine gốc, tích hợp đồng bộ 2 chiều thời gian thực với Google Photos Unlimited.",
+      "versionName": "9.9.A.0.20",
+      "appName": "Sony Album (Original Suite)",
+      "fileId": "10zT5izwk-oc6BtDxSBZaYJz2pwKycz3B",
+      "downloadUrl": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Album_Universal.apk"
     },
     {
-      "id": "calendar",
-      "package": "com.sonymobile.calendar",
-      "name": "Sony Calendar™",
-      "version": "20.4.C.3.21",
-      "size": 14050918,
-      "size_str": "13.4 MB",
-      "publisher": "Sony Mobile Communications",
-      "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/calendar.png",
-      "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/calendar.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Calendar_Universal.apk",
-      "description": "Lịch sự kiện Sony Xperia phong cách tối giản thanh lịch, đồng bộ thời gian thực 2 chiều với Google Calendar và Microsoft Exchange. Hỗ trợ hiển thị thời tiết tích hợp và lời nhắc thông minh.",
-      "features": [
-        "Giao diện hiện đại hỗ trợ Dark Theme chuẩn AMOLED",
-        "Đồng bộ hóa sự kiện Google Calendar và Exchange ổn định",
-        "Widget lịch màn hình chính đa dạng kích thước phong cách Sony",
-        "Sửa lỗi đồng bộ múi giờ tự động theo mạng viễn thông"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_stock_real.png",
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_kando_real.png"
-      ]
+      "packageName": "com.sonymobile.sketch",
+      "size": "33.3 MB",
+      "driveUrl": "https://drive.google.com/drive/folders/1YP-aA65ZVy8dAH21DWwxI1w_rYcrq-9h",
+      "fileName": "Sony_Sketch_Universal.apk",
+      "versionCode": 18874374,
+      "changelog": "Bộ cọ vẽ chuyên nghiệp Sony, đầy đủ sticker offline và lưu xuất vector.",
+      "versionName": "9.0.A.0.6",
+      "appName": "Sony Sketch",
+      "fileId": "17dM3LX7SmPZhKRD9fN4Vqc5osiZr9nCW",
+      "downloadUrl": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Sketch_Universal.apk"
     },
     {
-      "id": "organizer",
-      "package": "com.sonyericsson.organizer",
-      "name": "Sony Clock & Alarm",
-      "version": "20.2.A.2.54",
-      "size": 8074035,
-      "size_str": "7.7 MB",
-      "publisher": "Sony Mobile Communications",
-      "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/clock.png",
-      "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/organizer.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Clock_Universal.apk",
-      "description": "Đồng hồ thế giới, bấm giờ thể thao chính xác mili-giây, đếm ngược và báo thức thông minh Sony Xperia. Thiết kế kim đồng hồ và mặt số số học đặc trưng dòng điện thoại Xperia Z Series.",
-      "features": [
-        "Báo thức thông minh với âm lượng tăng dần êm ái",
-        "Đồng hồ thế giới hiển thị múi giờ hơn 500 thành phố",
-        "Widget đồng hồ cơ số học Sony huyền thoại trên màn hình khóa",
-        "Khắc phục báo thức chạy ngầm trên trình tiết kiệm pin Android 15"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_stock_real.png",
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_kando_real.png"
-      ]
+      "packageName": "com.sonymobile.calendar",
+      "size": "13.4 MB",
+      "driveUrl": "https://drive.google.com/drive/folders/1YP-aA65ZVy8dAH21DWwxI1w_rYcrq-9h",
+      "fileName": "Sony_Calendar_Universal.apk",
+      "versionCode": 42470421,
+      "changelog": "Lịch Xperia giao diện SF Pro Text, đồng bộ Google Calendar thời gian thực.",
+      "versionName": "20.4.C.3.21",
+      "appName": "Sony Calendar",
+      "fileId": "1dDRD3hV_Itab0Hi2WMezO-HAdhFhUnvx",
+      "downloadUrl": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Calendar_Universal.apk"
     },
     {
-      "id": "sketch",
-      "package": "com.sonymobile.sketch",
-      "name": "Sony Sketch (Họa Sĩ)",
-      "version": "9.0.A.0.6",
-      "size": 34917580,
-      "size_str": "33.3 MB",
-      "publisher": "Sony Mobile Communications",
-      "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/sketch.png",
-      "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/sketch.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Sketch_Universal.apk",
-      "description": "Ứng dụng vẽ và phác thảo nghệ thuật chuyên nghiệp Sony Sketch. Cung cấp đầy đủ cọ vẽ, bút chì, màu nước, bút dạ, thước kẻ và lớp vẽ layers không giới hạn cho mọi độ phân giải.",
-      "features": [
-        "Mở khóa toàn bộ sticker gói cọ vẽ nghệ thuật độc quyền Sony",
-        "Hỗ trợ vẽ đa lớp (Layers) và xuất file độ phân giải siêu nét",
-        "Tối ưu hóa độ trễ nét vẽ khi sử dụng bút cảm ứng",
-        "Hoạt động hoàn toàn độc lập ngoại tuyến (Offline 100%)"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_sensor_real.png",
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_alpha_real.png"
-      ]
+      "packageName": "com.sonyericsson.organizer",
+      "size": "7.7 MB",
+      "driveUrl": "https://drive.google.com/drive/folders/1YP-aA65ZVy8dAH21DWwxI1w_rYcrq-9h",
+      "fileName": "Sony_Clock_Universal.apk",
+      "versionCode": 42207286,
+      "changelog": "Đồng hồ thế giới, bấm giờ, hẹn giờ và báo thức phong cách Xperia nguyên bản.",
+      "versionName": "20.2.A.2.54",
+      "appName": "Sony Clock",
+      "fileId": "1tivnq3mtkniK0jGR5DrCyL1GotSD4n7B",
+      "downloadUrl": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Clock_Universal.apk"
     },
     {
-      "id": "contacts",
-      "package": "com.sonymobile.android.contacts",
-      "name": "Sony Contacts (Danh Bạ)",
-      "version": "1.8.2-amoled-font",
-      "size": 11639193,
-      "size_str": "11.1 MB",
-      "publisher": "Sony Mobile Communications",
-      "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/contacts.png",
-      "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/contacts.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Contacts_Universal.apk",
-      "description": "Danh bạ Sony Xperia thiết kế thuần khiết, hỗ trợ lọc thông minh, gộp danh bạ trùng lặp, sao lưu danh bạ an toàn và tương thích hoàn toàn 2 SIM trên điện thoại hiện đại.",
-      "features": [
-        "Tích hợp giao diện AMOLED Dark Mode tiết kiệm năng lượng",
-        "Hỗ trợ phông chữ Apple SF Pro Text sắc nét",
-        "Tìm kiếm danh bạ thông minh theo tiếng Việt có dấu và không dấu",
-        "Tương thích cuộc gọi 2 SIM tiêu chuẩn VoLTE"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_viii.png",
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_vi.png"
-      ]
+      "packageName": "com.sonymobile.android.contacts",
+      "size": "11.1 MB",
+      "driveUrl": "https://drive.google.com/drive/folders/1YP-aA65ZVy8dAH21DWwxI1w_rYcrq-9h",
+      "fileName": "Sony_Contacts_Universal.apk",
+      "versionCode": 10801,
+      "changelog": "Danh bạ AMOLED Dark Mode, tìm kiếm danh bạ thông minh theo ký tự T9.",
+      "versionName": "1.8.1-amoled-font",
+      "appName": "Sony Contacts",
+      "fileId": "1XKm3a9tKAQduONy4qPPVJBRaOsXbPgMj",
+      "downloadUrl": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Contacts_Universal.apk"
     },
     {
-      "id": "dialer",
-      "package": "com.sonymobile.android.dialer",
-      "name": "Sony Dialer (Điện Thoại)",
-      "version": "19.5.A.25",
-      "size": 19188940,
-      "size_str": "18.3 MB",
-      "publisher": "Sony Mobile Communications",
-      "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/dialer.png",
-      "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/dialer.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Dialer_Universal.apk",
-      "description": "Trình quay số điện thoại Sony Xperia với bàn phím số thanh lịch, tốc độ phản hồi tức thì và hiệu ứng bấm phím đặc trưng. Hỗ trợ đầy đủ chức năng quản lý cuộc gọi hiện đại.",
-      "features": [
-        "Bàn phím quay số T9 tìm kiếm danh bạ siêu tốc",
-        "Hỗ trợ chọn SIM chủ động khi thực hiện cuộc gọi",
-        "Tối ưu hóa độ phân giải màn hình 2K/4K sắc nét",
-        "Hoạt động ổn định trên nền Android 15 không bị kill tiến trình"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_viii.png",
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_vi.png"
-      ]
+      "packageName": "com.sonymobile.android.dialer",
+      "size": "18.8 MB",
+      "driveUrl": "https://drive.google.com/drive/folders/1YP-aA65ZVy8dAH21DWwxI1w_rYcrq-9h",
+      "fileName": "Sony_Dialer_Universal.apk",
+      "versionCode": 250090,
+      "changelog": "Bản phát hành chính thức tích hợp Xperia Internet Call (gọi qua Internet/Wi-Fi thông minh), đồng bộ giao diện InCall UI nguyên bản via Xperia Call, căn giữa công thái học 21:9.",
+      "versionName": "19.5.A.0.30",
+      "appName": "Sony Dialer",
+      "fileId": "1UHS4SwSf2F8fgp-I8xdAh76E3nbPvF1T",
+      "downloadUrl": "https://github.com/buitranhoangtam/xperia-releases/releases/download/dialer-v19.5.A.0.30/Sony_Dialer_Universal.apk"
     },
     {
-      "id": "conversations",
-      "package": "com.sonyericsson.conversations",
-      "name": "Sony Conversations (Tin Nhắn)",
-      "version": "30.0.A.024",
-      "size": 20971520,
-      "size_str": "20.0 MB",
-      "publisher": "Sony Mobile Communications",
-      "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/conversations.png",
-      "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/conversations.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Messaging_Universal.apk",
-      "description": "Ứng dụng nhắn tin SMS & MMS Sony Xperia giao diện bong bóng trò chuyện trực quan, hỗ trợ gửi hình ảnh, âm thanh, danh thiếp và tin nhắn đa SIM.",
-      "features": [
-        "Giao diện bong bóng tin nhắn Sony nguyên bản",
-        "Hỗ trợ sao lưu và phục hồi tin nhắn SMS",
-        "Tìm kiếm nội dung tin nhắn nhanh chóng",
-        "Tối ưu hóa gửi nhận SMS trên mạng 5G"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_viii.png",
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_vi.png"
-      ]
+      "packageName": "com.sonymobile.email",
+      "size": "11.0 MB",
+      "driveUrl": "https://drive.google.com/drive/folders/1YP-aA65ZVy8dAH21DWwxI1w_rYcrq-9h",
+      "fileName": "Sony_Email_Universal.apk",
+      "versionCode": 31459031,
+      "changelog": "Hộp thư điện tử Sony Xperia hỗ trợ Gmail, Exchange và IMAP an toàn.",
+      "versionName": "16.0.A.2031",
+      "appName": "Sony Email",
+      "fileId": "139OKkAx0Qu3gP5E15M4R5a3TihNGqeP6",
+      "downloadUrl": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Email_Universal.apk"
     },
     {
-      "id": "email",
-      "package": "com.sonymobile.email",
-      "name": "Sony Email™",
-      "version": "16.0.A.2031",
-      "size": 11534336,
-      "size_str": "11.0 MB",
-      "publisher": "Sony Mobile Communications",
-      "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/email.png",
-      "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/email.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Email_Universal.apk",
-      "description": "Trình quản lý thư điện tử Sony Email hỗ trợ đa tài khoản: Gmail, Microsoft Outlook, Yahoo Mail và máy chủ doanh nghiệp Exchange / IMAP bảo mật cao.",
-      "features": [
-        "Hỗ trợ hộp thư hợp nhất Unified Inbox",
-        "Mã hóa bảo mật giao thức TLS 1.3 hiện đại",
-        "Xem trước tệp đính kèm tài liệu và hình ảnh mượt mà",
-        "Thông báo đẩy thời gian thực Real-time Push"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_stock_real.png",
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_kando_real.png"
-      ]
+      "packageName": "com.sonymobile.lifelog",
+      "size": "17.0 MB",
+      "driveUrl": "https://drive.google.com/drive/folders/1YP-aA65ZVy8dAH21DWwxI1w_rYcrq-9h",
+      "fileName": "Sony_Lifelog_Universal.apk",
+      "versionCode": 8388653,
+      "changelog": "Theo dõi bước chân, giấc ngủ và hoạt động sống phong cách biểu đồ Sony.",
+      "versionName": "4.0.A.0.45",
+      "appName": "Sony Lifelog",
+      "fileId": "1X5h3R27OD4ecXsMnZq37WtvnhtxI27VO",
+      "downloadUrl": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Lifelog_Universal.apk"
     },
     {
-      "id": "lifelog",
-      "package": "com.sonymobile.lifelog",
-      "name": "Sony Lifelog (Nhật Ký Đời Sống)",
-      "version": "4.0.A.0.54",
-      "size": 13316915,
-      "size_str": "12.7 MB",
-      "publisher": "Sony Mobile Communications",
-      "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/lifelog.png",
-      "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/lifelog.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/download/lifelog-v4.0.A.0.54/Sony_Lifelog_Universal.apk",
-      "description": "Ứng dụng theo dõi sức khỏe và ghi lại mọi khoảnh khắc cuộc sống độc đáo của Sony. Ghi nhận số bước đi, lượng calo, giấc ngủ, thời gian nghe nhạc, chụp ảnh và sử dụng điện thoại.",
-      "features": [
-        "Bản đồ hành trình cuộc sống Life Bookmark tương tác",
-        "Ghi nhận chính xác số bước chân qua cảm biến phần cứng",
-        "Hoạt động độc lập không cần SmartBand hoặc kết nối máy chủ Sony",
-        "Bảo mật dữ liệu cá nhân lưu trữ nội bộ trên máy"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_kando_real.png",
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_wh1000xm5_real.png"
-      ]
+      "packageName": "com.sonyericsson.conversations",
+      "size": "11.3 MB",
+      "driveUrl": "https://drive.google.com/drive/folders/1YP-aA65ZVy8dAH21DWwxI1w_rYcrq-9h",
+      "fileName": "Sony_Messaging_Universal.apk",
+      "versionCode": 61216800,
+      "changelog": "Ứng dụng nhắn tin SMS/MMS Xperia cổ điển, hỗ trợ font SF Pro Text.",
+      "versionName": "30.0.A.024",
+      "appName": "Sony Messaging",
+      "fileId": "1tFCFa3Ek46VqDG5Xui_LePws2E50k72U",
+      "downloadUrl": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Messaging_Universal.apk"
     },
     {
-      "id": "trackid",
-      "package": "com.sonyericsson.trackid",
-      "name": "Sony TrackID™ (Nhận Diện Nhạc)",
-      "version": "4.6.C.0.21",
-      "size": 9437184,
-      "size_str": "9.0 MB",
-      "publisher": "Sony Mobile Communications",
-      "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/trackid.png",
-      "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/trackid.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_TrackID_Universal.apk",
-      "description": "Trình nhận diện âm nhạc huyền thoại Sony TrackID. Lắng nghe và nhận diện bài hát đang phát xung quanh chỉ trong vài giây, hiển thị ca sĩ, album, lời bài hát và phát trên Walkman.",
-      "features": [
-        "Hỗ trợ nhận diện thông tin bản nhạc qua phân tích âm thanh",
-        "Hiển thị bảng xếp hạng âm nhạc thịnh hành",
-        "Chuyển tiếp phát bài hát sang app Sony Walkman",
-        "Lưu trữ lịch sử nhận diện bài hát tiện lợi"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_walkman_real.png",
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_wf1000xm5_real.png"
-      ]
+      "packageName": "com.sonymobile.support",
+      "size": "27.5 MB",
+      "driveUrl": "https://drive.google.com/drive/folders/1YP-aA65ZVy8dAH21DWwxI1w_rYcrq-9h",
+      "fileName": "Sony_Support_Universal.apk",
+      "versionCode": 80402,
+      "changelog": "Kiểm tra chẩn đoán phần cứng Xperia (cảm ứng, loa, micro, cảm biến, pin).",
+      "versionName": "8.4.2",
+      "appName": "Sony Support",
+      "fileId": "1zUyxwx7vy9Trelvf-bPY0MzJAFDNPa0s",
+      "downloadUrl": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Support_Universal.apk"
     },
     {
-      "id": "support",
-      "package": "com.sonymobile.support",
-      "name": "Sony Xperia Support",
-      "version": "8.4.2",
-      "size": 15728640,
-      "size_str": "15.0 MB",
-      "publisher": "Sony Mobile Communications",
-      "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/support.png",
-      "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/support.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Support_Universal.apk",
-      "description": "Trung tâm hỗ trợ và chẩn đoán phần cứng thiết bị Sony Xperia: Kiểm tra màn hình cảm ứng, loa, micro, camera, cảm biến vân tay và tình trạng sức khỏe pin.",
-      "features": [
-        "Bộ công cụ kiểm tra toàn diện 20 thành phần phần cứng máy",
-        "Hướng dẫn sử dụng và mẹo tính năng Xperia hữu ích",
-        "Kiểm tra tình trạng chu kỳ sạc và độ chai pin",
-        "Tương thích thiết bị Android 15 không báo lỗi quyền"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_sensor_real.png",
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_alpha_real.png"
-      ]
+      "packageName": "com.sonyericsson.trackid",
+      "size": "10.2 MB",
+      "driveUrl": "https://drive.google.com/drive/folders/1YP-aA65ZVy8dAH21DWwxI1w_rYcrq-9h",
+      "fileName": "Sony_TrackID_Universal.apk",
+      "versionCode": 9175061,
+      "changelog": "Nhận diện giai điệu bài hát huyền thoại TrackID với Visualizer sóng âm.",
+      "versionName": "4.6.C.0.21",
+      "appName": "Sony TrackID",
+      "fileId": "1H6qS2uvAc1CrM7EUVhmZLuf6H3mZ22eo",
+      "downloadUrl": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_TrackID_Universal.apk"
     },
     {
-      "id": "assist",
-      "package": "com.sonymobile.assist_light",
-      "name": "Sony Xperia Assist",
-      "version": "1.0.A.0.26",
-      "size": 6291456,
-      "size_str": "6.0 MB",
-      "publisher": "Sony Mobile Communications",
-      "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/assist.png",
-      "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/assist.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Xperia_Assist_Universal.apk",
-      "description": "Trợ lý thông minh Sony Xperia tự động đề xuất cấu hình tối ưu khi đi ngủ, tập luyện, di chuyển và làm việc. Tự động bật chế độ không làm phiền và tiết kiệm pin.",
-      "features": [
-        "Tính năng Xperia Actions thông minh theo khung giờ và địa điểm",
-        "Tối ưu hóa sạc pin thông minh bảo vệ tuổi thọ pin (Battery Care)",
-        "Chế độ hỗ trợ tập trung cho công việc và học tập",
-        "Hoạt động nhẹ nhàng không tốn RAM"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_kando_real.png",
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_stock_real.png"
-      ]
+      "packageName": "com.sonymobile.assist_light",
+      "size": "2.6 MB",
+      "driveUrl": "https://drive.google.com/drive/folders/1YP-aA65ZVy8dAH21DWwxI1w_rYcrq-9h",
+      "fileName": "Sony_Xperia_Assist_Universal.apk",
+      "versionCode": 2097178,
+      "changelog": "Trợ lý Xperia thông minh hướng dẫn làm quen và tối ưu hóa thời lượng pin.",
+      "versionName": "1.0.A.0.26",
+      "appName": "Sony Xperia Assist",
+      "fileId": "1OwUEImxsYwsxJE-w_9n44AN9Oe3JNKLj",
+      "downloadUrl": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_Xperia_Assist_Universal.apk"
     },
     {
-      "id": "entrance",
-      "package": "com.sonymobile.entrance",
-      "name": "Sony What's New Reborn",
-      "version": "4.2.A.0.26",
-      "size": 9372521,
-      "size_str": "8.9 MB",
-      "publisher": "Sony Mobile Communications",
-      "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/whatsnew.png",
-      "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/entrance.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/download/whatsnew-v4.2.A.0.26/Sony_WhatsNew_Universal.apk",
-      "description": "Cổng thông tin giải trí và phong cách sống đặc sắc của Sony Xperia. Tích hợp tin tức VnExpress Sony News Suite, Bảng xếp hạng NhacCuaTui, Giá xăng dầu Petrolimex thời gian thực và Trung tâm cập nhật hệ thống Sony.",
-      "features": [
-        "Nâng cấp tiện ích Xe Buýt Xperia™ Bus (Power by buytthcm) sang bố cục 2 cột rộng rãi hiển thị trọn vẹn lộ trình",
-        "Thay thế hình họa bằng nhiếp ảnh xe buýt đô thị TP.HCM thực tế, sắc nét kèm badge kính mờ translucent hiện đại",
-        "Sửa triệt để điều hướng chi tiết tuyến: Vào thẳng bảng giờ chạy & lộ trình Tuyến 08, 150, 109, 19, 56, 180, D4, 33",
-        "Tổng hợp tin tức đa nguồn Sony News Suite (Tuổi Trẻ, GenK, VnExpress) mở rộng 48 bài khi ấn MORE",
-        "Điều hướng cử chỉ Back thông minh trên Android 13/14, không bị văng launcher khi đọc báo hoặc tra buýt"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/xperia_1_viii.png",
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/petrolimex_real_1.png"
-      ]
-    },
-    {
-      "id": "movies",
-      "package": "com.sonyericsson.video",
-      "name": "Sony Video (Movies)",
-      "version": "9.5.A.2.2",
-      "size": 15728640,
-      "size_str": "15.0 MB",
-      "publisher": "Sony Mobile Communications",
-      "icon": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/icons/movies.png",
-      "release_notes_url": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/release_notes/movies.xml",
-      "download_url": "https://github.com/buitranhoangtam/xperia-releases/releases/download/movies-v9.5.A.2.2/Sony_Movies_Universal.apk",
-      "description": "Trình phát video Sony Cinema chuyên nghiệp với khả năng giải mã phần cứng mạnh mẽ, hỗ trợ hiển thị độ tương phản cao và âm thanh vòm sống động.",
-      "features": [
-        "Giao diện xem phim CinemaWide đậm chất điện ảnh",
-        "Giải mã video phần cứng tiết kiệm năng lượng",
-        "Hỗ trợ phụ đề đa ngôn ngữ và tinh chỉnh âm thanh vòm",
-        "Tự động phân loại và ghi nhớ vị trí phát video"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/sony_sensor_real.png",
-        "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/ps5_pro_real.png"
-      ]
+      "packageName": "com.sonymobile.entrance",
+      "size": "9.5 MB",
+      "driveUrl": "https://drive.google.com/drive/folders/1YP-aA65ZVy8dAH21DWwxI1w_rYcrq-9h",
+      "fileName": "Sony_WhatsNew_Universal.apk",
+      "versionCode": 8650772,
+      "changelog": "Khôi phục trọn vẹn giao diện thẻ bài chuẩn Sony What's New nguyên bản kết hợp Flix Animation Engine, bổ sung bộ chuyển đổi chế độ kép Classic & Live Tiles 2026, tích hợp trọn bộ 3 thư viện Native ARM64 AArch64 R3.",
+      "versionName": "4.2.A.0.17",
+      "appName": "Sony What's New",
+      "fileId": "1dTOOyJDb9LOjrgtHLymOANJFFM1X3vWU",
+      "downloadUrl": "https://github.com/buitranhoangtam/xperia-releases/releases/download/v1.0.0/Sony_WhatsNew_Universal.apk"
     }
-  ]
+  ],
+  "version": 1
 }
