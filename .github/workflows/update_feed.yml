@@ -2,8 +2,9 @@ name: Auto Update Xperia Feed
 
 on:
   schedule:
-    # 7:15, 15:15, 20:15 GMT+7 (00:15, 08:15, 13:15 UTC)
-    - cron: '15 0,8,13 * * *'
+    # Chay moi 2 tieng (phut 25 le tranh hang doi cao diem cua GitHub Actions)
+    # Bao gom cac moc: 1h25, 3h25, 5h25, 7h25, 9h25, 11h25, 13h25, 15h25, 17h25, 19h25, 21h25, 23h25 GMT+7
+    - cron: '25 */2 * * *'
   workflow_dispatch:
 
 permissions:
