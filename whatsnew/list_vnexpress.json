@@ -4,7 +4,7 @@
   "items": [
     {
       "id": "news_item_1",
-      "name": "Khám phá thành cổ tiêu biểu của Nhật Bản, trải nghiệm cảm giác làm lãnh chúa",
+      "name": "Video: Siêu phẩm 'tả xung hữu đột' của tiền đạo Nam Định",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -31,31 +31,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/kham-pha-thanh-co-tieu-bieu-cua-nhat-ban-trai-nghiem-cam-giac-lam-lanh-chua-100261024172848234.htm"
+            "href": "entrance://webview/https://tuoitre.vn/video-sieu-pham-ta-xung-huu-dot-cua-tien-dao-nam-dinh-10026102421564651.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/kham-pha-thanh-co-tieu-bieu-cua-nhat-ban-trai-nghiem-cam-giac-lam-lanh-chua-100261024172848234.htm"
+            "data": "entrance://webview/https://tuoitre.vn/video-sieu-pham-ta-xung-huu-dot-cua-tien-dao-nam-dinh-10026102421564651.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/kham-pha-thanh-co-tieu-bieu-cua-nhat-ban-trai-nghiem-cam-giac-lam-lanh-chua-100261024172848234.htm"
+            "href": "entrance://webview/https://tuoitre.vn/video-sieu-pham-ta-xung-huu-dot-cua-tien-dao-nam-dinh-10026102421564651.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/kham-pha-thanh-co-tieu-bieu-cua-nhat-ban-trai-nghiem-cam-giac-lam-lanh-chua-100261024172848234.htm"
+            "data": "entrance://webview/https://tuoitre.vn/video-sieu-pham-ta-xung-huu-dot-cua-tien-dao-nam-dinh-10026102421564651.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Khám phá thành cổ tiêu biểu của Nhật Bản, trải nghiệm cảm giác làm lãnh chúa",
-          "text": "Trên khắp Nhật Bản, hàng trăm tòa thành cổ vẫn được bảo tồn, lưu giữ dấu ấn lịch sử và trở thành biểu tượng của đất nước.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Video: Siêu phẩm 'tả xung hữu đột' của tiền đạo Nam Định",
+          "text": "Trước hàng phòng ngự dày đặc của CLB Thành phố Đồng Nai, tiền đạo Trần Ngọc Sơn tự tin đi bóng rồi tung ra cú dứt điểm hiểm hóc, nhân đôi cách biệt cho Nam Định.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 23:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -66,7 +66,7 @@
     },
     {
       "id": "news_item_2",
-      "name": "Khai phá dữ liệu theo thời gian thực cùng IBM tại HPT D-DAY 2026",
+      "name": "Micropack giới thiệu loạt phụ kiện cho góc làm việc lẫn giải trí tại Việt Nam",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -93,31 +93,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/khai-pha-du-lieu-theo-thoi-gian-thuc-cung-ibm-tai-hpt-d-day-2026-165261024180623304.chn"
+            "href": "entrance://webview/https://genk.vn/micropack-gioi-thieu-loat-phu-kien-cho-goc-lam-viec-lan-giai-tri-tai-viet-nam-165261024221401804.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/khai-pha-du-lieu-theo-thoi-gian-thuc-cung-ibm-tai-hpt-d-day-2026-165261024180623304.chn"
+            "data": "entrance://webview/https://genk.vn/micropack-gioi-thieu-loat-phu-kien-cho-goc-lam-viec-lan-giai-tri-tai-viet-nam-165261024221401804.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/khai-pha-du-lieu-theo-thoi-gian-thuc-cung-ibm-tai-hpt-d-day-2026-165261024180623304.chn"
+            "href": "entrance://webview/https://genk.vn/micropack-gioi-thieu-loat-phu-kien-cho-goc-lam-viec-lan-giai-tri-tai-viet-nam-165261024221401804.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/khai-pha-du-lieu-theo-thoi-gian-thuc-cung-ibm-tai-hpt-d-day-2026-165261024180623304.chn"
+            "data": "entrance://webview/https://genk.vn/micropack-gioi-thieu-loat-phu-kien-cho-goc-lam-viec-lan-giai-tri-tai-viet-nam-165261024221401804.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Khai phá dữ liệu theo thời gian thực cùng IBM tại HPT D-DAY 2026",
-          "text": "Ngày 15/10/2026 tại HPT D-DAY 2026, IBM đã đồng hành cùng sự kiện mang đến góc nhìn về kết nối dữ liệu và AI để khai phá tri thức theo thời gian thực, hỗ trợ doanh nghiệp ra quyết định kịp thời và nâng cao hiệu quả kinh doanh.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Micropack giới thiệu loạt phụ kiện cho góc làm việc lẫn giải trí tại Việt Nam",
+          "text": "Từ chuột, bàn phím, thiết bị gaming đến củ sạc, pin dự phòng, Micropack cùng nhà phân phối TLC Trading dựng các không gian dùng thử theo tình huống thực tế thay vì chỉ đặt sản phẩm lên kệ.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 23:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -128,7 +128,7 @@
     },
     {
       "id": "news_item_3",
-      "name": "Unai Emery - 'Tiến sĩ tử thần' của Ngoại hạng Anh",
+      "name": "Nước nào có cảng biển lớn nhất Đông Nam Á?",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -155,31 +155,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/unai-emery-tien-si-tu-than-cua-ngoai-hang-anh-5136415.html"
+            "href": "entrance://webview/https://vnexpress.net/nuoc-nao-co-cang-bien-lon-nhat-dong-nam-a-5136463.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/unai-emery-tien-si-tu-than-cua-ngoai-hang-anh-5136415.html"
+            "data": "entrance://webview/https://vnexpress.net/nuoc-nao-co-cang-bien-lon-nhat-dong-nam-a-5136463.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/unai-emery-tien-si-tu-than-cua-ngoai-hang-anh-5136415.html"
+            "href": "entrance://webview/https://vnexpress.net/nuoc-nao-co-cang-bien-lon-nhat-dong-nam-a-5136463.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/unai-emery-tien-si-tu-than-cua-ngoai-hang-anh-5136415.html"
+            "data": "entrance://webview/https://vnexpress.net/nuoc-nao-co-cang-bien-lon-nhat-dong-nam-a-5136463.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Unai Emery - 'Tiến sĩ tử thần' của Ngoại hạng Anh",
-          "text": "Là bậc thầy trong nghệ thuật trừng phạt những đối thủ chơi thiếu nhịp điệu khi được mệnh danh là “tiến sĩ tử thần”, Unai Emery bốn năm kể từ ngày cập bến Villa Park đang trong hành trình làm nên kiệt tác của riêng ông.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Nước nào có cảng biển lớn nhất Đông Nam Á?",
+          "text": "Cảng biển này xử lý gần 45 triệu container 20 feet trong năm nay, thuộc top thế giới và cao nhất Đông Nam Á. Nó nằm ở Việt Nam, Singapore hay Indonesia?\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -241,7 +241,7 @@
         {
           "type": "text",
           "name": "Một số iPhone Duo bị nứt, sọc màn hình",
-          "text": "Một số người dùng cho biết điện thoại gập iPhone Duo bị nứt hoặc xuất hiện sọc màn hình dù không tác động lực mạnh, trong khi số khác gặp sự cố giao diện.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Một số người dùng cho biết điện thoại gập iPhone Duo bị nứt hoặc xuất hiện sọc màn hình dù không tác động lực mạnh, trong khi số khác gặp sự cố giao diện.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -303,7 +303,7 @@
         {
           "type": "text",
           "name": "Nhiều website chính phủ hoạt động trở lại, khắc phục lỗ hổng PHP có thể mất nhiều năm",
-          "text": "Ngày 22-10, nhiều website chính phủ hoạt động trở lại sau khi vá lỗ hổng PHP, nhưng nguy cơ tin tặc khai thác vẫn còn, và việc khắc phục có thể kéo dài nhiều năm.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Ngày 22-10, nhiều website chính phủ hoạt động trở lại sau khi vá lỗ hổng PHP, nhưng nguy cơ tin tặc khai thác vẫn còn, và việc khắc phục có thể kéo dài nhiều năm.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -314,7 +314,7 @@
     },
     {
       "id": "news_item_6",
-      "name": "Thảo dược Việt đón cơ hội từ thị trường mỹ phẩm thiên nhiên",
+      "name": "Đề xuất y sĩ đa khoa, chống khủng bố thuộc danh mục ngành nặng nhọc, độc hại, nguy hiểm",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -341,31 +341,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/thao-duoc-viet-don-co-hoi-tu-thi-truong-my-pham-thien-nhien-10026102417113395.htm"
+            "href": "entrance://webview/https://tuoitre.vn/de-xuat-y-si-da-khoa-chong-khung-bo-thuoc-danh-muc-nganh-nang-nhoc-doc-hai-nguy-hiem-100261024213825754.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/thao-duoc-viet-don-co-hoi-tu-thi-truong-my-pham-thien-nhien-10026102417113395.htm"
+            "data": "entrance://webview/https://tuoitre.vn/de-xuat-y-si-da-khoa-chong-khung-bo-thuoc-danh-muc-nganh-nang-nhoc-doc-hai-nguy-hiem-100261024213825754.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/thao-duoc-viet-don-co-hoi-tu-thi-truong-my-pham-thien-nhien-10026102417113395.htm"
+            "href": "entrance://webview/https://tuoitre.vn/de-xuat-y-si-da-khoa-chong-khung-bo-thuoc-danh-muc-nganh-nang-nhoc-doc-hai-nguy-hiem-100261024213825754.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/thao-duoc-viet-don-co-hoi-tu-thi-truong-my-pham-thien-nhien-10026102417113395.htm"
+            "data": "entrance://webview/https://tuoitre.vn/de-xuat-y-si-da-khoa-chong-khung-bo-thuoc-danh-muc-nganh-nang-nhoc-doc-hai-nguy-hiem-100261024213825754.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Thảo dược Việt đón cơ hội từ thị trường mỹ phẩm thiên nhiên",
-          "text": "Sở hữu hơn 5.100 loài thực vật làm thuốc, Việt Nam vẫn phải nhập khẩu gần 70% nhu cầu dược liệu. Trước cơ hội từ thị trường mỹ phẩm thiên nhiên 49 tỉ USD vào năm 2035, 'vàng xanh' vẫn chưa phát huy hết giá trị kinh tế.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Đề xuất y sĩ đa khoa, chống khủng bố thuộc danh mục ngành nặng nhọc, độc hại, nguy hiểm",
+          "text": "Bộ Giáo dục và Đào tạo đang lấy ý kiến đến hết ngày 31-10 cho dự thảo Thông tư ban hành danh mục ngành, nghề đào tạo nặng nhọc, độc hại, nguy hiểm; ngành, nghề đào tạo khó tuyển sinh nhưng xã hội có nhu cầu.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -376,7 +376,7 @@
     },
     {
       "id": "news_item_7",
-      "name": "Đại diện Công an cảnh báo: Sinh trắc học của nhiều ngân hàng vẫn bị qua mặt bằng ảnh tĩnh, video ngắn",
+      "name": "Chuyển đổi phương tiện xanh: Gỡ nút thắt hạ tầng cho chung cư Hà Nội",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -403,31 +403,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/dai-dien-cong-an-canh-bao-sinh-trac-hoc-cua-nhieu-ngan-hang-van-bi-qua-mat-bang-anh-tinh-video-ngan-165261024182446762.chn"
+            "href": "entrance://webview/https://genk.vn/chuyen-doi-phuong-tien-xanh-go-nut-that-ha-tang-cho-chung-cu-ha-noi-165261024164413532.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/dai-dien-cong-an-canh-bao-sinh-trac-hoc-cua-nhieu-ngan-hang-van-bi-qua-mat-bang-anh-tinh-video-ngan-165261024182446762.chn"
+            "data": "entrance://webview/https://genk.vn/chuyen-doi-phuong-tien-xanh-go-nut-that-ha-tang-cho-chung-cu-ha-noi-165261024164413532.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/dai-dien-cong-an-canh-bao-sinh-trac-hoc-cua-nhieu-ngan-hang-van-bi-qua-mat-bang-anh-tinh-video-ngan-165261024182446762.chn"
+            "href": "entrance://webview/https://genk.vn/chuyen-doi-phuong-tien-xanh-go-nut-that-ha-tang-cho-chung-cu-ha-noi-165261024164413532.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/dai-dien-cong-an-canh-bao-sinh-trac-hoc-cua-nhieu-ngan-hang-van-bi-qua-mat-bang-anh-tinh-video-ngan-165261024182446762.chn"
+            "data": "entrance://webview/https://genk.vn/chuyen-doi-phuong-tien-xanh-go-nut-that-ha-tang-cho-chung-cu-ha-noi-165261024164413532.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Đại diện Công an cảnh báo: Sinh trắc học của nhiều ngân hàng vẫn bị qua mặt bằng ảnh tĩnh, video ngắn",
-          "text": "Toàn ngành ngân hàng đã làm sạch 177 triệu hồ sơ khách hàng cá nhân bằng sinh trắc học, gần như xóa bỏ tình trạng tài khoản đứng tên giả. Tuy vậy, theo lãnh đạo Cục A05, kẻ gian vẫn tìm cách vượt qua lớp bảo vệ này ở nhiều ngân hàng, đặt ra yêu cầu tiếp tục siết chặt an toàn trong thanh toán số.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Chuyển đổi phương tiện xanh: Gỡ nút thắt hạ tầng cho chung cư Hà Nội",
+          "text": "Xe điện tăng nhanh nhưng hạ tầng sạc tại chung cư Hà Nội chưa theo kịp, đặt ra bài toán cấp thiết để việc chuyển đổi phương tiện xanh của người dân thuận lợi hơn.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -438,7 +438,7 @@
     },
     {
       "id": "news_item_8",
-      "name": "Dấu hiệu thoái hóa khớp gối sớm",
+      "name": "Nam thanh niên sống sót sau khi lăn xuống vực sâu 100 m ở Lũng Cú",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -465,31 +465,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/dau-hieu-thoai-hoa-khop-goi-som-5136388.html"
+            "href": "entrance://webview/https://vnexpress.net/nam-thanh-nien-song-sot-sau-khi-lan-xuong-vuc-sau-100-m-o-lung-cu-5136480.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/dau-hieu-thoai-hoa-khop-goi-som-5136388.html"
+            "data": "entrance://webview/https://vnexpress.net/nam-thanh-nien-song-sot-sau-khi-lan-xuong-vuc-sau-100-m-o-lung-cu-5136480.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/dau-hieu-thoai-hoa-khop-goi-som-5136388.html"
+            "href": "entrance://webview/https://vnexpress.net/nam-thanh-nien-song-sot-sau-khi-lan-xuong-vuc-sau-100-m-o-lung-cu-5136480.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/dau-hieu-thoai-hoa-khop-goi-som-5136388.html"
+            "data": "entrance://webview/https://vnexpress.net/nam-thanh-nien-song-sot-sau-khi-lan-xuong-vuc-sau-100-m-o-lung-cu-5136480.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Dấu hiệu thoái hóa khớp gối sớm",
-          "text": "Đau, cứng khớp khi ngủ dậy, lạo xạo và hạn chế vận động gối có thể cảnh báo thoái hóa khớp sớm ở người dưới 50 tuổi.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Nam thanh niên sống sót sau khi lăn xuống vực sâu 100 m ở Lũng Cú",
+          "text": "Đang ngồi trên lan can bên đường chờ du khách chụp ảnh tại Lũng Cú, nam tài xế 23 tuổi bất ngờ ngất, lăn xuống vực sâu hơn 100 m và may mắn chỉ bị thương nhẹ.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -551,7 +551,7 @@
         {
           "type": "text",
           "name": "Sam Altman: Giới toán học chuyển từ tuyệt vọng sang chấp nhận AI",
-          "text": "Sam Altman, CEO OpenAI, tin rằng các nhà toán học đang đón nhận AI với thái độ tích cực hơn dù công nghệ này gây nhiều tranh cãi.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Sam Altman, CEO OpenAI, tin rằng các nhà toán học đang đón nhận AI với thái độ tích cực hơn dù công nghệ này gây nhiều tranh cãi.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -613,7 +613,7 @@
         {
           "type": "text",
           "name": "Cảnh báo hai lỗ hổng PHP nghiêm trọng, website cần cập nhật sớm",
-          "text": "Hai lỗ hổng PHP với mức độ nghiêm trọng 9,2/10 đã có bản vá. Cơ quan chức năng khuyến nghị tổ chức, doanh nghiệp sớm rà soát hệ thống.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Hai lỗ hổng PHP với mức độ nghiêm trọng 9,2/10 đã có bản vá. Cơ quan chức năng khuyến nghị tổ chức, doanh nghiệp sớm rà soát hệ thống.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -624,7 +624,7 @@
     },
     {
       "id": "news_item_11",
-      "name": "Ngày 24-10: xử lý hơn 620 m³ đất, thấy thêm 10 hài cốt liệt sĩ ở công viên Lê Thị Riêng",
+      "name": "Chốt chặn xuyên đêm, truy bắt 3 phạm nhân trốn trại giam A2",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -651,31 +651,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/ngay-24-10-xu-ly-hon-620-m-dat-thay-them-10-hai-cot-liet-si-o-cong-vien-le-thi-rieng-100261024175447176.htm"
+            "href": "entrance://webview/https://tuoitre.vn/chot-chan-xuyen-dem-truy-bat-3-pham-nhan-tron-trai-giam-a2-100261024214026428.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/ngay-24-10-xu-ly-hon-620-m-dat-thay-them-10-hai-cot-liet-si-o-cong-vien-le-thi-rieng-100261024175447176.htm"
+            "data": "entrance://webview/https://tuoitre.vn/chot-chan-xuyen-dem-truy-bat-3-pham-nhan-tron-trai-giam-a2-100261024214026428.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/ngay-24-10-xu-ly-hon-620-m-dat-thay-them-10-hai-cot-liet-si-o-cong-vien-le-thi-rieng-100261024175447176.htm"
+            "href": "entrance://webview/https://tuoitre.vn/chot-chan-xuyen-dem-truy-bat-3-pham-nhan-tron-trai-giam-a2-100261024214026428.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/ngay-24-10-xu-ly-hon-620-m-dat-thay-them-10-hai-cot-liet-si-o-cong-vien-le-thi-rieng-100261024175447176.htm"
+            "data": "entrance://webview/https://tuoitre.vn/chot-chan-xuyen-dem-truy-bat-3-pham-nhan-tron-trai-giam-a2-100261024214026428.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Ngày 24-10: xử lý hơn 620 m³ đất, thấy thêm 10 hài cốt liệt sĩ ở công viên Lê Thị Riêng",
-          "text": "Ngày 24-10, lực lượng chức năng xử lý hơn 620 m³ đất và tìm thấy thêm 10 hài cốt ở công viên Lê Thị Riêng, đến nay đã có 832 hài cốt liệt sĩ được tìm thấy.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Chốt chặn xuyên đêm, truy bắt 3 phạm nhân trốn trại giam A2",
+          "text": "Mọi nẻo đường xung quanh khu vực trại giam A2 (xã Diên Lâm, tỉnh Khánh Hòa) đều được lực lượng chức năng chốt chặn xuyên đêm, kiểm tra gắt gao để không bỏ lọt 3 phạm nhân vừa trốn trại này.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -686,7 +686,7 @@
     },
     {
       "id": "news_item_12",
-      "name": "Loạt ngân hàng gửi khuyến cáo đến người dùng tài khoản: Kiểm tra điện thoại, phát hiện các ứng dụng này phải gỡ ngay",
+      "name": "Thông tin quan trọng về sổ bảo hiểm xã hội mà tất cả người dân cần nắm rõ",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -713,31 +713,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/loat-ngan-hang-gui-khuyen-cao-den-nguoi-dung-tai-khoan-kiem-tra-dien-thoai-phat-hien-cac-ung-dung-nay-phai-go-ngay-165261024181450103.chn"
+            "href": "entrance://webview/https://genk.vn/thong-tin-quan-trong-ve-so-bao-hiem-xa-hoi-ma-tat-ca-nguoi-dan-can-nam-ro-165261024164210283.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/loat-ngan-hang-gui-khuyen-cao-den-nguoi-dung-tai-khoan-kiem-tra-dien-thoai-phat-hien-cac-ung-dung-nay-phai-go-ngay-165261024181450103.chn"
+            "data": "entrance://webview/https://genk.vn/thong-tin-quan-trong-ve-so-bao-hiem-xa-hoi-ma-tat-ca-nguoi-dan-can-nam-ro-165261024164210283.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/loat-ngan-hang-gui-khuyen-cao-den-nguoi-dung-tai-khoan-kiem-tra-dien-thoai-phat-hien-cac-ung-dung-nay-phai-go-ngay-165261024181450103.chn"
+            "href": "entrance://webview/https://genk.vn/thong-tin-quan-trong-ve-so-bao-hiem-xa-hoi-ma-tat-ca-nguoi-dan-can-nam-ro-165261024164210283.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/loat-ngan-hang-gui-khuyen-cao-den-nguoi-dung-tai-khoan-kiem-tra-dien-thoai-phat-hien-cac-ung-dung-nay-phai-go-ngay-165261024181450103.chn"
+            "data": "entrance://webview/https://genk.vn/thong-tin-quan-trong-ve-so-bao-hiem-xa-hoi-ma-tat-ca-nguoi-dan-can-nam-ro-165261024164210283.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Loạt ngân hàng gửi khuyến cáo đến người dùng tài khoản: Kiểm tra điện thoại, phát hiện các ứng dụng này phải gỡ ngay",
-          "text": "Nhiều ngân hàng vừa phát đi cảnh báo về các ứng dụng có dấu hiệu mạo danh thương hiệu, chào mời vay tiền hoặc chứa mã độc có thể đánh cắp thông tin cá nhân, chiếm quyền điều khiển điện thoại và tài khoản ngân hàng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Thông tin quan trọng về sổ bảo hiểm xã hội mà tất cả người dân cần nắm rõ",
+          "text": "Sổ bảo hiểm xã hội điện tử cho phép người tham gia tra cứu thông tin, theo dõi quá trình đóng và hưởng các chế độ bảo hiểm xã hội ngay trên điện thoại. Theo Bảo hiểm xã hội Việt Nam, sổ được tích hợp với tài khoản VNeID mức độ 2 và ứng dụng VssID.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -748,7 +748,7 @@
     },
     {
       "id": "news_item_13",
-      "name": "Vì sao bạn khó giảm cân?",
+      "name": "Việt Nam - Bỉ hướng tới nâng cấp quan hệ lên Đối tác Chiến lược",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -775,31 +775,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/vi-sao-ban-kho-giam-can-5136281.html"
+            "href": "entrance://webview/https://vnexpress.net/viet-nam-bi-huong-toi-nang-cap-quan-he-len-doi-tac-chien-luoc-5136488.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/vi-sao-ban-kho-giam-can-5136281.html"
+            "data": "entrance://webview/https://vnexpress.net/viet-nam-bi-huong-toi-nang-cap-quan-he-len-doi-tac-chien-luoc-5136488.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/vi-sao-ban-kho-giam-can-5136281.html"
+            "href": "entrance://webview/https://vnexpress.net/viet-nam-bi-huong-toi-nang-cap-quan-he-len-doi-tac-chien-luoc-5136488.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/vi-sao-ban-kho-giam-can-5136281.html"
+            "data": "entrance://webview/https://vnexpress.net/viet-nam-bi-huong-toi-nang-cap-quan-he-len-doi-tac-chien-luoc-5136488.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Vì sao bạn khó giảm cân?",
-          "text": "Chế độ ăn lành mạnh như khẩu phần nhiều, thói quen ăn nhanh, sử dụng đồ uống có đường có thể gây dư thừa calo, khó giảm cân.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Việt Nam - Bỉ hướng tới nâng cấp quan hệ lên Đối tác Chiến lược",
+          "text": "Việt Nam - Bỉ ra tuyên bố chung, nhất trí thúc đẩy hợp tác cảng biển, năng lượng sạch, bán dẫn và nông nghiệp công nghệ cao, nâng cấp quan hệ vào thời điểm thích hợp.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -861,7 +861,7 @@
         {
           "type": "text",
           "name": "Tình cảnh 'giám đốc kiêm nhân viên' tại tổ chức PHP",
-          "text": "Tổ chức phi lợi nhuận hỗ trợ ngôn ngữ PHP, nền tảng của khoảng 70% website toàn cầu, đang trong tình trạng thiếu nhân lực trầm trọng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tổ chức phi lợi nhuận hỗ trợ ngôn ngữ PHP, nền tảng của khoảng 70% website toàn cầu, đang trong tình trạng thiếu nhân lực trầm trọng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -923,7 +923,7 @@
         {
           "type": "text",
           "name": "Google đưa quảng cáo vào câu trả lời AI, người dùng phân biệt lời khuyên với lời chào hàng ra sao?",
-          "text": "Google đưa quảng cáo vào AI Mode, đặt người dùng trước câu hỏi đâu là gợi ý hữu ích, đâu là nội dung được trả tiền để xuất hiện.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Google đưa quảng cáo vào AI Mode, đặt người dùng trước câu hỏi đâu là gợi ý hữu ích, đâu là nội dung được trả tiền để xuất hiện.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -934,7 +934,7 @@
     },
     {
       "id": "news_item_16",
-      "name": "Anime Conan gây tranh cãi vì chất lượng giảm sút sau 30 năm",
+      "name": "5 trận kiếm vẻn vẹn 1 điểm, HLV Việt Thắng muốn từ chức",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -961,31 +961,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/anime-conan-gay-tranh-cai-vi-chat-luong-giam-sut-sau-30-nam-100261024163231343.htm"
+            "href": "entrance://webview/https://tuoitre.vn/5-tran-kiem-ven-ven-1-diem-hlv-viet-thang-muon-tu-chuc-100261024211443742.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/anime-conan-gay-tranh-cai-vi-chat-luong-giam-sut-sau-30-nam-100261024163231343.htm"
+            "data": "entrance://webview/https://tuoitre.vn/5-tran-kiem-ven-ven-1-diem-hlv-viet-thang-muon-tu-chuc-100261024211443742.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/anime-conan-gay-tranh-cai-vi-chat-luong-giam-sut-sau-30-nam-100261024163231343.htm"
+            "href": "entrance://webview/https://tuoitre.vn/5-tran-kiem-ven-ven-1-diem-hlv-viet-thang-muon-tu-chuc-100261024211443742.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/anime-conan-gay-tranh-cai-vi-chat-luong-giam-sut-sau-30-nam-100261024163231343.htm"
+            "data": "entrance://webview/https://tuoitre.vn/5-tran-kiem-ven-ven-1-diem-hlv-viet-thang-muon-tu-chuc-100261024211443742.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Anime Conan gây tranh cãi vì chất lượng giảm sút sau 30 năm",
-          "text": "Sau 30 năm phát sóng, Conan bất ngờ trở thành tâm điểm tranh luận khi phiên bản làm lại một tập phim kinh điển bị khán giả Nhật Bản chê tạo hình nhân vật, làm dấy lên lo ngại chất lượng của anime đang đi xuống.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "5 trận kiếm vẻn vẹn 1 điểm, HLV Việt Thắng muốn từ chức",
+          "text": "Phát biểu sau trận thua đậm Nam Định trên sân nhà ở vòng 5 V-League 2026-2027, HLV Nguyễn Việt Thắng bày tỏ ý định nhường vị trí cho ai đó có thể làm tốt hơn cho CLB Thành phố Đồng Nai.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -996,7 +996,7 @@
     },
     {
       "id": "news_item_17",
-      "name": "Đi nước ngoài được mang tối đa bao nhiêu USD tiền mặt?",
+      "name": "Deal cuối tháng xịn, bổ rẻ: Tai nghe Baseus, máy cạo râu Philips, Balo Mark Ryden, Redmi Watch 5 Series",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1023,31 +1023,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/di-nuoc-ngoai-duoc-mang-toi-da-bao-nhieu-usd-tien-mat-165261024175952763.chn"
+            "href": "entrance://webview/https://genk.vn/deal-cuoi-thang-xin-bo-re-tai-nghe-baseus-may-cao-rau-philips-balo-mark-ryden-redmi-watch-5-series-165261024151937405.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/di-nuoc-ngoai-duoc-mang-toi-da-bao-nhieu-usd-tien-mat-165261024175952763.chn"
+            "data": "entrance://webview/https://genk.vn/deal-cuoi-thang-xin-bo-re-tai-nghe-baseus-may-cao-rau-philips-balo-mark-ryden-redmi-watch-5-series-165261024151937405.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/di-nuoc-ngoai-duoc-mang-toi-da-bao-nhieu-usd-tien-mat-165261024175952763.chn"
+            "href": "entrance://webview/https://genk.vn/deal-cuoi-thang-xin-bo-re-tai-nghe-baseus-may-cao-rau-philips-balo-mark-ryden-redmi-watch-5-series-165261024151937405.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/di-nuoc-ngoai-duoc-mang-toi-da-bao-nhieu-usd-tien-mat-165261024175952763.chn"
+            "data": "entrance://webview/https://genk.vn/deal-cuoi-thang-xin-bo-re-tai-nghe-baseus-may-cao-rau-philips-balo-mark-ryden-redmi-watch-5-series-165261024151937405.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Đi nước ngoài được mang tối đa bao nhiêu USD tiền mặt?",
-          "text": "Bạn đọc Hoàng Thủy (Hưng Yên) hỏi: \"Tôi chuẩn bị đi du lịch nước ngoài và muốn mang theo một ít USD tiền mặt để chi tiêu. Xin hỏi, một người được mang tối đa bao nhiêu USD khi xuất cảnh từ Việt Nam? Nếu mang trên 5.000 USD thì có bị cấm hay phải làm thủ tục gì\"?\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Deal cuối tháng xịn, bổ rẻ: Tai nghe Baseus, máy cạo râu Philips, Balo Mark Ryden, Redmi Watch 5 Series",
+          "text": "Cuối tháng là thời điểm phù hợp để săn những món đồ thiết thực với mức giá dễ tiếp cận.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "news_item_18",
-      "name": "Cháy nổ tại xưởng băng keo ở Ninh Bình",
+      "name": "Ca sĩ AI bị chỉ trích vì tuyên bố 'mang thai'",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1085,31 +1085,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/chay-no-tai-xuong-bang-keo-o-ninh-binh-5136420.html"
+            "href": "entrance://webview/https://vnexpress.net/ca-si-ai-bi-chi-trich-vi-tuyen-bo-mang-thai-5136387.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/chay-no-tai-xuong-bang-keo-o-ninh-binh-5136420.html"
+            "data": "entrance://webview/https://vnexpress.net/ca-si-ai-bi-chi-trich-vi-tuyen-bo-mang-thai-5136387.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/chay-no-tai-xuong-bang-keo-o-ninh-binh-5136420.html"
+            "href": "entrance://webview/https://vnexpress.net/ca-si-ai-bi-chi-trich-vi-tuyen-bo-mang-thai-5136387.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/chay-no-tai-xuong-bang-keo-o-ninh-binh-5136420.html"
+            "data": "entrance://webview/https://vnexpress.net/ca-si-ai-bi-chi-trich-vi-tuyen-bo-mang-thai-5136387.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Cháy nổ tại xưởng băng keo ở Ninh Bình",
-          "text": "Xưởng băng keo ở xóm Đồng Hóa, phường Lê Hồ bốc cháy dữ dội, kèm nhiều tiếng nổ khiến người dân xung quanh hoảng sợ, tháo chạy.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Ca sĩ AI bị chỉ trích vì tuyên bố 'mang thai'",
+          "text": "Nhiều khán giả phê phán khi ca sĩ ảo Mity - nhóm nhạc AI Babyqueen, Trung Quốc - tuyên bố ngừng hoạt động vì \"mang thai\" .\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1120,7 +1120,7 @@
     },
     {
       "id": "news_item_19",
-      "name": "Đề xuất bỏ 18 thủ tục về sở hữu trí tuệ",
+      "name": "Hơn 50.000 người ở châu Âu tử vong vì nắng nóng kỷ lục năm nay",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1147,31 +1147,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/de-xuat-bo-18-thu-tuc-ve-so-huu-tri-tue-5136315.html"
+            "href": "entrance://webview/https://vnexpress.net/hon-50-000-nguoi-o-chau-au-tu-vong-vi-nang-nong-ky-luc-nam-nay-5135997.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/de-xuat-bo-18-thu-tuc-ve-so-huu-tri-tue-5136315.html"
+            "data": "entrance://webview/https://vnexpress.net/hon-50-000-nguoi-o-chau-au-tu-vong-vi-nang-nong-ky-luc-nam-nay-5135997.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/de-xuat-bo-18-thu-tuc-ve-so-huu-tri-tue-5136315.html"
+            "href": "entrance://webview/https://vnexpress.net/hon-50-000-nguoi-o-chau-au-tu-vong-vi-nang-nong-ky-luc-nam-nay-5135997.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/de-xuat-bo-18-thu-tuc-ve-so-huu-tri-tue-5136315.html"
+            "data": "entrance://webview/https://vnexpress.net/hon-50-000-nguoi-o-chau-au-tu-vong-vi-nang-nong-ky-luc-nam-nay-5135997.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Đề xuất bỏ 18 thủ tục về sở hữu trí tuệ",
-          "text": "Chính phủ đề xuất luật hóa việc bãi bỏ 18 thủ tục hành chính, cắt giảm 5 điều kiện kinh doanh, nhằm đơn giản hóa việc chuyển nhượng quyền sở hữu công nghiệp và bảo hộ giống cây trồng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 19:07 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Hơn 50.000 người ở châu Âu tử vong vì nắng nóng kỷ lục năm nay",
+          "text": "Mùa hè nóng chưa từng thấy khiến số lượng người tử vong do nhiệt độ cao ở các nước châu Âu tăng vọt trong năm nay.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1233,7 +1233,7 @@
         {
           "type": "text",
           "name": "Tin tặc dùng AI tự động tấn công hơn 1.200 website, xâm nhập hơn 100 doanh nghiệp",
-          "text": "Hơn 1.200 website bị nhắm tới, hơn 100 doanh nghiệp bị xâm nhập trong chiến dịch tin tặc dùng AI tự tìm lỗ hổng, khai thác và cài cửa hậu.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Hơn 1.200 website bị nhắm tới, hơn 100 doanh nghiệp bị xâm nhập trong chiến dịch tin tặc dùng AI tự tìm lỗ hổng, khai thác và cài cửa hậu.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1244,7 +1244,7 @@
     },
     {
       "id": "news_item_21",
-      "name": "Gắn tình nguyện với chuyên môn, rèn luyện năng lực nghề nghiệp cho sinh viên",
+      "name": "CLB Hưng Yên bám đuổi quyết liệt Thái Nguyên trong nhóm đầu",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1271,31 +1271,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/gan-tinh-nguyen-voi-chuyen-mon-ren-luyen-nang-luc-nghe-nghiep-cho-sinh-vien-100261024101018839.htm"
+            "href": "entrance://webview/https://tuoitre.vn/clb-hung-yen-bam-duoi-quyet-liet-thai-nguyen-trong-nhom-dau-100261024212848752.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/gan-tinh-nguyen-voi-chuyen-mon-ren-luyen-nang-luc-nghe-nghiep-cho-sinh-vien-100261024101018839.htm"
+            "data": "entrance://webview/https://tuoitre.vn/clb-hung-yen-bam-duoi-quyet-liet-thai-nguyen-trong-nhom-dau-100261024212848752.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/gan-tinh-nguyen-voi-chuyen-mon-ren-luyen-nang-luc-nghe-nghiep-cho-sinh-vien-100261024101018839.htm"
+            "href": "entrance://webview/https://tuoitre.vn/clb-hung-yen-bam-duoi-quyet-liet-thai-nguyen-trong-nhom-dau-100261024212848752.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/gan-tinh-nguyen-voi-chuyen-mon-ren-luyen-nang-luc-nghe-nghiep-cho-sinh-vien-100261024101018839.htm"
+            "data": "entrance://webview/https://tuoitre.vn/clb-hung-yen-bam-duoi-quyet-liet-thai-nguyen-trong-nhom-dau-100261024212848752.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Gắn tình nguyện với chuyên môn, rèn luyện năng lực nghề nghiệp cho sinh viên",
-          "text": "Hội nghị sơ kết giữa nhiệm kỳ Hội Sinh viên Việt Nam TP.HCM lần thứ VII (nhiệm kỳ 2023-2028) chiều 24-10 diễn ra tại Trường đại học Quốc tế Miền Đông.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "CLB Hưng Yên bám đuổi quyết liệt Thái Nguyên trong nhóm đầu",
+          "text": "Tối 24-10, CLB Hưng Yên thắng Long An 3-1 ở vòng 4 Giải hạng nhất quốc gia 2026 - 2027.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1306,7 +1306,7 @@
     },
     {
       "id": "news_item_22",
-      "name": "Lãnh đạo Samsung Việt Nam: Người trẻ cần thấy công nghệ làm được gì",
+      "name": "Công an thông báo 6 loại ảnh không nên gửi qua Zalo, Messenger, kể cả cho người quen",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1333,31 +1333,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/lanh-dao-samsung-viet-nam-nguoi-tre-can-thay-cong-nghe-lam-duoc-gi-1652610241725469.chn"
+            "href": "entrance://webview/https://genk.vn/cong-an-thong-bao-6-loai-anh-khong-nen-gui-qua-zalo-messenger-ke-ca-cho-nguoi-quen-165261024163949052.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/lanh-dao-samsung-viet-nam-nguoi-tre-can-thay-cong-nghe-lam-duoc-gi-1652610241725469.chn"
+            "data": "entrance://webview/https://genk.vn/cong-an-thong-bao-6-loai-anh-khong-nen-gui-qua-zalo-messenger-ke-ca-cho-nguoi-quen-165261024163949052.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/lanh-dao-samsung-viet-nam-nguoi-tre-can-thay-cong-nghe-lam-duoc-gi-1652610241725469.chn"
+            "href": "entrance://webview/https://genk.vn/cong-an-thong-bao-6-loai-anh-khong-nen-gui-qua-zalo-messenger-ke-ca-cho-nguoi-quen-165261024163949052.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/lanh-dao-samsung-viet-nam-nguoi-tre-can-thay-cong-nghe-lam-duoc-gi-1652610241725469.chn"
+            "data": "entrance://webview/https://genk.vn/cong-an-thong-bao-6-loai-anh-khong-nen-gui-qua-zalo-messenger-ke-ca-cho-nguoi-quen-165261024163949052.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Lãnh đạo Samsung Việt Nam: Người trẻ cần thấy công nghệ làm được gì",
-          "text": "Công nghệ, thị trường và hành vi người dùng liên tục thay đổi, đặt ra những yêu cầu mới đối với cách doanh nghiệp thích ứng. Với ông Simon Sim, sự linh hoạt trước những biến động này cần đi cùng với việc gìn giữ những giá trị quan trọng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Công an thông báo 6 loại ảnh không nên gửi qua Zalo, Messenger, kể cả cho người quen",
+          "text": "Ảnh căn cước, thẻ ngân hàng, vé máy bay hay màn hình chuyển khoản là những thứ nhiều người gửi qua Zalo, Messenger mỗi ngày. Theo khuyến cáo của cơ quan Công an, có 6 nhóm hình ảnh có thể bị kẻ gian khai thác để mạo danh, xâm nhập tài khoản và dựng kịch bản lừa đảo nhắm vào từng người.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1368,7 +1368,7 @@
     },
     {
       "id": "news_item_23",
-      "name": "Thủ tướng Ba Lan tham quan phố cổ Hội An",
+      "name": "'Chạy đua Tiếng Anh vô nghĩa trong kỳ thi vào lớp 10'",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1395,31 +1395,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/thu-tuong-ba-lan-tham-quan-pho-co-hoi-an-5136416.html"
+            "href": "entrance://webview/https://vnexpress.net/chay-dua-tieng-anh-vo-nghia-trong-ky-thi-vao-lop-10-5136292.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/thu-tuong-ba-lan-tham-quan-pho-co-hoi-an-5136416.html"
+            "data": "entrance://webview/https://vnexpress.net/chay-dua-tieng-anh-vo-nghia-trong-ky-thi-vao-lop-10-5136292.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/thu-tuong-ba-lan-tham-quan-pho-co-hoi-an-5136416.html"
+            "href": "entrance://webview/https://vnexpress.net/chay-dua-tieng-anh-vo-nghia-trong-ky-thi-vao-lop-10-5136292.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/thu-tuong-ba-lan-tham-quan-pho-co-hoi-an-5136416.html"
+            "data": "entrance://webview/https://vnexpress.net/chay-dua-tieng-anh-vo-nghia-trong-ky-thi-vao-lop-10-5136292.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Thủ tướng Ba Lan tham quan phố cổ Hội An",
-          "text": "Thủ tướng Ba Lan thăm phố cổ Hội An sáng nay, đặt hoa tưởng niệm kiến trúc sư Kazimierz Kwiatkowski, người có nhiều đóng góp bảo tồn di sản Việt Nam.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "'Chạy đua Tiếng Anh vô nghĩa trong kỳ thi vào lớp 10'",
+          "text": "Việc biến Tiếng Anh thành môn thi xét tuyển vào lớp 10 không chỉ tạo ra áp lực tâm lý nặng nề mà còn gây lãng phí vô cùng lớn.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1430,7 +1430,7 @@
     },
     {
       "id": "news_item_24",
-      "name": "Hơn 50.000 người ở châu Âu tử vong vì nắng nóng kỷ lục năm nay",
+      "name": "Đề xuất bỏ 18 thủ tục về sở hữu trí tuệ",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1457,31 +1457,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/hon-50-000-nguoi-o-chau-au-tu-vong-vi-nang-nong-ky-luc-nam-nay-5135997.html"
+            "href": "entrance://webview/https://vnexpress.net/de-xuat-bo-18-thu-tuc-ve-so-huu-tri-tue-5136315.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/hon-50-000-nguoi-o-chau-au-tu-vong-vi-nang-nong-ky-luc-nam-nay-5135997.html"
+            "data": "entrance://webview/https://vnexpress.net/de-xuat-bo-18-thu-tuc-ve-so-huu-tri-tue-5136315.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/hon-50-000-nguoi-o-chau-au-tu-vong-vi-nang-nong-ky-luc-nam-nay-5135997.html"
+            "href": "entrance://webview/https://vnexpress.net/de-xuat-bo-18-thu-tuc-ve-so-huu-tri-tue-5136315.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/hon-50-000-nguoi-o-chau-au-tu-vong-vi-nang-nong-ky-luc-nam-nay-5135997.html"
+            "data": "entrance://webview/https://vnexpress.net/de-xuat-bo-18-thu-tuc-ve-so-huu-tri-tue-5136315.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Hơn 50.000 người ở châu Âu tử vong vì nắng nóng kỷ lục năm nay",
-          "text": "Mùa hè nóng chưa từng thấy khiến số lượng người tử vong do nhiệt độ cao ở các nước châu Âu tăng vọt trong năm nay.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Đề xuất bỏ 18 thủ tục về sở hữu trí tuệ",
+          "text": "Chính phủ đề xuất luật hóa việc bãi bỏ 18 thủ tục hành chính, cắt giảm 5 điều kiện kinh doanh, nhằm đơn giản hóa việc chuyển nhượng quyền sở hữu công nghiệp và bảo hộ giống cây trồng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1543,7 +1543,7 @@
         {
           "type": "text",
           "name": "Anthropic chi 1,5 tỉ USD dàn xếp vụ kiện bản quyền sách, có tác phẩm của Han Kang",
-          "text": "Khoảng 500.000 đầu sách thuộc diện được bồi thường trong vụ kiện Anthropic tại Mỹ, trong đó có tác phẩm của nhà văn Hàn Quốc Han Kang.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Khoảng 500.000 đầu sách thuộc diện được bồi thường trong vụ kiện Anthropic tại Mỹ, trong đó có tác phẩm của nhà văn Hàn Quốc Han Kang.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1554,7 +1554,7 @@
     },
     {
       "id": "news_item_26",
-      "name": "Mai Anh đăng quang Siêu mẫu Quốc tế 2026",
+      "name": "Khánh Hòa chỉ đạo rà soát các cơ sở giáo dục trên 100 lớp, đề xuất phương án xử lý",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1581,31 +1581,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/mai-anh-dang-quang-sieu-mau-quoc-te-2026-100261024174212991.htm"
+            "href": "entrance://webview/https://tuoitre.vn/khanh-hoa-chi-dao-ra-soat-cac-co-so-giao-duc-tren-100-lop-de-xuat-phuong-an-xu-ly-100261024204110711.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/mai-anh-dang-quang-sieu-mau-quoc-te-2026-100261024174212991.htm"
+            "data": "entrance://webview/https://tuoitre.vn/khanh-hoa-chi-dao-ra-soat-cac-co-so-giao-duc-tren-100-lop-de-xuat-phuong-an-xu-ly-100261024204110711.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/mai-anh-dang-quang-sieu-mau-quoc-te-2026-100261024174212991.htm"
+            "href": "entrance://webview/https://tuoitre.vn/khanh-hoa-chi-dao-ra-soat-cac-co-so-giao-duc-tren-100-lop-de-xuat-phuong-an-xu-ly-100261024204110711.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/mai-anh-dang-quang-sieu-mau-quoc-te-2026-100261024174212991.htm"
+            "data": "entrance://webview/https://tuoitre.vn/khanh-hoa-chi-dao-ra-soat-cac-co-so-giao-duc-tren-100-lop-de-xuat-phuong-an-xu-ly-100261024204110711.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Mai Anh đăng quang Siêu mẫu Quốc tế 2026",
-          "text": "Đại diện Việt Nam Mai Anh đăng quang Siêu mẫu Quốc tế 2026 tại Thái Lan, lần thứ ba chiến thắng cho các người đẹp từ Việt Nam.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Khánh Hòa chỉ đạo rà soát các cơ sở giáo dục trên 100 lớp, đề xuất phương án xử lý",
+          "text": "Chủ tịch tỉnh Khánh Hòa vừa chỉ đạo rà soát toàn bộ cơ sở giáo dục có quy mô lớn, nhất là các cơ sở có trên 100 lớp, kịp thời đề xuất phương án xử lý đối với các cơ sở giáo dục vượt khả năng quản trị.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1616,7 +1616,7 @@
     },
     {
       "id": "news_item_27",
-      "name": "Lời khuyên cho người bị khóa tài khoản VNeID",
+      "name": "Khai phá dữ liệu theo thời gian thực cùng IBM tại HPT D-DAY 2026",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1643,31 +1643,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/loi-khuyen-cho-nguoi-bi-khoa-tai-khoan-vneid-165261024142941241.chn"
+            "href": "entrance://webview/https://genk.vn/khai-pha-du-lieu-theo-thoi-gian-thuc-cung-ibm-tai-hpt-d-day-2026-165261024180623304.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/loi-khuyen-cho-nguoi-bi-khoa-tai-khoan-vneid-165261024142941241.chn"
+            "data": "entrance://webview/https://genk.vn/khai-pha-du-lieu-theo-thoi-gian-thuc-cung-ibm-tai-hpt-d-day-2026-165261024180623304.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/loi-khuyen-cho-nguoi-bi-khoa-tai-khoan-vneid-165261024142941241.chn"
+            "href": "entrance://webview/https://genk.vn/khai-pha-du-lieu-theo-thoi-gian-thuc-cung-ibm-tai-hpt-d-day-2026-165261024180623304.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/loi-khuyen-cho-nguoi-bi-khoa-tai-khoan-vneid-165261024142941241.chn"
+            "data": "entrance://webview/https://genk.vn/khai-pha-du-lieu-theo-thoi-gian-thuc-cung-ibm-tai-hpt-d-day-2026-165261024180623304.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Lời khuyên cho người bị khóa tài khoản VNeID",
-          "text": "Từ ngày 28/09/2026, tài khoản VNeID tự động bị khóa nếu căn cước điện tử bị khóa hoặc nếu số điện thoại đăng ký đã thay đổi và không còn chính chủ. Người dùng có thể tự kiểm tra ngay trên ứng dụng. Nếu tài khoản đã bị khóa, việc mở lại không mất phí và được giải quyết trong 3 ngày làm việc.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Khai phá dữ liệu theo thời gian thực cùng IBM tại HPT D-DAY 2026",
+          "text": "Ngày 15/10/2026 tại HPT D-DAY 2026, IBM đã đồng hành cùng sự kiện mang đến góc nhìn về kết nối dữ liệu và AI để khai phá tri thức theo thời gian thực, hỗ trợ doanh nghiệp ra quyết định kịp thời và nâng cao hiệu quả kinh doanh.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 23:09 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1678,7 +1678,7 @@
     },
     {
       "id": "news_item_28",
-      "name": "Mẹo giúp sườn chiên sả lá lốt mềm mọng",
+      "name": "Jackpot gần 200 tỷ đồng có người trúng thưởng",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1705,31 +1705,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/meo-giup-suon-chien-sa-la-lot-mem-mong-5135661.html"
+            "href": "entrance://webview/https://vnexpress.net/jackpot-gan-200-ty-dong-co-nguoi-trung-thuong-5136482.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/meo-giup-suon-chien-sa-la-lot-mem-mong-5135661.html"
+            "data": "entrance://webview/https://vnexpress.net/jackpot-gan-200-ty-dong-co-nguoi-trung-thuong-5136482.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/meo-giup-suon-chien-sa-la-lot-mem-mong-5135661.html"
+            "href": "entrance://webview/https://vnexpress.net/jackpot-gan-200-ty-dong-co-nguoi-trung-thuong-5136482.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/meo-giup-suon-chien-sa-la-lot-mem-mong-5135661.html"
+            "data": "entrance://webview/https://vnexpress.net/jackpot-gan-200-ty-dong-co-nguoi-trung-thuong-5136482.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Mẹo giúp sườn chiên sả lá lốt mềm mọng",
-          "text": "Việc ứng dụng kỹ thuật áo bột khóa ẩm và chiên hai lần giúp món sườn heo đạt độ giòn rụm, thơm nức mà không bị đắng do cặn gia vị.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Jackpot gần 200 tỷ đồng có người trúng thưởng",
+          "text": "Tối 24/10, Vietlott xác định được một khách hàng trúng giải cao nhất của sản phẩm Power 6/55 trị giá gần 200 tỷ đồng.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 23:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1740,7 +1740,7 @@
     },
     {
       "id": "news_item_29",
-      "name": "Khoảng trống Face ID trên iPhone Duo",
+      "name": "48 tiếng không ngủ của giới an ninh mạng",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1767,31 +1767,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/khoang-trong-face-id-tren-iphone-duo-5136129.html"
+            "href": "entrance://webview/https://vnexpress.net/48-tieng-khong-ngu-cua-gioi-an-ninh-mang-5136169.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/khoang-trong-face-id-tren-iphone-duo-5136129.html"
+            "data": "entrance://webview/https://vnexpress.net/48-tieng-khong-ngu-cua-gioi-an-ninh-mang-5136169.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/khoang-trong-face-id-tren-iphone-duo-5136129.html"
+            "href": "entrance://webview/https://vnexpress.net/48-tieng-khong-ngu-cua-gioi-an-ninh-mang-5136169.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/khoang-trong-face-id-tren-iphone-duo-5136129.html"
+            "data": "entrance://webview/https://vnexpress.net/48-tieng-khong-ngu-cua-gioi-an-ninh-mang-5136169.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Khoảng trống Face ID trên iPhone Duo",
-          "text": "iPhone Duo đem đến nhiều trải nghiệm mới mẻ nhưng thiếu vắng nhận dạng khuôn mặt Face ID, ảnh hưởng đến thói quen của người dùng iPhone lâu năm.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "48 tiếng không ngủ của giới an ninh mạng",
+          "text": "Nhiều chuyên gia bảo mật đang chạy đua, thậm chí thức trắng hai ngày qua để cập nhật bản vá lỗ hổng ẩn trong ngôn ngữ lập trình PHP trước khi tin tặc gây ra những cuộc tấn công diện rộng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 23:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1853,7 +1853,7 @@
         {
           "type": "text",
           "name": "Lượt truy cập báo chí giảm 40%, Google điều chỉnh kết quả tìm kiếm AI",
-          "text": "Google sẽ hiển thị đường dẫn đến trang web và bài báo nổi bật hơn trong câu trả lời do AI tạo ra, giữa lúc lượng truy cập từ Google đến các trang tin tức giảm 40%.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Google sẽ hiển thị đường dẫn đến trang web và bài báo nổi bật hơn trong câu trả lời do AI tạo ra, giữa lúc lượng truy cập từ Google đến các trang tin tức giảm 40%.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 23:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "news_item_31",
-      "name": "Kiểm soát chất lượng khi bỏ điều kiện kinh doanh dịch vụ giám định sở hữu trí tuệ",
+      "name": "Hai con trâu húc nhiều người ở Lâm Đồng bị thương nặng",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1891,31 +1891,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/kiem-soat-chat-luong-khi-bo-dieu-kien-kinh-doanh-dich-vu-giam-dinh-so-huu-tri-tue-100261024170716766.htm"
+            "href": "entrance://webview/https://tuoitre.vn/hai-con-trau-huc-nhieu-nguoi-o-lam-dong-bi-thuong-nang-100261024210951417.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/kiem-soat-chat-luong-khi-bo-dieu-kien-kinh-doanh-dich-vu-giam-dinh-so-huu-tri-tue-100261024170716766.htm"
+            "data": "entrance://webview/https://tuoitre.vn/hai-con-trau-huc-nhieu-nguoi-o-lam-dong-bi-thuong-nang-100261024210951417.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/kiem-soat-chat-luong-khi-bo-dieu-kien-kinh-doanh-dich-vu-giam-dinh-so-huu-tri-tue-100261024170716766.htm"
+            "href": "entrance://webview/https://tuoitre.vn/hai-con-trau-huc-nhieu-nguoi-o-lam-dong-bi-thuong-nang-100261024210951417.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/kiem-soat-chat-luong-khi-bo-dieu-kien-kinh-doanh-dich-vu-giam-dinh-so-huu-tri-tue-100261024170716766.htm"
+            "data": "entrance://webview/https://tuoitre.vn/hai-con-trau-huc-nhieu-nguoi-o-lam-dong-bi-thuong-nang-100261024210951417.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Kiểm soát chất lượng khi bỏ điều kiện kinh doanh dịch vụ giám định sở hữu trí tuệ",
-          "text": "Chủ tịch Quốc hội yêu cầu có giải pháp kiểm soát chất lượng giám định sở hữu trí tuệ ngay sau khi bỏ điều kiện kinh doanh, tránh tình trạng giám định thiếu chuyên môn, kết luận mâu thuẫn, làm méo mó kết quả xử lý tranh chấp.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Hai con trâu húc nhiều người ở Lâm Đồng bị thương nặng",
+          "text": "Hai con trâu mới được chủ chở về Lâm Hà (tỉnh Lâm Đồng) sổng chạy ra đường, húc nhiều người bị thương nặng, sau đó lao vào tiệc cưới.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 23:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1926,7 +1926,7 @@
     },
     {
       "id": "news_item_32",
-      "name": "Cụ ông 100 tuổi ở Đà Nẵng không thích ăn rau, tiết lộ bí quyết sống khỏe",
+      "name": "Đại diện Công an cảnh báo: Sinh trắc học của nhiều ngân hàng vẫn bị qua mặt bằng ảnh tĩnh, video ngắn",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1946,6 +1946,750 @@
           },
           {
             "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_32.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/dai-dien-cong-an-canh-bao-sinh-trac-hoc-cua-nhieu-ngan-hang-van-bi-qua-mat-bang-anh-tinh-video-ngan-165261024182446762.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/dai-dien-cong-an-canh-bao-sinh-trac-hoc-cua-nhieu-ngan-hang-van-bi-qua-mat-bang-anh-tinh-video-ngan-165261024182446762.chn"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/dai-dien-cong-an-canh-bao-sinh-trac-hoc-cua-nhieu-ngan-hang-van-bi-qua-mat-bang-anh-tinh-video-ngan-165261024182446762.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/dai-dien-cong-an-canh-bao-sinh-trac-hoc-cua-nhieu-ngan-hang-van-bi-qua-mat-bang-anh-tinh-video-ngan-165261024182446762.chn"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Đại diện Công an cảnh báo: Sinh trắc học của nhiều ngân hàng vẫn bị qua mặt bằng ảnh tĩnh, video ngắn",
+          "text": "Toàn ngành ngân hàng đã làm sạch 177 triệu hồ sơ khách hàng cá nhân bằng sinh trắc học, gần như xóa bỏ tình trạng tài khoản đứng tên giả. Tuy vậy, theo lãnh đạo Cục A05, kẻ gian vẫn tìm cách vượt qua lớp bảo vệ này ở nhiều ngân hàng, đặt ra yêu cầu tiếp tục siết chặt an toàn trong thanh toán số.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 23:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_33",
+      "name": "Trâu húc 6 người bị thương ở Lâm Đồng",
+      "label": "VnExpress • Thời Sự",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_33.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_33.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_33.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_33.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://vnexpress.net/trau-huc-6-nguoi-bi-thuong-o-lam-dong-5136481.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/trau-huc-6-nguoi-bi-thuong-o-lam-dong-5136481.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://vnexpress.net/trau-huc-6-nguoi-bi-thuong-o-lam-dong-5136481.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/trau-huc-6-nguoi-bi-thuong-o-lam-dong-5136481.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Trâu húc 6 người bị thương ở Lâm Đồng",
+          "text": "Sau khi làm chấn thương người chủ, hai con trâu chạy trên đường liên tục húc người dân, làm hư hỏng xe máy, ôtô, lao vào tiệc cưới khiến thực khách tìm cách thoát thân, chiều 24/10.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 23:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_34",
+      "name": "SpaceX đề xuất tăng 20% lương cho nhân viên trung tâm dữ liệu",
+      "label": "VnExpress • Công Nghệ",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_34.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_34.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_34.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_34.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://vnexpress.net/spacex-de-xuat-tang-20-luong-cho-nhan-vien-trung-tam-du-lieu-5135810.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/spacex-de-xuat-tang-20-luong-cho-nhan-vien-trung-tam-du-lieu-5135810.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://vnexpress.net/spacex-de-xuat-tang-20-luong-cho-nhan-vien-trung-tam-du-lieu-5135810.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/spacex-de-xuat-tang-20-luong-cho-nhan-vien-trung-tam-du-lieu-5135810.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "SpaceX đề xuất tăng 20% lương cho nhân viên trung tâm dữ liệu",
+          "text": "SpaceX đề xuất tăng lương 20% cho nhân viên tình nguyện đến Memphis hoặc Southaven, hỗ trợ xây trung tâm dữ liệu quan trọng của công ty trong 6 tuần.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 23:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_35",
+      "name": "CLB Thành phố Đồng Nai tiếp tục chuỗi trận không thắng và không biết ghi bàn",
+      "label": "Tuổi Trẻ • Thời Sự",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_35.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_35.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_35.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_35.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/clb-thanh-pho-dong-nai-tiep-tuc-chuoi-tran-khong-thang-va-khong-biet-ghi-ban-100261024195032727.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/clb-thanh-pho-dong-nai-tiep-tuc-chuoi-tran-khong-thang-va-khong-biet-ghi-ban-100261024195032727.htm"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/clb-thanh-pho-dong-nai-tiep-tuc-chuoi-tran-khong-thang-va-khong-biet-ghi-ban-100261024195032727.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/clb-thanh-pho-dong-nai-tiep-tuc-chuoi-tran-khong-thang-va-khong-biet-ghi-ban-100261024195032727.htm"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "CLB Thành phố Đồng Nai tiếp tục chuỗi trận không thắng và không biết ghi bàn",
+          "text": "CLB Thành phố Đồng Nai đã để thua đậm CLB Nam Định ngay trên sân nhà ở vòng 5 V-League 2026-2027, tiếp tục kéo dài chuỗi trận không thắng và không biết ghi bàn suốt từ đầu giải.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 23:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_36",
+      "name": "Loạt ngân hàng gửi khuyến cáo đến người dùng tài khoản: Kiểm tra điện thoại, phát hiện các ứng dụng này phải gỡ ngay",
+      "label": "GenK • Công Nghệ & AI",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_36.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_36.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_36.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_36.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/loat-ngan-hang-gui-khuyen-cao-den-nguoi-dung-tai-khoan-kiem-tra-dien-thoai-phat-hien-cac-ung-dung-nay-phai-go-ngay-165261024181450103.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/loat-ngan-hang-gui-khuyen-cao-den-nguoi-dung-tai-khoan-kiem-tra-dien-thoai-phat-hien-cac-ung-dung-nay-phai-go-ngay-165261024181450103.chn"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/loat-ngan-hang-gui-khuyen-cao-den-nguoi-dung-tai-khoan-kiem-tra-dien-thoai-phat-hien-cac-ung-dung-nay-phai-go-ngay-165261024181450103.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/loat-ngan-hang-gui-khuyen-cao-den-nguoi-dung-tai-khoan-kiem-tra-dien-thoai-phat-hien-cac-ung-dung-nay-phai-go-ngay-165261024181450103.chn"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Loạt ngân hàng gửi khuyến cáo đến người dùng tài khoản: Kiểm tra điện thoại, phát hiện các ứng dụng này phải gỡ ngay",
+          "text": "Nhiều ngân hàng vừa phát đi cảnh báo về các ứng dụng có dấu hiệu mạo danh thương hiệu, chào mời vay tiền hoặc chứa mã độc có thể đánh cắp thông tin cá nhân, chiếm quyền điều khiển điện thoại và tài khoản ngân hàng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 23:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_37",
+      "name": "Nhà thám hiểm đu dây xuống hố sụt sâu 120 m ở Phong Nha - Kẻ Bàng",
+      "label": "VnExpress • Thời Sự",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_37.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_37.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_37.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_37.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://vnexpress.net/nha-tham-hiem-du-day-xuong-ho-sut-sau-120-m-o-phong-nha-ke-bang-5136477.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/nha-tham-hiem-du-day-xuong-ho-sut-sau-120-m-o-phong-nha-ke-bang-5136477.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://vnexpress.net/nha-tham-hiem-du-day-xuong-ho-sut-sau-120-m-o-phong-nha-ke-bang-5136477.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/nha-tham-hiem-du-day-xuong-ho-sut-sau-120-m-o-phong-nha-ke-bang-5136477.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Nhà thám hiểm đu dây xuống hố sụt sâu 120 m ở Phong Nha - Kẻ Bàng",
+          "text": "Các nhà thám hiểm Jungle Boss và thành viên Hiệp hội Hang động Mỹ đu dây xuống vách đá dựng đứng sâu 120 m để tiếp cận hố sụt rộng 2,1 ha vừa được phát hiện tại Phong Nha - Kẻ Bàng.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 23:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_38",
+      "name": "Khoảng trống Face ID trên iPhone Duo",
+      "label": "VnExpress • Công Nghệ",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_38.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_38.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_38.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_38.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://vnexpress.net/khoang-trong-face-id-tren-iphone-duo-5136129.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/khoang-trong-face-id-tren-iphone-duo-5136129.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://vnexpress.net/khoang-trong-face-id-tren-iphone-duo-5136129.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/khoang-trong-face-id-tren-iphone-duo-5136129.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Khoảng trống Face ID trên iPhone Duo",
+          "text": "iPhone Duo đem đến nhiều trải nghiệm mới mẻ nhưng thiếu vắng nhận dạng khuôn mặt Face ID, ảnh hưởng đến thói quen của người dùng iPhone lâu năm.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 23:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_39",
+      "name": "Con trai bà Aung San Suu Kyi tiết lộ câu hỏi thăm đầu tiên của mẹ",
+      "label": "Tuổi Trẻ • Thời Sự",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_39.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_39.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_39.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_39.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/con-trai-ba-aung-san-suu-kyi-tiet-lo-cau-hoi-tham-dau-tien-cua-me-100261024204821346.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/con-trai-ba-aung-san-suu-kyi-tiet-lo-cau-hoi-tham-dau-tien-cua-me-100261024204821346.htm"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/con-trai-ba-aung-san-suu-kyi-tiet-lo-cau-hoi-tham-dau-tien-cua-me-100261024204821346.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/con-trai-ba-aung-san-suu-kyi-tiet-lo-cau-hoi-tham-dau-tien-cua-me-100261024204821346.htm"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Con trai bà Aung San Suu Kyi tiết lộ câu hỏi thăm đầu tiên của mẹ",
+          "text": "Sau hơn 5 năm xa cách, câu hỏi đầu tiên của bà Aung San Suu Kyi dành cho con trai đậm bản năng người mẹ.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 23:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_40",
+      "name": "Đi nước ngoài được mang tối đa bao nhiêu USD tiền mặt?",
+      "label": "GenK • Công Nghệ & AI",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_40.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_40.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_40.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_40.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/di-nuoc-ngoai-duoc-mang-toi-da-bao-nhieu-usd-tien-mat-165261024175952763.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/di-nuoc-ngoai-duoc-mang-toi-da-bao-nhieu-usd-tien-mat-165261024175952763.chn"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/di-nuoc-ngoai-duoc-mang-toi-da-bao-nhieu-usd-tien-mat-165261024175952763.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/di-nuoc-ngoai-duoc-mang-toi-da-bao-nhieu-usd-tien-mat-165261024175952763.chn"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Đi nước ngoài được mang tối đa bao nhiêu USD tiền mặt?",
+          "text": "Bạn đọc Hoàng Thủy (Hưng Yên) hỏi: \"Tôi chuẩn bị đi du lịch nước ngoài và muốn mang theo một ít USD tiền mặt để chi tiêu. Xin hỏi, một người được mang tối đa bao nhiêu USD khi xuất cảnh từ Việt Nam? Nếu mang trên 5.000 USD thì có bị cấm hay phải làm thủ tục gì\"?\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 23:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_41",
+      "name": "Aston Villa chấm dứt chuỗi trận toàn thắng của Man City ở Premier League",
+      "label": "Tuổi Trẻ • Thời Sự",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_41.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_41.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_41.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_41.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/aston-villa-cham-dut-chuoi-tran-toan-thang-cua-man-city-o-premier-league-100261024204657276.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/aston-villa-cham-dut-chuoi-tran-toan-thang-cua-man-city-o-premier-league-100261024204657276.htm"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/aston-villa-cham-dut-chuoi-tran-toan-thang-cua-man-city-o-premier-league-100261024204657276.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/aston-villa-cham-dut-chuoi-tran-toan-thang-cua-man-city-o-premier-league-100261024204657276.htm"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Aston Villa chấm dứt chuỗi trận toàn thắng của Man City ở Premier League",
+          "text": "Tối 24-10, tiền đạo Nicolas Jackson tỏa sáng với cú đúp giúp Aston Villa giành chiến thắng trước Man City.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 23:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_42",
+      "name": "Lãnh đạo Samsung Việt Nam: Người trẻ cần thấy công nghệ làm được gì",
+      "label": "GenK • Công Nghệ & AI",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_42.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_42.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_42.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_42.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/lanh-dao-samsung-viet-nam-nguoi-tre-can-thay-cong-nghe-lam-duoc-gi-1652610241725469.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/lanh-dao-samsung-viet-nam-nguoi-tre-can-thay-cong-nghe-lam-duoc-gi-1652610241725469.chn"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/lanh-dao-samsung-viet-nam-nguoi-tre-can-thay-cong-nghe-lam-duoc-gi-1652610241725469.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/lanh-dao-samsung-viet-nam-nguoi-tre-can-thay-cong-nghe-lam-duoc-gi-1652610241725469.chn"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Lãnh đạo Samsung Việt Nam: Người trẻ cần thấy công nghệ làm được gì",
+          "text": "Công nghệ, thị trường và hành vi người dùng liên tục thay đổi, đặt ra những yêu cầu mới đối với cách doanh nghiệp thích ứng. Với ông Simon Sim, sự linh hoạt trước những biến động này cần đi cùng với việc gìn giữ những giá trị quan trọng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 23:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_43",
+      "name": "Lời khuyên cho người bị khóa tài khoản VNeID",
+      "label": "GenK • Công Nghệ & AI",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_43.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_43.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_43.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_43.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/loi-khuyen-cho-nguoi-bi-khoa-tai-khoan-vneid-165261024142941241.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/loi-khuyen-cho-nguoi-bi-khoa-tai-khoan-vneid-165261024142941241.chn"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/loi-khuyen-cho-nguoi-bi-khoa-tai-khoan-vneid-165261024142941241.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/loi-khuyen-cho-nguoi-bi-khoa-tai-khoan-vneid-165261024142941241.chn"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Lời khuyên cho người bị khóa tài khoản VNeID",
+          "text": "Từ ngày 28/09/2026, tài khoản VNeID tự động bị khóa nếu căn cước điện tử bị khóa hoặc nếu số điện thoại đăng ký đã thay đổi và không còn chính chủ. Người dùng có thể tự kiểm tra ngay trên ứng dụng. Nếu tài khoản đã bị khóa, việc mở lại không mất phí và được giải quyết trong 3 ngày làm việc.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 23:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_44",
+      "name": "Cụ ông 100 tuổi ở Đà Nẵng không thích ăn rau, tiết lộ bí quyết sống khỏe",
+      "label": "GenK • Công Nghệ & AI",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_44.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_44.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_44.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_44.png"
           }
         ]
       },
@@ -1977,751 +2721,7 @@
         {
           "type": "text",
           "name": "Cụ ông 100 tuổi ở Đà Nẵng không thích ăn rau, tiết lộ bí quyết sống khỏe",
-          "text": "Tròn 100 tuổi, cụ Vương Nghiên, trú Đà Nẵng, vẫn khỏe mạnh, minh mẫn, tự chăm sóc bản thân và giữ thói quen vận động mỗi ngày.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_33",
-      "name": "Người đàn ông truy đuổi, đâm hai thanh niên ở TP HCM",
-      "label": "VnExpress • Thời Sự",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_33.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_33.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_33.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_33.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/nguoi-dan-ong-truy-duoi-dam-hai-thanh-nien-o-tp-hcm-5136410.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nguoi-dan-ong-truy-duoi-dam-hai-thanh-nien-o-tp-hcm-5136410.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/nguoi-dan-ong-truy-duoi-dam-hai-thanh-nien-o-tp-hcm-5136410.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nguoi-dan-ong-truy-duoi-dam-hai-thanh-nien-o-tp-hcm-5136410.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Người đàn ông truy đuổi, đâm hai thanh niên ở TP HCM",
-          "text": "Hai nam thanh niên bị người đàn ông mặc áo xe ôm công nghệ cầm dao truy đuổi, đâm tại khu vực giao lộ Bà Triệu - Song Hành, xã Hóc Môn.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_34",
-      "name": "48 tiếng không ngủ của giới an ninh mạng",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_34.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_34.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_34.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_34.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/48-tieng-khong-ngu-cua-gioi-an-ninh-mang-5136169.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/48-tieng-khong-ngu-cua-gioi-an-ninh-mang-5136169.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/48-tieng-khong-ngu-cua-gioi-an-ninh-mang-5136169.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/48-tieng-khong-ngu-cua-gioi-an-ninh-mang-5136169.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "48 tiếng không ngủ của giới an ninh mạng",
-          "text": "Nhiều chuyên gia bảo mật đang chạy đua, thậm chí thức trắng hai ngày qua để cập nhật bản vá lỗ hổng ẩn trong ngôn ngữ lập trình PHP trước khi tin tặc gây ra những cuộc tấn công diện rộng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_35",
-      "name": "Cuộc thi Lan tỏa\n năng lượng tích cực 2026: Ứng dụng công nghệ lượng tử vào tưới tiêu",
-      "label": "Tuổi Trẻ • Thời Sự",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_35.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_35.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_35.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_35.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-ung-dung-cong-nghe-luong-tu-vao-tuoi-tieu-100261024153421421.htm"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-ung-dung-cong-nghe-luong-tu-vao-tuoi-tieu-100261024153421421.htm"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-ung-dung-cong-nghe-luong-tu-vao-tuoi-tieu-100261024153421421.htm"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-ung-dung-cong-nghe-luong-tu-vao-tuoi-tieu-100261024153421421.htm"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Cuộc thi Lan tỏa\n năng lượng tích cực 2026: Ứng dụng công nghệ lượng tử vào tưới tiêu",
-          "text": "Ứng dụng công nghệ lượng tử vào tưới tiêu giúp tối ưu hóa việc phân phối nước và dự đoán nhu cầu nước của cây trồng với độ chính xác vượt trội.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_36",
-      "name": "5 mẫu iPhone cũ đáng tiền nhất hiện nay",
-      "label": "GenK • Công Nghệ & AI",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_36.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_36.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_36.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_36.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/5-mau-iphone-cu-dang-tien-nhat-hien-nay-165261024142627893.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/5-mau-iphone-cu-dang-tien-nhat-hien-nay-165261024142627893.chn"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/5-mau-iphone-cu-dang-tien-nhat-hien-nay-165261024142627893.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/5-mau-iphone-cu-dang-tien-nhat-hien-nay-165261024142627893.chn"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "5 mẫu iPhone cũ đáng tiền nhất hiện nay",
-          "text": "iPhone 18 Pro Max có giá từ 41,999 triệu đồng và iPhone Duo từ 64,999 triệu đồng tại Việt Nam, trong khi giá nhiều đời iPhone cũ tiếp tục giảm. Dưới đây là 5 mẫu iPhone cũ đáng mua nhất cuối tháng 10/2026, mỗi mẫu ứng với một mức ngân sách từ khoảng 11 triệu đến hơn 31 triệu đồng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_37",
-      "name": "Mỹ xả khẩn cấp kho dự trữ chiến lược để 'giải cứu' nhà máy lọc dầu",
-      "label": "VnExpress • Thời Sự",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_37.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_37.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_37.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_37.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/my-xa-khan-cap-kho-du-tru-chien-luoc-de-giai-cuu-nha-may-loc-dau-5136402.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/my-xa-khan-cap-kho-du-tru-chien-luoc-de-giai-cuu-nha-may-loc-dau-5136402.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/my-xa-khan-cap-kho-du-tru-chien-luoc-de-giai-cuu-nha-may-loc-dau-5136402.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/my-xa-khan-cap-kho-du-tru-chien-luoc-de-giai-cuu-nha-may-loc-dau-5136402.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Mỹ xả khẩn cấp kho dự trữ chiến lược để 'giải cứu' nhà máy lọc dầu",
-          "text": "Bộ Năng lượng Mỹ cho xuất tối đa 400.000 thùng dầu thô từ kho dự trữ chiến lược để ứng phó gián đoạn nguồn cung cho nhà máy lọc dầu Louisiana.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_38",
-      "name": "Cách kỹ sư Việt làm chủ công nghệ thi công dưới lòng đô thị",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_38.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_38.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_38.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_38.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/cach-ky-su-viet-lam-chu-cong-nghe-thi-cong-duoi-long-do-thi-5136104.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/cach-ky-su-viet-lam-chu-cong-nghe-thi-cong-duoi-long-do-thi-5136104.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/cach-ky-su-viet-lam-chu-cong-nghe-thi-cong-duoi-long-do-thi-5136104.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/cach-ky-su-viet-lam-chu-cong-nghe-thi-cong-duoi-long-do-thi-5136104.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Cách kỹ sư Việt làm chủ công nghệ thi công dưới lòng đô thị",
-          "text": "Từ chỗ phụ thuộc hoàn toàn vào chuyên gia nước ngoài những ngày đầu, các kỹ sư Việt Nam dần làm chủ công nghệ hiện đại và vận hành máy đào TBM để thi công các đường hầm metro.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_39",
-      "name": "Vừa lái ô tô vừa bấm bấm điện thoại, nữ tài xế ở Đà Nẵng bị phạt",
-      "label": "Tuổi Trẻ • Thời Sự",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_39.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_39.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_39.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_39.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://tuoitre.vn/vua-lai-o-to-vua-bam-bam-dien-thoai-nu-tai-xe-o-da-nang-bi-phat-100261024173521962.htm"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/vua-lai-o-to-vua-bam-bam-dien-thoai-nu-tai-xe-o-da-nang-bi-phat-100261024173521962.htm"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://tuoitre.vn/vua-lai-o-to-vua-bam-bam-dien-thoai-nu-tai-xe-o-da-nang-bi-phat-100261024173521962.htm"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/vua-lai-o-to-vua-bam-bam-dien-thoai-nu-tai-xe-o-da-nang-bi-phat-100261024173521962.htm"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Vừa lái ô tô vừa bấm bấm điện thoại, nữ tài xế ở Đà Nẵng bị phạt",
-          "text": "Một người phụ nữ ở Đà Nẵng vừa lái ô tô, vừa sử dụng điện thoại bị người đi đường quay lại và phản ánh. Cảnh sát giao thông đã vào cuộc xác minh, xử lý nữ tài xế vi phạm.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_40",
-      "name": "G-Dragon kéo khẩu trang mở khóa iPhone ở sân bay, zoom cận mới phát hiện món đồ độc nhất thế giới trên tay",
-      "label": "GenK • Công Nghệ & AI",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_40.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_40.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_40.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_40.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/g-dragon-keo-khau-trang-mo-khoa-iphone-o-san-bay-zoom-can-moi-phat-hien-mon-do-doc-nhat-the-gioi-tren-tay-165261024142515771.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/g-dragon-keo-khau-trang-mo-khoa-iphone-o-san-bay-zoom-can-moi-phat-hien-mon-do-doc-nhat-the-gioi-tren-tay-165261024142515771.chn"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/g-dragon-keo-khau-trang-mo-khoa-iphone-o-san-bay-zoom-can-moi-phat-hien-mon-do-doc-nhat-the-gioi-tren-tay-165261024142515771.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/g-dragon-keo-khau-trang-mo-khoa-iphone-o-san-bay-zoom-can-moi-phat-hien-mon-do-doc-nhat-the-gioi-tren-tay-165261024142515771.chn"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "G-Dragon kéo khẩu trang mở khóa iPhone ở sân bay, zoom cận mới phát hiện món đồ độc nhất thế giới trên tay",
-          "text": "Trong loạt ảnh sân bay chuẩn bị đến Việt Nam, G-Dragon che kín từ đầu đến chân nhưng vẫn để lộ một khoảnh khắc thú vị: kéo khẩu trang, cúi nhìn điện thoại mở khóa Face ID. Khi zoom kỹ, chiếc iPhone trên tay anh hóa ra không hề “bình thường” mà đang có một thứ \"độc nhất vô nhị\".\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_41",
-      "name": "Trường đại học Đà Lạt hướng đến đào tạo chất lượng cao",
-      "label": "Tuổi Trẻ • Thời Sự",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_41.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_41.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_41.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_41.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://tuoitre.vn/truong-dai-hoc-da-lat-huong-den-dao-tao-chat-luong-cao-10026102417055669.htm"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/truong-dai-hoc-da-lat-huong-den-dao-tao-chat-luong-cao-10026102417055669.htm"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://tuoitre.vn/truong-dai-hoc-da-lat-huong-den-dao-tao-chat-luong-cao-10026102417055669.htm"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/truong-dai-hoc-da-lat-huong-den-dao-tao-chat-luong-cao-10026102417055669.htm"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Trường đại học Đà Lạt hướng đến đào tạo chất lượng cao",
-          "text": "Trường đại học Đà Lạt được định hướng đầu tư thành trung tâm đào tạo chất lượng cao của Tây Nguyên và phát triển mô hình đại học với nhiều trường, có thành viên là trường trung học phổ thông.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_42",
-      "name": "Windows Phone bất ngờ “hồi sinh” trên Galaxy S9 với sự hỗ trợ của Claude",
-      "label": "GenK • Công Nghệ & AI",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_42.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_42.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_42.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_42.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/windows-phone-bat-ngo-hoi-sinh-tren-galaxy-s9-voi-su-ho-tro-cua-claude-165262310225525249.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/windows-phone-bat-ngo-hoi-sinh-tren-galaxy-s9-voi-su-ho-tro-cua-claude-165262310225525249.chn"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/windows-phone-bat-ngo-hoi-sinh-tren-galaxy-s9-voi-su-ho-tro-cua-claude-165262310225525249.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/windows-phone-bat-ngo-hoi-sinh-tren-galaxy-s9-voi-su-ho-tro-cua-claude-165262310225525249.chn"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Windows Phone bất ngờ “hồi sinh” trên Galaxy S9 với sự hỗ trợ của Claude",
-          "text": "Dự án ztOS đưa giao diện Live Tiles quen thuộc trở lại trên điện thoại Samsung.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_43",
-      "name": "Cần bao nhiêu năng lượng để tạo ra một viên kim cương nhân tạo?",
-      "label": "GenK • Công Nghệ & AI",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_43.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_43.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_43.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_43.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/can-bao-nhieu-nang-luong-de-tao-ra-mot-vien-kim-cuong-nhan-tao-16526102411184937.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/can-bao-nhieu-nang-luong-de-tao-ra-mot-vien-kim-cuong-nhan-tao-16526102411184937.chn"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/can-bao-nhieu-nang-luong-de-tao-ra-mot-vien-kim-cuong-nhan-tao-16526102411184937.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/can-bao-nhieu-nang-luong-de-tao-ra-mot-vien-kim-cuong-nhan-tao-16526102411184937.chn"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Cần bao nhiêu năng lượng để tạo ra một viên kim cương nhân tạo?",
-          "text": "Trái với lầm tưởng về công nghệ xanh sạch, việc tạo ra kim cương trong phòng thí nghiệm đòi hỏi nguồn năng lượng khổng lồ. Từ máy ép mô phỏng lòng đất đến lò phản ứng plasma, cuộc đối đầu công nghệ đang hé lộ những con số bất ngờ.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_44",
-      "name": "Luvi GEO giúp doanh nghiệp Việt không “biến mất” khi người dùng chuyển sang hỏi AI",
-      "label": "GenK • Công Nghệ & AI",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_44.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_44.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_44.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_44.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/luvi-geo-giup-doanh-nghiep-viet-khong-bien-mat-khi-nguoi-dung-chuyen-sang-hoi-ai-165261024113554226.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/luvi-geo-giup-doanh-nghiep-viet-khong-bien-mat-khi-nguoi-dung-chuyen-sang-hoi-ai-165261024113554226.chn"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/luvi-geo-giup-doanh-nghiep-viet-khong-bien-mat-khi-nguoi-dung-chuyen-sang-hoi-ai-165261024113554226.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/luvi-geo-giup-doanh-nghiep-viet-khong-bien-mat-khi-nguoi-dung-chuyen-sang-hoi-ai-165261024113554226.chn"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Luvi GEO giúp doanh nghiệp Việt không “biến mất” khi người dùng chuyển sang hỏi AI",
-          "text": "Khi ngày càng nhiều người hỏi trực tiếp ChatGPT, Gemini hay Google AI Overviews thay vì lướt qua danh sách link, việc thương hiệu có được AI nhắc tên hay không đang trở thành bài toán mới của doanh nghiệp. VCCorp vừa giới thiệu Luvi GEO, giải pháp giúp theo dõi, phân tích và cải thiện mức độ hiện diện đó, với thuật toán được huấn luyện riêng cho ngữ cảnh tiếng Việt.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 19:08 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tròn 100 tuổi, cụ Vương Nghiên, trú Đà Nẵng, vẫn khỏe mạnh, minh mẫn, tự chăm sóc bản thân và giữ thói quen vận động mỗi ngày.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 23:10 - 24/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
