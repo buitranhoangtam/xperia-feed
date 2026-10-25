@@ -2,13 +2,14 @@ name: Auto Update Xperia Feed
 
 on:
   schedule:
-    # 4 moc phut le (7, 23, 37, 53) hoan toan tranh gridlock cua cac bo dem 00, 15, 30, 45, 50 tren GitHub Actions
-    # Tan suat moi 15 phut dam bao 96 luot/ngay, khong bao gio bi dut quang du lieu tren repo Public mien phi
-    - cron: '7 * * * *'
-    - cron: '23 * * * *'
-    - cron: '37 * * * *'
-    - cron: '53 * * * *'
+    # Du phong chay moi 6 tieng phong khi webhook Google bi dung
+    - cron: '17 */6 * * *'
   workflow_dispatch:
+
+# Khoa chong chay dong thoi (Race Condition Prevention): tranh 2 workflow chay cung luc gay xung dot git push
+concurrency:
+  group: xperia-feed-update
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -45,5 +46,6 @@ jobs:
             echo 'No changes detected.'
           else
             git commit -m 'chore(live-feed): auto-update Sony Xperia feed [skip ci]'
-            git push
+            git pull --rebase origin main || true
+            git push origin main || (sleep 5 && git pull --rebase origin main && git push origin main)
           fi
