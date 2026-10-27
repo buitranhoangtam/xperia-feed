@@ -55,7 +55,7 @@
         {
           "type": "text",
           "name": "Thanh Thảo, Lý Hải đăng hình 30 năm trước, rộn ràng thanh xuân của bao người",
-          "text": "Ca sĩ Thanh Thảo và Lý Hải vừa đăng ảnh chụp chung thời họ làm mưa làm gió làng ca nhạc cách đây gần 30 năm khiến nhiều khán giả thấy bồi hồi.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:17 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Ca sĩ Thanh Thảo và Lý Hải vừa đăng ảnh chụp chung thời họ làm mưa làm gió làng ca nhạc cách đây gần 30 năm khiến nhiều khán giả thấy bồi hồi.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -66,7 +66,7 @@
     },
     {
       "id": "news_item_2",
-      "name": "Đồng nghiệp nói nhiều nhức cả đầu, đây là 2 mẫu tai nghe chống ồn đáng sắm: Giá ổn, pin trâu",
+      "name": "Ra mắt iMac mới: Chip M6, thiết kế không đổi, giá chính hãng từ 41,5 triệu đồng",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -93,31 +93,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/dong-nghiep-noi-nhieu-nhuc-ca-dau-day-la-2-mau-tai-nghe-chong-on-dang-sam-gia-on-pin-trau-165261027154824924.chn"
+            "href": "entrance://webview/https://genk.vn/ra-mat-imac-moi-chip-m6-thiet-ke-khong-doi-gia-chinh-hang-tu-415-trieu-dong-165261027204200179.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/dong-nghiep-noi-nhieu-nhuc-ca-dau-day-la-2-mau-tai-nghe-chong-on-dang-sam-gia-on-pin-trau-165261027154824924.chn"
+            "data": "entrance://webview/https://genk.vn/ra-mat-imac-moi-chip-m6-thiet-ke-khong-doi-gia-chinh-hang-tu-415-trieu-dong-165261027204200179.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/dong-nghiep-noi-nhieu-nhuc-ca-dau-day-la-2-mau-tai-nghe-chong-on-dang-sam-gia-on-pin-trau-165261027154824924.chn"
+            "href": "entrance://webview/https://genk.vn/ra-mat-imac-moi-chip-m6-thiet-ke-khong-doi-gia-chinh-hang-tu-415-trieu-dong-165261027204200179.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/dong-nghiep-noi-nhieu-nhuc-ca-dau-day-la-2-mau-tai-nghe-chong-on-dang-sam-gia-on-pin-trau-165261027154824924.chn"
+            "data": "entrance://webview/https://genk.vn/ra-mat-imac-moi-chip-m6-thiet-ke-khong-doi-gia-chinh-hang-tu-415-trieu-dong-165261027204200179.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Đồng nghiệp nói nhiều nhức cả đầu, đây là 2 mẫu tai nghe chống ồn đáng sắm: Giá ổn, pin trâu",
-          "text": "Có những ngày văn phòng ồn ào như một cái chợ còn bạn muốn đập bàn nhưng không dám. Một chiếc tai nghe chống ồn sẽ giúp bạn tìm được chút yên bình cho tâm hồn.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:17 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Ra mắt iMac mới: Chip M6, thiết kế không đổi, giá chính hãng từ 41,5 triệu đồng",
+          "text": "Apple cho biết tác vụ AI chạy trực tiếp trên máy nhanh hơn tới 5 lần so với iMac chip M4, còn người dùng iMac Intel sẽ thấy mức chênh lớn hơn nhiều.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -128,7 +128,7 @@
     },
     {
       "id": "news_item_3",
-      "name": "Video 'AI than khóc để bán hàng' bị tuýt còi ở Trung Quốc",
+      "name": "Chuỗi hoạt động kỷ niệm 50 năm thành lập Đại học Kinh tế TP HCM",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -155,31 +155,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/video-ai-than-khoc-de-ban-hang-bi-tuyt-coi-o-trung-quoc-5137464.html"
+            "href": "entrance://webview/https://vnexpress.net/chuoi-hoat-dong-ky-niem-50-nam-thanh-lap-dai-hoc-kinh-te-tp-hcm-5137382.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/video-ai-than-khoc-de-ban-hang-bi-tuyt-coi-o-trung-quoc-5137464.html"
+            "data": "entrance://webview/https://vnexpress.net/chuoi-hoat-dong-ky-niem-50-nam-thanh-lap-dai-hoc-kinh-te-tp-hcm-5137382.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/video-ai-than-khoc-de-ban-hang-bi-tuyt-coi-o-trung-quoc-5137464.html"
+            "href": "entrance://webview/https://vnexpress.net/chuoi-hoat-dong-ky-niem-50-nam-thanh-lap-dai-hoc-kinh-te-tp-hcm-5137382.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/video-ai-than-khoc-de-ban-hang-bi-tuyt-coi-o-trung-quoc-5137464.html"
+            "data": "entrance://webview/https://vnexpress.net/chuoi-hoat-dong-ky-niem-50-nam-thanh-lap-dai-hoc-kinh-te-tp-hcm-5137382.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Video 'AI than khóc để bán hàng' bị tuýt còi ở Trung Quốc",
-          "text": "Nền tảng video ở Trung Quốc xóa bỏ nhiều video AI có nội dung \"nam sinh AI khóc lóc bán hàng để kiếm tiền đóng học phí\".\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 20:17 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Chuỗi hoạt động kỷ niệm 50 năm thành lập Đại học Kinh tế TP HCM",
+          "text": "Đại học Kinh tế TP HCM (UEH) triển khai chuỗi 27 chương trình trong các lĩnh vực đào tạo, nghiên cứu, hợp tác quốc tế và kết nối cộng đồng hướng đến kỷ niệm 50 năm thành lập.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -241,7 +241,7 @@
         {
           "type": "text",
           "name": "Việt Nam 'cần chuẩn bị ngay' cho nguy cơ bảo mật lượng tử",
-          "text": "Các chuyên gia đánh giá nguy cơ dữ liệu \"thu thập ngay, giải mã sau\" bằng máy tính lượng tử đang gia tăng, đòi hỏi Việt Nam sớm chuẩn bị phương án ứng phó.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 20:17 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Các chuyên gia đánh giá nguy cơ dữ liệu \"thu thập ngay, giải mã sau\" bằng máy tính lượng tử đang gia tăng, đòi hỏi Việt Nam sớm chuẩn bị phương án ứng phó.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -303,7 +303,7 @@
         {
           "type": "text",
           "name": "Úc cảnh báo làn sóng tấn công mạng chưa từng có từ AI",
-          "text": "Tội phạm mạng đang lợi dụng AI để tấn công nhanh, chính xác và trên quy mô lớn, buộc Úc phát hơn 4.400 cảnh báo an ninh mạng trong một năm.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 20:17 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tội phạm mạng đang lợi dụng AI để tấn công nhanh, chính xác và trên quy mô lớn, buộc Úc phát hơn 4.400 cảnh báo an ninh mạng trong một năm.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -365,7 +365,7 @@
         {
           "type": "text",
           "name": "Nam A Bank tăng cường kết nối nguồn lực toàn cầu, thúc đẩy ESG và công nghệ tại AEF 2026",
-          "text": "Trong khuôn khổ Diễn đàn Kinh tế Mùa thu 2026, ngày 27-10, Nam A Bank tiếp tục khẳng định vai trò đối tác chiến lược toàn cầu thông qua hoạt động chia sẻ về ESG, tài chính xanh, công nghệ lượng tử và ký kết hợp tác đa bên nhằm hỗ trợ doanh nghiệp nhỏ và vừa nâng cao năng lực chuyển đổi bền vững, mở rộng khả năng tiếp cận nguồn vốn.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:17 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Trong khuôn khổ Diễn đàn Kinh tế Mùa thu 2026, ngày 27-10, Nam A Bank tiếp tục khẳng định vai trò đối tác chiến lược toàn cầu thông qua hoạt động chia sẻ về ESG, tài chính xanh, công nghệ lượng tử và ký kết hợp tác đa bên nhằm hỗ trợ doanh nghiệp nhỏ và vừa nâng cao năng lực chuyển đổi bền vững, mở rộng khả năng tiếp cận nguồn vốn.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -376,7 +376,7 @@
     },
     {
       "id": "news_item_7",
-      "name": "ColorOS 17: OPPO nâng tầm trải nghiệm smartphone với giao diện mượt mà, AI thông minh",
+      "name": "MacBook Pro 14 inch chip M6 ra mắt, giá chính hãng từ 54,99 triệu đồng",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -403,31 +403,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/coloros-17-oppo-nang-tam-trai-nghiem-smartphone-voi-giao-dien-muot-ma-ai-thong-minh-16526102719122893.chn"
+            "href": "entrance://webview/https://genk.vn/macbook-pro-14-inch-chip-m6-ra-mat-gia-chinh-hang-tu-5499-trieu-dong-165261027203616759.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/coloros-17-oppo-nang-tam-trai-nghiem-smartphone-voi-giao-dien-muot-ma-ai-thong-minh-16526102719122893.chn"
+            "data": "entrance://webview/https://genk.vn/macbook-pro-14-inch-chip-m6-ra-mat-gia-chinh-hang-tu-5499-trieu-dong-165261027203616759.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/coloros-17-oppo-nang-tam-trai-nghiem-smartphone-voi-giao-dien-muot-ma-ai-thong-minh-16526102719122893.chn"
+            "href": "entrance://webview/https://genk.vn/macbook-pro-14-inch-chip-m6-ra-mat-gia-chinh-hang-tu-5499-trieu-dong-165261027203616759.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/coloros-17-oppo-nang-tam-trai-nghiem-smartphone-voi-giao-dien-muot-ma-ai-thong-minh-16526102719122893.chn"
+            "data": "entrance://webview/https://genk.vn/macbook-pro-14-inch-chip-m6-ra-mat-gia-chinh-hang-tu-5499-trieu-dong-165261027203616759.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "ColorOS 17: OPPO nâng tầm trải nghiệm smartphone với giao diện mượt mà, AI thông minh",
-          "text": "ColorOS 17 mang đến giao diện mượt mà hơn cùng loạt công cụ AI mới, từ hỗ trợ công việc đến sáng tạo hình ảnh, hướng đến trải nghiệm smartphone liền mạch và thuận tiện hơn.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:17 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "MacBook Pro 14 inch chip M6 ra mắt, giá chính hãng từ 54,99 triệu đồng",
+          "text": "Hiệu năng đồ họa hơn tới 30% so với M5, pin theo Apple dùng được tối đa 24 giờ, lâu nhất từ trước đến nay trên máy Mac.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -438,7 +438,7 @@
     },
     {
       "id": "news_item_8",
-      "name": "Hoàng hậu Hà Lan 'đu idol' cùng con gái",
+      "name": "Nơi nào có thể cung cấp muối cho 6 tỷ người trong 1.000 năm?",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -465,31 +465,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/hoang-hau-ha-lan-du-idol-cung-con-gai-5137477.html"
+            "href": "entrance://webview/https://vnexpress.net/noi-nao-co-the-cung-cap-muoi-cho-6-ty-nguoi-trong-1-000-nam-5137573.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/hoang-hau-ha-lan-du-idol-cung-con-gai-5137477.html"
+            "data": "entrance://webview/https://vnexpress.net/noi-nao-co-the-cung-cap-muoi-cho-6-ty-nguoi-trong-1-000-nam-5137573.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/hoang-hau-ha-lan-du-idol-cung-con-gai-5137477.html"
+            "href": "entrance://webview/https://vnexpress.net/noi-nao-co-the-cung-cap-muoi-cho-6-ty-nguoi-trong-1-000-nam-5137573.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/hoang-hau-ha-lan-du-idol-cung-con-gai-5137477.html"
+            "data": "entrance://webview/https://vnexpress.net/noi-nao-co-the-cung-cap-muoi-cho-6-ty-nguoi-trong-1-000-nam-5137573.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Hoàng hậu Hà Lan 'đu idol' cùng con gái",
-          "text": "Hoàng hậu Maxima cùng con gái nhảy múa vui vẻ khi tham dự buổi biểu diễn DJ của nghệ sĩ người Mỹ gần thủ đô Amsterdam.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 20:17 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Nơi nào có thể cung cấp muối cho 6 tỷ người trong 1.000 năm?",
+          "text": "Với trữ lượng khoảng 50 tỷ tấn, hồ này có thể cung cấp muối ăn cho 6 tỷ người trong 1.000 năm. Bạn nghĩ hồ này thuộc Trung Quốc, Mỹ hay Ấn Độ?\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -551,7 +551,7 @@
         {
           "type": "text",
           "name": "Xe máy cải tiến lập kỷ lục chạy trên mặt nước",
-          "text": "Một doanh nhân người Trung Quốc cải tiến chiếc xe máy chạy hơn 40 km trên mặt sông Thần chảy qua tỉnh Hồ Nam, phá vỡ kỷ lục thế giới trước đó là 31,8 km.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 20:17 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Một doanh nhân người Trung Quốc cải tiến chiếc xe máy chạy hơn 40 km trên mặt sông Thần chảy qua tỉnh Hồ Nam, phá vỡ kỷ lục thế giới trước đó là 31,8 km.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -613,7 +613,7 @@
         {
           "type": "text",
           "name": "Pháp ghi nhận hơn 700 ca ngộ độc nấm, cảnh báo dùng AI nhận diện",
-          "text": "Pháp ghi nhận hơn 700 ca ngộ độc nấm từ đầu tháng 9. Chuyên gia cảnh báo không nên dùng ứng dụng AI để xác định nấm có ăn được hay không.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 20:17 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Pháp ghi nhận hơn 700 ca ngộ độc nấm từ đầu tháng 9. Chuyên gia cảnh báo không nên dùng ứng dụng AI để xác định nấm có ăn được hay không.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -675,7 +675,7 @@
         {
           "type": "text",
           "name": "Nga dội 16 tên lửa và hơn 280 drone vào Ukraine, Kiev tập kích đáp trả",
-          "text": "Cả Nga và Ukraine đều dồn dập tập kích lãnh thổ đối phương trong đêm 26 rạng sáng 27-10.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:17 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Cả Nga và Ukraine đều dồn dập tập kích lãnh thổ đối phương trong đêm 26 rạng sáng 27-10.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -686,7 +686,7 @@
     },
     {
       "id": "news_item_12",
-      "name": "Plaud ra mắt Note Pro và NotePin S tại Việt Nam: Máy ghi âm AI hỗ trợ tiếng Việt, giá từ 5,49 triệu đồng, có gì đáng chú ý giữa thời đại smartphone?",
+      "name": "Halloween trường Báo hé lộ vở kịch \"Rashomon\" về sự thật nhìn từ nhiều phía",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -713,31 +713,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/plaud-ra-mat-note-pro-va-notepin-s-tai-viet-nam-may-ghi-am-ai-ho-tro-tieng-viet-gia-tu-549-trieu-dong-co-gi-dang-chu-y-giua-thoi-dai-smartphone-165261027184406042.chn"
+            "href": "entrance://webview/https://genk.vn/halloween-truong-bao-he-lo-vo-kich-rashomon-ve-su-that-nhin-tu-nhieu-phia-16526102720305373.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/plaud-ra-mat-note-pro-va-notepin-s-tai-viet-nam-may-ghi-am-ai-ho-tro-tieng-viet-gia-tu-549-trieu-dong-co-gi-dang-chu-y-giua-thoi-dai-smartphone-165261027184406042.chn"
+            "data": "entrance://webview/https://genk.vn/halloween-truong-bao-he-lo-vo-kich-rashomon-ve-su-that-nhin-tu-nhieu-phia-16526102720305373.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/plaud-ra-mat-note-pro-va-notepin-s-tai-viet-nam-may-ghi-am-ai-ho-tro-tieng-viet-gia-tu-549-trieu-dong-co-gi-dang-chu-y-giua-thoi-dai-smartphone-165261027184406042.chn"
+            "href": "entrance://webview/https://genk.vn/halloween-truong-bao-he-lo-vo-kich-rashomon-ve-su-that-nhin-tu-nhieu-phia-16526102720305373.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/plaud-ra-mat-note-pro-va-notepin-s-tai-viet-nam-may-ghi-am-ai-ho-tro-tieng-viet-gia-tu-549-trieu-dong-co-gi-dang-chu-y-giua-thoi-dai-smartphone-165261027184406042.chn"
+            "data": "entrance://webview/https://genk.vn/halloween-truong-bao-he-lo-vo-kich-rashomon-ve-su-that-nhin-tu-nhieu-phia-16526102720305373.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Plaud ra mắt Note Pro và NotePin S tại Việt Nam: Máy ghi âm AI hỗ trợ tiếng Việt, giá từ 5,49 triệu đồng, có gì đáng chú ý giữa thời đại smartphone?",
-          "text": "Không cạnh tranh với smartphone ở khả năng ghi âm đơn thuần, Plaud đặt cược vào thiết bị chuyên dụng luôn sẵn sàng thu lại cuộc trò chuyện và hệ thống AI xử lý thông tin phía sau. Note Pro và NotePin S vừa được hãng đưa vào Việt Nam với giá lần lượt 5,79 triệu và 5,49 triệu đồng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:17 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Halloween trường Báo hé lộ vở kịch \"Rashomon\" về sự thật nhìn từ nhiều phía",
+          "text": "Vở kịch kể về Lâm Anh, cô gái có cuộc sống bình yên bỗng bị ác mộng ám ảnh, sẽ lên sân khấu Hội trường Lớn vào tối 30/10.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -748,7 +748,7 @@
     },
     {
       "id": "news_item_13",
-      "name": "Đề xuất mô hình sàn giao dịch nông sản quốc gia trong năm nay",
+      "name": "Chỉnh sửa gene bò H'Mông xây dựng thương hiệu cao cấp của Việt Nam",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -775,31 +775,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/de-xuat-mo-hinh-san-giao-dich-nong-san-quoc-gia-trong-nam-nay-5137445.html"
+            "href": "entrance://webview/https://vnexpress.net/chinh-sua-gene-bo-h-mong-xay-dung-thuong-hieu-cao-cap-cua-viet-nam-5137453.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/de-xuat-mo-hinh-san-giao-dich-nong-san-quoc-gia-trong-nam-nay-5137445.html"
+            "data": "entrance://webview/https://vnexpress.net/chinh-sua-gene-bo-h-mong-xay-dung-thuong-hieu-cao-cap-cua-viet-nam-5137453.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/de-xuat-mo-hinh-san-giao-dich-nong-san-quoc-gia-trong-nam-nay-5137445.html"
+            "href": "entrance://webview/https://vnexpress.net/chinh-sua-gene-bo-h-mong-xay-dung-thuong-hieu-cao-cap-cua-viet-nam-5137453.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/de-xuat-mo-hinh-san-giao-dich-nong-san-quoc-gia-trong-nam-nay-5137445.html"
+            "data": "entrance://webview/https://vnexpress.net/chinh-sua-gene-bo-h-mong-xay-dung-thuong-hieu-cao-cap-cua-viet-nam-5137453.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Đề xuất mô hình sàn giao dịch nông sản quốc gia trong năm nay",
-          "text": "Phó thủ tướng Hồ Quốc Dũng yêu cầu Bộ Nông nghiệp và Môi trường nghiên cứu, đề xuất mô hình sàn giao dịch nông sản quốc gia trước ngày 31/12.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 20:17 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Chỉnh sửa gene bò H'Mông xây dựng thương hiệu cao cấp của Việt Nam",
+          "text": "Học viện Nông nghiệp Việt Nam tạo thành công 5 bê H'Mông bằng công nghệ chỉnh sửa gene MSTN, hướng tới xây dựng thương hiệu bò thịt cao cấp của Việt Nam.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -861,7 +861,7 @@
         {
           "type": "text",
           "name": "Ứng dụng Tammi của Viettel đạt 20 triệu người dùng sau ba tháng",
-          "text": "Viettel Telecom cho biết nền tảng liên lạc và tiện ích số Tammi của nhà mạng đạt mốc 20 triệu người dùng, trong đó thu hút cả người dùng từ các nhà mạng khác.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Viettel Telecom cho biết nền tảng liên lạc và tiện ích số Tammi của nhà mạng đạt mốc 20 triệu người dùng, trong đó thu hút cả người dùng từ các nhà mạng khác.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -923,7 +923,7 @@
         {
           "type": "text",
           "name": "Doanh nghiệp vừa và nhỏ bị tấn công mạng: Mất dữ liệu, mất cả khách hàng",
-          "text": "Có tới 87% doanh nghiệp vừa và nhỏ (SMB) từng hứng chịu các đợt tấn công mạng trong 12 tháng qua. Đáng lo ngại, nhiều sự cố đã để lại tổn thất không thể khắc phục về dữ liệu và tài sản.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Có tới 87% doanh nghiệp vừa và nhỏ (SMB) từng hứng chịu các đợt tấn công mạng trong 12 tháng qua. Đáng lo ngại, nhiều sự cố đã để lại tổn thất không thể khắc phục về dữ liệu và tài sản.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -985,7 +985,7 @@
         {
           "type": "text",
           "name": "Mitsubishi Pajero đời mới bán 2 tuần đã vượt xa mục tiêu cả năm",
-          "text": "Mitsubishi Pajero thế hệ mới ghi nhận sự quan tâm lớn ở những thị trường đã mở bán.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Mitsubishi Pajero thế hệ mới ghi nhận sự quan tâm lớn ở những thị trường đã mở bán.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -996,7 +996,7 @@
     },
     {
       "id": "news_item_17",
-      "name": "Quên passcode 6 số VNeID, không mở được thẻ căn cước điện tử: Người dân tự cấp lại trong 5 bước",
+      "name": "Đồng nghiệp nói nhiều nhức cả đầu, đây là 2 mẫu tai nghe chống ồn đáng sắm: Giá ổn, pin trâu",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1023,31 +1023,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/quen-passcode-6-so-vneid-khong-mo-duoc-the-can-cuoc-dien-tu-nguoi-dan-tu-cap-lai-trong-5-buoc-165261027160237338.chn"
+            "href": "entrance://webview/https://genk.vn/dong-nghiep-noi-nhieu-nhuc-ca-dau-day-la-2-mau-tai-nghe-chong-on-dang-sam-gia-on-pin-trau-165261027154824924.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/quen-passcode-6-so-vneid-khong-mo-duoc-the-can-cuoc-dien-tu-nguoi-dan-tu-cap-lai-trong-5-buoc-165261027160237338.chn"
+            "data": "entrance://webview/https://genk.vn/dong-nghiep-noi-nhieu-nhuc-ca-dau-day-la-2-mau-tai-nghe-chong-on-dang-sam-gia-on-pin-trau-165261027154824924.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/quen-passcode-6-so-vneid-khong-mo-duoc-the-can-cuoc-dien-tu-nguoi-dan-tu-cap-lai-trong-5-buoc-165261027160237338.chn"
+            "href": "entrance://webview/https://genk.vn/dong-nghiep-noi-nhieu-nhuc-ca-dau-day-la-2-mau-tai-nghe-chong-on-dang-sam-gia-on-pin-trau-165261027154824924.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/quen-passcode-6-so-vneid-khong-mo-duoc-the-can-cuoc-dien-tu-nguoi-dan-tu-cap-lai-trong-5-buoc-165261027160237338.chn"
+            "data": "entrance://webview/https://genk.vn/dong-nghiep-noi-nhieu-nhuc-ca-dau-day-la-2-mau-tai-nghe-chong-on-dang-sam-gia-on-pin-trau-165261027154824924.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Quên passcode 6 số VNeID, không mở được thẻ căn cước điện tử: Người dân tự cấp lại trong 5 bước",
-          "text": "Passcode VNeID là mã 6 chữ số người dùng tự đặt khi kích hoạt tài khoản. Trong trường hợp người dùng quên Passcode, có thể tự cấp lại ngay trên ứng dụng trong 5 bước đơn giản, miễn là số điện thoại đăng ký vẫn nhận được OTP.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Đồng nghiệp nói nhiều nhức cả đầu, đây là 2 mẫu tai nghe chống ồn đáng sắm: Giá ổn, pin trâu",
+          "text": "Có những ngày văn phòng ồn ào như một cái chợ còn bạn muốn đập bàn nhưng không dám. Một chiếc tai nghe chống ồn sẽ giúp bạn tìm được chút yên bình cho tâm hồn.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "news_item_18",
-      "name": "Giải mã thói quen tự cản trở bản thân",
+      "name": "SCB giảm lãi suất tiết kiệm xuống gần 0%",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1085,31 +1085,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/giai-ma-thoi-quen-tu-can-tro-ban-than-5137355.html"
+            "href": "entrance://webview/https://vnexpress.net/scb-giam-lai-suat-tiet-kiem-xuong-gan-0-5137507.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/giai-ma-thoi-quen-tu-can-tro-ban-than-5137355.html"
+            "data": "entrance://webview/https://vnexpress.net/scb-giam-lai-suat-tiet-kiem-xuong-gan-0-5137507.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/giai-ma-thoi-quen-tu-can-tro-ban-than-5137355.html"
+            "href": "entrance://webview/https://vnexpress.net/scb-giam-lai-suat-tiet-kiem-xuong-gan-0-5137507.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/giai-ma-thoi-quen-tu-can-tro-ban-than-5137355.html"
+            "data": "entrance://webview/https://vnexpress.net/scb-giam-lai-suat-tiet-kiem-xuong-gan-0-5137507.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Giải mã thói quen tự cản trở bản thân",
-          "text": "Trì hoãn công việc hay lặp lại sai lầm trong tình cảm thường xuất phát từ tâm lý tự bảo vệ, khiến nhiều người tự cản trở thành công của chính mình.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "SCB giảm lãi suất tiết kiệm xuống gần 0%",
+          "text": "Từ ngân hàng thường xuyên dẫn đầu lãi suất tiền gửi giai đoạn 2020-2022, SCB hiện chỉ trả lãi 0,1-0,7% một năm cho hầu hết kỳ hạn, thấp hơn nhiều so với mặt bằng chung.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1171,7 +1171,7 @@
         {
           "type": "text",
           "name": "Chip đạt tốc độ 200 Gb/giây nhờ ánh sáng tốc độ chậm",
-          "text": "Reduced-DSP 200G/λ do Nhật Bản phát triển, dùng ánh sáng chuyển động chậm và bộ cân bằng điện giúp tăng tốc độ truyền dữ liệu.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Reduced-DSP 200G/λ do Nhật Bản phát triển, dùng ánh sáng chuyển động chậm và bộ cân bằng điện giúp tăng tốc độ truyền dữ liệu.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1233,7 +1233,7 @@
         {
           "type": "text",
           "name": "Nhiều website chính phủ hoạt động trở lại, khắc phục lỗ hổng PHP có thể mất nhiều năm",
-          "text": "Ngày 22-10, nhiều website chính phủ hoạt động trở lại sau khi vá lỗ hổng PHP, nhưng nguy cơ tin tặc khai thác vẫn còn, và việc khắc phục có thể kéo dài nhiều năm.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Ngày 22-10, nhiều website chính phủ hoạt động trở lại sau khi vá lỗ hổng PHP, nhưng nguy cơ tin tặc khai thác vẫn còn, và việc khắc phục có thể kéo dài nhiều năm.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 20:47 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1295,7 +1295,7 @@
         {
           "type": "text",
           "name": "Tiết lộ lá phiếu Quả bóng vàng, Kane ngược dòng thắng Mbappe một phần nhờ... Việt Nam",
-          "text": "Theo tiết lộ từ ban tổ chức Quả bóng vàng, Harry Kane đã có cuộc ngược dòng ngoạn mục trước Kylian Mbappe ở những lá phiếu cuối cùng - bao gồm đại diện Việt Nam.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Theo tiết lộ từ ban tổ chức Quả bóng vàng, Harry Kane đã có cuộc ngược dòng ngoạn mục trước Kylian Mbappe ở những lá phiếu cuối cùng - bao gồm đại diện Việt Nam.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1306,7 +1306,7 @@
     },
     {
       "id": "news_item_22",
-      "name": "Từ concert đến những chuyến đi xa, vì sao OPPO Find X9 Ultra trở thành chiếc camera luôn muốn mang theo bên mình?",
+      "name": "ColorOS 17: OPPO nâng tầm trải nghiệm smartphone với giao diện mượt mà, AI thông minh",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1333,31 +1333,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/tu-concert-den-nhung-chuyen-di-xa-vi-sao-oppo-find-x9-ultra-tro-thanh-chiec-camera-luon-muon-mang-theo-ben-minh-165261027161813339.chn"
+            "href": "entrance://webview/https://genk.vn/coloros-17-oppo-nang-tam-trai-nghiem-smartphone-voi-giao-dien-muot-ma-ai-thong-minh-16526102719122893.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/tu-concert-den-nhung-chuyen-di-xa-vi-sao-oppo-find-x9-ultra-tro-thanh-chiec-camera-luon-muon-mang-theo-ben-minh-165261027161813339.chn"
+            "data": "entrance://webview/https://genk.vn/coloros-17-oppo-nang-tam-trai-nghiem-smartphone-voi-giao-dien-muot-ma-ai-thong-minh-16526102719122893.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/tu-concert-den-nhung-chuyen-di-xa-vi-sao-oppo-find-x9-ultra-tro-thanh-chiec-camera-luon-muon-mang-theo-ben-minh-165261027161813339.chn"
+            "href": "entrance://webview/https://genk.vn/coloros-17-oppo-nang-tam-trai-nghiem-smartphone-voi-giao-dien-muot-ma-ai-thong-minh-16526102719122893.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/tu-concert-den-nhung-chuyen-di-xa-vi-sao-oppo-find-x9-ultra-tro-thanh-chiec-camera-luon-muon-mang-theo-ben-minh-165261027161813339.chn"
+            "data": "entrance://webview/https://genk.vn/coloros-17-oppo-nang-tam-trai-nghiem-smartphone-voi-giao-dien-muot-ma-ai-thong-minh-16526102719122893.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Từ concert đến những chuyến đi xa, vì sao OPPO Find X9 Ultra trở thành chiếc camera luôn muốn mang theo bên mình?",
-          "text": "Những khoảnh khắc đáng nhớ thường xuất hiện khi người dùng không mang theo máy ảnh chuyên dụng. Với hệ thống camera đa tiêu cự và khả năng quay phim chuyên sâu, OPPO Find X9 Ultra mang đến sự linh hoạt để lưu giữ cuộc sống, từ những chuyến đi chơi đến các sự kiện đặc biệt.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "ColorOS 17: OPPO nâng tầm trải nghiệm smartphone với giao diện mượt mà, AI thông minh",
+          "text": "ColorOS 17 mang đến giao diện mượt mà hơn cùng loạt công cụ AI mới, từ hỗ trợ công việc đến sáng tạo hình ảnh, hướng đến trải nghiệm smartphone liền mạch và thuận tiện hơn.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1368,7 +1368,7 @@
     },
     {
       "id": "news_item_23",
-      "name": "Nhà đất, ôtô đều đứng tên chồng, còn tôi đứng tên nợ",
+      "name": "Làn sóng người Israel về nước để định đoạt tương lai ông Netanyahu",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1395,31 +1395,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/nha-dat-oto-deu-dung-ten-chong-con-toi-dung-ten-no-5137440.html"
+            "href": "entrance://webview/https://vnexpress.net/lan-song-nguoi-israel-ve-nuoc-de-dinh-doat-tuong-lai-ong-netanyahu-5137510.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nha-dat-oto-deu-dung-ten-chong-con-toi-dung-ten-no-5137440.html"
+            "data": "entrance://webview/https://vnexpress.net/lan-song-nguoi-israel-ve-nuoc-de-dinh-doat-tuong-lai-ong-netanyahu-5137510.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/nha-dat-oto-deu-dung-ten-chong-con-toi-dung-ten-no-5137440.html"
+            "href": "entrance://webview/https://vnexpress.net/lan-song-nguoi-israel-ve-nuoc-de-dinh-doat-tuong-lai-ong-netanyahu-5137510.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nha-dat-oto-deu-dung-ten-chong-con-toi-dung-ten-no-5137440.html"
+            "data": "entrance://webview/https://vnexpress.net/lan-song-nguoi-israel-ve-nuoc-de-dinh-doat-tuong-lai-ong-netanyahu-5137510.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Nhà đất, ôtô đều đứng tên chồng, còn tôi đứng tên nợ",
-          "text": "Những thứ tạo thành tài sản dường như đều gắn với tên chồng, còn những nghĩa vụ tài chính và khoản nợ thì tôi lại trực tiếp gánh khá nhiều.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Làn sóng người Israel về nước để định đoạt tương lai ông Netanyahu",
+          "text": "Hơn 60.000 người Israel hải ngoại mua vé máy bay về nước bỏ phiếu, trong cuộc bầu cử quyết định tương lai chính trị của Thủ tướng Netanyahu.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1481,7 +1481,7 @@
         {
           "type": "text",
           "name": "Thiết kế giúp tên lửa siêu vượt âm chịu nhiệt cực hạn",
-          "text": "Để bay nhanh gấp 5 lần vận tốc âm thanh, tên lửa siêu vượt âm cần một hệ thống tích hợp gồm vật liệu, lớp phủ, công nghệ làm mát, kết cấu và kế hoạch bay hiệu quả.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Để bay nhanh gấp 5 lần vận tốc âm thanh, tên lửa siêu vượt âm cần một hệ thống tích hợp gồm vật liệu, lớp phủ, công nghệ làm mát, kết cấu và kế hoạch bay hiệu quả.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1543,7 +1543,7 @@
         {
           "type": "text",
           "name": "Cảnh báo hai lỗ hổng PHP nghiêm trọng, website cần cập nhật sớm",
-          "text": "Hai lỗ hổng PHP với mức độ nghiêm trọng 9,2/10 đã có bản vá. Cơ quan chức năng khuyến nghị tổ chức, doanh nghiệp sớm rà soát hệ thống.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Hai lỗ hổng PHP với mức độ nghiêm trọng 9,2/10 đã có bản vá. Cơ quan chức năng khuyến nghị tổ chức, doanh nghiệp sớm rà soát hệ thống.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1605,7 +1605,7 @@
         {
           "type": "text",
           "name": "Việc lấy ý kiến trẻ từ 7 tuổi về dự luật hiến, ghép mô tạng: Cần rút kinh nghiệm",
-          "text": "Theo các chuyên gia, việc lấy ý kiến trẻ em khi dự thảo luật có liên quan đến trẻ em là điều cần thiết. Tuy nhiên, việc khảo sát phải đúng nội dung, phương pháp phù hợp với từng độ tuổi.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Theo các chuyên gia, việc lấy ý kiến trẻ em khi dự thảo luật có liên quan đến trẻ em là điều cần thiết. Tuy nhiên, việc khảo sát phải đúng nội dung, phương pháp phù hợp với từng độ tuổi.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1616,7 +1616,7 @@
     },
     {
       "id": "news_item_27",
-      "name": "Tin nhắn Zalo có thể chiếm quyền điện thoại, rút sạch tiền trong tài khoản ngân hàng",
+      "name": "Plaud ra mắt Note Pro và NotePin S tại Việt Nam: Máy ghi âm AI hỗ trợ tiếng Việt, giá từ 5,49 triệu đồng, có gì đáng chú ý giữa thời đại smartphone?",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1643,31 +1643,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/tin-nhan-zalo-co-the-chiem-quyen-dien-thoai-rut-sach-tien-trong-tai-khoan-ngan-hang-16526102715572102.chn"
+            "href": "entrance://webview/https://genk.vn/plaud-ra-mat-note-pro-va-notepin-s-tai-viet-nam-may-ghi-am-ai-ho-tro-tieng-viet-gia-tu-549-trieu-dong-co-gi-dang-chu-y-giua-thoi-dai-smartphone-165261027184406042.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/tin-nhan-zalo-co-the-chiem-quyen-dien-thoai-rut-sach-tien-trong-tai-khoan-ngan-hang-16526102715572102.chn"
+            "data": "entrance://webview/https://genk.vn/plaud-ra-mat-note-pro-va-notepin-s-tai-viet-nam-may-ghi-am-ai-ho-tro-tieng-viet-gia-tu-549-trieu-dong-co-gi-dang-chu-y-giua-thoi-dai-smartphone-165261027184406042.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/tin-nhan-zalo-co-the-chiem-quyen-dien-thoai-rut-sach-tien-trong-tai-khoan-ngan-hang-16526102715572102.chn"
+            "href": "entrance://webview/https://genk.vn/plaud-ra-mat-note-pro-va-notepin-s-tai-viet-nam-may-ghi-am-ai-ho-tro-tieng-viet-gia-tu-549-trieu-dong-co-gi-dang-chu-y-giua-thoi-dai-smartphone-165261027184406042.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/tin-nhan-zalo-co-the-chiem-quyen-dien-thoai-rut-sach-tien-trong-tai-khoan-ngan-hang-16526102715572102.chn"
+            "data": "entrance://webview/https://genk.vn/plaud-ra-mat-note-pro-va-notepin-s-tai-viet-nam-may-ghi-am-ai-ho-tro-tieng-viet-gia-tu-549-trieu-dong-co-gi-dang-chu-y-giua-thoi-dai-smartphone-165261027184406042.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Tin nhắn Zalo có thể chiếm quyền điện thoại, rút sạch tiền trong tài khoản ngân hàng",
-          "text": "Ngày 26/10/2026, Cục An ninh mạng, Bộ Công an phát đi cảnh báo về hai thủ đoạn lừa đảo đang lan rộng. Chỉ một thao tác cài đặt sai, kẻ gian có thể điều khiển điện thoại, đánh cắp mã OTP và chiếm đoạt tiền trong tài khoản ngân hàng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Plaud ra mắt Note Pro và NotePin S tại Việt Nam: Máy ghi âm AI hỗ trợ tiếng Việt, giá từ 5,49 triệu đồng, có gì đáng chú ý giữa thời đại smartphone?",
+          "text": "Không cạnh tranh với smartphone ở khả năng ghi âm đơn thuần, Plaud đặt cược vào thiết bị chuyên dụng luôn sẵn sàng thu lại cuộc trò chuyện và hệ thống AI xử lý thông tin phía sau. Note Pro và NotePin S vừa được hãng đưa vào Việt Nam với giá lần lượt 5,79 triệu và 5,49 triệu đồng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1678,7 +1678,7 @@
     },
     {
       "id": "news_item_28",
-      "name": "HDBank, Vikki đăng ký tài trợ 124.500 tỷ cho loạt dự án",
+      "name": "Thủ khoa biết nhiều thứ tiếng tại Hoa hậu Việt Nam",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1705,31 +1705,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/hdbank-vikki-dang-ky-tai-tro-124-500-ty-cho-loat-du-an-5137511.html"
+            "href": "entrance://webview/https://vnexpress.net/thu-khoa-biet-nhieu-thu-tieng-tai-hoa-hau-viet-nam-5137099.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/hdbank-vikki-dang-ky-tai-tro-124-500-ty-cho-loat-du-an-5137511.html"
+            "data": "entrance://webview/https://vnexpress.net/thu-khoa-biet-nhieu-thu-tieng-tai-hoa-hau-viet-nam-5137099.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/hdbank-vikki-dang-ky-tai-tro-124-500-ty-cho-loat-du-an-5137511.html"
+            "href": "entrance://webview/https://vnexpress.net/thu-khoa-biet-nhieu-thu-tieng-tai-hoa-hau-viet-nam-5137099.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/hdbank-vikki-dang-ky-tai-tro-124-500-ty-cho-loat-du-an-5137511.html"
+            "data": "entrance://webview/https://vnexpress.net/thu-khoa-biet-nhieu-thu-tieng-tai-hoa-hau-viet-nam-5137099.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "HDBank, Vikki đăng ký tài trợ 124.500 tỷ cho loạt dự án",
-          "text": "Hai đơn vị đăng ký tài trợ 124.500 cho 4 dự án hạ tầng, tài chính và đô thị tại TP HCM, Đồng Nai; bên cạnh hạng mục đồng tài trợ metro số 4-5.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Thủ khoa biết nhiều thứ tiếng tại Hoa hậu Việt Nam",
+          "text": "Khánh Linh, 20 tuổi, gây chú ý với nụ cười sáng và bảng thành tích học tập như thủ khoa cấp ba, giành học bổng Mỹ, thành thạo tiếng Anh và Trung Quốc.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1791,7 +1791,7 @@
         {
           "type": "text",
           "name": "Cán bộ an ninh mạng diễn tập phòng thủ, điều tra tấn công mạng",
-          "text": "90 cán bộ, chiến sĩ và chuyên viên từ các đơn vị trên cả nước tham gia diễn tập an ninh mạng quốc gia năm 2026, với kịch bản tấn công hệ thống của một tổ chức tài chính.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "90 cán bộ, chiến sĩ và chuyên viên từ các đơn vị trên cả nước tham gia diễn tập an ninh mạng quốc gia năm 2026, với kịch bản tấn công hệ thống của một tổ chức tài chính.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1853,7 +1853,7 @@
         {
           "type": "text",
           "name": "Google đưa quảng cáo vào câu trả lời AI, người dùng phân biệt lời khuyên với lời chào hàng ra sao?",
-          "text": "Google đưa quảng cáo vào AI Mode, đặt người dùng trước câu hỏi đâu là gợi ý hữu ích, đâu là nội dung được trả tiền để xuất hiện.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Google đưa quảng cáo vào AI Mode, đặt người dùng trước câu hỏi đâu là gợi ý hữu ích, đâu là nội dung được trả tiền để xuất hiện.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1915,7 +1915,7 @@
         {
           "type": "text",
           "name": "BHXH TP.HCM hướng dẫn gia hạn thẻ BHYT năm 2027",
-          "text": "BHXH TP.HCM yêu cầu doanh nghiệp hoàn tất tiền đóng bảo hiểm trước ngày 25-12, đồng thời quy định thời hạn nộp hồ sơ BHYT năm 2027 đối với học sinh, sinh viên và các nhóm tham gia khác.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "BHXH TP.HCM yêu cầu doanh nghiệp hoàn tất tiền đóng bảo hiểm trước ngày 25-12, đồng thời quy định thời hạn nộp hồ sơ BHYT năm 2027 đối với học sinh, sinh viên và các nhóm tham gia khác.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1926,7 +1926,7 @@
     },
     {
       "id": "news_item_32",
-      "name": "Elon Musk chê phim Odyssey của Nolan, dùng AI để làm lại, 3 tháng mới được 7 phút đầu tiên: Bị chê thiếu nghệ thuật",
+      "name": "Quên passcode 6 số VNeID, không mở được thẻ căn cước điện tử: Người dân tự cấp lại trong 5 bước",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1953,31 +1953,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/elon-musk-che-phim-odyssey-cua-nolan-dung-ai-de-lam-lai-3-thang-moi-duoc-7-phut-dau-tien-bi-che-thieu-nghe-thuat-165261027153531404.chn"
+            "href": "entrance://webview/https://genk.vn/quen-passcode-6-so-vneid-khong-mo-duoc-the-can-cuoc-dien-tu-nguoi-dan-tu-cap-lai-trong-5-buoc-165261027160237338.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/elon-musk-che-phim-odyssey-cua-nolan-dung-ai-de-lam-lai-3-thang-moi-duoc-7-phut-dau-tien-bi-che-thieu-nghe-thuat-165261027153531404.chn"
+            "data": "entrance://webview/https://genk.vn/quen-passcode-6-so-vneid-khong-mo-duoc-the-can-cuoc-dien-tu-nguoi-dan-tu-cap-lai-trong-5-buoc-165261027160237338.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/elon-musk-che-phim-odyssey-cua-nolan-dung-ai-de-lam-lai-3-thang-moi-duoc-7-phut-dau-tien-bi-che-thieu-nghe-thuat-165261027153531404.chn"
+            "href": "entrance://webview/https://genk.vn/quen-passcode-6-so-vneid-khong-mo-duoc-the-can-cuoc-dien-tu-nguoi-dan-tu-cap-lai-trong-5-buoc-165261027160237338.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/elon-musk-che-phim-odyssey-cua-nolan-dung-ai-de-lam-lai-3-thang-moi-duoc-7-phut-dau-tien-bi-che-thieu-nghe-thuat-165261027153531404.chn"
+            "data": "entrance://webview/https://genk.vn/quen-passcode-6-so-vneid-khong-mo-duoc-the-can-cuoc-dien-tu-nguoi-dan-tu-cap-lai-trong-5-buoc-165261027160237338.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Elon Musk chê phim Odyssey của Nolan, dùng AI để làm lại, 3 tháng mới được 7 phút đầu tiên: Bị chê thiếu nghệ thuật",
-          "text": "Theo ông Musk, phiên bản phim Odyssey do AI Grok của ông tạo ra sẽ chính xác hơn về mặt lịch sử so với bộ phim nổi tiếng của đạo diễn Nolan.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Quên passcode 6 số VNeID, không mở được thẻ căn cước điện tử: Người dân tự cấp lại trong 5 bước",
+          "text": "Passcode VNeID là mã 6 chữ số người dùng tự đặt khi kích hoạt tài khoản. Trong trường hợp người dùng quên Passcode, có thể tự cấp lại ngay trên ứng dụng trong 5 bước đơn giản, miễn là số điện thoại đăng ký vẫn nhận được OTP.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1988,7 +1988,7 @@
     },
     {
       "id": "news_item_33",
-      "name": "Samsung: Công nghệ chỉ thuyết phục người dùng nếu tạo giá trị thực",
+      "name": "Những con số làm nên Quả Bóng Vàng của Harry Kane",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2015,31 +2015,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/samsung-cong-nghe-chi-thuyet-phuc-nguoi-dung-neu-tao-gia-tri-thuc-5137494.html"
+            "href": "entrance://webview/https://vnexpress.net/nhung-con-so-lam-nen-qua-bong-vang-cua-harry-kane-5137564.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/samsung-cong-nghe-chi-thuyet-phuc-nguoi-dung-neu-tao-gia-tri-thuc-5137494.html"
+            "data": "entrance://webview/https://vnexpress.net/nhung-con-so-lam-nen-qua-bong-vang-cua-harry-kane-5137564.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/samsung-cong-nghe-chi-thuyet-phuc-nguoi-dung-neu-tao-gia-tri-thuc-5137494.html"
+            "href": "entrance://webview/https://vnexpress.net/nhung-con-so-lam-nen-qua-bong-vang-cua-harry-kane-5137564.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/samsung-cong-nghe-chi-thuyet-phuc-nguoi-dung-neu-tao-gia-tri-thuc-5137494.html"
+            "data": "entrance://webview/https://vnexpress.net/nhung-con-so-lam-nen-qua-bong-vang-cua-harry-kane-5137564.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Samsung: Công nghệ chỉ thuyết phục người dùng nếu tạo giá trị thực",
-          "text": "Người dùng ngày càng thận trọng khi đổi smartphone nhưng sẵn sàng chi cho thiết bị cao cấp hơn nếu những công nghệ, tính năng giải quyết được đúng nhu cầu, theo lãnh đạo mảng di động Samsung Việt Nam.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Những con số làm nên Quả Bóng Vàng của Harry Kane",
+          "text": "Với 73 bàn sau 65 trận cho Bayern Munich và tuyển Anh, Harry Kane giành Quả Bóng Vàng đầu tiên ở tuổi 33, khép lại mùa giải bùng nổ với hàng loạt danh hiệu.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2101,7 +2101,7 @@
         {
           "type": "text",
           "name": "Việt Nam - Lào nghiên cứu công nhận chéo chữ ký số",
-          "text": "Việt Nam và Lào nghiên cứu phương án thí điểm công nhận lẫn nhau về chữ ký số, trước mắt trong lĩnh vực hải quan và xuất nhập khẩu hàng hóa.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Việt Nam và Lào nghiên cứu phương án thí điểm công nhận lẫn nhau về chữ ký số, trước mắt trong lĩnh vực hải quan và xuất nhập khẩu hàng hóa.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2163,7 +2163,7 @@
         {
           "type": "text",
           "name": "Workshop cùng nông dân xây 'hệ miễn dịch' cho cà phê Robusta ngay tại vườn",
-          "text": "Báo điện tử Tuổi Trẻ tổ chức workshop xây hệ miễn dịch cho cà phê Robusta tại vườn cà phê của nông dân ở xã Đắk Mil (tỉnh Lâm Đồng, khu vực Đắk Nông cũ).\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Báo điện tử Tuổi Trẻ tổ chức workshop xây hệ miễn dịch cho cà phê Robusta tại vườn cà phê của nông dân ở xã Đắk Mil (tỉnh Lâm Đồng, khu vực Đắk Nông cũ).\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2174,7 +2174,7 @@
     },
     {
       "id": "news_item_36",
-      "name": "Vì sao iPhone Duo gần 65 triệu đồng dù dùng cùng chip với iPhone 18 Pro?",
+      "name": "Từ concert đến những chuyến đi xa, vì sao OPPO Find X9 Ultra trở thành chiếc camera luôn muốn mang theo bên mình?",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2201,31 +2201,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/vi-sao-iphone-duo-gan-65-trieu-dong-du-dung-cung-chip-voi-iphone-18-pro-165261027161436272.chn"
+            "href": "entrance://webview/https://genk.vn/tu-concert-den-nhung-chuyen-di-xa-vi-sao-oppo-find-x9-ultra-tro-thanh-chiec-camera-luon-muon-mang-theo-ben-minh-165261027161813339.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/vi-sao-iphone-duo-gan-65-trieu-dong-du-dung-cung-chip-voi-iphone-18-pro-165261027161436272.chn"
+            "data": "entrance://webview/https://genk.vn/tu-concert-den-nhung-chuyen-di-xa-vi-sao-oppo-find-x9-ultra-tro-thanh-chiec-camera-luon-muon-mang-theo-ben-minh-165261027161813339.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/vi-sao-iphone-duo-gan-65-trieu-dong-du-dung-cung-chip-voi-iphone-18-pro-165261027161436272.chn"
+            "href": "entrance://webview/https://genk.vn/tu-concert-den-nhung-chuyen-di-xa-vi-sao-oppo-find-x9-ultra-tro-thanh-chiec-camera-luon-muon-mang-theo-ben-minh-165261027161813339.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/vi-sao-iphone-duo-gan-65-trieu-dong-du-dung-cung-chip-voi-iphone-18-pro-165261027161436272.chn"
+            "data": "entrance://webview/https://genk.vn/tu-concert-den-nhung-chuyen-di-xa-vi-sao-oppo-find-x9-ultra-tro-thanh-chiec-camera-luon-muon-mang-theo-ben-minh-165261027161813339.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Vì sao iPhone Duo gần 65 triệu đồng dù dùng cùng chip với iPhone 18 Pro?",
-          "text": "iPhone Duo có giá từ 64,99 triệu đồng tại Việt Nam, cao hơn đáng kể so với iPhone dạng thanh. Phần chênh chủ yếu đến từ cấu trúc gập, hai màn hình, bản lề và hệ thống pin, thay vì con chip.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Từ concert đến những chuyến đi xa, vì sao OPPO Find X9 Ultra trở thành chiếc camera luôn muốn mang theo bên mình?",
+          "text": "Những khoảnh khắc đáng nhớ thường xuất hiện khi người dùng không mang theo máy ảnh chuyên dụng. Với hệ thống camera đa tiêu cự và khả năng quay phim chuyên sâu, OPPO Find X9 Ultra mang đến sự linh hoạt để lưu giữ cuộc sống, từ những chuyến đi chơi đến các sự kiện đặc biệt.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2236,7 +2236,7 @@
     },
     {
       "id": "news_item_37",
-      "name": "Ung thư tuyến tiền liệt không triệu chứng",
+      "name": "Ronaldo có tên trong danh sách sơ bộ Bồ Đào Nha",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2263,31 +2263,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/ung-thu-tuyen-tien-liet-khong-trieu-chung-5137419.html"
+            "href": "entrance://webview/https://vnexpress.net/ronaldo-co-ten-trong-danh-sach-so-bo-bo-dao-nha-5137609.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/ung-thu-tuyen-tien-liet-khong-trieu-chung-5137419.html"
+            "data": "entrance://webview/https://vnexpress.net/ronaldo-co-ten-trong-danh-sach-so-bo-bo-dao-nha-5137609.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/ung-thu-tuyen-tien-liet-khong-trieu-chung-5137419.html"
+            "href": "entrance://webview/https://vnexpress.net/ronaldo-co-ten-trong-danh-sach-so-bo-bo-dao-nha-5137609.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/ung-thu-tuyen-tien-liet-khong-trieu-chung-5137419.html"
+            "data": "entrance://webview/https://vnexpress.net/ronaldo-co-ten-trong-danh-sach-so-bo-bo-dao-nha-5137609.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Ung thư tuyến tiền liệt không triệu chứng",
-          "text": "Ông Cường, 55 tuổi, phát hiện ung thư tuyến tiền liệt dù không triệu chứng, được phẫu thuật ít xâm lấn bằng robot Da Vinci Xi.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Ronaldo có tên trong danh sách sơ bộ Bồ Đào Nha",
+          "text": "Cristiano Ronaldo có tên trong danh sách sơ bộ của HLV Jorge Jesus chuẩn bị cho hai trận gặp Đan Mạch và Xứ Wales tại Nations League tháng 11.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2349,7 +2349,7 @@
         {
           "type": "text",
           "name": "Những diễn giả nổi bật tại Tuần lễ Số 2026",
-          "text": "Nhiều chuyên gia, quan chức, lãnh đạo doanh nghiệp hàng đầu về công nghệ số trong nước và quốc tế sẽ tham dự Tuần lễ Số 2026, trong đó Bộ trưởng Vũ Hải Quân sẽ chủ trì Hội nghị bàn tròn Bộ trưởng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 20:18 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Nhiều chuyên gia, quan chức, lãnh đạo doanh nghiệp hàng đầu về công nghệ số trong nước và quốc tế sẽ tham dự Tuần lễ Số 2026, trong đó Bộ trưởng Vũ Hải Quân sẽ chủ trì Hội nghị bàn tròn Bộ trưởng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2411,7 +2411,7 @@
         {
           "type": "text",
           "name": "163 xe máy chạy trên vỉa hè đường Nguyễn Oanh sẽ bị phạt 5 triệu đồng, trừ 2 điểm bằng lái mỗi trường hợp",
-          "text": "Lực lượng cảnh sát giao thông công bố 163 trường hợp chạy xe máy trên vỉa hè đường Nguyễn Oanh, phường Gò Vấp (TP.HCM). Mỗi trường hợp vi phạm sẽ bị phạt nguội 5 triệu đồng, trừ 2 điểm bằng lái theo quy định.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:19 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Lực lượng cảnh sát giao thông công bố 163 trường hợp chạy xe máy trên vỉa hè đường Nguyễn Oanh, phường Gò Vấp (TP.HCM). Mỗi trường hợp vi phạm sẽ bị phạt nguội 5 triệu đồng, trừ 2 điểm bằng lái theo quy định.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2422,7 +2422,7 @@
     },
     {
       "id": "news_item_40",
-      "name": "Apple thừa nhận iPhone Duo lỗi màn hình",
+      "name": "Tin nhắn Zalo có thể chiếm quyền điện thoại, rút sạch tiền trong tài khoản ngân hàng",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2449,31 +2449,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/apple-thua-nhan-iphone-duo-loi-man-hinh-165261027154511207.chn"
+            "href": "entrance://webview/https://genk.vn/tin-nhan-zalo-co-the-chiem-quyen-dien-thoai-rut-sach-tien-trong-tai-khoan-ngan-hang-16526102715572102.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/apple-thua-nhan-iphone-duo-loi-man-hinh-165261027154511207.chn"
+            "data": "entrance://webview/https://genk.vn/tin-nhan-zalo-co-the-chiem-quyen-dien-thoai-rut-sach-tien-trong-tai-khoan-ngan-hang-16526102715572102.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/apple-thua-nhan-iphone-duo-loi-man-hinh-165261027154511207.chn"
+            "href": "entrance://webview/https://genk.vn/tin-nhan-zalo-co-the-chiem-quyen-dien-thoai-rut-sach-tien-trong-tai-khoan-ngan-hang-16526102715572102.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/apple-thua-nhan-iphone-duo-loi-man-hinh-165261027154511207.chn"
+            "data": "entrance://webview/https://genk.vn/tin-nhan-zalo-co-the-chiem-quyen-dien-thoai-rut-sach-tien-trong-tai-khoan-ngan-hang-16526102715572102.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Apple thừa nhận iPhone Duo lỗi màn hình",
-          "text": "Apple xác nhận một số ít iPhone Duo gặp sự cố màn hình trong bị nứt vỡ, đồng thời khuyến nghị người dùng liên hệ AppleCare để được đổi thiết bị.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:19 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Tin nhắn Zalo có thể chiếm quyền điện thoại, rút sạch tiền trong tài khoản ngân hàng",
+          "text": "Ngày 26/10/2026, Cục An ninh mạng, Bộ Công an phát đi cảnh báo về hai thủ đoạn lừa đảo đang lan rộng. Chỉ một thao tác cài đặt sai, kẻ gian có thể điều khiển điện thoại, đánh cắp mã OTP và chiếm đoạt tiền trong tài khoản ngân hàng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2535,7 +2535,7 @@
         {
           "type": "text",
           "name": "Hơn 97% hộ gia đình ở Phú Thọ đồng ý điều chỉnh 4.000ha đất rừng Ba Vì và vùng đệm về Hà Nội",
-          "text": "977.701 hộ gia đình (chiếm 97,1%) ở tỉnh Phú Thọ đồng ý với đề án điều chỉnh hơn 4.000ha đất rừng Ba Vì và vùng đệm thuộc ba xã, phường Kỳ Sơn, Thịnh Minh, Lương Sơn về Hà Nội quản lý.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:19 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "977.701 hộ gia đình (chiếm 97,1%) ở tỉnh Phú Thọ đồng ý với đề án điều chỉnh hơn 4.000ha đất rừng Ba Vì và vùng đệm thuộc ba xã, phường Kỳ Sơn, Thịnh Minh, Lương Sơn về Hà Nội quản lý.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2546,7 +2546,7 @@
     },
     {
       "id": "news_item_42",
-      "name": "Mark Zuckerberg khiến cả thế giới phải suy nghĩ lại: Canh bạc AI tỷ USD bắt đầu cho trái ngọt, đã có sản phẩm đạt 10 triệu người dùng",
+      "name": "Elon Musk chê phim Odyssey của Nolan, dùng AI để làm lại, 3 tháng mới được 7 phút đầu tiên: Bị chê thiếu nghệ thuật",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2573,31 +2573,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/mark-zuckerberg-khien-ca-the-gioi-phai-suy-nghi-lai-canh-bac-ai-ty-usd-bat-dau-cho-trai-ngot-da-co-san-pham-dat-10-trieu-nguoi-dung-165261027153811601.chn"
+            "href": "entrance://webview/https://genk.vn/elon-musk-che-phim-odyssey-cua-nolan-dung-ai-de-lam-lai-3-thang-moi-duoc-7-phut-dau-tien-bi-che-thieu-nghe-thuat-165261027153531404.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/mark-zuckerberg-khien-ca-the-gioi-phai-suy-nghi-lai-canh-bac-ai-ty-usd-bat-dau-cho-trai-ngot-da-co-san-pham-dat-10-trieu-nguoi-dung-165261027153811601.chn"
+            "data": "entrance://webview/https://genk.vn/elon-musk-che-phim-odyssey-cua-nolan-dung-ai-de-lam-lai-3-thang-moi-duoc-7-phut-dau-tien-bi-che-thieu-nghe-thuat-165261027153531404.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/mark-zuckerberg-khien-ca-the-gioi-phai-suy-nghi-lai-canh-bac-ai-ty-usd-bat-dau-cho-trai-ngot-da-co-san-pham-dat-10-trieu-nguoi-dung-165261027153811601.chn"
+            "href": "entrance://webview/https://genk.vn/elon-musk-che-phim-odyssey-cua-nolan-dung-ai-de-lam-lai-3-thang-moi-duoc-7-phut-dau-tien-bi-che-thieu-nghe-thuat-165261027153531404.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/mark-zuckerberg-khien-ca-the-gioi-phai-suy-nghi-lai-canh-bac-ai-ty-usd-bat-dau-cho-trai-ngot-da-co-san-pham-dat-10-trieu-nguoi-dung-165261027153811601.chn"
+            "data": "entrance://webview/https://genk.vn/elon-musk-che-phim-odyssey-cua-nolan-dung-ai-de-lam-lai-3-thang-moi-duoc-7-phut-dau-tien-bi-che-thieu-nghe-thuat-165261027153531404.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Mark Zuckerberg khiến cả thế giới phải suy nghĩ lại: Canh bạc AI tỷ USD bắt đầu cho trái ngọt, đã có sản phẩm đạt 10 triệu người dùng",
-          "text": "Sau nhiều năm đổ hàng trăm tỷ USD vào AI, Mark Zuckerberg đang đón nhận những tín hiệu tích cực khi trợ lý Muse nhanh chóng thu hút người dùng, giúp Meta lấy lại sức hút trên thị trường.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:19 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Elon Musk chê phim Odyssey của Nolan, dùng AI để làm lại, 3 tháng mới được 7 phút đầu tiên: Bị chê thiếu nghệ thuật",
+          "text": "Theo ông Musk, phiên bản phim Odyssey do AI Grok của ông tạo ra sẽ chính xác hơn về mặt lịch sử so với bộ phim nổi tiếng của đạo diễn Nolan.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2608,7 +2608,7 @@
     },
     {
       "id": "news_item_43",
-      "name": "Đổ hàng trăm tỷ USD vào AI, Microsoft đề nghị 60.000 nhân viên trên toàn cầu nghỉ việc",
+      "name": "Vì sao iPhone Duo gần 65 triệu đồng dù dùng cùng chip với iPhone 18 Pro?",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2635,31 +2635,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/do-hang-tram-ty-usd-vao-ai-microsoft-de-nghi-60000-nhan-vien-tren-toan-cau-nghi-viec-165261027114246316.chn"
+            "href": "entrance://webview/https://genk.vn/vi-sao-iphone-duo-gan-65-trieu-dong-du-dung-cung-chip-voi-iphone-18-pro-165261027161436272.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/do-hang-tram-ty-usd-vao-ai-microsoft-de-nghi-60000-nhan-vien-tren-toan-cau-nghi-viec-165261027114246316.chn"
+            "data": "entrance://webview/https://genk.vn/vi-sao-iphone-duo-gan-65-trieu-dong-du-dung-cung-chip-voi-iphone-18-pro-165261027161436272.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/do-hang-tram-ty-usd-vao-ai-microsoft-de-nghi-60000-nhan-vien-tren-toan-cau-nghi-viec-165261027114246316.chn"
+            "href": "entrance://webview/https://genk.vn/vi-sao-iphone-duo-gan-65-trieu-dong-du-dung-cung-chip-voi-iphone-18-pro-165261027161436272.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/do-hang-tram-ty-usd-vao-ai-microsoft-de-nghi-60000-nhan-vien-tren-toan-cau-nghi-viec-165261027114246316.chn"
+            "data": "entrance://webview/https://genk.vn/vi-sao-iphone-duo-gan-65-trieu-dong-du-dung-cung-chip-voi-iphone-18-pro-165261027161436272.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Đổ hàng trăm tỷ USD vào AI, Microsoft đề nghị 60.000 nhân viên trên toàn cầu nghỉ việc",
-          "text": "Thay vì bị sa thải trực tiếp, chương trình này của Microsoft sẽ dành cho các nhân viên tự nguyện nghỉ việc, để nhận được sự hỗ trợ tài chính từ tập đoàn.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:19 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Vì sao iPhone Duo gần 65 triệu đồng dù dùng cùng chip với iPhone 18 Pro?",
+          "text": "iPhone Duo có giá từ 64,99 triệu đồng tại Việt Nam, cao hơn đáng kể so với iPhone dạng thanh. Phần chênh chủ yếu đến từ cấu trúc gập, hai màn hình, bản lề và hệ thống pin, thay vì con chip.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2670,7 +2670,7 @@
     },
     {
       "id": "news_item_44",
-      "name": "Linus Torvalds lần đầu dùng Claude Code phát triển Linux: Đọc dữ liệu nhanh gấp 23 lần",
+      "name": "Apple thừa nhận iPhone Duo lỗi màn hình",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2697,31 +2697,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/linus-torvalds-lan-dau-dung-claude-code-phat-trien-linux-doc-du-lieu-nhanh-gap-23-lan-165261027143128663.chn"
+            "href": "entrance://webview/https://genk.vn/apple-thua-nhan-iphone-duo-loi-man-hinh-165261027154511207.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/linus-torvalds-lan-dau-dung-claude-code-phat-trien-linux-doc-du-lieu-nhanh-gap-23-lan-165261027143128663.chn"
+            "data": "entrance://webview/https://genk.vn/apple-thua-nhan-iphone-duo-loi-man-hinh-165261027154511207.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/linus-torvalds-lan-dau-dung-claude-code-phat-trien-linux-doc-du-lieu-nhanh-gap-23-lan-165261027143128663.chn"
+            "href": "entrance://webview/https://genk.vn/apple-thua-nhan-iphone-duo-loi-man-hinh-165261027154511207.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/linus-torvalds-lan-dau-dung-claude-code-phat-trien-linux-doc-du-lieu-nhanh-gap-23-lan-165261027143128663.chn"
+            "data": "entrance://webview/https://genk.vn/apple-thua-nhan-iphone-duo-loi-man-hinh-165261027154511207.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Linus Torvalds lần đầu dùng Claude Code phát triển Linux: Đọc dữ liệu nhanh gấp 23 lần",
-          "text": "VTV.vn - Từ một người luôn phản đối việc sử dụng AI trong lập trình, giờ đây chính cha đẻ Linux lại đang sử dụng AI để hỗ trợ phát triển hệ điều hành này.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:19 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Apple thừa nhận iPhone Duo lỗi màn hình",
+          "text": "Apple xác nhận một số ít iPhone Duo gặp sự cố màn hình trong bị nứt vỡ, đồng thời khuyến nghị người dùng liên hệ AppleCare để được đổi thiết bị.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 20:48 - 27/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
