@@ -4,7 +4,7 @@
   "items": [
     {
       "id": "news_item_1",
-      "name": "Thứ trưởng Bộ Giáo dục và Đào tạo: Vi phạm thi cử ở Tuyên Quang có tổ chức, được bàn bạc và phân công rất rõ ràng",
+      "name": "Ông Zelensky lo ngại về cuộc gặp 3 bên Mỹ - Nga - Trung",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -31,31 +31,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/thu-truong-bo-giao-duc-va-dao-tao-vi-pham-thi-cu-o-tuyen-quang-co-to-chuc-duoc-ban-bac-va-phan-cong-rat-ro-rang-10026102911190722.htm"
+            "href": "entrance://webview/https://tuoitre.vn/ong-zelensky-lo-ngai-ve-cuoc-gap-3-ben-my-nga-trung-100261029105603785.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/thu-truong-bo-giao-duc-va-dao-tao-vi-pham-thi-cu-o-tuyen-quang-co-to-chuc-duoc-ban-bac-va-phan-cong-rat-ro-rang-10026102911190722.htm"
+            "data": "entrance://webview/https://tuoitre.vn/ong-zelensky-lo-ngai-ve-cuoc-gap-3-ben-my-nga-trung-100261029105603785.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/thu-truong-bo-giao-duc-va-dao-tao-vi-pham-thi-cu-o-tuyen-quang-co-to-chuc-duoc-ban-bac-va-phan-cong-rat-ro-rang-10026102911190722.htm"
+            "href": "entrance://webview/https://tuoitre.vn/ong-zelensky-lo-ngai-ve-cuoc-gap-3-ben-my-nga-trung-100261029105603785.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/thu-truong-bo-giao-duc-va-dao-tao-vi-pham-thi-cu-o-tuyen-quang-co-to-chuc-duoc-ban-bac-va-phan-cong-rat-ro-rang-10026102911190722.htm"
+            "data": "entrance://webview/https://tuoitre.vn/ong-zelensky-lo-ngai-ve-cuoc-gap-3-ben-my-nga-trung-100261029105603785.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Thứ trưởng Bộ Giáo dục và Đào tạo: Vi phạm thi cử ở Tuyên Quang có tổ chức, được bàn bạc và phân công rất rõ ràng",
-          "text": "Thứ trưởng thường trực Bộ Giáo dục và Đào tạo Phạm Ngọc Thưởng nhấn mạnh những sai phạm tại điểm thi Trường THPT chuyên Tuyên Quang vừa qua là hành vi rất nghiêm trọng.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:47 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Ông Zelensky lo ngại về cuộc gặp 3 bên Mỹ - Nga - Trung",
+          "text": "Tổng thống Zelensky cảnh báo cuộc gặp 3 bên giữa lãnh đạo các nước Mỹ, Nga và Trung Quốc có thể lặp lại bóng ma của Hội nghị Yalta hồi Thế chiến II.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:55 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -117,7 +117,7 @@
         {
           "type": "text",
           "name": "Bánh tart trứng phủ bọ nước giống gián khổng lồ gây tranh cãi tại Trung Quốc",
-          "text": "Một nhà hàng ở Quảng Đông, Trung Quốc, gây chú ý khi bán bánh tart trứng phủ bọ nước chiên giòn, có hình dáng giống gián khổng lồ. Món ăn giá khoảng hơn 100 nghìn đồng cho 3 chiếc khiến nhiều người tò mò, nhưng cũng không ít thực khách bày tỏ sự e ngại.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:47 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Một nhà hàng ở Quảng Đông, Trung Quốc, gây chú ý khi bán bánh tart trứng phủ bọ nước chiên giòn, có hình dáng giống gián khổng lồ. Món ăn giá khoảng hơn 100 nghìn đồng cho 3 chiếc khiến nhiều người tò mò, nhưng cũng không ít thực khách bày tỏ sự e ngại.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:55 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -179,7 +179,7 @@
         {
           "type": "text",
           "name": "Tôi không phục cách vợ chia tiền tiết kiệm sau 6 năm chung sống",
-          "text": "Dù cuối cùng có đi đến ly hôn hay không, tôi vẫn mong mọi việc được giải quyết văn minh, công bằng và không ảnh hưởng đến con.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:47 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Dù cuối cùng có đi đến ly hôn hay không, tôi vẫn mong mọi việc được giải quyết văn minh, công bằng và không ảnh hưởng đến con.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:55 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -241,7 +241,7 @@
         {
           "type": "text",
           "name": "Microsoft: 'Có thể chỉ 3.000 nhân viên tự nguyện thôi việc'",
-          "text": "Microsoft đề xuất 60.000 nhân viên tự nguyện nghỉ việc, nhưng dự tính có thể \"chỉ 5% hoặc ít hơn\" chấp nhận.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:47 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Microsoft đề xuất 60.000 nhân viên tự nguyện nghỉ việc, nhưng dự tính có thể \"chỉ 5% hoặc ít hơn\" chấp nhận.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:55 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -303,7 +303,7 @@
         {
           "type": "text",
           "name": "Việt Nam tham gia Hiệp định Artemis về khám phá không gian",
-          "text": "Lễ trao Hiệp định Artemis diễn ra sáng 28-10, trong khuôn khổ Tuần lễ số quốc tế Việt Nam 2026 tại Quảng Ninh.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:47 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Lễ trao Hiệp định Artemis diễn ra sáng 28-10, trong khuôn khổ Tuần lễ số quốc tế Việt Nam 2026 tại Quảng Ninh.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:55 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -314,7 +314,7 @@
     },
     {
       "id": "news_item_6",
-      "name": "Bắt nữ giám đốc công ty thủy sản ở Cà Mau vì lừa đảo gần 35 tỉ đồng",
+      "name": "Indonesia tạo nên bài tấn công 'thần tốc', làng bóng đá thế giới học theo",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -341,31 +341,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/bat-nu-giam-doc-cong-ty-thuy-san-o-ca-mau-vi-lua-dao-gan-35-ti-dong-10026102911235947.htm"
+            "href": "entrance://webview/https://tuoitre.vn/indonesia-tao-nen-bai-tan-cong-than-toc-lang-bong-da-the-gioi-hoc-theo-10026102822180281.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/bat-nu-giam-doc-cong-ty-thuy-san-o-ca-mau-vi-lua-dao-gan-35-ti-dong-10026102911235947.htm"
+            "data": "entrance://webview/https://tuoitre.vn/indonesia-tao-nen-bai-tan-cong-than-toc-lang-bong-da-the-gioi-hoc-theo-10026102822180281.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/bat-nu-giam-doc-cong-ty-thuy-san-o-ca-mau-vi-lua-dao-gan-35-ti-dong-10026102911235947.htm"
+            "href": "entrance://webview/https://tuoitre.vn/indonesia-tao-nen-bai-tan-cong-than-toc-lang-bong-da-the-gioi-hoc-theo-10026102822180281.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/bat-nu-giam-doc-cong-ty-thuy-san-o-ca-mau-vi-lua-dao-gan-35-ti-dong-10026102911235947.htm"
+            "data": "entrance://webview/https://tuoitre.vn/indonesia-tao-nen-bai-tan-cong-than-toc-lang-bong-da-the-gioi-hoc-theo-10026102822180281.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Bắt nữ giám đốc công ty thủy sản ở Cà Mau vì lừa đảo gần 35 tỉ đồng",
-          "text": "Cơ quan công an đã bắt bà Hồ Thị Kiểng - Giám đốc công ty thủy sản ở Cà Mau về tội lừa đảo chiếm đoạt số tiền gần 35 tỉ đồng.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:47 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Indonesia tạo nên bài tấn công 'thần tốc', làng bóng đá thế giới học theo",
+          "text": "Bàn thắng chỉ sau khoảng 2 giây của U15 Indonesia tại World Cup U15 2026 đang thu hút sự chú ý đặc biệt, trong bối cảnh kiểu tấn công ngay từ chấm giao bóng trở thành xu hướng chiến thuật thú vị tại giải đấu.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:55 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -427,7 +427,7 @@
         {
           "type": "text",
           "name": "Bí ẩn mộ cổ ngàn năm dưới đáy Trường Giang và những hiện vật được khai quật đã hé lộ một công nghệ cổ xưa đã bị thất truyền từ lâu",
-          "text": "Một trận lũ trên sông Dương Tử vào thập niên 1970 được cho là đã làm lộ ngôi mộ cổ của một vị quan nước Sở. Đặc biệt, chiếc Cấm đồng hoa văn mây khai quật tại đây thu hút sự chú ý khi cho thấy trình độ chế tác tinh xảo của người xưa, gắn với phương pháp đúc mẫu sáp có lịch sử lâu đời.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:47 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Một trận lũ trên sông Dương Tử vào thập niên 1970 được cho là đã làm lộ ngôi mộ cổ của một vị quan nước Sở. Đặc biệt, chiếc Cấm đồng hoa văn mây khai quật tại đây thu hút sự chú ý khi cho thấy trình độ chế tác tinh xảo của người xưa, gắn với phương pháp đúc mẫu sáp có lịch sử lâu đời.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:55 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -489,7 +489,7 @@
         {
           "type": "text",
           "name": "Cố rẽ cạnh xe container, ôtô con toạc đầu",
-          "text": "Cố gắng rẽ trái khi xe container đang chuyển hướng, đầu xe con bị mắc và xé toạc, hôm 27/10 tại Đặng Kinh.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:47 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Cố gắng rẽ trái khi xe container đang chuyển hướng, đầu xe con bị mắc và xé toạc, hôm 27/10 tại Đặng Kinh.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:55 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -551,7 +551,7 @@
         {
           "type": "text",
           "name": "Amazon: AI mở ra thời kỳ của nhà phát triển Phục hưng",
-          "text": "Amazon cho rằng AI đang làm thay đổi cách viết phần mềm, mở ra thời kỳ nhà phát triển có thể đảm nhiệm nhiều việc thay vì chuyên sâu một lĩnh vực.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:47 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Amazon cho rằng AI đang làm thay đổi cách viết phần mềm, mở ra thời kỳ nhà phát triển có thể đảm nhiệm nhiều việc thay vì chuyên sâu một lĩnh vực.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:55 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -613,7 +613,7 @@
         {
           "type": "text",
           "name": "Việt Nam là quốc gia duy nhất nhận giải thưởng Lãnh đạo Chính phủ 2026 của GSMA",
-          "text": "Giải thưởng Lãnh đạo Chính phủ 2026 của GSMA vinh danh Việt Nam nhờ tầm nhìn chính sách số, phát triển hạ tầng kết nối, thúc đẩy đầu tư và lấy người dân làm trung tâm.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:47 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Giải thưởng Lãnh đạo Chính phủ 2026 của GSMA vinh danh Việt Nam nhờ tầm nhìn chính sách số, phát triển hạ tầng kết nối, thúc đẩy đầu tư và lấy người dân làm trung tâm.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:55 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -624,7 +624,7 @@
     },
     {
       "id": "news_item_11",
-      "name": "Ông Trump xác nhận Phó tổng thống Mỹ gửi thư cho Iran, hé lộ mục đích",
+      "name": "Giá cả đầu ngày: Cá heo sống giá nửa triệu đồng/kg ở chợ Miền Tây",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -651,31 +651,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/ong-trump-xac-nhan-pho-tong-thong-my-gui-thu-cho-iran-he-lo-muc-dich-100261029111425664.htm"
+            "href": "entrance://webview/https://tuoitre.vn/gia-ca-dau-ngay-ca-heo-song-gia-nua-trieu-dong-kg-o-cho-mien-tay-100261029105738448.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/ong-trump-xac-nhan-pho-tong-thong-my-gui-thu-cho-iran-he-lo-muc-dich-100261029111425664.htm"
+            "data": "entrance://webview/https://tuoitre.vn/gia-ca-dau-ngay-ca-heo-song-gia-nua-trieu-dong-kg-o-cho-mien-tay-100261029105738448.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/ong-trump-xac-nhan-pho-tong-thong-my-gui-thu-cho-iran-he-lo-muc-dich-100261029111425664.htm"
+            "href": "entrance://webview/https://tuoitre.vn/gia-ca-dau-ngay-ca-heo-song-gia-nua-trieu-dong-kg-o-cho-mien-tay-100261029105738448.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/ong-trump-xac-nhan-pho-tong-thong-my-gui-thu-cho-iran-he-lo-muc-dich-100261029111425664.htm"
+            "data": "entrance://webview/https://tuoitre.vn/gia-ca-dau-ngay-ca-heo-song-gia-nua-trieu-dong-kg-o-cho-mien-tay-100261029105738448.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Ông Trump xác nhận Phó tổng thống Mỹ gửi thư cho Iran, hé lộ mục đích",
-          "text": "Động thái diễn ra khi ông Trump đe dọa tiến hành đợt không kích mới nhằm vào Iran sau bầu cử giữa kỳ.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:47 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Giá cả đầu ngày: Cá heo sống giá nửa triệu đồng/kg ở chợ Miền Tây",
+          "text": "Cá heo nuôi sống tại chợ Cao Lãnh (Đồng Tháp) được bán với giá 500.000 đồng/kg do nguồn cung giảm.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:55 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -737,7 +737,7 @@
         {
           "type": "text",
           "name": "Kỷ nguyên điện ảnh AI năm 2026: Sự thật về những bộ phim dài hàng giờ và cách sản xuất",
-          "text": "Phim tạo bằng AI không còn dừng lại ở những đoạn video ngắn ngủi vô nghĩa. Năm 2026 chứng kiến sự bùng nổ của các tác phẩm điện ảnh dài hàng giờ, mở ra một kỷ nguyên mới cho ngành công nghiệp giải trí với những bước tiến công nghệ đột phá và đầy thách thức.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Phim tạo bằng AI không còn dừng lại ở những đoạn video ngắn ngủi vô nghĩa. Năm 2026 chứng kiến sự bùng nổ của các tác phẩm điện ảnh dài hàng giờ, mở ra một kỷ nguyên mới cho ngành công nghiệp giải trí với những bước tiến công nghệ đột phá và đầy thách thức.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:55 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -799,7 +799,7 @@
         {
           "type": "text",
           "name": "Hơn một nửa Bitcoin đang lưu hành chưa xác định chủ sở hữu",
-          "text": "Dù \"cá mập\" liên tục mua vào, phần lớn nguồn cung Bitcoin vẫn nằm trong nhóm chưa xác định chủ sở hữu, có thể do cá nhân tự lưu ký.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Dù \"cá mập\" liên tục mua vào, phần lớn nguồn cung Bitcoin vẫn nằm trong nhóm chưa xác định chủ sở hữu, có thể do cá nhân tự lưu ký.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -861,7 +861,7 @@
         {
           "type": "text",
           "name": "Nga đóng vĩnh viễn khu vực bị rò khí trên trạm ISS",
-          "text": "Cơ quan vũ trụ Roscosmos sẽ đóng cửa đường hầm nối với module của Nga trên trạm ISS sau nhiều năm cố gắng sửa chữa lỗi rò khí không thành công.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Cơ quan vũ trụ Roscosmos sẽ đóng cửa đường hầm nối với module của Nga trên trạm ISS sau nhiều năm cố gắng sửa chữa lỗi rò khí không thành công.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -923,7 +923,7 @@
         {
           "type": "text",
           "name": "Úc cảnh báo làn sóng tấn công mạng chưa từng có từ AI",
-          "text": "Tội phạm mạng đang lợi dụng AI để tấn công nhanh, chính xác và trên quy mô lớn, buộc Úc phát hơn 4.400 cảnh báo an ninh mạng trong một năm.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tội phạm mạng đang lợi dụng AI để tấn công nhanh, chính xác và trên quy mô lớn, buộc Úc phát hơn 4.400 cảnh báo an ninh mạng trong một năm.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -934,7 +934,7 @@
     },
     {
       "id": "news_item_16",
-      "name": "Hải Phòng 'chốt' chi hơn 5.000 tỉ đồng cải tạo kè sông Sặt",
+      "name": "Vietlott SMS sắp đạt 5 triệu tài khoản nhờ tăng tích hợp trên nền tảng số",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -961,31 +961,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/hai-phong-chot-chi-hon-5000-ti-dong-cai-tao-ke-song-sat-100261029110003979.htm"
+            "href": "entrance://webview/https://tuoitre.vn/vietlott-sms-sap-dat-5-trieu-tai-khoan-nho-tang-tich-hop-tren-nen-tang-so-100261029103928539.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/hai-phong-chot-chi-hon-5000-ti-dong-cai-tao-ke-song-sat-100261029110003979.htm"
+            "data": "entrance://webview/https://tuoitre.vn/vietlott-sms-sap-dat-5-trieu-tai-khoan-nho-tang-tich-hop-tren-nen-tang-so-100261029103928539.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/hai-phong-chot-chi-hon-5000-ti-dong-cai-tao-ke-song-sat-100261029110003979.htm"
+            "href": "entrance://webview/https://tuoitre.vn/vietlott-sms-sap-dat-5-trieu-tai-khoan-nho-tang-tich-hop-tren-nen-tang-so-100261029103928539.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/hai-phong-chot-chi-hon-5000-ti-dong-cai-tao-ke-song-sat-100261029110003979.htm"
+            "data": "entrance://webview/https://tuoitre.vn/vietlott-sms-sap-dat-5-trieu-tai-khoan-nho-tang-tich-hop-tren-nen-tang-so-100261029103928539.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Hải Phòng 'chốt' chi hơn 5.000 tỉ đồng cải tạo kè sông Sặt",
-          "text": "HĐND TP Hải Phòng thông qua chủ trương đầu tư dự án cải tạo, nâng cấp kè sông Sặt đoạn từ cầu Cậy đến cầu Cất, với tổng vốn hơn 5.027 tỉ đồng nhằm xử lý ô nhiễm nguồn nước, chống sạt lở và ngập úng.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Vietlott SMS sắp đạt 5 triệu tài khoản nhờ tăng tích hợp trên nền tảng số",
+          "text": "Sau gần 6 năm vận hành, Vietlott SMS mở rộng kênh tiếp cận người dùng thông qua việc tích hợp dịch vụ trên các ứng dụng ngân hàng và ví điện tử. Số tài khoản đăng ký dự kiến đạt 5 triệu vào cuối tháng 10-2026.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1047,7 +1047,7 @@
         {
           "type": "text",
           "name": "Đánh giá Kindle Aluminum: Giá gần 7 triệu đồng tại Việt Nam, có đáng mua hơn bản vỏ nhựa?",
-          "text": "Kindle Aluminum mang đến diện mạo sang trọng hơn, khả năng chống trầy xước tốt và thiết kế nhỏ gọn. Tuy nhiên, một thiếu sót về màn hình có thể khiến mẫu máy đọc sách này mất điểm với nhiều người.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Kindle Aluminum mang đến diện mạo sang trọng hơn, khả năng chống trầy xước tốt và thiết kế nhỏ gọn. Tuy nhiên, một thiếu sót về màn hình có thể khiến mẫu máy đọc sách này mất điểm với nhiều người.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1109,7 +1109,7 @@
         {
           "type": "text",
           "name": "VIB lãi trước thuế gần 7.600 tỷ đồng trong 9 tháng",
-          "text": "VIB đạt gần 7.600 tỷ đồng lợi nhuận trước thuế trong 9 tháng đầu năm, tăng 8% so với cùng kỳ, nhờ thu nhập hoạt động tăng 18%, chi phí hoạt động giảm 2%.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "VIB đạt gần 7.600 tỷ đồng lợi nhuận trước thuế trong 9 tháng đầu năm, tăng 8% so với cùng kỳ, nhờ thu nhập hoạt động tăng 18%, chi phí hoạt động giảm 2%.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1171,7 +1171,7 @@
         {
           "type": "text",
           "name": "Apple ra MacBook Pro màn hình OLED cảm ứng",
-          "text": "Apple hôm nay công bố MacBook Pro sử dụng màn hình OLED 120 Hz, lần đầu hỗ trợ cảm ứng và có logo \"Quả táo\" phát sáng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Apple hôm nay công bố MacBook Pro sử dụng màn hình OLED 120 Hz, lần đầu hỗ trợ cảm ứng và có logo \"Quả táo\" phát sáng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1233,7 +1233,7 @@
         {
           "type": "text",
           "name": "Pháp ghi nhận hơn 700 ca ngộ độc nấm, cảnh báo dùng AI nhận diện",
-          "text": "Pháp ghi nhận hơn 700 ca ngộ độc nấm từ đầu tháng 9. Chuyên gia cảnh báo không nên dùng ứng dụng AI để xác định nấm có ăn được hay không.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Pháp ghi nhận hơn 700 ca ngộ độc nấm từ đầu tháng 9. Chuyên gia cảnh báo không nên dùng ứng dụng AI để xác định nấm có ăn được hay không.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1244,7 +1244,7 @@
     },
     {
       "id": "news_item_21",
-      "name": "Quảng Ngãi điều động, luân chuyển nhiều cán bộ chủ chốt",
+      "name": "Đưa vào khai thác chính thức đường băng số 2 dài 3.300m ở sân bay Phú Quốc",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1271,31 +1271,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/quang-ngai-dieu-dong-luan-chuyen-nhieu-can-bo-chu-chot-100261029110751352.htm"
+            "href": "entrance://webview/https://tuoitre.vn/dua-vao-khai-thac-chinh-thuc-duong-bang-so-2-dai-3300m-o-san-bay-phu-quoc-100261029101748885.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/quang-ngai-dieu-dong-luan-chuyen-nhieu-can-bo-chu-chot-100261029110751352.htm"
+            "data": "entrance://webview/https://tuoitre.vn/dua-vao-khai-thac-chinh-thuc-duong-bang-so-2-dai-3300m-o-san-bay-phu-quoc-100261029101748885.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/quang-ngai-dieu-dong-luan-chuyen-nhieu-can-bo-chu-chot-100261029110751352.htm"
+            "href": "entrance://webview/https://tuoitre.vn/dua-vao-khai-thac-chinh-thuc-duong-bang-so-2-dai-3300m-o-san-bay-phu-quoc-100261029101748885.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/quang-ngai-dieu-dong-luan-chuyen-nhieu-can-bo-chu-chot-100261029110751352.htm"
+            "data": "entrance://webview/https://tuoitre.vn/dua-vao-khai-thac-chinh-thuc-duong-bang-so-2-dai-3300m-o-san-bay-phu-quoc-100261029101748885.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Quảng Ngãi điều động, luân chuyển nhiều cán bộ chủ chốt",
-          "text": "Tỉnh ủy Quảng Ngãi điều động, luân chuyển, tiếp nhận và phân công 11 cán bộ; trong đó có nhiều cán bộ được bố trí giữ chức bí thư, phó bí thư đảng ủy cấp xã.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Đưa vào khai thác chính thức đường băng số 2 dài 3.300m ở sân bay Phú Quốc",
+          "text": "Cảng hàng không quốc tế Phú Quốc chính thức đưa đường cất hạ cánh số 2 dài 3.300m vào khai thác chính thức  sau 8 tháng thi công.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1357,7 +1357,7 @@
         {
           "type": "text",
           "name": "Tesla tuyển dụng 5 vị trí, chính thức hiện diện tại Việt Nam",
-          "text": "Tuy nhiên, các thông báo tuyển dụng này chưa cho tiết lộ thời điểm Tesla chính thức mở bán tại Việt Nam.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tuy nhiên, các thông báo tuyển dụng này chưa cho tiết lộ thời điểm Tesla chính thức mở bán tại Việt Nam.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1419,7 +1419,7 @@
         {
           "type": "text",
           "name": "Khám sàng lọc nguy cơ đột quỵ cho hơn 1.000 người dân Hà Tĩnh",
-          "text": "Long Châu, Bayer Việt Nam đồng hành Hội Thầy thuốc trẻ Việt Nam, Cục Phòng bệnh (Bộ Y tế) tổ chức khám sàng lọc nguy cơ đột quỵ cho người dân xã Đức Quang, ngày 25/10.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Long Châu, Bayer Việt Nam đồng hành Hội Thầy thuốc trẻ Việt Nam, Cục Phòng bệnh (Bộ Y tế) tổ chức khám sàng lọc nguy cơ đột quỵ cho người dân xã Đức Quang, ngày 25/10.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1481,7 +1481,7 @@
         {
           "type": "text",
           "name": "'Vỡ mộng' vì vội ứng dụng AI",
-          "text": "Nhiều công ty trên thế giới đang đau đầu giải quyết mớ hỗn độn do vội vã ứng dụng AI khi công cụ chưa thực sự ổn định, dẫn đến mất thời gian của nhân viên, lộ bí mật thông tin và tăng chi phí.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Nhiều công ty trên thế giới đang đau đầu giải quyết mớ hỗn độn do vội vã ứng dụng AI khi công cụ chưa thực sự ổn định, dẫn đến mất thời gian của nhân viên, lộ bí mật thông tin và tăng chi phí.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1543,7 +1543,7 @@
         {
           "type": "text",
           "name": "Doanh nghiệp vừa và nhỏ bị tấn công mạng: Mất dữ liệu, mất cả khách hàng",
-          "text": "Có tới 87% doanh nghiệp vừa và nhỏ (SMB) từng hứng chịu các đợt tấn công mạng trong 12 tháng qua. Đáng lo ngại, nhiều sự cố đã để lại tổn thất không thể khắc phục về dữ liệu và tài sản.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Có tới 87% doanh nghiệp vừa và nhỏ (SMB) từng hứng chịu các đợt tấn công mạng trong 12 tháng qua. Đáng lo ngại, nhiều sự cố đã để lại tổn thất không thể khắc phục về dữ liệu và tài sản.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1554,7 +1554,7 @@
     },
     {
       "id": "news_item_26",
-      "name": "TP.HCM xem xét bắt buộc đổi tên đường giống nhau trong cùng phường, xã",
+      "name": "Lập Công ty Tư Gia làm vỏ bọc, rửa tiền 700 tỉ đồng qua USDT",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1581,31 +1581,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/tphcm-xem-xet-bat-buoc-doi-ten-duong-giong-nhau-trong-cung-phuong-xa-100261029105541266.htm"
+            "href": "entrance://webview/https://tuoitre.vn/lap-cong-ty-tu-gia-lam-vo-boc-rua-tien-700-ti-dong-qua-usdt-100261029102431025.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/tphcm-xem-xet-bat-buoc-doi-ten-duong-giong-nhau-trong-cung-phuong-xa-100261029105541266.htm"
+            "data": "entrance://webview/https://tuoitre.vn/lap-cong-ty-tu-gia-lam-vo-boc-rua-tien-700-ti-dong-qua-usdt-100261029102431025.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/tphcm-xem-xet-bat-buoc-doi-ten-duong-giong-nhau-trong-cung-phuong-xa-100261029105541266.htm"
+            "href": "entrance://webview/https://tuoitre.vn/lap-cong-ty-tu-gia-lam-vo-boc-rua-tien-700-ti-dong-qua-usdt-100261029102431025.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/tphcm-xem-xet-bat-buoc-doi-ten-duong-giong-nhau-trong-cung-phuong-xa-100261029105541266.htm"
+            "data": "entrance://webview/https://tuoitre.vn/lap-cong-ty-tu-gia-lam-vo-boc-rua-tien-700-ti-dong-qua-usdt-100261029102431025.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "TP.HCM xem xét bắt buộc đổi tên đường giống nhau trong cùng phường, xã",
-          "text": "Sáng 29-10, Ban Văn hóa - Xã hội HĐND TP.HCM báo cáo thẩm tra về nghị quyết về đặt, đổi tên đường và công trình công cộng. Trong đó, có nguyên tắc bắt buộc đổi tên những tuyến đường giống tên nhau trong cùng phường, xã, đặc khu.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Lập Công ty Tư Gia làm vỏ bọc, rửa tiền 700 tỉ đồng qua USDT",
+          "text": "Đường dây bị cáo buộc luân chuyển khoảng 700 tỉ đồng từ hoạt động lừa đảo qua mạng, mua USDT (loại tiền điện tử ổn định) nhằm che giấu nguồn gốc dòng tiền.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1667,7 +1667,7 @@
         {
           "type": "text",
           "name": "OPPO Find X10 Series ra mắt tại Việt Nam: Nâng cấp mạnh camera Hasselblad, giá cao nhất gần 50 triệu đồng",
-          "text": "OPPO Find X10 Series chính thức trình làng tại Việt Nam với hai phiên bản Find X10 và Find X10 Pro Max, nổi bật với hệ thống camera Hasselblad độ phân giải lên tới 200MP, vi xử lý Dimensity thế hệ mới và viên pin 8.000mAh.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "OPPO Find X10 Series chính thức trình làng tại Việt Nam với hai phiên bản Find X10 và Find X10 Pro Max, nổi bật với hệ thống camera Hasselblad độ phân giải lên tới 200MP, vi xử lý Dimensity thế hệ mới và viên pin 8.000mAh.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1729,7 +1729,7 @@
         {
           "type": "text",
           "name": "Mbappe bị tẩy chay ở Trung Quốc",
-          "text": "Câu nói đùa trong một trò chơi của Kylian Mbappe gây nên làn sóng phẫn nộ ở Trung Quốc, khiến ngôi sao của Real Madrid mất ít nhất ba hợp đồng quảng cáo, đồng thời các trận đấu của La Liga cũng bị cắt sóng ở quốc gia tỷ dân.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Câu nói đùa trong một trò chơi của Kylian Mbappe gây nên làn sóng phẫn nộ ở Trung Quốc, khiến ngôi sao của Real Madrid mất ít nhất ba hợp đồng quảng cáo, đồng thời các trận đấu của La Liga cũng bị cắt sóng ở quốc gia tỷ dân.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1791,7 +1791,7 @@
         {
           "type": "text",
           "name": "Công ty Trung Quốc CXMT sắp sản xuất chip nhớ AI tiên tiến",
-          "text": "\"Ngôi sao bán dẫn Trung Quốc\" CXMT được cho là sớm sản xuất HBM3E, chip nhớ băng thông cao tiên tiến dùng trong bộ xử lý AI, bất chấp tỷ lệ thành phẩm thấp.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "\"Ngôi sao bán dẫn Trung Quốc\" CXMT được cho là sớm sản xuất HBM3E, chip nhớ băng thông cao tiên tiến dùng trong bộ xử lý AI, bất chấp tỷ lệ thành phẩm thấp.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1853,7 +1853,7 @@
         {
           "type": "text",
           "name": "Nhiều website chính phủ hoạt động trở lại, khắc phục lỗ hổng PHP có thể mất nhiều năm",
-          "text": "Ngày 22-10, nhiều website chính phủ hoạt động trở lại sau khi vá lỗ hổng PHP, nhưng nguy cơ tin tặc khai thác vẫn còn, và việc khắc phục có thể kéo dài nhiều năm.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Ngày 22-10, nhiều website chính phủ hoạt động trở lại sau khi vá lỗ hổng PHP, nhưng nguy cơ tin tặc khai thác vẫn còn, và việc khắc phục có thể kéo dài nhiều năm.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "news_item_31",
-      "name": "Chiến dịch 500 ngày đêm TP.HCM: Các anh đã trở về, hành trình còn tiếp tục",
+      "name": "Vì sao nhiều người nhìn thấy ngọn hải đăng 'ma'?",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1891,31 +1891,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/chien-dich-500-ngay-dem-tphcm-cac-anh-da-tro-ve-hanh-trinh-con-tiep-tuc-100261029091948441.htm"
+            "href": "entrance://webview/https://tuoitre.vn/vi-sao-nhieu-nguoi-nhin-thay-ngon-hai-dang-ma-100261029102111902.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/chien-dich-500-ngay-dem-tphcm-cac-anh-da-tro-ve-hanh-trinh-con-tiep-tuc-100261029091948441.htm"
+            "data": "entrance://webview/https://tuoitre.vn/vi-sao-nhieu-nguoi-nhin-thay-ngon-hai-dang-ma-100261029102111902.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/chien-dich-500-ngay-dem-tphcm-cac-anh-da-tro-ve-hanh-trinh-con-tiep-tuc-100261029091948441.htm"
+            "href": "entrance://webview/https://tuoitre.vn/vi-sao-nhieu-nguoi-nhin-thay-ngon-hai-dang-ma-100261029102111902.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/chien-dich-500-ngay-dem-tphcm-cac-anh-da-tro-ve-hanh-trinh-con-tiep-tuc-100261029091948441.htm"
+            "data": "entrance://webview/https://tuoitre.vn/vi-sao-nhieu-nguoi-nhin-thay-ngon-hai-dang-ma-100261029102111902.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Chiến dịch 500 ngày đêm TP.HCM: Các anh đã trở về, hành trình còn tiếp tục",
-          "text": "Chiều nay 29-10, UBND TP.HCM tổ chức hội nghị tổng kết công tác tìm kiếm quy tập và xác định danh tính hài cốt liệt sĩ còn thiếu thông tin năm 2026 và sơ kết giai đoạn 1 Chiến dịch 500 ngày đêm.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Vì sao nhiều người nhìn thấy ngọn hải đăng 'ma'?",
+          "text": "Nhiều du khách khẳng định nhìn thấy ngọn hải đăng thứ ba trên đảo ở Úc, dù nơi này chỉ có hai ngọn. Nghiên cứu mới đã tìm ra lời giải.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1977,7 +1977,7 @@
         {
           "type": "text",
           "name": "Sony bán màn hình 6 inch để xem hình 3D không cần kính",
-          "text": "Sony ELF-MN1 dùng công nghệ theo dõi mắt để hiển thị nhân vật anime và nội dung 3D từ điện thoại hoặc máy tính, dự kiến bán tại Nhật Bản từ tháng 12.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Sony ELF-MN1 dùng công nghệ theo dõi mắt để hiển thị nhân vật anime và nội dung 3D từ điện thoại hoặc máy tính, dự kiến bán tại Nhật Bản từ tháng 12.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2039,7 +2039,7 @@
         {
           "type": "text",
           "name": "Ông Trump nêu ý tưởng Venezuela thành bang thứ 51 của Mỹ",
-          "text": "Tổng thống Trump gợi ý rằng Venezuela có thể trở thành bang thứ 51 của Mỹ, đồng thời khoe một triệu thùng dầu từ quốc gia này vừa cập bến.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tổng thống Trump gợi ý rằng Venezuela có thể trở thành bang thứ 51 của Mỹ, đồng thời khoe một triệu thùng dầu từ quốc gia này vừa cập bến.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2050,7 +2050,7 @@
     },
     {
       "id": "news_item_34",
-      "name": "Những hoài nghi về tình trạng iPhone Duo nứt màn hình",
+      "name": "Khả năng chụp ảnh trên Oppo Find X10",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2077,31 +2077,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/nhung-hoai-nghi-ve-tinh-trang-iphone-duo-nut-man-hinh-5137765.html"
+            "href": "entrance://webview/https://vnexpress.net/kha-nang-chup-anh-tren-oppo-find-x10-5138237.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nhung-hoai-nghi-ve-tinh-trang-iphone-duo-nut-man-hinh-5137765.html"
+            "data": "entrance://webview/https://vnexpress.net/kha-nang-chup-anh-tren-oppo-find-x10-5138237.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/nhung-hoai-nghi-ve-tinh-trang-iphone-duo-nut-man-hinh-5137765.html"
+            "href": "entrance://webview/https://vnexpress.net/kha-nang-chup-anh-tren-oppo-find-x10-5138237.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nhung-hoai-nghi-ve-tinh-trang-iphone-duo-nut-man-hinh-5137765.html"
+            "data": "entrance://webview/https://vnexpress.net/kha-nang-chup-anh-tren-oppo-find-x10-5138237.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Những hoài nghi về tình trạng iPhone Duo nứt màn hình",
-          "text": "Một số điện thoại gập iPhone Duo hỏng màn hình ở cùng một vị trí làm dấy lên nghi vấn \"tồn tại lỗi mang tính hệ thống\".\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Khả năng chụp ảnh trên Oppo Find X10",
+          "text": "Với camera kép 200 megapixel, cảm biến lớn, dải tương phản động cao, Oppo Find X10 cho những bức ảnh có chiều sâu, màu sắc chân thực dù khoảng cách xa, không dùng thêm phụ kiện.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2112,7 +2112,7 @@
     },
     {
       "id": "news_item_35",
-      "name": "Người trẻ nói gì về khoản thưởng 4 triệu đồng khi sinh đủ 2 con của Hà Nội?",
+      "name": "Mất việc ở phòng gym, vào đường dây Mr Pips làm 4 năm nhận hơn 11 tỉ đồng",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2139,31 +2139,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/nguoi-tre-noi-gi-ve-khoan-thuong-4-trieu-dong-khi-sinh-du-2-con-cua-ha-noi-100261029105039933.htm"
+            "href": "entrance://webview/https://tuoitre.vn/mat-viec-o-phong-gym-vao-duong-day-mr-pips-lam-4-nam-nhan-hon-11-ti-dong-100261029095638404.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/nguoi-tre-noi-gi-ve-khoan-thuong-4-trieu-dong-khi-sinh-du-2-con-cua-ha-noi-100261029105039933.htm"
+            "data": "entrance://webview/https://tuoitre.vn/mat-viec-o-phong-gym-vao-duong-day-mr-pips-lam-4-nam-nhan-hon-11-ti-dong-100261029095638404.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/nguoi-tre-noi-gi-ve-khoan-thuong-4-trieu-dong-khi-sinh-du-2-con-cua-ha-noi-100261029105039933.htm"
+            "href": "entrance://webview/https://tuoitre.vn/mat-viec-o-phong-gym-vao-duong-day-mr-pips-lam-4-nam-nhan-hon-11-ti-dong-100261029095638404.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/nguoi-tre-noi-gi-ve-khoan-thuong-4-trieu-dong-khi-sinh-du-2-con-cua-ha-noi-100261029105039933.htm"
+            "data": "entrance://webview/https://tuoitre.vn/mat-viec-o-phong-gym-vao-duong-day-mr-pips-lam-4-nam-nhan-hon-11-ti-dong-100261029095638404.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Người trẻ nói gì về khoản thưởng 4 triệu đồng khi sinh đủ 2 con của Hà Nội?",
-          "text": "Hà Nội dự kiến chi khoảng 60 tỉ đồng mỗi năm để hỗ trợ phụ nữ sinh đủ 2 con trước 35 tuổi, trong bối cảnh mức sinh ngày càng giảm. Tuy nhiên nhiều cặp vợ chồng cho rằng tiền hỗ trợ chỉ là một phần động lực, điều quan trọng hơn là giảm áp lực kinh tế và chăm sóc con cái.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Mất việc ở phòng gym, vào đường dây Mr Pips làm 4 năm nhận hơn 11 tỉ đồng",
+          "text": "Từ một nhân viên phòng gym thất nghiệp trong mùa dịch COVID-19, Phạm Minh Khôi gia nhập đường dây của Mr Pips với mức lương 6,5 triệu đồng/tháng. Bốn năm sau, bị cáo đã nhận hơn 11 tỉ đồng tiền lương, thưởng, trong khi nhiều nhà đầu tư bị nhân viên dưới quyền của Khôi dụ \"xuống tiền\" vào các sàn chứng khoán ảo mất trắng tiền tỉ.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2225,7 +2225,7 @@
         {
           "type": "text",
           "name": "Nga đang âm thầm phát minh vật liệu cho động cơ, chịu được mức nhiệt ngang “dung nham tươi”",
-          "text": "VIAM hy vọng rằng hợp kim liên kim loại này sẽ đạt tiêu chuẩn trong vòng hai đến ba năm.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "VIAM hy vọng rằng hợp kim liên kim loại này sẽ đạt tiêu chuẩn trong vòng hai đến ba năm.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2287,7 +2287,7 @@
         {
           "type": "text",
           "name": "Nam TikToker mắc vảy nến: 'Tôi xem bệnh là người bạn đồng hành'",
-          "text": "Từng lo tổn thương da ảnh hưởng công việc trước ống kính, Hồng Phúc sau đó công khai hành trình điều trị vảy nến trên TikTok, mong những người cùng cảnh ngộ bớt mặc cảm và tìm được hướng điều trị phù hợp.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Từng lo tổn thương da ảnh hưởng công việc trước ống kính, Hồng Phúc sau đó công khai hành trình điều trị vảy nến trên TikTok, mong những người cùng cảnh ngộ bớt mặc cảm và tìm được hướng điều trị phù hợp.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2298,7 +2298,7 @@
     },
     {
       "id": "news_item_38",
-      "name": "Nghề lập trình đảo lộn thời AI",
+      "name": "Những hoài nghi về tình trạng iPhone Duo nứt màn hình",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2325,31 +2325,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/nghe-lap-trinh-dao-lon-thoi-ai-5137603.html"
+            "href": "entrance://webview/https://vnexpress.net/nhung-hoai-nghi-ve-tinh-trang-iphone-duo-nut-man-hinh-5137765.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nghe-lap-trinh-dao-lon-thoi-ai-5137603.html"
+            "data": "entrance://webview/https://vnexpress.net/nhung-hoai-nghi-ve-tinh-trang-iphone-duo-nut-man-hinh-5137765.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/nghe-lap-trinh-dao-lon-thoi-ai-5137603.html"
+            "href": "entrance://webview/https://vnexpress.net/nhung-hoai-nghi-ve-tinh-trang-iphone-duo-nut-man-hinh-5137765.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nghe-lap-trinh-dao-lon-thoi-ai-5137603.html"
+            "data": "entrance://webview/https://vnexpress.net/nhung-hoai-nghi-ve-tinh-trang-iphone-duo-nut-man-hinh-5137765.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Nghề lập trình đảo lộn thời AI",
-          "text": "Việc Microsoft đề xuất 60.000 người tự nguyện nghỉ việc phần nào cho thấy nhiều lập trình viên phải chuyển đổi kỹ năng, thậm chí bỏ nghề khi doanh nghiệp tăng cường ứng dụng AI.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:48 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Những hoài nghi về tình trạng iPhone Duo nứt màn hình",
+          "text": "Một số điện thoại gập iPhone Duo hỏng màn hình ở cùng một vị trí làm dấy lên nghi vấn \"tồn tại lỗi mang tính hệ thống\".\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2360,7 +2360,7 @@
     },
     {
       "id": "news_item_39",
-      "name": "Yêu cầu giải quyết dứt điểm vụ không cấp sổ đỏ cho dân ở Khánh Hòa",
+      "name": "Ngôi trường nào vẫn ở lại trong tim bạn?",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2387,31 +2387,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/yeu-cau-giai-quyet-dut-diem-vu-khong-cap-so-do-cho-dan-o-khanh-hoa-100261029100202212.htm"
+            "href": "entrance://webview/https://tuoitre.vn/ngoi-truong-nao-van-o-lai-trong-tim-ban-100261029094143316.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/yeu-cau-giai-quyet-dut-diem-vu-khong-cap-so-do-cho-dan-o-khanh-hoa-100261029100202212.htm"
+            "data": "entrance://webview/https://tuoitre.vn/ngoi-truong-nao-van-o-lai-trong-tim-ban-100261029094143316.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/yeu-cau-giai-quyet-dut-diem-vu-khong-cap-so-do-cho-dan-o-khanh-hoa-100261029100202212.htm"
+            "href": "entrance://webview/https://tuoitre.vn/ngoi-truong-nao-van-o-lai-trong-tim-ban-100261029094143316.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/yeu-cau-giai-quyet-dut-diem-vu-khong-cap-so-do-cho-dan-o-khanh-hoa-100261029100202212.htm"
+            "data": "entrance://webview/https://tuoitre.vn/ngoi-truong-nao-van-o-lai-trong-tim-ban-100261029094143316.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Yêu cầu giải quyết dứt điểm vụ không cấp sổ đỏ cho dân ở Khánh Hòa",
-          "text": "Chủ tịch UBND phường Bắc Nha Trang, tỉnh Khánh Hòa yêu cầu đơn vị liên quan nghiêm túc, khẩn trương kiểm tra, tham mưu giải quyết dứt điểm hồ sơ cấp sổ đỏ cho trường hợp đất của dân bị ghi do 'ủy ban quản lý' được báo Tuổi Trẻ phản ánh.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:49 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Ngôi trường nào vẫn ở lại trong tim bạn?",
+          "text": "Có những mái trường đã xa nhiều năm vẫn khiến ta nhớ mãi, có những người thầy, người cô và kỷ niệm tưởng nhỏ bé mà theo ta suốt đời. Mời bạn chia sẻ cùng Tuổi Trẻ.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2473,7 +2473,7 @@
         {
           "type": "text",
           "name": "Thanh đun bình nóng lạnh giá 23 triệu này có thể đào bitcoin, mỗi ngày kiếm được khoảng 35.000đ",
-          "text": "Thay vì thải nhiệt ra môi trường, thiết bị của Heatbit dùng nhiệt từ chip đào Bitcoin để làm nóng nước, nhưng khoản thu ước tính chưa trừ tiền điện và giá mua ban đầu khá cao.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:49 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Thay vì thải nhiệt ra môi trường, thiết bị của Heatbit dùng nhiệt từ chip đào Bitcoin để làm nóng nước, nhưng khoản thu ước tính chưa trừ tiền điện và giá mua ban đầu khá cao.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2484,7 +2484,7 @@
     },
     {
       "id": "news_item_41",
-      "name": "Tài xế làm đổ dầu nhớt ra đường, nhiều người đi xe máy té ngã",
+      "name": "U15 Việt Nam gặp U15 Cuba ở World Cup",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2511,31 +2511,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/tai-xe-lam-do-dau-nhot-ra-duong-nhieu-nguoi-di-xe-may-te-nga-100261029105925267.htm"
+            "href": "entrance://webview/https://tuoitre.vn/u15-viet-nam-gap-u15-cuba-o-world-cup-100261029101931252.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/tai-xe-lam-do-dau-nhot-ra-duong-nhieu-nguoi-di-xe-may-te-nga-100261029105925267.htm"
+            "data": "entrance://webview/https://tuoitre.vn/u15-viet-nam-gap-u15-cuba-o-world-cup-100261029101931252.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/tai-xe-lam-do-dau-nhot-ra-duong-nhieu-nguoi-di-xe-may-te-nga-100261029105925267.htm"
+            "href": "entrance://webview/https://tuoitre.vn/u15-viet-nam-gap-u15-cuba-o-world-cup-100261029101931252.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/tai-xe-lam-do-dau-nhot-ra-duong-nhieu-nguoi-di-xe-may-te-nga-100261029105925267.htm"
+            "data": "entrance://webview/https://tuoitre.vn/u15-viet-nam-gap-u15-cuba-o-world-cup-100261029101931252.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Tài xế làm đổ dầu nhớt ra đường, nhiều người đi xe máy té ngã",
-          "text": "Từ phản ánh trên mạng xã hội về xe tải để dầu nhớt chảy xuống đường tại quốc lộ 25, đoạn qua xã Phú Hòa 1, lực lượng Cảnh sát giao thông Đắk Lắk đã trích xuất camera, xác minh tài xế và lập biên bản vi phạm.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:49 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "U15 Việt Nam gặp U15 Cuba ở World Cup",
+          "text": "Khuya 28-10 theo giờ Việt Nam, đội tuyển U15 Việt Nam có trận thắng đầu tiên ở vòng tranh thứ hạng tại U15 World Cup & Festival 2026, trước đối thủ U15 Nicaragua. Đoàn quân của HLV Hoàng Anh Tuấn sẽ gặp U15 Cuba vào chiều nay 29-10.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2597,7 +2597,7 @@
         {
           "type": "text",
           "name": "Cảnh báo website giả mạo hệ thống định danh điện tử VNeID nhằm đánh cắp dữ liệu",
-          "text": "Công an thành phố Hải Phòng phát cảnh báo khẩn về trang web mang tên miền bcavneid.com mạo danh Hệ thống định danh và xác thực điện tử VNeID nhằm lừa đảo.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:49 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Công an thành phố Hải Phòng phát cảnh báo khẩn về trang web mang tên miền bcavneid.com mạo danh Hệ thống định danh và xác thực điện tử VNeID nhằm lừa đảo.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2659,7 +2659,7 @@
         {
           "type": "text",
           "name": "Ai đang kiếm tiền, và kiếm thế nào từ hàng chục tỷ lượt xem phim ngắn mỗi năm?",
-          "text": "Hàng tỷ lượt xem đang mở ra cơ hội kinh doanh mới cho các nền tảng, nhà sản xuất nội dung và thương hiệu. Tại sự kiện The Micro Drama Frontier do YouTube tổ chức, những người trong cuộc đã chia sẻ cách ngành phim ngắn nhiều tập phát triển từ sản xuất, phân phối đến thương mại hóa - nơi lượng người xem chỉ là điểm khởi đầu của hành trình\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:49 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Hàng tỷ lượt xem đang mở ra cơ hội kinh doanh mới cho các nền tảng, nhà sản xuất nội dung và thương hiệu. Tại sự kiện The Micro Drama Frontier do YouTube tổ chức, những người trong cuộc đã chia sẻ cách ngành phim ngắn nhiều tập phát triển từ sản xuất, phân phối đến thương mại hóa - nơi lượng người xem chỉ là điểm khởi đầu của hành trình\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2721,7 +2721,7 @@
         {
           "type": "text",
           "name": "Nvidia và \"canh bạc lớn\": Rót 3 tỷ USD vào Meta",
-          "text": "VTV.vn - Nvidia sẽ đầu tư 3 tỷ USD vào Meta, trong bối cảnh tập đoàn mạng xã hội và trí tuệ nhân tạo này lên kế hoạch huy động 95 tỷ USD để phục vụ các khoản đầu tư vào hạ tầng AI.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:49 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "VTV.vn - Nvidia sẽ đầu tư 3 tỷ USD vào Meta, trong bối cảnh tập đoàn mạng xã hội và trí tuệ nhân tạo này lên kế hoạch huy động 95 tỷ USD để phục vụ các khoản đầu tư vào hạ tầng AI.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:56 - 29/10/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
