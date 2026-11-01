@@ -4,6 +4,8 @@ on:
   schedule:
     # Chay 2 lan moi ngay: 4:00 AM (21:00 UTC) va 4:00 PM (09:00 UTC) GMT+7
     - cron: '0 21,9 * * *'
+  repository_dispatch:
+    types: [update-feed, trigger-update-feed]
   workflow_dispatch:
 
 # Khoa chong chay dong thoi (Race Condition Prevention): tranh 2 workflow chay cung luc gay xung dot git push
