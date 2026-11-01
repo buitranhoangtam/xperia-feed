@@ -113,6 +113,11 @@
           "style": "columns",
           "columns": 3,
           "elements": 3
+        },
+        "shuffle": false,
+        "full_layout": {
+          "style": "columns",
+          "columns": 3
         }
       },
       {
@@ -147,7 +152,8 @@
           "style": "columns",
           "columns": 2,
           "elements": 2
-        }
+        },
+        "shuffle": false
       },
       {
         "id": "card_sony_ir_grid",
