@@ -198,15 +198,13 @@ def fetch_gasoline_prices():
                 detail_html = resp_detail.read().decode('utf-8', errors='ignore')
 
             clean_text = re.sub(r'<[^>]+>', ' ', detail_html)
-            pattern = r'(Xang\s*(?:E5\s*)?RON\s*9[25][^\d
-]*?|Di[eê]zen\s*0,05S|D[aà]u\s*h[oỏ]a|D[aà]u\s*mad[uú]t[^\d
-]*?)[\s:]*?(\d{1,2}[\.,]\d{3})'
+            pattern = r'(Xang\s*(?:E5\s*)?RON\s*9[25][^0-9\n\r]*?|Di[eê]zen\s*0,05S|D[aà]u\s*h[oỏ]a|D[aà]u\s*mad[uú]t[^0-9\n\r]*?)[\s:]*?(\d{1,2}[\.,]\d{3})'
             matches = re.findall(pattern, clean_text, re.I)
 
             found_any = False
             for item_name, p_val in matches:
                 name_clean = item_name.strip()
-                p_num = int(re.sub(r'[^\d]', '', p_val))
+                p_num = int(re.sub(r'[^0-9]', '', p_val))
                 if not (15000 <= p_num <= 35000):
                     continue
 
@@ -248,15 +246,17 @@ def update_gasoline_feed(base_dir):
             item["name"] = "Xăng RON 95-III & V"
             item["label"] = f"{prices['ron95_iii']} / lít"
             item["price"] = "Kỳ Điều Hành Mới Nhất"
+            ron_text = (
+                f"• Xăng E10 RON 95-V: {prices['ron95_v']}/lít (Vùng 1)\n"
+                f"• Xăng E10 RON 95-III: {prices['ron95_iii']}/lít (Vùng 1)\n\n"
+                f"Cơ sở điều hành: {prices['source_title']}\n"
+                f"Áp dụng trên toàn bộ hệ thống phân phối xăng dầu Việt Nam (PVOIL & Petrolimex)."
+            )
             item["cards"] = [
                 {
                     "type": "text",
                     "name": "Bảng Giá Xăng Cao Cấp (Toàn Quốc)",
-                    "text": f"• Xăng E10 RON 95-V: {prices['ron95_v']}/lít (Vùng 1)
-• Xăng E10 RON 95-III: {prices['ron95_iii']}/lít (Vùng 1)
-
-Cơ sở điều hành: {prices['source_title']}
-Áp dụng trên toàn bộ hệ thống phân phối xăng dầu Việt Nam (PVOIL & Petrolimex)."
+                    "text": ron_text
                 },
                 {
                     "type": "text",
@@ -268,17 +268,19 @@ Cơ sở điều hành: {prices['source_title']}
             item["name"] = "Xăng E5 & Dầu Diesel"
             item["label"] = f"{prices['e5_ron92']} / lít"
             item["price"] = "Nhiên Liệu Sinh Học & Dầu"
+            e5_text = (
+                f"• Xăng E5 RON 92-II: {prices['e5_ron92']}/lít (Vùng 1)\n"
+                f"• Dầu DO 0,05S-II: {prices['do_005']}/lít (Vùng 1)\n"
+                f"• Dầu DO 0,001S-V: {prices.get('do_001', '31.640 đ')}/lít (Vùng 1)\n"
+                f"• Dầu Hỏa: {prices.get('dau_hoa', '30.650 đ')}/lít\n\n"
+                f"Cơ sở điều hành: {prices['source_title']}\n"
+                f"Áp dụng trên toàn bộ hệ thống phân phối xăng dầu Việt Nam (PVOIL & Petrolimex)."
+            )
             item["cards"] = [
                 {
                     "type": "text",
                     "name": "Bảng Giá Nhiên Liệu Sinh Học & Dầu",
-                    "text": f"• Xăng E5 RON 92-II: {prices['e5_ron92']}/lít (Vùng 1)
-• Dầu DO 0,05S-II: {prices['do_005']}/lít (Vùng 1)
-• Dầu DO 0,001S-V: {prices.get('do_001', '31.640 đ')}/lít (Vùng 1)
-• Dầu Hỏa: {prices.get('dau_hoa', '30.650 đ')}/lít
-
-Cơ sở điều hành: {prices['source_title']}
-Áp dụng trên toàn bộ hệ thống phân phối xăng dầu Việt Nam (PVOIL & Petrolimex)."
+                    "text": e5_text
                 },
                 {
                     "type": "text",
