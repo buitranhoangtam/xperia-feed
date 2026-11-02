@@ -55,7 +55,7 @@
         {
           "type": "text",
           "name": "VPBank và AIA ra mắt bảo hiểm kết hợp bảo vệ và đầu tư",
-          "text": "VPBank và AIA Việt Nam giới thiệu Tinh Hoa Thịnh Vượng dành cho khách hàng cao cấp, kết hợp bảo vệ và đầu tư.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 17:47 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "VPBank và AIA Việt Nam giới thiệu Tinh Hoa Thịnh Vượng dành cho khách hàng cao cấp, kết hợp bảo vệ và đầu tư.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 18:17 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -66,7 +66,7 @@
     },
     {
       "id": "news_item_2",
-      "name": "Ung thư phổi vượt ung thư gan, đứng đầu ở nam giới: “Việt Nam đang trả giá cho hành vi của 20-30 năm trước”",
+      "name": "Dân văn phòng chọn xe máy điện sao cho đáng tiền?",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -93,31 +93,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/ung-thu-phoi-vuot-ung-thu-gan-dung-dau-o-nam-gioi-viet-nam-dang-tra-gia-cho-hanh-vi-cua-20-30-nam-truoc-165261102160224523.chn"
+            "href": "entrance://webview/https://genk.vn/dan-van-phong-chon-xe-may-dien-sao-cho-dang-tien-16526110217470102.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/ung-thu-phoi-vuot-ung-thu-gan-dung-dau-o-nam-gioi-viet-nam-dang-tra-gia-cho-hanh-vi-cua-20-30-nam-truoc-165261102160224523.chn"
+            "data": "entrance://webview/https://genk.vn/dan-van-phong-chon-xe-may-dien-sao-cho-dang-tien-16526110217470102.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/ung-thu-phoi-vuot-ung-thu-gan-dung-dau-o-nam-gioi-viet-nam-dang-tra-gia-cho-hanh-vi-cua-20-30-nam-truoc-165261102160224523.chn"
+            "href": "entrance://webview/https://genk.vn/dan-van-phong-chon-xe-may-dien-sao-cho-dang-tien-16526110217470102.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/ung-thu-phoi-vuot-ung-thu-gan-dung-dau-o-nam-gioi-viet-nam-dang-tra-gia-cho-hanh-vi-cua-20-30-nam-truoc-165261102160224523.chn"
+            "data": "entrance://webview/https://genk.vn/dan-van-phong-chon-xe-may-dien-sao-cho-dang-tien-16526110217470102.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Ung thư phổi vượt ung thư gan, đứng đầu ở nam giới: “Việt Nam đang trả giá cho hành vi của 20-30 năm trước”",
-          "text": "Ung thư phổi đã vươn lên vị trí có số ca mắc mới cao nhất ở nam giới Việt Nam, vượt ung thư gan. Theo chuyên gia, đây là bước ngoặt phản ánh sự chuyển dịch mô hình bệnh ung thư.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 17:47 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Dân văn phòng chọn xe máy điện sao cho đáng tiền?",
+          "text": "Với dân văn phòng hàng ngày đi làm bằng xe máy thì một chiếc xe không chỉ cần vận hành tốt, thể hiện được cá tính mà còn phải tiện dụng và có giá bán hợp lý.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 18:17 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -128,7 +128,7 @@
     },
     {
       "id": "news_item_3",
-      "name": "Liverpool 0-1 Arsenal",
+      "name": "5 dấu hiệu suy giảm trí nhớ do tuổi tác",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -155,31 +155,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/liverpool-0-1-arsenal-5139568.html"
+            "href": "entrance://webview/https://vnexpress.net/5-dau-hieu-suy-giam-tri-nho-do-tuoi-tac-5138884.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/liverpool-0-1-arsenal-5139568.html"
+            "data": "entrance://webview/https://vnexpress.net/5-dau-hieu-suy-giam-tri-nho-do-tuoi-tac-5138884.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/liverpool-0-1-arsenal-5139568.html"
+            "href": "entrance://webview/https://vnexpress.net/5-dau-hieu-suy-giam-tri-nho-do-tuoi-tac-5138884.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/liverpool-0-1-arsenal-5139568.html"
+            "data": "entrance://webview/https://vnexpress.net/5-dau-hieu-suy-giam-tri-nho-do-tuoi-tac-5138884.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Liverpool 0-1 Arsenal",
-          "text": "Kai Havertz ghi bàn duy nhất giúp Arsenal giành trọn ba điểm ở vòng 9 Ngoại hạng Anh, ngày 1/11.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 17:47 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "5 dấu hiệu suy giảm trí nhớ do tuổi tác",
+          "text": "Theo các chuyên gia, việc quên tên người quen, thất lạc đồ đạc hay khó tìm từ ngữ là dấu hiệu lão hóa não bộ bình thường khi về già.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 18:17 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -241,7 +241,7 @@
         {
           "type": "text",
           "name": "Musk phản bác Altman, nói mọi người cũng cần có RAM",
-          "text": "Elon Musk mỉa mai quan điểm của CEO OpenAI Sam Altman khi đăng ảnh chế hàm ý ai cũng có quyền sở hữu chip nhớ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 17:47 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Elon Musk mỉa mai quan điểm của CEO OpenAI Sam Altman khi đăng ảnh chế hàm ý ai cũng có quyền sở hữu chip nhớ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 18:17 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -303,7 +303,7 @@
         {
           "type": "text",
           "name": "Hàn Quốc phát triển AI có thể suy luận ý đồ đối phương, thắng Ma sói 65,6%",
-          "text": "Các nhà nghiên cứu Hàn Quốc phát triển AI có khả năng suy luận ý đồ, nhận diện hành vi đánh lừa và đạt tỉ lệ thắng 65,6% trong thử nghiệm trò chơi Ma sói.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 17:47 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Các nhà nghiên cứu Hàn Quốc phát triển AI có khả năng suy luận ý đồ, nhận diện hành vi đánh lừa và đạt tỉ lệ thắng 65,6% trong thử nghiệm trò chơi Ma sói.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -365,7 +365,7 @@
         {
           "type": "text",
           "name": "Đào móng xây nhà, phát hiện hài cốt liệt sĩ cùng di vật bộ đội",
-          "text": "Trong lúc đào móng xây nhà tại xã Sa Loong (tỉnh Quảng Ngãi), người dân phát hiện những mảnh xương nghi hài cốt liệt sĩ. Sau đó cơ quan chức năng tìm thấy thêm bình tông và một số di vật.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 17:47 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Trong lúc đào móng xây nhà tại xã Sa Loong (tỉnh Quảng Ngãi), người dân phát hiện những mảnh xương nghi hài cốt liệt sĩ. Sau đó cơ quan chức năng tìm thấy thêm bình tông và một số di vật.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -376,7 +376,7 @@
     },
     {
       "id": "news_item_7",
-      "name": "Hãng điện thoại đứng top 1 sàn TMĐT đang bị Samsung rút ngắn khoảng cách",
+      "name": "Ung thư phổi vượt ung thư gan, đứng đầu ở nam giới: “Việt Nam đang trả giá cho hành vi của 20-30 năm trước”",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -403,31 +403,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/hang-dien-thoai-dung-top-1-san-tmdt-dang-bi-samsung-rut-ngan-khoang-cach-165261102163041229.chn"
+            "href": "entrance://webview/https://genk.vn/ung-thu-phoi-vuot-ung-thu-gan-dung-dau-o-nam-gioi-viet-nam-dang-tra-gia-cho-hanh-vi-cua-20-30-nam-truoc-165261102160224523.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/hang-dien-thoai-dung-top-1-san-tmdt-dang-bi-samsung-rut-ngan-khoang-cach-165261102163041229.chn"
+            "data": "entrance://webview/https://genk.vn/ung-thu-phoi-vuot-ung-thu-gan-dung-dau-o-nam-gioi-viet-nam-dang-tra-gia-cho-hanh-vi-cua-20-30-nam-truoc-165261102160224523.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/hang-dien-thoai-dung-top-1-san-tmdt-dang-bi-samsung-rut-ngan-khoang-cach-165261102163041229.chn"
+            "href": "entrance://webview/https://genk.vn/ung-thu-phoi-vuot-ung-thu-gan-dung-dau-o-nam-gioi-viet-nam-dang-tra-gia-cho-hanh-vi-cua-20-30-nam-truoc-165261102160224523.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/hang-dien-thoai-dung-top-1-san-tmdt-dang-bi-samsung-rut-ngan-khoang-cach-165261102163041229.chn"
+            "data": "entrance://webview/https://genk.vn/ung-thu-phoi-vuot-ung-thu-gan-dung-dau-o-nam-gioi-viet-nam-dang-tra-gia-cho-hanh-vi-cua-20-30-nam-truoc-165261102160224523.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Hãng điện thoại đứng top 1 sàn TMĐT đang bị Samsung rút ngắn khoảng cách",
-          "text": "Samsung tăng gần gấp đôi, Vinamilk vượt cả Xiaomi, còn khoảng cách giữa hai hãng điện thoại hàng đầu chỉ còn chưa đến một phần sáu doanh số của Apple.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 17:47 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Ung thư phổi vượt ung thư gan, đứng đầu ở nam giới: “Việt Nam đang trả giá cho hành vi của 20-30 năm trước”",
+          "text": "Ung thư phổi đã vươn lên vị trí có số ca mắc mới cao nhất ở nam giới Việt Nam, vượt ung thư gan. Theo chuyên gia, đây là bước ngoặt phản ánh sự chuyển dịch mô hình bệnh ung thư.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -438,7 +438,7 @@
     },
     {
       "id": "news_item_8",
-      "name": "'Kiến trúc Việt Nam ngày càng đề cao chất lượng và bản sắc'",
+      "name": "Quản lý Anthropic không còn kiểm tra lập trình khi tuyển dụng",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -465,31 +465,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/kien-truc-viet-nam-ngay-cang-de-cao-chat-luong-va-ban-sac-5120891.html"
+            "href": "entrance://webview/https://vnexpress.net/quan-ly-anthropic-khong-con-kiem-tra-lap-trinh-khi-tuyen-dung-5139427.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/kien-truc-viet-nam-ngay-cang-de-cao-chat-luong-va-ban-sac-5120891.html"
+            "data": "entrance://webview/https://vnexpress.net/quan-ly-anthropic-khong-con-kiem-tra-lap-trinh-khi-tuyen-dung-5139427.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/kien-truc-viet-nam-ngay-cang-de-cao-chat-luong-va-ban-sac-5120891.html"
+            "href": "entrance://webview/https://vnexpress.net/quan-ly-anthropic-khong-con-kiem-tra-lap-trinh-khi-tuyen-dung-5139427.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/kien-truc-viet-nam-ngay-cang-de-cao-chat-luong-va-ban-sac-5120891.html"
+            "data": "entrance://webview/https://vnexpress.net/quan-ly-anthropic-khong-con-kiem-tra-lap-trinh-khi-tuyen-dung-5139427.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "'Kiến trúc Việt Nam ngày càng đề cao chất lượng và bản sắc'",
-          "text": "Theo ông Freek Jansen, Giám đốc chi nhánh Việt Nam của Dewan Architects, thị trường kiến trúc đang chuyển trọng tâm sang chất lượng, trải nghiệm, bản sắc địa phương và hiệu quả vận hành.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 17:47 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Quản lý Anthropic không còn kiểm tra lập trình khi tuyển dụng",
+          "text": "Felix Rieseberg, quản lý tuyển dụng tại Anthropic, nói đã dừng hoàn toàn bài kiểm tra lập trình khi tuyển dụng vì AI đang làm tốt hơn con người.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -551,7 +551,7 @@
         {
           "type": "text",
           "name": "'Làm chủ công nghệ nâng giá trị gia tăng ngành nông nghiệp'",
-          "text": "Phó thủ tướng Hồ Quốc Dũng yêu cầu ngành nông nghiệp làm chủ công nghệ giống, thức ăn chăn nuôi, đổi mới hoạt động khoa học công nghệ, lấy hiệu quả sản xuất, giá trị gia tăng, thu nhập của người dân làm thước đo.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 17:47 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Phó thủ tướng Hồ Quốc Dũng yêu cầu ngành nông nghiệp làm chủ công nghệ giống, thức ăn chăn nuôi, đổi mới hoạt động khoa học công nghệ, lấy hiệu quả sản xuất, giá trị gia tăng, thu nhập của người dân làm thước đo.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -613,7 +613,7 @@
         {
           "type": "text",
           "name": "Cách biến AI thành gia sư biết hỏi ngược, không làm bài thay học sinh",
-          "text": "AI giải bài tập trong vài giây. Nhưng một nghiên cứu lớn cho thấy học sinh dùng AI để giải hộ lại thi kém hơn người không dùng.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "AI giải bài tập trong vài giây. Nhưng một nghiên cứu lớn cho thấy học sinh dùng AI để giải hộ lại thi kém hơn người không dùng.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -675,7 +675,7 @@
         {
           "type": "text",
           "name": "Trường nhận lại thầy giáo ở Đà Lạt bị buộc thôi việc gần 20 năm",
-          "text": "Ông Lê Cao Tánh (54 tuổi), vốn là thầy giáo tại Đà Lạt, được nhận lại làm việc từ ngày 1-11 sau gần 20 năm bị buộc thôi việc.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Ông Lê Cao Tánh (54 tuổi), vốn là thầy giáo tại Đà Lạt, được nhận lại làm việc từ ngày 1-11 sau gần 20 năm bị buộc thôi việc.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -686,7 +686,7 @@
     },
     {
       "id": "news_item_12",
-      "name": "Chính thức 1/1/2027, cấm nhập khẩu điện thoại, máy tính, máy ảnh đã qua sử dụng",
+      "name": "Hãng điện thoại đứng top 1 sàn TMĐT đang bị Samsung rút ngắn khoảng cách",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -713,31 +713,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/chinh-thuc-1-1-2027-cam-nhap-khau-dien-thoai-may-tinh-may-anh-da-qua-su-dung-165261102155917362.chn"
+            "href": "entrance://webview/https://genk.vn/hang-dien-thoai-dung-top-1-san-tmdt-dang-bi-samsung-rut-ngan-khoang-cach-165261102163041229.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/chinh-thuc-1-1-2027-cam-nhap-khau-dien-thoai-may-tinh-may-anh-da-qua-su-dung-165261102155917362.chn"
+            "data": "entrance://webview/https://genk.vn/hang-dien-thoai-dung-top-1-san-tmdt-dang-bi-samsung-rut-ngan-khoang-cach-165261102163041229.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/chinh-thuc-1-1-2027-cam-nhap-khau-dien-thoai-may-tinh-may-anh-da-qua-su-dung-165261102155917362.chn"
+            "href": "entrance://webview/https://genk.vn/hang-dien-thoai-dung-top-1-san-tmdt-dang-bi-samsung-rut-ngan-khoang-cach-165261102163041229.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/chinh-thuc-1-1-2027-cam-nhap-khau-dien-thoai-may-tinh-may-anh-da-qua-su-dung-165261102155917362.chn"
+            "data": "entrance://webview/https://genk.vn/hang-dien-thoai-dung-top-1-san-tmdt-dang-bi-samsung-rut-ngan-khoang-cach-165261102163041229.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Chính thức 1/1/2027, cấm nhập khẩu điện thoại, máy tính, máy ảnh đã qua sử dụng",
-          "text": "Từ ngày 1/1/2027, Việt Nam sẽ cấm nhập khẩu nhiều mặt hàng điện tử đã qua sử dụng, trong đó có điện thoại, máy tính, máy ảnh và linh kiện.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Hãng điện thoại đứng top 1 sàn TMĐT đang bị Samsung rút ngắn khoảng cách",
+          "text": "Samsung tăng gần gấp đôi, Vinamilk vượt cả Xiaomi, còn khoảng cách giữa hai hãng điện thoại hàng đầu chỉ còn chưa đến một phần sáu doanh số của Apple.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -748,7 +748,7 @@
     },
     {
       "id": "news_item_13",
-      "name": "Từ tiếng Việt nào có 100 chữ 'C'?",
+      "name": "5 sai lầm ăn trái cây có thể âm thầm 'bức tử' quả thận",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -775,31 +775,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/tu-tieng-viet-nao-co-100-chu-c-5135934.html"
+            "href": "entrance://webview/https://vnexpress.net/5-sai-lam-an-trai-cay-co-the-am-tham-buc-tu-qua-than-5139487.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/tu-tieng-viet-nao-co-100-chu-c-5135934.html"
+            "data": "entrance://webview/https://vnexpress.net/5-sai-lam-an-trai-cay-co-the-am-tham-buc-tu-qua-than-5139487.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/tu-tieng-viet-nao-co-100-chu-c-5135934.html"
+            "href": "entrance://webview/https://vnexpress.net/5-sai-lam-an-trai-cay-co-the-am-tham-buc-tu-qua-than-5139487.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/tu-tieng-viet-nao-co-100-chu-c-5135934.html"
+            "data": "entrance://webview/https://vnexpress.net/5-sai-lam-an-trai-cay-co-the-am-tham-buc-tu-qua-than-5139487.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Từ tiếng Việt nào có 100 chữ 'C'?",
-          "text": "Một từ tiếng Việt ngắn gọn nhưng được cho là chứa tới 100 chữ “C”. Đừng vội đếm từng ký tự, bởi đáp án ẩn chứa một mẹo bất ngờ!\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "5 sai lầm ăn trái cây có thể âm thầm 'bức tử' quả thận",
+          "text": "Lạm dụng trái cây ngọt, uống nước ép đặc hoặc giữ lại quả bị mốc ăn tiếp khiến hệ thống lọc máu tại thận quá tải chuyển hóa, tăng nguy cơ suy thận mạn.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -861,7 +861,7 @@
         {
           "type": "text",
           "name": "Một số iPhone Duo xuất hiện khe hở ở bản lề",
-          "text": "Sau sự cố nứt màn hình, cộng đồng công nghệ đang tiếp tục xôn xao khi một số điện thoại gập iPhone Duo xuất hiện khe hở, gọi là Gapgate.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Sau sự cố nứt màn hình, cộng đồng công nghệ đang tiếp tục xôn xao khi một số điện thoại gập iPhone Duo xuất hiện khe hở, gọi là Gapgate.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -923,7 +923,7 @@
         {
           "type": "text",
           "name": "Công nghệ ‘két sắt mù’ giúp AI tự mua hàng: Khỏi lo lộ thẻ, coi chừng... cháy túi",
-          "text": "Công nghệ mới giúp AI tự quẹt thẻ mua hàng mà không nhìn thấy mật khẩu hay số thẻ, nhưng lại tiềm ẩn nguy cơ mua nhầm làm ‘cháy túi’ chủ nhân.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Công nghệ mới giúp AI tự quẹt thẻ mua hàng mà không nhìn thấy mật khẩu hay số thẻ, nhưng lại tiềm ẩn nguy cơ mua nhầm làm ‘cháy túi’ chủ nhân.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -985,7 +985,7 @@
         {
           "type": "text",
           "name": "Chàng shipper nhặt 39 triệu tìm trả người đánh rơi: Không bao giờ mất niềm tin vào lòng tốt",
-          "text": "Giữa nhịp sống hối hả và mưu sinh đầy lo toan, câu chuyện chàng shipper sẵn sàng dừng việc, đứng chờ trả lại xấp tiền 39 triệu đồng cho người đánh rơi như một làn gió mát.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Giữa nhịp sống hối hả và mưu sinh đầy lo toan, câu chuyện chàng shipper sẵn sàng dừng việc, đứng chờ trả lại xấp tiền 39 triệu đồng cho người đánh rơi như một làn gió mát.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -996,7 +996,7 @@
     },
     {
       "id": "news_item_17",
-      "name": "Vivo ra mắt smartphone giá rẻ pin 8.000 mAh, chống nước IP69, dùng chip Snapdragon 5G",
+      "name": "Chính thức 1/1/2027, cấm nhập khẩu điện thoại, máy tính, máy ảnh đã qua sử dụng",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1023,31 +1023,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/vivo-ra-mat-smartphone-gia-re-pin-8000-mah-chong-nuoc-ip69-dung-chip-snapdragon-5g-165261102140521287.chn"
+            "href": "entrance://webview/https://genk.vn/chinh-thuc-1-1-2027-cam-nhap-khau-dien-thoai-may-tinh-may-anh-da-qua-su-dung-165261102155917362.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/vivo-ra-mat-smartphone-gia-re-pin-8000-mah-chong-nuoc-ip69-dung-chip-snapdragon-5g-165261102140521287.chn"
+            "data": "entrance://webview/https://genk.vn/chinh-thuc-1-1-2027-cam-nhap-khau-dien-thoai-may-tinh-may-anh-da-qua-su-dung-165261102155917362.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/vivo-ra-mat-smartphone-gia-re-pin-8000-mah-chong-nuoc-ip69-dung-chip-snapdragon-5g-165261102140521287.chn"
+            "href": "entrance://webview/https://genk.vn/chinh-thuc-1-1-2027-cam-nhap-khau-dien-thoai-may-tinh-may-anh-da-qua-su-dung-165261102155917362.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/vivo-ra-mat-smartphone-gia-re-pin-8000-mah-chong-nuoc-ip69-dung-chip-snapdragon-5g-165261102140521287.chn"
+            "data": "entrance://webview/https://genk.vn/chinh-thuc-1-1-2027-cam-nhap-khau-dien-thoai-may-tinh-may-anh-da-qua-su-dung-165261102155917362.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Vivo ra mắt smartphone giá rẻ pin 8.000 mAh, chống nước IP69, dùng chip Snapdragon 5G",
-          "text": "Vivo Y32 5G vừa xuất hiện trên website chính thức với pin dung lượng 8.000 mAh, chip Snapdragon 4 Gen 2 và khả năng kháng nước, bụi IP68/IP69. Máy còn hỗ trợ sạc nhanh 44W và màn hình 120 Hz.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Chính thức 1/1/2027, cấm nhập khẩu điện thoại, máy tính, máy ảnh đã qua sử dụng",
+          "text": "Từ ngày 1/1/2027, Việt Nam sẽ cấm nhập khẩu nhiều mặt hàng điện tử đã qua sử dụng, trong đó có điện thoại, máy tính, máy ảnh và linh kiện.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "news_item_18",
-      "name": "Messi độc diễn ghi bàn giúp Inter Miami trở lại nhì bảng",
+      "name": "Các thành viên UPRIZE trổ tài sơ chế cá đuối, nấu lẩu",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1085,31 +1085,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/messi-doc-dien-ghi-ban-giup-inter-miami-tro-lai-nhi-bang-5139528.html"
+            "href": "entrance://webview/https://vnexpress.net/cac-thanh-vien-uprize-tro-tai-so-che-ca-duoi-nau-lau-5139380.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/messi-doc-dien-ghi-ban-giup-inter-miami-tro-lai-nhi-bang-5139528.html"
+            "data": "entrance://webview/https://vnexpress.net/cac-thanh-vien-uprize-tro-tai-so-che-ca-duoi-nau-lau-5139380.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/messi-doc-dien-ghi-ban-giup-inter-miami-tro-lai-nhi-bang-5139528.html"
+            "href": "entrance://webview/https://vnexpress.net/cac-thanh-vien-uprize-tro-tai-so-che-ca-duoi-nau-lau-5139380.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/messi-doc-dien-ghi-ban-giup-inter-miami-tro-lai-nhi-bang-5139528.html"
+            "data": "entrance://webview/https://vnexpress.net/cac-thanh-vien-uprize-tro-tai-so-che-ca-duoi-nau-lau-5139380.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Messi độc diễn ghi bàn giúp Inter Miami trở lại nhì bảng",
-          "text": "Thủ quân Lionel Messi ghi bàn ấn định thắng lợi 2-1, sau khi kiến tạo bàn gỡ hòa trong trận Inter Miami gặp New England Revolution ở vòng 33 MLS.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Các thành viên UPRIZE trổ tài sơ chế cá đuối, nấu lẩu",
+          "text": "Bốn thành viên O.D, PN, LAVM và Wonbi lần đầu sơ chế cá đuối để làm món lẩu chua cay trong tập 6 \"Sao Chọn\".\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1171,7 +1171,7 @@
         {
           "type": "text",
           "name": "Hiện tượng có thể khiến máy bay lao như tên lửa xuống đất",
-          "text": "Băng tích tụ trên máy bay là một trong những nguyên nhân nguy hiểm có thể làm thay đổi khí động học, mất độ nâng và dẫn đến tai nạn thảm khốc.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Băng tích tụ trên máy bay là một trong những nguyên nhân nguy hiểm có thể làm thay đổi khí động học, mất độ nâng và dẫn đến tai nạn thảm khốc.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1233,7 +1233,7 @@
         {
           "type": "text",
           "name": "Binance bị tấn công mạng: Phong tỏa hơn 2,5 tỉ USD, thị trường tiền mã hóa chao đảo",
-          "text": "Binance cho biết đã phong tỏa hơn 2,5 tỉ USD tài sản liên quan vụ tấn công mạng, trong khi thiệt hại được ước tính có thể lên tới 5,9 tỉ USD.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Binance cho biết đã phong tỏa hơn 2,5 tỉ USD tài sản liên quan vụ tấn công mạng, trong khi thiệt hại được ước tính có thể lên tới 5,9 tỉ USD.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1295,7 +1295,7 @@
         {
           "type": "text",
           "name": "Bộ Nội vụ chốt hạn báo cáo thưởng Tết 2027, doanh nghiệp cần lưu ý",
-          "text": "Bộ Nội vụ vừa có chỉ đạo về tình hình tiền lương, tiền thưởng và quan hệ lao động trong các doanh nghiệp, trong đó có thời hạn báo cáo thưởng Tết 2027.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Bộ Nội vụ vừa có chỉ đạo về tình hình tiền lương, tiền thưởng và quan hệ lao động trong các doanh nghiệp, trong đó có thời hạn báo cáo thưởng Tết 2027.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1306,7 +1306,7 @@
     },
     {
       "id": "news_item_22",
-      "name": "Redmi M100 Pro ra mắt: Màn hình OLED 120 Hz, camera 50 MP, pin 5.500 mAh nhưng giá gần 9 triệu đồng",
+      "name": "Vivo ra mắt smartphone giá rẻ pin 8.000 mAh, chống nước IP69, dùng chip Snapdragon 5G",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1333,31 +1333,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/redmi-m100-pro-ra-mat-man-hinh-oled-120-hz-camera-50-mp-pin-5500-mah-nhung-gia-gan-9-trieu-dong-165261102140917836.chn"
+            "href": "entrance://webview/https://genk.vn/vivo-ra-mat-smartphone-gia-re-pin-8000-mah-chong-nuoc-ip69-dung-chip-snapdragon-5g-165261102140521287.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/redmi-m100-pro-ra-mat-man-hinh-oled-120-hz-camera-50-mp-pin-5500-mah-nhung-gia-gan-9-trieu-dong-165261102140917836.chn"
+            "data": "entrance://webview/https://genk.vn/vivo-ra-mat-smartphone-gia-re-pin-8000-mah-chong-nuoc-ip69-dung-chip-snapdragon-5g-165261102140521287.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/redmi-m100-pro-ra-mat-man-hinh-oled-120-hz-camera-50-mp-pin-5500-mah-nhung-gia-gan-9-trieu-dong-165261102140917836.chn"
+            "href": "entrance://webview/https://genk.vn/vivo-ra-mat-smartphone-gia-re-pin-8000-mah-chong-nuoc-ip69-dung-chip-snapdragon-5g-165261102140521287.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/redmi-m100-pro-ra-mat-man-hinh-oled-120-hz-camera-50-mp-pin-5500-mah-nhung-gia-gan-9-trieu-dong-165261102140917836.chn"
+            "data": "entrance://webview/https://genk.vn/vivo-ra-mat-smartphone-gia-re-pin-8000-mah-chong-nuoc-ip69-dung-chip-snapdragon-5g-165261102140521287.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Redmi M100 Pro ra mắt: Màn hình OLED 120 Hz, camera 50 MP, pin 5.500 mAh nhưng giá gần 9 triệu đồng",
-          "text": "Mẫu máy này có nhiều điểm tương đồng với một smartphone Redmi từng được bán ở thị trường quốc tế!\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Vivo ra mắt smartphone giá rẻ pin 8.000 mAh, chống nước IP69, dùng chip Snapdragon 5G",
+          "text": "Vivo Y32 5G vừa xuất hiện trên website chính thức với pin dung lượng 8.000 mAh, chip Snapdragon 4 Gen 2 và khả năng kháng nước, bụi IP68/IP69. Máy còn hỗ trợ sạc nhanh 44W và màn hình 120 Hz.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1368,7 +1368,7 @@
     },
     {
       "id": "news_item_23",
-      "name": "Kia Sorento HEV – công nghệ hybrid nâng tầm vận hành",
+      "name": "Bánh khọt chấm nước mắm chua ngọt 'ngon quên lối về' của Vũng Tàu",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1395,31 +1395,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/kia-sorento-hev-cong-nghe-hybrid-nang-tam-van-hanh-5139497.html"
+            "href": "entrance://webview/https://vnexpress.net/banh-khot-cham-nuoc-mam-chua-ngot-ngon-quen-loi-ve-cua-vung-tau-5139382.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/kia-sorento-hev-cong-nghe-hybrid-nang-tam-van-hanh-5139497.html"
+            "data": "entrance://webview/https://vnexpress.net/banh-khot-cham-nuoc-mam-chua-ngot-ngon-quen-loi-ve-cua-vung-tau-5139382.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/kia-sorento-hev-cong-nghe-hybrid-nang-tam-van-hanh-5139497.html"
+            "href": "entrance://webview/https://vnexpress.net/banh-khot-cham-nuoc-mam-chua-ngot-ngon-quen-loi-ve-cua-vung-tau-5139382.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/kia-sorento-hev-cong-nghe-hybrid-nang-tam-van-hanh-5139497.html"
+            "data": "entrance://webview/https://vnexpress.net/banh-khot-cham-nuoc-mam-chua-ngot-ngon-quen-loi-ve-cua-vung-tau-5139382.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Kia Sorento HEV – công nghệ hybrid nâng tầm vận hành",
-          "text": "Công nghệ hybrid giúp mẫu SUV 7 chỗ tăng khả năng vận hành, kết hợp hệ dẫn động AWD, hộp số 6 cấp để chinh phục thử thách khó nhằn trong hành trình Car Test.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Bánh khọt chấm nước mắm chua ngọt 'ngon quên lối về' của Vũng Tàu",
+          "text": "Các thành viên O.D, PN, Wonbi, LAVM nhóm UPRIZE nói món bánh khọt \"ngon quên lối về, giòn rụm, tôm mực tươi, bắt vị khi chấm cùng nước mắm chua ngọt trong tập 6 \"Sao Chọn\".\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1430,88 +1430,26 @@
     },
     {
       "id": "news_item_24",
-      "name": "Quản lý Anthropic không còn kiểm tra lập trình khi tuyển dụng",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_24.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_24.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_24.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_24.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/quan-ly-anthropic-khong-con-kiem-tra-lap-trinh-khi-tuyen-dung-5139427.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/quan-ly-anthropic-khong-con-kiem-tra-lap-trinh-khi-tuyen-dung-5139427.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/quan-ly-anthropic-khong-con-kiem-tra-lap-trinh-khi-tuyen-dung-5139427.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/quan-ly-anthropic-khong-con-kiem-tra-lap-trinh-khi-tuyen-dung-5139427.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Quản lý Anthropic không còn kiểm tra lập trình khi tuyển dụng",
-          "text": "Felix Rieseberg, quản lý tuyển dụng tại Anthropic, nói đã dừng hoàn toàn bài kiểm tra lập trình khi tuyển dụng vì AI đang làm tốt hơn con người.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_25",
       "name": "Việt Nam tham gia Hiệp định Artemis về khám phá không gian",
       "label": "Tuổi Trẻ • Nhịp Sống Số",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_25.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_24.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_25.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_24.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_25.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_24.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_25.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_24.png"
           }
         ]
       },
@@ -1543,7 +1481,7 @@
         {
           "type": "text",
           "name": "Việt Nam tham gia Hiệp định Artemis về khám phá không gian",
-          "text": "Lễ trao Hiệp định Artemis diễn ra sáng 28-10, trong khuôn khổ Tuần lễ số quốc tế Việt Nam 2026 tại Quảng Ninh.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Lễ trao Hiệp định Artemis diễn ra sáng 28-10, trong khuôn khổ Tuần lễ số quốc tế Việt Nam 2026 tại Quảng Ninh.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1553,27 +1491,27 @@
       }
     },
     {
-      "id": "news_item_26",
+      "id": "news_item_25",
       "name": "Techcombank chuẩn bị nâng cấp hệ thống ngân hàng lõi Core Banking",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_26.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_25.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_26.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_25.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_26.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_25.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_26.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_25.png"
           }
         ]
       },
@@ -1605,7 +1543,69 @@
         {
           "type": "text",
           "name": "Techcombank chuẩn bị nâng cấp hệ thống ngân hàng lõi Core Banking",
-          "text": "Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank) sẽ triển khai nâng cấp hệ thống ngân hàng lõi (Core Banking) từ 19h ngày 7-11-2026 đến 8h ngày 8-11-2026 (Chủ Nhật).\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank) sẽ triển khai nâng cấp hệ thống ngân hàng lõi (Core Banking) từ 19h ngày 7-11-2026 đến 8h ngày 8-11-2026 (Chủ Nhật).\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_26",
+      "name": "Redmi M100 Pro ra mắt: Màn hình OLED 120 Hz, camera 50 MP, pin 5.500 mAh nhưng giá gần 9 triệu đồng",
+      "label": "GenK • Công Nghệ & AI",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_26.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_26.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_26.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_26.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/redmi-m100-pro-ra-mat-man-hinh-oled-120-hz-camera-50-mp-pin-5500-mah-nhung-gia-gan-9-trieu-dong-165261102140917836.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/redmi-m100-pro-ra-mat-man-hinh-oled-120-hz-camera-50-mp-pin-5500-mah-nhung-gia-gan-9-trieu-dong-165261102140917836.chn"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/redmi-m100-pro-ra-mat-man-hinh-oled-120-hz-camera-50-mp-pin-5500-mah-nhung-gia-gan-9-trieu-dong-165261102140917836.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/redmi-m100-pro-ra-mat-man-hinh-oled-120-hz-camera-50-mp-pin-5500-mah-nhung-gia-gan-9-trieu-dong-165261102140917836.chn"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Redmi M100 Pro ra mắt: Màn hình OLED 120 Hz, camera 50 MP, pin 5.500 mAh nhưng giá gần 9 triệu đồng",
+          "text": "Mẫu máy này có nhiều điểm tương đồng với một smartphone Redmi từng được bán ở thị trường quốc tế!\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1616,8 +1616,8 @@
     },
     {
       "id": "news_item_27",
-      "name": "\"Đập hộp\", trên tay nhanh máy đọc sách Boox Picco",
-      "label": "GenK • Công Nghệ & AI",
+      "name": "Bí kíp món bánh bông lan trứ danh Vũng Tàu",
+      "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
@@ -1643,31 +1643,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/dap-hop-tren-tay-nhanh-may-doc-sach-boox-picco-165261102140914913.chn"
+            "href": "entrance://webview/https://vnexpress.net/bi-kip-mon-banh-bong-lan-tru-danh-vung-tau-5139379.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/dap-hop-tren-tay-nhanh-may-doc-sach-boox-picco-165261102140914913.chn"
+            "data": "entrance://webview/https://vnexpress.net/bi-kip-mon-banh-bong-lan-tru-danh-vung-tau-5139379.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/dap-hop-tren-tay-nhanh-may-doc-sach-boox-picco-165261102140914913.chn"
+            "href": "entrance://webview/https://vnexpress.net/bi-kip-mon-banh-bong-lan-tru-danh-vung-tau-5139379.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/dap-hop-tren-tay-nhanh-may-doc-sach-boox-picco-165261102140914913.chn"
+            "data": "entrance://webview/https://vnexpress.net/bi-kip-mon-banh-bong-lan-tru-danh-vung-tau-5139379.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "\"Đập hộp\", trên tay nhanh máy đọc sách Boox Picco",
-          "text": "Sau một thời gian trải nghiệm ngắn, tôi đã có một số nhận định về những điểm thành công, những hạn chế hiện tại của thiết bị nhỏ nhắn kỳ lạ này, và có lẽ quan trọng nhất là liệu có thực sự tồn tại một nhu cầu sử dụng thuyết phục nào cho một chiếc máy đọc sách E-Ink nhỏ đến vậy hay không.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Bí kíp món bánh bông lan trứ danh Vũng Tàu",
+          "text": "Gia đình chủ quán bánh bông lan sang Hong Kong học làm sốt bơ trứng, sau sáng chế thêm mười mấy loại sốt khác, trong tập 6 \"Sao Chọn\".\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1678,88 +1678,26 @@
     },
     {
       "id": "news_item_28",
-      "name": "Nghị sĩ Dân chủ đổi phe, ủng hộ ứng viên Cộng hòa vào Thượng viện",
-      "label": "VnExpress • Thời Sự",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_28.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_28.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_28.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_28.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/nghi-si-dan-chu-doi-phe-ung-ho-ung-vien-cong-hoa-vao-thuong-vien-5139500.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nghi-si-dan-chu-doi-phe-ung-ho-ung-vien-cong-hoa-vao-thuong-vien-5139500.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/nghi-si-dan-chu-doi-phe-ung-ho-ung-vien-cong-hoa-vao-thuong-vien-5139500.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nghi-si-dan-chu-doi-phe-ung-ho-ung-vien-cong-hoa-vao-thuong-vien-5139500.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Nghị sĩ Dân chủ đổi phe, ủng hộ ứng viên Cộng hòa vào Thượng viện",
-          "text": "Hạ nghị sĩ Dân chủ Haley Stevens tuyên bố ủng hộ ứng viên thượng nghị sĩ Cộng hòa ở Michigan, thu hút sự ca ngợi từ Tổng thống Trump.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_29",
       "name": "Startup Việt thắng giải Doanh nghiệp khởi nghiệp AI tại Hàn Quốc",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_29.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_28.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_29.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_28.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_29.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_28.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_29.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_28.png"
           }
         ]
       },
@@ -1791,7 +1729,7 @@
         {
           "type": "text",
           "name": "Startup Việt thắng giải Doanh nghiệp khởi nghiệp AI tại Hàn Quốc",
-          "text": "Enfarm Agritech, nền tảng trí tuệ nhân tạo hỗ trợ nông dân ra quyết định canh tác, vượt qua bốn startup để chiến thắng AI Startup Award 2026.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Enfarm Agritech, nền tảng trí tuệ nhân tạo hỗ trợ nông dân ra quyết định canh tác, vượt qua bốn startup để chiến thắng AI Startup Award 2026.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1801,27 +1739,27 @@
       }
     },
     {
-      "id": "news_item_30",
+      "id": "news_item_29",
       "name": "Việt Nam là quốc gia duy nhất nhận giải thưởng Lãnh đạo Chính phủ 2026 của GSMA",
       "label": "Tuổi Trẻ • Nhịp Sống Số",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_30.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_29.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_30.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_29.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_30.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_29.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_30.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_29.png"
           }
         ]
       },
@@ -1853,7 +1791,7 @@
         {
           "type": "text",
           "name": "Việt Nam là quốc gia duy nhất nhận giải thưởng Lãnh đạo Chính phủ 2026 của GSMA",
-          "text": "Giải thưởng Lãnh đạo Chính phủ 2026 của GSMA vinh danh Việt Nam nhờ tầm nhìn chính sách số, phát triển hạ tầng kết nối, thúc đẩy đầu tư và lấy người dân làm trung tâm.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Giải thưởng Lãnh đạo Chính phủ 2026 của GSMA vinh danh Việt Nam nhờ tầm nhìn chính sách số, phát triển hạ tầng kết nối, thúc đẩy đầu tư và lấy người dân làm trung tâm.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1863,27 +1801,27 @@
       }
     },
     {
-      "id": "news_item_31",
+      "id": "news_item_30",
       "name": "Đại biểu Quốc hội: Cần nghiêm cấm lợi dụng cho, nhận con nuôi để lấy mô, bộ phận cơ thể",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_31.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_30.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_31.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_30.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_31.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_30.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_31.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_30.png"
           }
         ]
       },
@@ -1915,7 +1853,69 @@
         {
           "type": "text",
           "name": "Đại biểu Quốc hội: Cần nghiêm cấm lợi dụng cho, nhận con nuôi để lấy mô, bộ phận cơ thể",
-          "text": "Theo đại biểu, trẻ em không thể phải gánh chịu hậu quả từ hành vi của người lớn hoặc sai sót của cơ quan giải quyết hồ sơ.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Theo đại biểu, trẻ em không thể phải gánh chịu hậu quả từ hành vi của người lớn hoặc sai sót của cơ quan giải quyết hồ sơ.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_31",
+      "name": "\"Đập hộp\", trên tay nhanh máy đọc sách Boox Picco",
+      "label": "GenK • Công Nghệ & AI",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_31.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_31.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_31.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_31.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/dap-hop-tren-tay-nhanh-may-doc-sach-boox-picco-165261102140914913.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/dap-hop-tren-tay-nhanh-may-doc-sach-boox-picco-165261102140914913.chn"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/dap-hop-tren-tay-nhanh-may-doc-sach-boox-picco-165261102140914913.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/dap-hop-tren-tay-nhanh-may-doc-sach-boox-picco-165261102140914913.chn"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "\"Đập hộp\", trên tay nhanh máy đọc sách Boox Picco",
+          "text": "Sau một thời gian trải nghiệm ngắn, tôi đã có một số nhận định về những điểm thành công, những hạn chế hiện tại của thiết bị nhỏ nhắn kỳ lạ này, và có lẽ quan trọng nhất là liệu có thực sự tồn tại một nhu cầu sử dụng thuyết phục nào cho một chiếc máy đọc sách E-Ink nhỏ đến vậy hay không.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1926,8 +1926,8 @@
     },
     {
       "id": "news_item_32",
-      "name": "Xiaomi 18 Pro Series sắp ra mắt toàn cầu trong tháng 11, giá có thể lên tới gần 55 triệu đồng",
-      "label": "GenK • Công Nghệ & AI",
+      "name": "Nghệ sĩ thi tài đoán tên các loại hải sản Vũng Tàu",
+      "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
@@ -1953,31 +1953,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/xiaomi-18-pro-series-sap-ra-mat-toan-cau-trong-thang-11-gia-co-the-len-toi-gan-55-trieu-dong-1652611021402358.chn"
+            "href": "entrance://webview/https://vnexpress.net/nghe-si-thi-tai-doan-ten-cac-loai-hai-san-vung-tau-5139381.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/xiaomi-18-pro-series-sap-ra-mat-toan-cau-trong-thang-11-gia-co-the-len-toi-gan-55-trieu-dong-1652611021402358.chn"
+            "data": "entrance://webview/https://vnexpress.net/nghe-si-thi-tai-doan-ten-cac-loai-hai-san-vung-tau-5139381.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/xiaomi-18-pro-series-sap-ra-mat-toan-cau-trong-thang-11-gia-co-the-len-toi-gan-55-trieu-dong-1652611021402358.chn"
+            "href": "entrance://webview/https://vnexpress.net/nghe-si-thi-tai-doan-ten-cac-loai-hai-san-vung-tau-5139381.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/xiaomi-18-pro-series-sap-ra-mat-toan-cau-trong-thang-11-gia-co-the-len-toi-gan-55-trieu-dong-1652611021402358.chn"
+            "data": "entrance://webview/https://vnexpress.net/nghe-si-thi-tai-doan-ten-cac-loai-hai-san-vung-tau-5139381.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Xiaomi 18 Pro Series sắp ra mắt toàn cầu trong tháng 11, giá có thể lên tới gần 55 triệu đồng",
-          "text": "Xiaomi xác nhận bộ đôi Xiaomi 18 Pro và Xiaomi 18 Pro Max sẽ ra mắt thị trường quốc tế trong tháng này. Tuy nhiên, phiên bản toàn cầu được cho là sẽ có dung lượng pin thấp hơn đáng kể so với các mẫu máy bán tại Trung Quốc!\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Nghệ sĩ thi tài đoán tên các loại hải sản Vũng Tàu",
+          "text": "Bốn thành viên UPRIZE bất ngờ với hải sản tươi sống, hoàn thành thử thách đoán tên tôm, cá trong tập 6 \"Sao Chọn\".\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1988,88 +1988,26 @@
     },
     {
       "id": "news_item_33",
-      "name": "Tỷ phú Trung Quốc khoe sắc trong váy nhà mốt Việt",
-      "label": "VnExpress • Thời Sự",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_33.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_33.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_33.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_33.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/ty-phu-trung-quoc-khoe-sac-trong-vay-nha-mot-viet-5139507.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/ty-phu-trung-quoc-khoe-sac-trong-vay-nha-mot-viet-5139507.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/ty-phu-trung-quoc-khoe-sac-trong-vay-nha-mot-viet-5139507.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/ty-phu-trung-quoc-khoe-sac-trong-vay-nha-mot-viet-5139507.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Tỷ phú Trung Quốc khoe sắc trong váy nhà mốt Việt",
-          "text": "\"Em gái trà sữa\" Chương Trạch Thiên diện đầm của Phan Huy dự tiệc cùng Châu Nhuận Phát, Lưu Gia Linh.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_34",
       "name": "Moto Pad 70 Pro - tablet 13 inch giá 19 triệu đồng",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_34.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_33.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_34.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_33.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_34.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_33.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_34.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_33.png"
           }
         ]
       },
@@ -2101,7 +2039,7 @@
         {
           "type": "text",
           "name": "Moto Pad 70 Pro - tablet 13 inch giá 19 triệu đồng",
-          "text": "Moto Pad 70 Pro trang bị màn hình độ phân giải 3.5K, tần số quét 144 Hz hỗ trợ bút cảm ứng, pin 10.200 mAh và giá 19 triệu đồng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Moto Pad 70 Pro trang bị màn hình độ phân giải 3.5K, tần số quét 144 Hz hỗ trợ bút cảm ứng, pin 10.200 mAh và giá 19 triệu đồng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2111,27 +2049,27 @@
       }
     },
     {
-      "id": "news_item_35",
+      "id": "news_item_34",
       "name": "Đầu tư robot: Đừng để bẫy FOMO lấn át hiệu quả kinh tế",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_35.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_34.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_35.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_34.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_35.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_34.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_35.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_34.png"
           }
         ]
       },
@@ -2163,7 +2101,69 @@
         {
           "type": "text",
           "name": "Đầu tư robot: Đừng để bẫy FOMO lấn át hiệu quả kinh tế",
-          "text": "Sự xuất hiện của robot tiếp thức ăn, đón khách tại các nhà hàng, cửa hàng dịch vụ tại Việt Nam đang mang lại trải nghiệm mới lạ.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Sự xuất hiện của robot tiếp thức ăn, đón khách tại các nhà hàng, cửa hàng dịch vụ tại Việt Nam đang mang lại trải nghiệm mới lạ.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 18:18 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_35",
+      "name": "Xiaomi 18 Pro Series sắp ra mắt toàn cầu trong tháng 11, giá có thể lên tới gần 55 triệu đồng",
+      "label": "GenK • Công Nghệ & AI",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_35.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_35.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_35.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_35.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/xiaomi-18-pro-series-sap-ra-mat-toan-cau-trong-thang-11-gia-co-the-len-toi-gan-55-trieu-dong-1652611021402358.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/xiaomi-18-pro-series-sap-ra-mat-toan-cau-trong-thang-11-gia-co-the-len-toi-gan-55-trieu-dong-1652611021402358.chn"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/xiaomi-18-pro-series-sap-ra-mat-toan-cau-trong-thang-11-gia-co-the-len-toi-gan-55-trieu-dong-1652611021402358.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/xiaomi-18-pro-series-sap-ra-mat-toan-cau-trong-thang-11-gia-co-the-len-toi-gan-55-trieu-dong-1652611021402358.chn"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Xiaomi 18 Pro Series sắp ra mắt toàn cầu trong tháng 11, giá có thể lên tới gần 55 triệu đồng",
+          "text": "Xiaomi xác nhận bộ đôi Xiaomi 18 Pro và Xiaomi 18 Pro Max sẽ ra mắt thị trường quốc tế trong tháng này. Tuy nhiên, phiên bản toàn cầu được cho là sẽ có dung lượng pin thấp hơn đáng kể so với các mẫu máy bán tại Trung Quốc!\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 18:19 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2174,8 +2174,8 @@
     },
     {
       "id": "news_item_36",
-      "name": "Tám phát hiện khoa học rùng rợn nhất năm 2026 khiến bạn tưởng như đang xem phim kinh dị",
-      "label": "GenK • Công Nghệ & AI",
+      "name": "Nhóm UPRIZE vừa phục vụ thực khách bánh khọt, vừa hát 'First Dance'",
+      "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
@@ -2201,31 +2201,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/tam-phat-hien-khoa-hoc-rung-ron-nhat-nam-2026-khien-ban-tuong-nhu-dang-xem-phim-kinh-di-165261102112933484.chn"
+            "href": "entrance://webview/https://vnexpress.net/nhom-uprize-vua-phuc-vu-thuc-khach-banh-khot-vua-hat-first-dance-5139378.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/tam-phat-hien-khoa-hoc-rung-ron-nhat-nam-2026-khien-ban-tuong-nhu-dang-xem-phim-kinh-di-165261102112933484.chn"
+            "data": "entrance://webview/https://vnexpress.net/nhom-uprize-vua-phuc-vu-thuc-khach-banh-khot-vua-hat-first-dance-5139378.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/tam-phat-hien-khoa-hoc-rung-ron-nhat-nam-2026-khien-ban-tuong-nhu-dang-xem-phim-kinh-di-165261102112933484.chn"
+            "href": "entrance://webview/https://vnexpress.net/nhom-uprize-vua-phuc-vu-thuc-khach-banh-khot-vua-hat-first-dance-5139378.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/tam-phat-hien-khoa-hoc-rung-ron-nhat-nam-2026-khien-ban-tuong-nhu-dang-xem-phim-kinh-di-165261102112933484.chn"
+            "data": "entrance://webview/https://vnexpress.net/nhom-uprize-vua-phuc-vu-thuc-khach-banh-khot-vua-hat-first-dance-5139378.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Tám phát hiện khoa học rùng rợn nhất năm 2026 khiến bạn tưởng như đang xem phim kinh dị",
-          "text": "Khoa học và kinh dị đều đam mê khám phá những bí ẩn nằm sâu dưới bề mặt. Năm 2026, các nhà nghiên cứu đã phơi bày hàng loạt sự thật rùng rợn: từ mô thịt từ chối cái chết, ngôi mộ ma cà rồng, cho đến những âm thanh vô hình thao túng tâm trí con người.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 17:48 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Nhóm UPRIZE vừa phục vụ thực khách bánh khọt, vừa hát 'First Dance'",
+          "text": "Bốn thành viên UPRIZE phục vụ thực khách món bánh khọt do mình đổ, hát tặng mọi người một đoạn trong ca khúc \"First Dance\" (Mải mê) trong tập 6 \"Sao Chọn\".\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 18:19 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2236,88 +2236,26 @@
     },
     {
       "id": "news_item_37",
-      "name": "HLV Park Hang-seo bị miệt thị ở giải Thái Lan",
-      "label": "VnExpress • Thời Sự",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_37.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_37.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_37.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_37.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/hlv-park-hang-seo-bi-miet-thi-o-giai-thai-lan-5139513.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/hlv-park-hang-seo-bi-miet-thi-o-giai-thai-lan-5139513.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/hlv-park-hang-seo-bi-miet-thi-o-giai-thai-lan-5139513.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/hlv-park-hang-seo-bi-miet-thi-o-giai-thai-lan-5139513.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "HLV Park Hang-seo bị miệt thị ở giải Thái Lan",
-          "text": "HLV Park Hang-seo nổi nóng khi một số CĐV Pattaya United dùng từ ngữ miệt thị sau trận hòa Kanchanaburi 2-2 ở vòng 9 Thai League 2 2026-2027.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 17:49 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_38",
       "name": "Còn 3 ngày đóng cổng nhận đề cử Tech Awards 2026",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_38.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_37.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_38.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_37.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_38.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_37.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_38.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_37.png"
           }
         ]
       },
@@ -2349,7 +2287,7 @@
         {
           "type": "text",
           "name": "Còn 3 ngày đóng cổng nhận đề cử Tech Awards 2026",
-          "text": "Tech Awards 2026 sẽ nhận đề cử đến hết ngày 5/11 và các đơn vị có thể tự ứng cử sản phẩm, dịch vụ, thương hiệu tại 11 hạng mục của giải thưởng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 17:49 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tech Awards 2026 sẽ nhận đề cử đến hết ngày 5/11 và các đơn vị có thể tự ứng cử sản phẩm, dịch vụ, thương hiệu tại 11 hạng mục của giải thưởng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 18:19 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2359,27 +2297,27 @@
       }
     },
     {
-      "id": "news_item_39",
+      "id": "news_item_38",
       "name": "Mùa nước nổi ĐBSCL kết thúc sớm gần 1 tháng so với cùng kỳ",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_39.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_38.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_39.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_38.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_39.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_38.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_39.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_38.png"
           }
         ]
       },
@@ -2411,7 +2349,69 @@
         {
           "type": "text",
           "name": "Mùa nước nổi ĐBSCL kết thúc sớm gần 1 tháng so với cùng kỳ",
-          "text": "Hiện nay, mùa nước nổi ở khu vực đầu nguồn Đồng bằng sông Cửu Long kết thúc sớm. Nhiều cánh đồng đầu nguồn trong tỉnh Đồng Tháp rút nước sớm khoảng 1 tháng so với cùng kỳ khiến mùa vụ bị \"xáo trộn\".\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 17:49 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Hiện nay, mùa nước nổi ở khu vực đầu nguồn Đồng bằng sông Cửu Long kết thúc sớm. Nhiều cánh đồng đầu nguồn trong tỉnh Đồng Tháp rút nước sớm khoảng 1 tháng so với cùng kỳ khiến mùa vụ bị \"xáo trộn\".\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 18:19 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_39",
+      "name": "Tám phát hiện khoa học rùng rợn nhất năm 2026 khiến bạn tưởng như đang xem phim kinh dị",
+      "label": "GenK • Công Nghệ & AI",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_39.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_39.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_39.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_39.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/tam-phat-hien-khoa-hoc-rung-ron-nhat-nam-2026-khien-ban-tuong-nhu-dang-xem-phim-kinh-di-165261102112933484.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/tam-phat-hien-khoa-hoc-rung-ron-nhat-nam-2026-khien-ban-tuong-nhu-dang-xem-phim-kinh-di-165261102112933484.chn"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/tam-phat-hien-khoa-hoc-rung-ron-nhat-nam-2026-khien-ban-tuong-nhu-dang-xem-phim-kinh-di-165261102112933484.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/tam-phat-hien-khoa-hoc-rung-ron-nhat-nam-2026-khien-ban-tuong-nhu-dang-xem-phim-kinh-di-165261102112933484.chn"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Tám phát hiện khoa học rùng rợn nhất năm 2026 khiến bạn tưởng như đang xem phim kinh dị",
+          "text": "Khoa học và kinh dị đều đam mê khám phá những bí ẩn nằm sâu dưới bề mặt. Năm 2026, các nhà nghiên cứu đã phơi bày hàng loạt sự thật rùng rợn: từ mô thịt từ chối cái chết, ngôi mộ ma cà rồng, cho đến những âm thanh vô hình thao túng tâm trí con người.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 18:19 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2422,88 +2422,26 @@
     },
     {
       "id": "news_item_40",
-      "name": "Đã có ứng dụng gõ tiếng Anh - Việt không cần bấm chuyển đổi mà dân văn phòng nào cũng sẽ cần",
-      "label": "GenK • Công Nghệ & AI",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_40.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_40.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_40.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_40.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/da-co-ung-dung-go-tieng-anh-viet-khong-can-bam-chuyen-doi-ma-dan-van-phong-nao-cung-se-can-165261102112342114.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/da-co-ung-dung-go-tieng-anh-viet-khong-can-bam-chuyen-doi-ma-dan-van-phong-nao-cung-se-can-165261102112342114.chn"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/da-co-ung-dung-go-tieng-anh-viet-khong-can-bam-chuyen-doi-ma-dan-van-phong-nao-cung-se-can-165261102112342114.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/da-co-ung-dung-go-tieng-anh-viet-khong-can-bam-chuyen-doi-ma-dan-van-phong-nao-cung-se-can-165261102112342114.chn"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Đã có ứng dụng gõ tiếng Anh - Việt không cần bấm chuyển đổi mà dân văn phòng nào cũng sẽ cần",
-          "text": "Việc phải chuyển đổi chế độ gõ phím vô số lần mỗi ngày trên máy tính và điện thoại từ lâu đã là nỗi phiền toái lớn của người dùng đa ngữ. Với ứng dụng Vikey mới, tác giả Tony Dinh khẳng định đã giải quyết dứt điểm sự bất tiện này.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 17:49 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_41",
       "name": "Đà Nẵng tìm thấy 5 hài cốt liệt sĩ trong hầm, di vật có bông tai vàng khắc chữ 'NT'",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_41.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_40.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_41.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_40.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_41.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_40.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_41.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_40.png"
           }
         ]
       },
@@ -2535,7 +2473,69 @@
         {
           "type": "text",
           "name": "Đà Nẵng tìm thấy 5 hài cốt liệt sĩ trong hầm, di vật có bông tai vàng khắc chữ 'NT'",
-          "text": "Ngày 2-11, Đội tìm kiếm, quy tập hài cốt liệt sĩ Bộ Chỉ huy quân sự (CHQS) TP Đà Nẵng phối hợp với Ban CHQS xã Quế Sơn cất bốc được 5 hài cốt liệt sĩ trong hầm trú ẩn Bà Hội, thôn Thuận Long, xã Quế Sơn.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 17:49 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Ngày 2-11, Đội tìm kiếm, quy tập hài cốt liệt sĩ Bộ Chỉ huy quân sự (CHQS) TP Đà Nẵng phối hợp với Ban CHQS xã Quế Sơn cất bốc được 5 hài cốt liệt sĩ trong hầm trú ẩn Bà Hội, thôn Thuận Long, xã Quế Sơn.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 18:19 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_41",
+      "name": "Đã có ứng dụng gõ tiếng Anh - Việt không cần bấm chuyển đổi mà dân văn phòng nào cũng sẽ cần",
+      "label": "GenK • Công Nghệ & AI",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_41.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_41.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_41.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_41.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/da-co-ung-dung-go-tieng-anh-viet-khong-can-bam-chuyen-doi-ma-dan-van-phong-nao-cung-se-can-165261102112342114.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/da-co-ung-dung-go-tieng-anh-viet-khong-can-bam-chuyen-doi-ma-dan-van-phong-nao-cung-se-can-165261102112342114.chn"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/da-co-ung-dung-go-tieng-anh-viet-khong-can-bam-chuyen-doi-ma-dan-van-phong-nao-cung-se-can-165261102112342114.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/da-co-ung-dung-go-tieng-anh-viet-khong-can-bam-chuyen-doi-ma-dan-van-phong-nao-cung-se-can-165261102112342114.chn"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Đã có ứng dụng gõ tiếng Anh - Việt không cần bấm chuyển đổi mà dân văn phòng nào cũng sẽ cần",
+          "text": "Việc phải chuyển đổi chế độ gõ phím vô số lần mỗi ngày trên máy tính và điện thoại từ lâu đã là nỗi phiền toái lớn của người dùng đa ngữ. Với ứng dụng Vikey mới, tác giả Tony Dinh khẳng định đã giải quyết dứt điểm sự bất tiện này.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 18:19 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2597,7 +2597,7 @@
         {
           "type": "text",
           "name": "Con người đã vô tình ngăn chặn một kỷ băng hà mới trên Trái Đất như thế nào?",
-          "text": "Dưới lớp băng vĩnh cửu xa xôi, các nhà khoa học vừa khai quật một sự thật chấn động. Bằng việc giải phóng khí thải nhà kính, nhân loại không chỉ làm nóng Trái Đất mà còn vô tình bóp nghẹt một kỷ băng hà mới ngay từ trong trứng nước.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 17:49 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Dưới lớp băng vĩnh cửu xa xôi, các nhà khoa học vừa khai quật một sự thật chấn động. Bằng việc giải phóng khí thải nhà kính, nhân loại không chỉ làm nóng Trái Đất mà còn vô tình bóp nghẹt một kỷ băng hà mới ngay từ trong trứng nước.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 18:19 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2659,69 +2659,7 @@
         {
           "type": "text",
           "name": "HyperWork ra mắt kê chân công thái học thiết kế hai tầng, giá chỉ hơn 1 triệu đồng",
-          "text": "Một tầng nghiêng 10 độ cho lúc tập trung, một tầng đệm cho giờ nghỉ trưa, nhắm tới người ngồi máy tính 8-10 tiếng mỗi ngày.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 17:49 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_44",
-      "name": "Từng làm cho Bộ ngoại giao Nhật Bản, người đàn ông này giờ đang phát triển ứng dụng dịch thuật món ăn ngay giữa thời đại AI",
-      "label": "GenK • Công Nghệ & AI",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_44.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_44.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_44.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_44.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/tung-lam-cho-bo-ngoai-giao-nhat-ban-nguoi-dan-ong-nay-gio-dang-phat-trien-ung-dung-dich-thuat-mon-an-ngay-giua-thoi-dai-ai-165261102112824138.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/tung-lam-cho-bo-ngoai-giao-nhat-ban-nguoi-dan-ong-nay-gio-dang-phat-trien-ung-dung-dich-thuat-mon-an-ngay-giua-thoi-dai-ai-165261102112824138.chn"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/tung-lam-cho-bo-ngoai-giao-nhat-ban-nguoi-dan-ong-nay-gio-dang-phat-trien-ung-dung-dich-thuat-mon-an-ngay-giua-thoi-dai-ai-165261102112824138.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/tung-lam-cho-bo-ngoai-giao-nhat-ban-nguoi-dan-ong-nay-gio-dang-phat-trien-ung-dung-dich-thuat-mon-an-ngay-giua-thoi-dai-ai-165261102112824138.chn"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Từng làm cho Bộ ngoại giao Nhật Bản, người đàn ông này giờ đang phát triển ứng dụng dịch thuật món ăn ngay giữa thời đại AI",
-          "text": "Du lịch Nhật Bản luôn hấp dẫn, nhưng rào cản ngôn ngữ tại các quán ăn địa phương lại là nỗi ám ảnh lớn. MENU-PAAN, một ứng dụng AI đột phá, ra đời để giải quyết triệt để vấn đề này, biến các thực đơn viết tay thành thông tin dễ hiểu.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 17:49 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Một tầng nghiêng 10 độ cho lúc tập trung, một tầng đệm cho giờ nghỉ trưa, nhắm tới người ngồi máy tính 8-10 tiếng mỗi ngày.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 18:19 - 02/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
