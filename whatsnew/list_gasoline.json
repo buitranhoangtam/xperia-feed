@@ -5,8 +5,8 @@
     {
       "id": "gasoline_ron95",
       "name": "Xăng RON 95-III & V",
-      "label": "31.390 đ / lít",
-      "price": "Kỳ Điều Hành Mới Nhất",
+      "label": "24.150 đ / lít",
+      "price": "Petrolimex Vùng 1",
       "promotional_image": {
         "links": [
           {
@@ -45,27 +45,27 @@
       ],
       "cards": [
         {
+          "text": "• Xăng E10 RON 95-V: 24.950 đ/lít (Vùng 1) | 25.440 đ/lít (Vùng 2)\n• Xăng E10 RON 95-III: 24.150 đ/lít (Vùng 1) | 24.630 đ/lít (Vùng 2)\n\nCơ sở điều hành: Quyết định điều chỉnh giá Petrolimex áp dụng từ 00h00 ngày 01/11/2026.\nÁp dụng trên toàn bộ hệ thống phân phối xăng dầu Việt Nam (PVOIL & Petrolimex).",
           "type": "text",
-          "name": "Bảng Giá Xăng Cao Cấp (Toàn Quốc)",
-          "text": "• Xăng E10 RON 95-III: 31.390 đ/lít (Vùng 1)\n• Xăng E10 RON 95-V: 31.990 đ/lít (Vùng 1)\n\nCơ sở điều hành: Một số thông tin về việc điều hành giá mặt hàng xăng dầu ngày 31/10\nCập nhật trực tiếp: 11:25 - 02/11/2026\nÁp dụng trên toàn bộ hệ thống phân phối xăng dầu Việt Nam (PVOIL & Petrolimex)."
+          "name": "Bảng Giá Xăng Cao Cấp (Toàn Quốc)"
         },
         {
+          "text": "Bộ Công Thương và Liên Bộ Tài chính cam kết đảm bảo nguồn cung và kiểm soát giá thị trường theo đúng chỉ đạo Chính phủ.",
           "type": "text",
-          "name": "Chính Sách & Nguồn Cung",
-          "text": "Bộ Công Thương và Liên Bộ Tài chính cam kết đảm bảo nguồn cung và kiểm soát giá thị trường theo đúng chỉ đạo Chính phủ."
+          "name": "Chính Sách & Nguồn Cung"
         }
       ],
       "type": {
-        "service": "market_vn",
         "id": "gasoline",
+        "service": "market_vn",
         "name": "Xăng Dầu"
       }
     },
     {
       "id": "gasoline_e5_do",
       "name": "Xăng E5 & Dầu Diesel",
-      "label": "24.223 đ / lít",
-      "price": "Nhiên Liệu Sinh Học",
+      "label": "24.220 đ / lít",
+      "price": "Nhiên Liệu Sinh Học & Dầu",
       "promotional_image": {
         "links": [
           {
@@ -104,19 +104,19 @@
       ],
       "cards": [
         {
+          "text": "• Xăng E5 RON 92-II: 24.220 đ/lít (Vùng 1) | 24.700 đ/lít (Vùng 2)\n• Dầu DO 0,05S-II: 30.240 đ/lít (Vùng 1) | 30.840 đ/lít (Vùng 2)\n• Dầu DO 0,001S-V: 31.640 đ/lít (Vùng 1) | 32.270 đ/lít (Vùng 2)\n• Dầu Hỏa: 30.650 đ/lít | Dầu Mazút: 23.590 đ/kg\n\nCơ sở điều hành: Quyết định điều chỉnh giá Petrolimex áp dụng từ 00h00 ngày 01/11/2026.\nÁp dụng trên toàn bộ hệ thống phân phối xăng dầu Việt Nam (PVOIL & Petrolimex).",
           "type": "text",
-          "name": "Bảng Giá Nhiên Liệu Sinh Học & Dầu",
-          "text": "• Xăng E5 RON 92: 24.223 đ/lít (Vùng 1)\n• Dầu Điêzen 0,05S: 29.550 đ/lít (Vùng 1)\n• Dầu Madút 180CST: 23.373 đ/kg\n\nCơ sở điều hành: Một số thông tin về việc điều hành giá mặt hàng xăng dầu ngày 31/10\nCập nhật trực tiếp: 11:25 - 02/11/2026\nÁp dụng trên toàn bộ hệ thống phân phối xăng dầu Việt Nam (PVOIL & Petrolimex)."
+          "name": "Bảng Giá Nhiên Liệu Sinh Học & Dầu"
         },
         {
+          "text": "Vùng 1 gồm các đô thị, cảng và kho đầu mối. Vùng 2 gồm các địa bàn xa cảng, vùng sâu, vùng xa có chi phí vận chuyển cao hơn theo quy định.",
           "type": "text",
-          "name": "Chính Sách & Nguồn Cung",
-          "text": "Áp dụng giảm thuế tiêu thụ đặc biệt cho xăng sinh học E5 và E10 theo Nghị quyết 45/2026/NQ-CP của Chính phủ."
+          "name": "Chính Sách & Phân Vùng"
         }
       ],
       "type": {
-        "service": "market_vn",
         "id": "gasoline",
+        "service": "market_vn",
         "name": "Xăng Dầu"
       }
     }
