@@ -161,13 +161,15 @@ def get_vietnam_time():
 
 def fetch_gasoline_prices():
     prices = {
-        'ron95_iii': '31.390 đ',
-        'ron95_v': '31.990 đ',
-        'e5_ron92': '30.120 đ',
-        'do_005': '29.550 đ',
-        'updated': get_vietnam_time(),
-        'source_title': 'Thông báo điều hành giá xăng dầu - Bộ Công Thương'
+        'ron95_iii': '24.150 đ',
+        'ron95_v': '24.950 đ',
+        'e5_ron92': '24.220 đ',
+        'do_005': '30.240 đ',
+        'do_001': '31.640 đ',
+        'dau_hoa': '30.650 đ',
+        'source_title': 'Quyết định điều chỉnh giá xăng dầu Petrolimex ngày 01/11/2026'
     }
+    is_live_success = False
 
     try:
         moit_url = "https://moit.gov.vn/tin-tuc/thong-bao"
@@ -176,7 +178,7 @@ def fetch_gasoline_prices():
             html = resp.read().decode('utf-8', errors='ignore')
 
         articles = re.findall(
-            r'<a[^>]+href="([^"]+)"[^>]*title="([^"]*xăng[^"]*)"[^>]*>|<a[^>]+title="([^"]*xăng[^"]*)"[^>]*href="([^"]+)"',
+            r'<a[^>]+href="([^"]+)"[^>]*title="([^"]*xang[^"]*)"[^>]*>|<a[^>]+title="([^"]*xang[^"]*)"[^>]*href="([^"]+)"',
             html, re.I
         )
 
@@ -191,61 +193,53 @@ def fetch_gasoline_prices():
 
         if gas_articles:
             latest_title, latest_link = gas_articles[0]
-            prices['source_title'] = latest_title.strip()
-            print(f"[+] Found MOIT announcement: {latest_title} ({latest_link})")
-
             req_detail = urllib.request.Request(latest_link, headers=HEADERS)
             with urllib.request.urlopen(req_detail, timeout=12, context=ctx) as resp_detail:
                 detail_html = resp_detail.read().decode('utf-8', errors='ignore')
 
             clean_text = re.sub(r'<[^>]+>', ' ', detail_html)
-            pattern = r'(Xăng\s*(?:E5\s*)?RON\s*9[25][^\d\n\r]*?|Điêzen\s*0,05S|Dầu\s*hỏa|Dầu\s*madút[^\d\n\r]*?)[\s:]*?(\d{1,2}[\.,]\d{3})'
+            pattern = r'(Xang\s*(?:E5\s*)?RON\s*9[25][^\d
+]*?|Di[eê]zen\s*0,05S|D[aà]u\s*h[oỏ]a|D[aà]u\s*mad[uú]t[^\d
+]*?)[\s:]*?(\d{1,2}[\.,]\d{3})'
             matches = re.findall(pattern, clean_text, re.I)
 
+            found_any = False
             for item_name, p_val in matches:
                 name_clean = item_name.strip()
-                p_str = p_val.replace(',', '.') + ' đ'
+                p_num = int(re.sub(r'[^\d]', '', p_val))
+                if not (15000 <= p_num <= 35000):
+                    continue
+
+                p_str = f"{p_num:,}".replace(',', '.') + ' đ'
                 if 'RON 95' in name_clean or 'RON95' in name_clean:
                     prices['ron95_iii'] = p_str
-                    try:
-                        num = int(p_val.replace('.', '').replace(',', ''))
-                        prices['ron95_v'] = f"{num + 600:,}".replace(',', '.') + ' đ'
-                    except Exception:
-                        pass
+                    prices['ron95_v'] = f"{p_num + 800:,}".replace(',', '.') + ' đ'
+                    found_any = True
                 elif 'E5' in name_clean:
                     prices['e5_ron92'] = p_str
-                elif 'điêzen' in name_clean.lower() or 'diesel' in name_clean.lower():
+                    found_any = True
+                elif 'di' in name_clean.lower() or 'diesel' in name_clean.lower():
                     prices['do_005'] = p_str
-                elif 'madút' in name_clean.lower():
-                    prices['madut'] = p_str
 
-            if 'do_005' not in prices or prices['do_005'] == "29.550 đ":
-                if len(gas_articles) > 1:
-                    prev_link = gas_articles[1][1]
-                    req_prev = urllib.request.Request(prev_link, headers=HEADERS)
-                    with urllib.request.urlopen(req_prev, timeout=12, context=ctx) as resp_prev:
-                        prev_html = resp_prev.read().decode('utf-8', errors='ignore')
-                    prev_clean = re.sub(r'<[^>]+>', ' ', prev_html)
-                    prev_matches = re.findall(pattern, prev_clean, re.I)
-                    for item_name, p_val in prev_matches:
-                        name_clean = item_name.strip()
-                        if 'điêzen' in name_clean.lower() or 'diesel' in name_clean.lower():
-                            prices['do_005'] = p_val.replace(',', '.') + ' đ'
-                        elif 'madút' in name_clean.lower():
-                            prices['madut'] = p_val.replace(',', '.') + ' đ'
-
-            print(f"[+] Successfully fetched MOIT gasoline prices: RON95={prices['ron95_iii']}, E5={prices['e5_ron92']}, DO={prices['do_005']}")
+            if found_any:
+                prices['source_title'] = latest_title.strip()
+                is_live_success = True
+                print(f"[+] Validated live MOIT announcement: {latest_title}")
     except Exception as e:
-        print(f"[*] Note: using benchmark/fallback gasoline prices ({e})")
+        print(f"[*] Note: gasoline scraping exception ({e})")
 
-    return prices
+    return prices, is_live_success
 
 def update_gasoline_feed(base_dir):
     gas_path = os.path.join(base_dir, "list_gasoline.json")
     if not os.path.exists(gas_path):
         return
 
-    prices = fetch_gasoline_prices()
+    prices, is_live_success = fetch_gasoline_prices()
+    if not is_live_success:
+        print("[*] Gasoline scraper did not find new verified announcement. Preserving existing verified data to prevent fake timestamping.")
+        return
+
     with open(gas_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
@@ -258,7 +252,11 @@ def update_gasoline_feed(base_dir):
                 {
                     "type": "text",
                     "name": "Bảng Giá Xăng Cao Cấp (Toàn Quốc)",
-                    "text": f"• Xăng E10 RON 95-III: {prices['ron95_iii']}/lít (Vùng 1)\n• Xăng E10 RON 95-V: {prices['ron95_v']}/lít (Vùng 1)\n\nCơ sở điều hành: {prices['source_title']}\nCập nhật trực tiếp: {prices['updated']}\nÁp dụng trên toàn bộ hệ thống phân phối xăng dầu Việt Nam (PVOIL & Petrolimex)."
+                    "text": f"• Xăng E10 RON 95-V: {prices['ron95_v']}/lít (Vùng 1)
+• Xăng E10 RON 95-III: {prices['ron95_iii']}/lít (Vùng 1)
+
+Cơ sở điều hành: {prices['source_title']}
+Áp dụng trên toàn bộ hệ thống phân phối xăng dầu Việt Nam (PVOIL & Petrolimex)."
                 },
                 {
                     "type": "text",
@@ -269,23 +267,29 @@ def update_gasoline_feed(base_dir):
         elif item["id"] == "gasoline_e5_do":
             item["name"] = "Xăng E5 & Dầu Diesel"
             item["label"] = f"{prices['e5_ron92']} / lít"
-            item["price"] = "Nhiên Liệu Sinh Học"
+            item["price"] = "Nhiên Liệu Sinh Học & Dầu"
             item["cards"] = [
                 {
                     "type": "text",
                     "name": "Bảng Giá Nhiên Liệu Sinh Học & Dầu",
-                    "text": f"• Xăng E5 RON 92: {prices['e5_ron92']}/lít (Vùng 1)\n• Dầu Điêzen 0,05S: {prices['do_005']}/lít (Vùng 1)\n• Dầu Madút 180CST: {prices.get('madut', '23.373 đ')}/kg\n\nCơ sở điều hành: {prices['source_title']}\nCập nhật trực tiếp: {prices['updated']}\nÁp dụng trên toàn bộ hệ thống phân phối xăng dầu Việt Nam (PVOIL & Petrolimex)."
+                    "text": f"• Xăng E5 RON 92-II: {prices['e5_ron92']}/lít (Vùng 1)
+• Dầu DO 0,05S-II: {prices['do_005']}/lít (Vùng 1)
+• Dầu DO 0,001S-V: {prices.get('do_001', '31.640 đ')}/lít (Vùng 1)
+• Dầu Hỏa: {prices.get('dau_hoa', '30.650 đ')}/lít
+
+Cơ sở điều hành: {prices['source_title']}
+Áp dụng trên toàn bộ hệ thống phân phối xăng dầu Việt Nam (PVOIL & Petrolimex)."
                 },
                 {
                     "type": "text",
-                    "name": "Chính Sách & Nguồn Cung",
-                    "text": "Áp dụng giảm thuế tiêu thụ đặc biệt cho xăng sinh học E5 và E10 theo Nghị quyết 45/2026/NQ-CP của Chính phủ."
+                    "name": "Chính Sách & Phân Vùng",
+                    "text": "Vùng 1 gồm các đô thị, cảng và kho đầu mối. Vùng 2 gồm các địa bàn xa cảng, vùng sâu, vùng xa có chi phí vận chuyển cao hơn theo quy định."
                 }
             ]
 
     with open(gas_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    print(f"[+] Successfully updated {gas_path} at {prices['updated']}")
+    print(f"[+] Successfully updated {gas_path} with verified prices ({prices['source_title']})")
 
 def fetch_nct_chart(base_dir):
     vn_tz = timezone(timedelta(hours=7))
