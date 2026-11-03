@@ -4,7 +4,7 @@
   "items": [
     {
       "id": "news_item_1",
-      "name": "Việt Nam chính thức gia nhập top 30 nền cờ vua mạnh nhất, vượt nhiều cường quốc",
+      "name": "Trường ĐH Mở TP.HCM: Dấu ấn 36 năm tiên phong đào tạo từ xa",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -31,31 +31,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/viet-nam-chinh-thuc-gia-nhap-top-30-nen-co-vua-manh-nhat-vuot-nhieu-cuong-quoc-100261102213705981.htm"
+            "href": "entrance://webview/https://tuoitre.vn/truong-dh-mo-tphcm-dau-an-36-nam-tien-phong-dao-tao-tu-xa-100261102232311019.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/viet-nam-chinh-thuc-gia-nhap-top-30-nen-co-vua-manh-nhat-vuot-nhieu-cuong-quoc-100261102213705981.htm"
+            "data": "entrance://webview/https://tuoitre.vn/truong-dh-mo-tphcm-dau-an-36-nam-tien-phong-dao-tao-tu-xa-100261102232311019.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/viet-nam-chinh-thuc-gia-nhap-top-30-nen-co-vua-manh-nhat-vuot-nhieu-cuong-quoc-100261102213705981.htm"
+            "href": "entrance://webview/https://tuoitre.vn/truong-dh-mo-tphcm-dau-an-36-nam-tien-phong-dao-tao-tu-xa-100261102232311019.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/viet-nam-chinh-thuc-gia-nhap-top-30-nen-co-vua-manh-nhat-vuot-nhieu-cuong-quoc-100261102213705981.htm"
+            "data": "entrance://webview/https://tuoitre.vn/truong-dh-mo-tphcm-dau-an-36-nam-tien-phong-dao-tao-tu-xa-100261102232311019.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Việt Nam chính thức gia nhập top 30 nền cờ vua mạnh nhất, vượt nhiều cường quốc",
-          "text": "Cờ vua Việt Nam tiếp tục tạo dấu ấn trên bảng xếp hạng của Liên đoàn Cờ vua thế giới (FIDE), khi vươn lên vị trí thứ 29 ở bảng hỗn hợp nam - nữ (Mixed) tháng 11-2026. Đây là thứ hạng cao nhất của Việt Nam trong 5 năm trở lại đây.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:17 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Trường ĐH Mở TP.HCM: Dấu ấn 36 năm tiên phong đào tạo từ xa",
+          "text": "Ngay từ khi thành lập Viện Đào tạo Mở rộng (tiền thân của Trường Đại học Mở TP.HCM) vào đầu những năm 1990, chương trình đào tạo từ xa đã trải qua hơn 36 năm hình thành và phát triển, khẳng định vai trò tiên phong.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:47 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -117,7 +117,7 @@
         {
           "type": "text",
           "name": "3 mẫu balo Xiaomi đáng mua: Từ phong cách business lịch lãm đến balo siêu nhẹ chỉ 170g",
-          "text": "Các dòng balo của Xiaomi được chú ý nhờ thiết kế tối giản, tính thực dụng và mức độ đa dạng về kiểu dáng\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:17 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Các dòng balo của Xiaomi được chú ý nhờ thiết kế tối giản, tính thực dụng và mức độ đa dạng về kiểu dáng\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:47 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -128,7 +128,7 @@
     },
     {
       "id": "news_item_3",
-      "name": "Man Utd chưa sa thải HLV Michael Carrick vì tiếc tiền đền bù?",
+      "name": "Liverpool 0-1 Arsenal",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -155,31 +155,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/man-utd-chua-sa-thai-hlv-michael-carrick-vi-tiec-tien-den-bu-5139399.html"
+            "href": "entrance://webview/https://vnexpress.net/liverpool-0-1-arsenal-5139568.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/man-utd-chua-sa-thai-hlv-michael-carrick-vi-tiec-tien-den-bu-5139399.html"
+            "data": "entrance://webview/https://vnexpress.net/liverpool-0-1-arsenal-5139568.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/man-utd-chua-sa-thai-hlv-michael-carrick-vi-tiec-tien-den-bu-5139399.html"
+            "href": "entrance://webview/https://vnexpress.net/liverpool-0-1-arsenal-5139568.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/man-utd-chua-sa-thai-hlv-michael-carrick-vi-tiec-tien-den-bu-5139399.html"
+            "data": "entrance://webview/https://vnexpress.net/liverpool-0-1-arsenal-5139568.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Man Utd chưa sa thải HLV Michael Carrick vì tiếc tiền đền bù?",
-          "text": "Giới chủ Man Utd có đang thực sự đặt niềm tin vào kế hoạch của Carrick, hay chưa muốn tiếp tục bỏ ra một khoản tiền lớn để thay HLV?\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 07:17 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Liverpool 0-1 Arsenal",
+          "text": "Kai Havertz ghi bàn duy nhất giúp Arsenal giành trọn ba điểm ở vòng 9 Ngoại hạng Anh, ngày 1/11.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 07:47 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -241,7 +241,7 @@
         {
           "type": "text",
           "name": "Hacker tăng nhiệt tủ lạnh đến 50 độ C tại hàng loạt siêu thị châu Âu",
-          "text": "Một cuộc tấn công mạng đang lan khắp các siêu thị ở châu Âu, khi tủ lạnh và tủ đông bị tăng nhiệt vào nửa đêm, khiến cửa hàng buộc phải tiêu hủy thực phẩm.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 07:17 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Một cuộc tấn công mạng đang lan khắp các siêu thị ở châu Âu, khi tủ lạnh và tủ đông bị tăng nhiệt vào nửa đêm, khiến cửa hàng buộc phải tiêu hủy thực phẩm.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 07:47 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -303,7 +303,7 @@
         {
           "type": "text",
           "name": "Internet Starlink tại Bạch Long Vĩ ‘chạy mượt’ trong gió mùa cấp 7-8",
-          "text": "Gió mùa đông bắc mạnh cấp 7-8 tràn qua, hệ thống Internet vệ tinh Starlink tại đặc khu Bạch Long Vĩ, TP Hải Phòng vẫn đảm bảo duy trì kết nối liên tục với tốc độ trung bình 300-350 Mbps.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 07:17 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Gió mùa đông bắc mạnh cấp 7-8 tràn qua, hệ thống Internet vệ tinh Starlink tại đặc khu Bạch Long Vĩ, TP Hải Phòng vẫn đảm bảo duy trì kết nối liên tục với tốc độ trung bình 300-350 Mbps.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 07:47 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -314,7 +314,7 @@
     },
     {
       "id": "news_item_6",
-      "name": "Báo Thái nói cổ động viên xúc phạm ông Park Hang Seo không phải người Thái",
+      "name": "Chứng khoán 3-11: VN-Index có thể lùi về 1.680 điểm, ưu tiên giữ tiền mặt?",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -341,31 +341,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/bao-thai-noi-co-dong-vien-xuc-pham-ong-park-hang-seo-khong-phai-nguoi-thai-100261102211856375.htm"
+            "href": "entrance://webview/https://tuoitre.vn/chung-khoan-3-11-vn-index-co-the-lui-ve-1680-diem-uu-tien-giu-tien-mat-100261103065704786.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/bao-thai-noi-co-dong-vien-xuc-pham-ong-park-hang-seo-khong-phai-nguoi-thai-100261102211856375.htm"
+            "data": "entrance://webview/https://tuoitre.vn/chung-khoan-3-11-vn-index-co-the-lui-ve-1680-diem-uu-tien-giu-tien-mat-100261103065704786.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/bao-thai-noi-co-dong-vien-xuc-pham-ong-park-hang-seo-khong-phai-nguoi-thai-100261102211856375.htm"
+            "href": "entrance://webview/https://tuoitre.vn/chung-khoan-3-11-vn-index-co-the-lui-ve-1680-diem-uu-tien-giu-tien-mat-100261103065704786.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/bao-thai-noi-co-dong-vien-xuc-pham-ong-park-hang-seo-khong-phai-nguoi-thai-100261102211856375.htm"
+            "data": "entrance://webview/https://tuoitre.vn/chung-khoan-3-11-vn-index-co-the-lui-ve-1680-diem-uu-tien-giu-tien-mat-100261103065704786.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Báo Thái nói cổ động viên xúc phạm ông Park Hang Seo không phải người Thái",
-          "text": "Báo Ball Thai của Thái Lan ngày 2-11 lên tiếng làm rõ rằng người xúc phạm HLV Park Hang Seo sau trận đấu tại Thai League 2 thực chất là một CĐV nước ngoài của Pattaya United.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:17 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Chứng khoán 3-11: VN-Index có thể lùi về 1.680 điểm, ưu tiên giữ tiền mặt?",
+          "text": "VN-Index có thể tiếp tục rung lắc, kiểm định vùng 1.680 điểm trước khi tìm được điểm cân bằng. Các công ty chứng khoán khuyến nghị nhà đầu tư ưu tiên giữ tiền mặt và chờ tín hiệu phục hồi rõ ràng hơn trước khi giải ngân.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:47 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -427,7 +427,7 @@
         {
           "type": "text",
           "name": "Chạy đua với AI đến kiệt sức, kỹ sư phần mềm gần 10 năm kinh nghiệm tính bỏ nghề về làm nông: “Tôi không còn tin người giỏi sẽ sống sót”",
-          "text": "Từng tin rằng AI sẽ không thể thay thế con người, nhưng giờ đây, kỹ sư phần mềm này thậm chí còn không tin rằng những người tài năng có thể chống chọi lại với khả năng của AI trong lĩnh vực lập trình.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:17 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Từng tin rằng AI sẽ không thể thay thế con người, nhưng giờ đây, kỹ sư phần mềm này thậm chí còn không tin rằng những người tài năng có thể chống chọi lại với khả năng của AI trong lĩnh vực lập trình.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:47 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -438,7 +438,7 @@
     },
     {
       "id": "news_item_8",
-      "name": "Liverpool 0-1 Arsenal",
+      "name": "'Kiến trúc Việt Nam ngày càng đề cao chất lượng và bản sắc'",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -465,31 +465,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/liverpool-0-1-arsenal-5139568.html"
+            "href": "entrance://webview/https://vnexpress.net/kien-truc-viet-nam-ngay-cang-de-cao-chat-luong-va-ban-sac-5120891.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/liverpool-0-1-arsenal-5139568.html"
+            "data": "entrance://webview/https://vnexpress.net/kien-truc-viet-nam-ngay-cang-de-cao-chat-luong-va-ban-sac-5120891.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/liverpool-0-1-arsenal-5139568.html"
+            "href": "entrance://webview/https://vnexpress.net/kien-truc-viet-nam-ngay-cang-de-cao-chat-luong-va-ban-sac-5120891.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/liverpool-0-1-arsenal-5139568.html"
+            "data": "entrance://webview/https://vnexpress.net/kien-truc-viet-nam-ngay-cang-de-cao-chat-luong-va-ban-sac-5120891.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Liverpool 0-1 Arsenal",
-          "text": "Kai Havertz ghi bàn duy nhất giúp Arsenal giành trọn ba điểm ở vòng 9 Ngoại hạng Anh, ngày 1/11.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "'Kiến trúc Việt Nam ngày càng đề cao chất lượng và bản sắc'",
+          "text": "Theo ông Freek Jansen, Giám đốc chi nhánh Việt Nam của Dewan Architects, thị trường kiến trúc đang chuyển trọng tâm sang chất lượng, trải nghiệm, bản sắc địa phương và hiệu quả vận hành.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 07:47 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -551,7 +551,7 @@
         {
           "type": "text",
           "name": "Chip AI thu hút nhà sản xuất kim cương nhân tạo Trung Quốc",
-          "text": "Nhiều doanh nghiệp sản xuất kim cương tổng hợp Trung Quốc đang nhắm đến ngành chip AI và bán dẫn với mong muốn tìm kiếm lợi nhuận cao hơn lĩnh vực trang sức.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Nhiều doanh nghiệp sản xuất kim cương tổng hợp Trung Quốc đang nhắm đến ngành chip AI và bán dẫn với mong muốn tìm kiếm lợi nhuận cao hơn lĩnh vực trang sức.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 07:47 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -613,7 +613,7 @@
         {
           "type": "text",
           "name": "Hàn Quốc phát triển AI có thể suy luận ý đồ đối phương, thắng Ma sói 65,6%",
-          "text": "Các nhà nghiên cứu Hàn Quốc phát triển AI có khả năng suy luận ý đồ, nhận diện hành vi đánh lừa và đạt tỉ lệ thắng 65,6% trong thử nghiệm trò chơi Ma sói.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Các nhà nghiên cứu Hàn Quốc phát triển AI có khả năng suy luận ý đồ, nhận diện hành vi đánh lừa và đạt tỉ lệ thắng 65,6% trong thử nghiệm trò chơi Ma sói.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 07:47 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -624,7 +624,7 @@
     },
     {
       "id": "news_item_11",
-      "name": "Lữ Văn Toàn - phạm nhân thứ 3 trốn trại giam A2, bị bắt lúc 0h tại triền núi",
+      "name": "Iran đàm phán 'rất sâu' với Mỹ: Ngoại giao con thoi và hàng chục cuộc điện đàm",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -651,31 +651,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/lu-van-toan-pham-nhan-thu-3-tron-trai-giam-a2-bi-bat-luc-0h-tai-trien-nui-100261103045046747.htm"
+            "href": "entrance://webview/https://tuoitre.vn/iran-dam-phan-rat-sau-voi-my-ngoai-giao-con-thoi-va-hang-chuc-cuoc-dien-dam-100261103062306368.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/lu-van-toan-pham-nhan-thu-3-tron-trai-giam-a2-bi-bat-luc-0h-tai-trien-nui-100261103045046747.htm"
+            "data": "entrance://webview/https://tuoitre.vn/iran-dam-phan-rat-sau-voi-my-ngoai-giao-con-thoi-va-hang-chuc-cuoc-dien-dam-100261103062306368.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/lu-van-toan-pham-nhan-thu-3-tron-trai-giam-a2-bi-bat-luc-0h-tai-trien-nui-100261103045046747.htm"
+            "href": "entrance://webview/https://tuoitre.vn/iran-dam-phan-rat-sau-voi-my-ngoai-giao-con-thoi-va-hang-chuc-cuoc-dien-dam-100261103062306368.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/lu-van-toan-pham-nhan-thu-3-tron-trai-giam-a2-bi-bat-luc-0h-tai-trien-nui-100261103045046747.htm"
+            "data": "entrance://webview/https://tuoitre.vn/iran-dam-phan-rat-sau-voi-my-ngoai-giao-con-thoi-va-hang-chuc-cuoc-dien-dam-100261103062306368.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Lữ Văn Toàn - phạm nhân thứ 3 trốn trại giam A2, bị bắt lúc 0h tại triền núi",
-          "text": "Lực lượng chức năng đã bắt giữ được Lữ Văn Toàn là phạm nhân thứ 3 trốn khỏi trại giam A2 (Bộ Công an).\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Iran đàm phán 'rất sâu' với Mỹ: Ngoại giao con thoi và hàng chục cuộc điện đàm",
+          "text": "Giữa nguy cơ Mỹ có thể không kích trở lại, Ngoại trưởng Iran Abbas Araghchi cho biết các cuộc đàm phán với Mỹ thông qua bên trung gian đang diễn ra rất sâu.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:47 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -737,7 +737,7 @@
         {
           "type": "text",
           "name": "Hết Sam Altman nhòm ngó RAM người dùng, đến lượt Jensen Huang nhòm ngó chảo chống dính trong bếp nhà bạn",
-          "text": "Lớp phủ quen thuộc trên những chiếc chảo chống dính đang được NVIDIA để mắt tới cho thế hệ phần cứng AI tiếp theo. Nhưng giữa kỳ vọng của gã khổng lồ chip và những cái lắc đầu từ chuỗi cung ứng, con đường của vật liệu này còn nhiều ẩn số.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Lớp phủ quen thuộc trên những chiếc chảo chống dính đang được NVIDIA để mắt tới cho thế hệ phần cứng AI tiếp theo. Nhưng giữa kỳ vọng của gã khổng lồ chip và những cái lắc đầu từ chuỗi cung ứng, con đường của vật liệu này còn nhiều ẩn số.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:47 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -748,7 +748,7 @@
     },
     {
       "id": "news_item_13",
-      "name": "'Kiến trúc Việt Nam ngày càng đề cao chất lượng và bản sắc'",
+      "name": "Từ tiếng Việt nào có 100 chữ 'C'?",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -775,31 +775,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/kien-truc-viet-nam-ngay-cang-de-cao-chat-luong-va-ban-sac-5120891.html"
+            "href": "entrance://webview/https://vnexpress.net/tu-tieng-viet-nao-co-100-chu-c-5135934.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/kien-truc-viet-nam-ngay-cang-de-cao-chat-luong-va-ban-sac-5120891.html"
+            "data": "entrance://webview/https://vnexpress.net/tu-tieng-viet-nao-co-100-chu-c-5135934.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/kien-truc-viet-nam-ngay-cang-de-cao-chat-luong-va-ban-sac-5120891.html"
+            "href": "entrance://webview/https://vnexpress.net/tu-tieng-viet-nao-co-100-chu-c-5135934.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/kien-truc-viet-nam-ngay-cang-de-cao-chat-luong-va-ban-sac-5120891.html"
+            "data": "entrance://webview/https://vnexpress.net/tu-tieng-viet-nao-co-100-chu-c-5135934.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "'Kiến trúc Việt Nam ngày càng đề cao chất lượng và bản sắc'",
-          "text": "Theo ông Freek Jansen, Giám đốc chi nhánh Việt Nam của Dewan Architects, thị trường kiến trúc đang chuyển trọng tâm sang chất lượng, trải nghiệm, bản sắc địa phương và hiệu quả vận hành.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Từ tiếng Việt nào có 100 chữ 'C'?",
+          "text": "Một từ tiếng Việt ngắn gọn nhưng được cho là chứa tới 100 chữ “C”. Đừng vội đếm từng ký tự, bởi đáp án ẩn chứa một mẹo bất ngờ!\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -861,7 +861,7 @@
         {
           "type": "text",
           "name": "Cấm nhập khẩu smartphone, máy tính đã qua sử dụng",
-          "text": "Từ 1/1/2027, điện thoại thông minh, máy tính cùng nhiều thiết bị công nghệ số đã qua sử dụng sẽ không được phép nhập khẩu vào Việt Nam.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Từ 1/1/2027, điện thoại thông minh, máy tính cùng nhiều thiết bị công nghệ số đã qua sử dụng sẽ không được phép nhập khẩu vào Việt Nam.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -923,7 +923,7 @@
         {
           "type": "text",
           "name": "Cách biến AI thành gia sư biết hỏi ngược, không làm bài thay học sinh",
-          "text": "AI giải bài tập trong vài giây. Nhưng một nghiên cứu lớn cho thấy học sinh dùng AI để giải hộ lại thi kém hơn người không dùng.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "AI giải bài tập trong vài giây. Nhưng một nghiên cứu lớn cho thấy học sinh dùng AI để giải hộ lại thi kém hơn người không dùng.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -934,7 +934,7 @@
     },
     {
       "id": "news_item_16",
-      "name": "Tin tức sáng 3-11: Chủ tịch PNJ cho... PNJ vay 700 tỉ đồng, lãi suất 10%/năm",
+      "name": "Video pha va chạm khiến cầu thủ ngưng tim, trận đấu tạm hoãn ở Tây Ban Nha",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -961,31 +961,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/tin-tuc-sang-3-11-chu-tich-pnj-cho-pnj-vay-700-ti-dong-lai-suat-10-nam-100261102185734967.htm"
+            "href": "entrance://webview/https://tuoitre.vn/video-pha-va-cham-khien-cau-thu-ngung-tim-tran-dau-tam-hoan-o-tay-ban-nha-100261103064456053.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/tin-tuc-sang-3-11-chu-tich-pnj-cho-pnj-vay-700-ti-dong-lai-suat-10-nam-100261102185734967.htm"
+            "data": "entrance://webview/https://tuoitre.vn/video-pha-va-cham-khien-cau-thu-ngung-tim-tran-dau-tam-hoan-o-tay-ban-nha-100261103064456053.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/tin-tuc-sang-3-11-chu-tich-pnj-cho-pnj-vay-700-ti-dong-lai-suat-10-nam-100261102185734967.htm"
+            "href": "entrance://webview/https://tuoitre.vn/video-pha-va-cham-khien-cau-thu-ngung-tim-tran-dau-tam-hoan-o-tay-ban-nha-100261103064456053.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/tin-tuc-sang-3-11-chu-tich-pnj-cho-pnj-vay-700-ti-dong-lai-suat-10-nam-100261102185734967.htm"
+            "data": "entrance://webview/https://tuoitre.vn/video-pha-va-cham-khien-cau-thu-ngung-tim-tran-dau-tam-hoan-o-tay-ban-nha-100261103064456053.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Tin tức sáng 3-11: Chủ tịch PNJ cho... PNJ vay 700 tỉ đồng, lãi suất 10%/năm",
-          "text": "Một số tin tức đáng chú ý: Dự kiến tiếp xúc cử tri trước và sau kỳ họp cuối năm HĐND TP.HCM từ 9 đến 14-11; Mẹ của Chủ tịch Novaland đăng ký bán 6,3 triệu cổ phiếu NVL; Bà Cao Thị Ngọc Dung cho PNJ vay 700 tỉ đồng, lãi suất 10%/năm...\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Video pha va chạm khiến cầu thủ ngưng tim, trận đấu tạm hoãn ở Tây Ban Nha",
+          "text": "Trận đấu giữa Tenerife và Andorra tại giải hạng hai Tây Ban Nha đã phải hoãn lại vì chấn thương kinh hoàng ở vùng đầu của một cầu thủ.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1047,7 +1047,7 @@
         {
           "type": "text",
           "name": "Dân văn phòng chọn xe máy điện sao cho đáng tiền?",
-          "text": "Với dân văn phòng hàng ngày đi làm bằng xe máy thì một chiếc xe không chỉ cần vận hành tốt, thể hiện được cá tính mà còn phải tiện dụng và có giá bán hợp lý.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Với dân văn phòng hàng ngày đi làm bằng xe máy thì một chiếc xe không chỉ cần vận hành tốt, thể hiện được cá tính mà còn phải tiện dụng và có giá bán hợp lý.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "news_item_18",
-      "name": "Từ tiếng Việt nào có 100 chữ 'C'?",
+      "name": "Messi độc diễn ghi bàn giúp Inter Miami trở lại nhì bảng",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1085,31 +1085,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/tu-tieng-viet-nao-co-100-chu-c-5135934.html"
+            "href": "entrance://webview/https://vnexpress.net/messi-doc-dien-ghi-ban-giup-inter-miami-tro-lai-nhi-bang-5139528.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/tu-tieng-viet-nao-co-100-chu-c-5135934.html"
+            "data": "entrance://webview/https://vnexpress.net/messi-doc-dien-ghi-ban-giup-inter-miami-tro-lai-nhi-bang-5139528.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/tu-tieng-viet-nao-co-100-chu-c-5135934.html"
+            "href": "entrance://webview/https://vnexpress.net/messi-doc-dien-ghi-ban-giup-inter-miami-tro-lai-nhi-bang-5139528.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/tu-tieng-viet-nao-co-100-chu-c-5135934.html"
+            "data": "entrance://webview/https://vnexpress.net/messi-doc-dien-ghi-ban-giup-inter-miami-tro-lai-nhi-bang-5139528.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Từ tiếng Việt nào có 100 chữ 'C'?",
-          "text": "Một từ tiếng Việt ngắn gọn nhưng được cho là chứa tới 100 chữ “C”. Đừng vội đếm từng ký tự, bởi đáp án ẩn chứa một mẹo bất ngờ!\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Messi độc diễn ghi bàn giúp Inter Miami trở lại nhì bảng",
+          "text": "Thủ quân Lionel Messi ghi bàn ấn định thắng lợi 2-1, sau khi kiến tạo bàn gỡ hòa trong trận Inter Miami gặp New England Revolution ở vòng 33 MLS.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1171,7 +1171,7 @@
         {
           "type": "text",
           "name": "Một số iPhone Duo xuất hiện khe hở ở bản lề",
-          "text": "Sau sự cố nứt màn hình, cộng đồng công nghệ đang tiếp tục xôn xao khi một số điện thoại gập iPhone Duo xuất hiện khe hở, gọi là Gapgate.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Sau sự cố nứt màn hình, cộng đồng công nghệ đang tiếp tục xôn xao khi một số điện thoại gập iPhone Duo xuất hiện khe hở, gọi là Gapgate.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1233,7 +1233,7 @@
         {
           "type": "text",
           "name": "Công nghệ ‘két sắt mù’ giúp AI tự mua hàng: Khỏi lo lộ thẻ, coi chừng... cháy túi",
-          "text": "Công nghệ mới giúp AI tự quẹt thẻ mua hàng mà không nhìn thấy mật khẩu hay số thẻ, nhưng lại tiềm ẩn nguy cơ mua nhầm làm ‘cháy túi’ chủ nhân.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Công nghệ mới giúp AI tự quẹt thẻ mua hàng mà không nhìn thấy mật khẩu hay số thẻ, nhưng lại tiềm ẩn nguy cơ mua nhầm làm ‘cháy túi’ chủ nhân.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1244,7 +1244,7 @@
     },
     {
       "id": "news_item_21",
-      "name": "Thời tiết hôm nay 3-11: Trung Bộ mưa rào; Nam Bộ ngày nắng, chiều mưa rào",
+      "name": "Tin tức thế giới 3-11: Đàm phán Mỹ, Nga, Ukraine sau 1 tuần nữa; Iran xác nhận đàm phán 'rất sâu' với Mỹ",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1271,31 +1271,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/thoi-tiet-hom-nay-3-11-trung-bo-mua-rao-nam-bo-ngay-nang-chieu-mua-rao-100261102160329523.htm"
+            "href": "entrance://webview/https://tuoitre.vn/tin-tuc-the-gioi-3-11-dam-phan-my-nga-ukraine-sau-1-tuan-nua-iran-xac-nhan-dam-phan-rat-sau-voi-my-100261103064006338.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/thoi-tiet-hom-nay-3-11-trung-bo-mua-rao-nam-bo-ngay-nang-chieu-mua-rao-100261102160329523.htm"
+            "data": "entrance://webview/https://tuoitre.vn/tin-tuc-the-gioi-3-11-dam-phan-my-nga-ukraine-sau-1-tuan-nua-iran-xac-nhan-dam-phan-rat-sau-voi-my-100261103064006338.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/thoi-tiet-hom-nay-3-11-trung-bo-mua-rao-nam-bo-ngay-nang-chieu-mua-rao-100261102160329523.htm"
+            "href": "entrance://webview/https://tuoitre.vn/tin-tuc-the-gioi-3-11-dam-phan-my-nga-ukraine-sau-1-tuan-nua-iran-xac-nhan-dam-phan-rat-sau-voi-my-100261103064006338.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/thoi-tiet-hom-nay-3-11-trung-bo-mua-rao-nam-bo-ngay-nang-chieu-mua-rao-100261102160329523.htm"
+            "data": "entrance://webview/https://tuoitre.vn/tin-tuc-the-gioi-3-11-dam-phan-my-nga-ukraine-sau-1-tuan-nua-iran-xac-nhan-dam-phan-rat-sau-voi-my-100261103064006338.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Thời tiết hôm nay 3-11: Trung Bộ mưa rào; Nam Bộ ngày nắng, chiều mưa rào",
-          "text": "Hôm nay 3-11, thời tiết các tình Nam Bộ nhiều mây, ngày nắng, chiều tối mưa rào. Bắc Bộ nắng, Trung Bộ có nơi còn mưa to.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Tin tức thế giới 3-11: Đàm phán Mỹ, Nga, Ukraine sau 1 tuần nữa; Iran xác nhận đàm phán 'rất sâu' với Mỹ",
+          "text": "Ngoại trưởng Iran xác nhận đàm phán với Mỹ, thông qua trung gian, đang diễn ra rất sâu; Triều Tiên bác cáo buộc hack sàn Binance.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1357,7 +1357,7 @@
         {
           "type": "text",
           "name": "Ung thư phổi vượt ung thư gan, đứng đầu ở nam giới: “Việt Nam đang trả giá cho hành vi của 20-30 năm trước”",
-          "text": "Ung thư phổi đã vươn lên vị trí có số ca mắc mới cao nhất ở nam giới Việt Nam, vượt ung thư gan. Theo chuyên gia, đây là bước ngoặt phản ánh sự chuyển dịch mô hình bệnh ung thư.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Ung thư phổi đã vươn lên vị trí có số ca mắc mới cao nhất ở nam giới Việt Nam, vượt ung thư gan. Theo chuyên gia, đây là bước ngoặt phản ánh sự chuyển dịch mô hình bệnh ung thư.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1368,7 +1368,7 @@
     },
     {
       "id": "news_item_23",
-      "name": "Messi độc diễn ghi bàn giúp Inter Miami trở lại nhì bảng",
+      "name": "Kia Sorento HEV – công nghệ hybrid nâng tầm vận hành",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1395,31 +1395,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/messi-doc-dien-ghi-ban-giup-inter-miami-tro-lai-nhi-bang-5139528.html"
+            "href": "entrance://webview/https://vnexpress.net/kia-sorento-hev-cong-nghe-hybrid-nang-tam-van-hanh-5139497.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/messi-doc-dien-ghi-ban-giup-inter-miami-tro-lai-nhi-bang-5139528.html"
+            "data": "entrance://webview/https://vnexpress.net/kia-sorento-hev-cong-nghe-hybrid-nang-tam-van-hanh-5139497.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/messi-doc-dien-ghi-ban-giup-inter-miami-tro-lai-nhi-bang-5139528.html"
+            "href": "entrance://webview/https://vnexpress.net/kia-sorento-hev-cong-nghe-hybrid-nang-tam-van-hanh-5139497.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/messi-doc-dien-ghi-ban-giup-inter-miami-tro-lai-nhi-bang-5139528.html"
+            "data": "entrance://webview/https://vnexpress.net/kia-sorento-hev-cong-nghe-hybrid-nang-tam-van-hanh-5139497.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Messi độc diễn ghi bàn giúp Inter Miami trở lại nhì bảng",
-          "text": "Thủ quân Lionel Messi ghi bàn ấn định thắng lợi 2-1, sau khi kiến tạo bàn gỡ hòa trong trận Inter Miami gặp New England Revolution ở vòng 33 MLS.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Kia Sorento HEV – công nghệ hybrid nâng tầm vận hành",
+          "text": "Công nghệ hybrid giúp mẫu SUV 7 chỗ tăng khả năng vận hành, kết hợp hệ dẫn động AWD, hộp số 6 cấp để chinh phục thử thách khó nhằn trong hành trình Car Test.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1481,7 +1481,7 @@
         {
           "type": "text",
           "name": "Quản lý Anthropic không còn kiểm tra lập trình khi tuyển dụng",
-          "text": "Felix Rieseberg, quản lý tuyển dụng tại Anthropic, nói đã dừng hoàn toàn bài kiểm tra lập trình khi tuyển dụng vì AI đang làm tốt hơn con người.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Felix Rieseberg, quản lý tuyển dụng tại Anthropic, nói đã dừng hoàn toàn bài kiểm tra lập trình khi tuyển dụng vì AI đang làm tốt hơn con người.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1543,7 +1543,7 @@
         {
           "type": "text",
           "name": "Binance bị tấn công mạng: Phong tỏa hơn 2,5 tỉ USD, thị trường tiền mã hóa chao đảo",
-          "text": "Binance cho biết đã phong tỏa hơn 2,5 tỉ USD tài sản liên quan vụ tấn công mạng, trong khi thiệt hại được ước tính có thể lên tới 5,9 tỉ USD.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Binance cho biết đã phong tỏa hơn 2,5 tỉ USD tài sản liên quan vụ tấn công mạng, trong khi thiệt hại được ước tính có thể lên tới 5,9 tỉ USD.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1554,7 +1554,7 @@
     },
     {
       "id": "news_item_26",
-      "name": "250 triệu 'uống nước', hơn 850 triệu 'cảm ơn' trong vụ xin xuất khẩu quặng ở Lào Cai",
+      "name": "Ronaldo vắng mặt trong trận Al Nassr thắng ở AFC Champions League Elite",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1581,31 +1581,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/250-trieu-uong-nuoc-hon-850-trieu-cam-on-trong-vu-xin-xuat-khau-quang-o-lao-cai-100261102233824856.htm"
+            "href": "entrance://webview/https://tuoitre.vn/ronaldo-vang-mat-trong-tran-al-nassr-thang-o-afc-champions-league-elite-100261103060439317.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/250-trieu-uong-nuoc-hon-850-trieu-cam-on-trong-vu-xin-xuat-khau-quang-o-lao-cai-100261102233824856.htm"
+            "data": "entrance://webview/https://tuoitre.vn/ronaldo-vang-mat-trong-tran-al-nassr-thang-o-afc-champions-league-elite-100261103060439317.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/250-trieu-uong-nuoc-hon-850-trieu-cam-on-trong-vu-xin-xuat-khau-quang-o-lao-cai-100261102233824856.htm"
+            "href": "entrance://webview/https://tuoitre.vn/ronaldo-vang-mat-trong-tran-al-nassr-thang-o-afc-champions-league-elite-100261103060439317.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/250-trieu-uong-nuoc-hon-850-trieu-cam-on-trong-vu-xin-xuat-khau-quang-o-lao-cai-100261102233824856.htm"
+            "data": "entrance://webview/https://tuoitre.vn/ronaldo-vang-mat-trong-tran-al-nassr-thang-o-afc-champions-league-elite-100261103060439317.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "250 triệu 'uống nước', hơn 850 triệu 'cảm ơn' trong vụ xin xuất khẩu quặng ở Lào Cai",
-          "text": "Để được xuất khẩu quặng sắt mua từ VTM, nhiều doanh nghiệp tìm gặp hoặc nhờ người quen liên hệ với lãnh đạo tỉnh Lào Cai.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Ronaldo vắng mặt trong trận Al Nassr thắng ở AFC Champions League Elite",
+          "text": "Cristiano Ronaldo bất ngờ không có tên trong danh sách các cầu thủ Al Nassr di chuyển sang Uzbekistan gặp đội chủ nhà Pakhtakor Tashkent ở lượt trận thứ tư vòng phân hạng AFC Champions League Elite.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1667,7 +1667,7 @@
         {
           "type": "text",
           "name": "Hãng điện thoại đứng top 1 sàn TMĐT đang bị Samsung rút ngắn khoảng cách",
-          "text": "Samsung tăng gần gấp đôi, Vinamilk vượt cả Xiaomi, còn khoảng cách giữa hai hãng điện thoại hàng đầu chỉ còn chưa đến một phần sáu doanh số của Apple.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Samsung tăng gần gấp đôi, Vinamilk vượt cả Xiaomi, còn khoảng cách giữa hai hãng điện thoại hàng đầu chỉ còn chưa đến một phần sáu doanh số của Apple.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1678,7 +1678,7 @@
     },
     {
       "id": "news_item_28",
-      "name": "Kia Sorento HEV – công nghệ hybrid nâng tầm vận hành",
+      "name": "Nghị sĩ Dân chủ đổi phe, ủng hộ ứng viên Cộng hòa vào Thượng viện",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1705,31 +1705,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/kia-sorento-hev-cong-nghe-hybrid-nang-tam-van-hanh-5139497.html"
+            "href": "entrance://webview/https://vnexpress.net/nghi-si-dan-chu-doi-phe-ung-ho-ung-vien-cong-hoa-vao-thuong-vien-5139500.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/kia-sorento-hev-cong-nghe-hybrid-nang-tam-van-hanh-5139497.html"
+            "data": "entrance://webview/https://vnexpress.net/nghi-si-dan-chu-doi-phe-ung-ho-ung-vien-cong-hoa-vao-thuong-vien-5139500.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/kia-sorento-hev-cong-nghe-hybrid-nang-tam-van-hanh-5139497.html"
+            "href": "entrance://webview/https://vnexpress.net/nghi-si-dan-chu-doi-phe-ung-ho-ung-vien-cong-hoa-vao-thuong-vien-5139500.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/kia-sorento-hev-cong-nghe-hybrid-nang-tam-van-hanh-5139497.html"
+            "data": "entrance://webview/https://vnexpress.net/nghi-si-dan-chu-doi-phe-ung-ho-ung-vien-cong-hoa-vao-thuong-vien-5139500.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Kia Sorento HEV – công nghệ hybrid nâng tầm vận hành",
-          "text": "Công nghệ hybrid giúp mẫu SUV 7 chỗ tăng khả năng vận hành, kết hợp hệ dẫn động AWD, hộp số 6 cấp để chinh phục thử thách khó nhằn trong hành trình Car Test.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Nghị sĩ Dân chủ đổi phe, ủng hộ ứng viên Cộng hòa vào Thượng viện",
+          "text": "Hạ nghị sĩ Dân chủ Haley Stevens tuyên bố ủng hộ ứng viên thượng nghị sĩ Cộng hòa ở Michigan, thu hút sự ca ngợi từ Tổng thống Trump.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1791,7 +1791,7 @@
         {
           "type": "text",
           "name": "DeepSeek phát triển siêu tác nhân phối hợp nhiều trợ lý AI",
-          "text": "Hệ thống siêu tác nhân của DeepSeek có thể tự động chia việc để nhiều trợ lý AI thực hiện đồng thời và giám sát kết quả thay con người.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Hệ thống siêu tác nhân của DeepSeek có thể tự động chia việc để nhiều trợ lý AI thực hiện đồng thời và giám sát kết quả thay con người.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1853,7 +1853,7 @@
         {
           "type": "text",
           "name": "Việt Nam tham gia Hiệp định Artemis về khám phá không gian",
-          "text": "Lễ trao Hiệp định Artemis diễn ra sáng 28-10, trong khuôn khổ Tuần lễ số quốc tế Việt Nam 2026 tại Quảng Ninh.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Lễ trao Hiệp định Artemis diễn ra sáng 28-10, trong khuôn khổ Tuần lễ số quốc tế Việt Nam 2026 tại Quảng Ninh.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "news_item_31",
-      "name": "Giá vàng thế giới bật tăng gần 100 USD/ounce, lên sát 4.000 USD/ounce",
+      "name": "CLB Công An Hà Nội đấu Kyoto Sanga: Chờ thêm kỳ tích",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1891,31 +1891,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/gia-vang-the-gioi-bat-tang-gan-100-usd-ounce-len-sat-4000-usd-ounce-100261103000430614.htm"
+            "href": "entrance://webview/https://tuoitre.vn/clb-cong-an-ha-noi-dau-kyoto-sanga-cho-them-ky-tich-100261102211818317.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/gia-vang-the-gioi-bat-tang-gan-100-usd-ounce-len-sat-4000-usd-ounce-100261103000430614.htm"
+            "data": "entrance://webview/https://tuoitre.vn/clb-cong-an-ha-noi-dau-kyoto-sanga-cho-them-ky-tich-100261102211818317.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/gia-vang-the-gioi-bat-tang-gan-100-usd-ounce-len-sat-4000-usd-ounce-100261103000430614.htm"
+            "href": "entrance://webview/https://tuoitre.vn/clb-cong-an-ha-noi-dau-kyoto-sanga-cho-them-ky-tich-100261102211818317.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/gia-vang-the-gioi-bat-tang-gan-100-usd-ounce-len-sat-4000-usd-ounce-100261103000430614.htm"
+            "data": "entrance://webview/https://tuoitre.vn/clb-cong-an-ha-noi-dau-kyoto-sanga-cho-them-ky-tich-100261102211818317.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Giá vàng thế giới bật tăng gần 100 USD/ounce, lên sát 4.000 USD/ounce",
-          "text": "Sau khi xuống mức thấp nhất trong vòng một năm, lúc 23h50 khuya 2-11, giá vàng thế giới bất ngờ tăng đến 92 USD/ounce, lên mức 3.970 USD/ounce.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "CLB Công An Hà Nội đấu Kyoto Sanga: Chờ thêm kỳ tích",
+          "text": "Chiến thắng trước Cảng Thượng Hải có thể tiếp thêm sự tự tin cho CLB Công An Hà Nội trong trận đấu tiếp theo tại AFC Champions League Elite 2026-2027.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1977,7 +1977,7 @@
         {
           "type": "text",
           "name": "Chính thức 1/1/2027, cấm nhập khẩu điện thoại, máy tính, máy ảnh đã qua sử dụng",
-          "text": "Từ ngày 1/1/2027, Việt Nam sẽ cấm nhập khẩu nhiều mặt hàng điện tử đã qua sử dụng, trong đó có điện thoại, máy tính, máy ảnh và linh kiện.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Từ ngày 1/1/2027, Việt Nam sẽ cấm nhập khẩu nhiều mặt hàng điện tử đã qua sử dụng, trong đó có điện thoại, máy tính, máy ảnh và linh kiện.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1988,7 +1988,7 @@
     },
     {
       "id": "news_item_33",
-      "name": "Nghị sĩ Dân chủ đổi phe, ủng hộ ứng viên Cộng hòa vào Thượng viện",
+      "name": "Tỷ phú Trung Quốc khoe sắc trong váy nhà mốt Việt",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2015,31 +2015,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/nghi-si-dan-chu-doi-phe-ung-ho-ung-vien-cong-hoa-vao-thuong-vien-5139500.html"
+            "href": "entrance://webview/https://vnexpress.net/ty-phu-trung-quoc-khoe-sac-trong-vay-nha-mot-viet-5139507.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nghi-si-dan-chu-doi-phe-ung-ho-ung-vien-cong-hoa-vao-thuong-vien-5139500.html"
+            "data": "entrance://webview/https://vnexpress.net/ty-phu-trung-quoc-khoe-sac-trong-vay-nha-mot-viet-5139507.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/nghi-si-dan-chu-doi-phe-ung-ho-ung-vien-cong-hoa-vao-thuong-vien-5139500.html"
+            "href": "entrance://webview/https://vnexpress.net/ty-phu-trung-quoc-khoe-sac-trong-vay-nha-mot-viet-5139507.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nghi-si-dan-chu-doi-phe-ung-ho-ung-vien-cong-hoa-vao-thuong-vien-5139500.html"
+            "data": "entrance://webview/https://vnexpress.net/ty-phu-trung-quoc-khoe-sac-trong-vay-nha-mot-viet-5139507.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Nghị sĩ Dân chủ đổi phe, ủng hộ ứng viên Cộng hòa vào Thượng viện",
-          "text": "Hạ nghị sĩ Dân chủ Haley Stevens tuyên bố ủng hộ ứng viên thượng nghị sĩ Cộng hòa ở Michigan, thu hút sự ca ngợi từ Tổng thống Trump.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Tỷ phú Trung Quốc khoe sắc trong váy nhà mốt Việt",
+          "text": "\"Em gái trà sữa\" Chương Trạch Thiên diện đầm của Phan Huy dự tiệc cùng Châu Nhuận Phát, Lưu Gia Linh.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2101,7 +2101,7 @@
         {
           "type": "text",
           "name": "Startup Việt thắng giải Doanh nghiệp khởi nghiệp AI tại Hàn Quốc",
-          "text": "Enfarm Agritech, nền tảng trí tuệ nhân tạo hỗ trợ nông dân ra quyết định canh tác, vượt qua bốn startup để chiến thắng AI Startup Award 2026.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Enfarm Agritech, nền tảng trí tuệ nhân tạo hỗ trợ nông dân ra quyết định canh tác, vượt qua bốn startup để chiến thắng AI Startup Award 2026.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2112,7 +2112,7 @@
     },
     {
       "id": "news_item_35",
-      "name": "Lăng Bác mở cửa trở lại phục vụ nhân dân, khách quốc tế từ hôm nay 3-11",
+      "name": "Dự đoán tỉ số Champions League: Atletico Madrid gây bất ngờ trước Bayern Munich",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2139,31 +2139,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/lang-bac-mo-cua-tro-lai-phuc-vu-nhan-dan-khach-quoc-te-tu-hom-nay-3-11-10026110223395461.htm"
+            "href": "entrance://webview/https://tuoitre.vn/du-doan-ti-so-champions-league-atletico-madrid-gay-bat-ngo-truoc-bayern-munich-100261102200549807.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/lang-bac-mo-cua-tro-lai-phuc-vu-nhan-dan-khach-quoc-te-tu-hom-nay-3-11-10026110223395461.htm"
+            "data": "entrance://webview/https://tuoitre.vn/du-doan-ti-so-champions-league-atletico-madrid-gay-bat-ngo-truoc-bayern-munich-100261102200549807.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/lang-bac-mo-cua-tro-lai-phuc-vu-nhan-dan-khach-quoc-te-tu-hom-nay-3-11-10026110223395461.htm"
+            "href": "entrance://webview/https://tuoitre.vn/du-doan-ti-so-champions-league-atletico-madrid-gay-bat-ngo-truoc-bayern-munich-100261102200549807.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/lang-bac-mo-cua-tro-lai-phuc-vu-nhan-dan-khach-quoc-te-tu-hom-nay-3-11-10026110223395461.htm"
+            "data": "entrance://webview/https://tuoitre.vn/du-doan-ti-so-champions-league-atletico-madrid-gay-bat-ngo-truoc-bayern-munich-100261102200549807.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Lăng Bác mở cửa trở lại phục vụ nhân dân, khách quốc tế từ hôm nay 3-11",
-          "text": "Sau thời gian tu bổ định kỳ, Lăng Chủ tịch Hồ Chí Minh mở cửa trở lại từ hôm nay 3-11, phục vụ nhân dân, khách quốc tế và các tổ chức, đoàn thể đến viếng Bác.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Dự đoán tỉ số Champions League: Atletico Madrid gây bất ngờ trước Bayern Munich",
+          "text": "Tiếp đón Bayern Munich trên sân nhà, Atletico Madrid hoàn toàn đủ khả năng đánh bại đối thủ lúc 3h ngày 4-11 ở lượt trận thứ tư vòng phân hạng Champions League 2026-2027.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2225,7 +2225,7 @@
         {
           "type": "text",
           "name": "Vivo ra mắt smartphone giá rẻ pin 8.000 mAh, chống nước IP69, dùng chip Snapdragon 5G",
-          "text": "Vivo Y32 5G vừa xuất hiện trên website chính thức với pin dung lượng 8.000 mAh, chip Snapdragon 4 Gen 2 và khả năng kháng nước, bụi IP68/IP69. Máy còn hỗ trợ sạc nhanh 44W và màn hình 120 Hz.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Vivo Y32 5G vừa xuất hiện trên website chính thức với pin dung lượng 8.000 mAh, chip Snapdragon 4 Gen 2 và khả năng kháng nước, bụi IP68/IP69. Máy còn hỗ trợ sạc nhanh 44W và màn hình 120 Hz.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2236,7 +2236,7 @@
     },
     {
       "id": "news_item_37",
-      "name": "Tỷ phú Trung Quốc khoe sắc trong váy nhà mốt Việt",
+      "name": "HLV Park Hang-seo bị miệt thị ở giải Thái Lan",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2263,31 +2263,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/ty-phu-trung-quoc-khoe-sac-trong-vay-nha-mot-viet-5139507.html"
+            "href": "entrance://webview/https://vnexpress.net/hlv-park-hang-seo-bi-miet-thi-o-giai-thai-lan-5139513.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/ty-phu-trung-quoc-khoe-sac-trong-vay-nha-mot-viet-5139507.html"
+            "data": "entrance://webview/https://vnexpress.net/hlv-park-hang-seo-bi-miet-thi-o-giai-thai-lan-5139513.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/ty-phu-trung-quoc-khoe-sac-trong-vay-nha-mot-viet-5139507.html"
+            "href": "entrance://webview/https://vnexpress.net/hlv-park-hang-seo-bi-miet-thi-o-giai-thai-lan-5139513.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/ty-phu-trung-quoc-khoe-sac-trong-vay-nha-mot-viet-5139507.html"
+            "data": "entrance://webview/https://vnexpress.net/hlv-park-hang-seo-bi-miet-thi-o-giai-thai-lan-5139513.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Tỷ phú Trung Quốc khoe sắc trong váy nhà mốt Việt",
-          "text": "\"Em gái trà sữa\" Chương Trạch Thiên diện đầm của Phan Huy dự tiệc cùng Châu Nhuận Phát, Lưu Gia Linh.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "HLV Park Hang-seo bị miệt thị ở giải Thái Lan",
+          "text": "HLV Park Hang-seo nổi nóng khi một số CĐV Pattaya United dùng từ ngữ miệt thị sau trận hòa Kanchanaburi 2-2 ở vòng 9 Thai League 2 2026-2027.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2349,7 +2349,7 @@
         {
           "type": "text",
           "name": "Musk phản bác Altman, nói mọi người cũng cần có RAM",
-          "text": "Elon Musk mỉa mai quan điểm của CEO OpenAI Sam Altman khi đăng ảnh chế hàm ý ai cũng có quyền sở hữu chip nhớ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Elon Musk mỉa mai quan điểm của CEO OpenAI Sam Altman khi đăng ảnh chế hàm ý ai cũng có quyền sở hữu chip nhớ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2360,7 +2360,7 @@
     },
     {
       "id": "news_item_39",
-      "name": "An ninh Hàn Quốc bối rối: Thông tin hộ chiếu của Tổng thống bị lộ trên mạng suốt 5 tháng",
+      "name": "Mekong, lời nguyền của sông mẹ vĩ đại - Kỳ 1: Bí ẩn trường giang",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2387,31 +2387,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/an-ninh-han-quoc-boi-roi-thong-tin-ho-chieu-cua-tong-thong-bi-lo-tren-mang-suot-5-thang-100261102232431294.htm"
+            "href": "entrance://webview/https://tuoitre.vn/mekong-loi-nguyen-cua-song-me-vi-dai-ky-1-bi-an-truong-giang-10026110221343736.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/an-ninh-han-quoc-boi-roi-thong-tin-ho-chieu-cua-tong-thong-bi-lo-tren-mang-suot-5-thang-100261102232431294.htm"
+            "data": "entrance://webview/https://tuoitre.vn/mekong-loi-nguyen-cua-song-me-vi-dai-ky-1-bi-an-truong-giang-10026110221343736.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/an-ninh-han-quoc-boi-roi-thong-tin-ho-chieu-cua-tong-thong-bi-lo-tren-mang-suot-5-thang-100261102232431294.htm"
+            "href": "entrance://webview/https://tuoitre.vn/mekong-loi-nguyen-cua-song-me-vi-dai-ky-1-bi-an-truong-giang-10026110221343736.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/an-ninh-han-quoc-boi-roi-thong-tin-ho-chieu-cua-tong-thong-bi-lo-tren-mang-suot-5-thang-100261102232431294.htm"
+            "data": "entrance://webview/https://tuoitre.vn/mekong-loi-nguyen-cua-song-me-vi-dai-ky-1-bi-an-truong-giang-10026110221343736.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "An ninh Hàn Quốc bối rối: Thông tin hộ chiếu của Tổng thống bị lộ trên mạng suốt 5 tháng",
-          "text": "Phủ Tổng thống Hàn Quốc đã phải triển khai các biện pháp ứng phó sau khi biết về vụ thông tin hộ chiếu của Tổng thống Lee Jae Myung, Phu nhân và hàng loạt quan chức cấp cao bị rò rỉ trên mạng.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Mekong, lời nguyền của sông mẹ vĩ đại - Kỳ 1: Bí ẩn trường giang",
+          "text": "Nhiều thế kỷ trước, Mekong đã thôi thúc bước chân khám phá nhưng đều không đến được thượng nguồn. Phải chờ tới năm 1866, nhóm thám hiểm Lagrée và Garnier mới giải mã được bí mật dòng sông.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:48 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2473,7 +2473,7 @@
         {
           "type": "text",
           "name": "Redmi M100 Pro ra mắt: Màn hình OLED 120 Hz, camera 50 MP, pin 5.500 mAh nhưng giá gần 9 triệu đồng",
-          "text": "Mẫu máy này có nhiều điểm tương đồng với một smartphone Redmi từng được bán ở thị trường quốc tế!\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:18 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Mẫu máy này có nhiều điểm tương đồng với một smartphone Redmi từng được bán ở thị trường quốc tế!\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:49 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2484,7 +2484,7 @@
     },
     {
       "id": "news_item_41",
-      "name": "Kết quả, bảng xếp hạng bóng chuyền nam vô địch quốc gia ngày 2-11",
+      "name": "Hàng chục siêu thị châu Âu gặp sự cố, tủ lạnh bị chỉnh lên 70 độ C",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2511,31 +2511,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/ket-qua-bang-xep-hang-bong-chuyen-nam-vo-dich-quoc-gia-ngay-2-11-10026110222494522.htm"
+            "href": "entrance://webview/https://tuoitre.vn/hang-chuc-sieu-thi-chau-au-gap-su-co-tu-lanh-bi-chinh-len-70-do-c-100261103062130104.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/ket-qua-bang-xep-hang-bong-chuyen-nam-vo-dich-quoc-gia-ngay-2-11-10026110222494522.htm"
+            "data": "entrance://webview/https://tuoitre.vn/hang-chuc-sieu-thi-chau-au-gap-su-co-tu-lanh-bi-chinh-len-70-do-c-100261103062130104.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/ket-qua-bang-xep-hang-bong-chuyen-nam-vo-dich-quoc-gia-ngay-2-11-10026110222494522.htm"
+            "href": "entrance://webview/https://tuoitre.vn/hang-chuc-sieu-thi-chau-au-gap-su-co-tu-lanh-bi-chinh-len-70-do-c-100261103062130104.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/ket-qua-bang-xep-hang-bong-chuyen-nam-vo-dich-quoc-gia-ngay-2-11-10026110222494522.htm"
+            "data": "entrance://webview/https://tuoitre.vn/hang-chuc-sieu-thi-chau-au-gap-su-co-tu-lanh-bi-chinh-len-70-do-c-100261103062130104.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Kết quả, bảng xếp hạng bóng chuyền nam vô địch quốc gia ngày 2-11",
-          "text": "Trận đại chiến giữa Biên Phòng và Công An TP.HCM tại Giải bóng chuyền nam vô địch quốc gia 2026 diễn ra với kịch bản đầy kịch tính như hứa hẹn.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:19 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Hàng chục siêu thị châu Âu gặp sự cố, tủ lạnh bị chỉnh lên 70 độ C",
+          "text": "Hệ thống tủ lạnh, tủ đông tại nhiều siêu thị ở Bỉ, Thụy Điển và Ireland bị tăng nhiệt độ bất thường, khiến thực phẩm hư hỏng và làm dấy lên nghi vấn về một vụ tấn công mạng.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 07:49 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2597,7 +2597,7 @@
         {
           "type": "text",
           "name": "\"Đập hộp\", trên tay nhanh máy đọc sách Boox Picco",
-          "text": "Sau một thời gian trải nghiệm ngắn, tôi đã có một số nhận định về những điểm thành công, những hạn chế hiện tại của thiết bị nhỏ nhắn kỳ lạ này, và có lẽ quan trọng nhất là liệu có thực sự tồn tại một nhu cầu sử dụng thuyết phục nào cho một chiếc máy đọc sách E-Ink nhỏ đến vậy hay không.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:19 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Sau một thời gian trải nghiệm ngắn, tôi đã có một số nhận định về những điểm thành công, những hạn chế hiện tại của thiết bị nhỏ nhắn kỳ lạ này, và có lẽ quan trọng nhất là liệu có thực sự tồn tại một nhu cầu sử dụng thuyết phục nào cho một chiếc máy đọc sách E-Ink nhỏ đến vậy hay không.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:49 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2659,7 +2659,7 @@
         {
           "type": "text",
           "name": "Xiaomi 18 Pro Series sắp ra mắt toàn cầu trong tháng 11, giá có thể lên tới gần 55 triệu đồng",
-          "text": "Xiaomi xác nhận bộ đôi Xiaomi 18 Pro và Xiaomi 18 Pro Max sẽ ra mắt thị trường quốc tế trong tháng này. Tuy nhiên, phiên bản toàn cầu được cho là sẽ có dung lượng pin thấp hơn đáng kể so với các mẫu máy bán tại Trung Quốc!\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:19 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Xiaomi xác nhận bộ đôi Xiaomi 18 Pro và Xiaomi 18 Pro Max sẽ ra mắt thị trường quốc tế trong tháng này. Tuy nhiên, phiên bản toàn cầu được cho là sẽ có dung lượng pin thấp hơn đáng kể so với các mẫu máy bán tại Trung Quốc!\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:49 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2721,7 +2721,7 @@
         {
           "type": "text",
           "name": "Tám phát hiện khoa học rùng rợn nhất năm 2026 khiến bạn tưởng như đang xem phim kinh dị",
-          "text": "Khoa học và kinh dị đều đam mê khám phá những bí ẩn nằm sâu dưới bề mặt. Năm 2026, các nhà nghiên cứu đã phơi bày hàng loạt sự thật rùng rợn: từ mô thịt từ chối cái chết, ngôi mộ ma cà rồng, cho đến những âm thanh vô hình thao túng tâm trí con người.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:19 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Khoa học và kinh dị đều đam mê khám phá những bí ẩn nằm sâu dưới bề mặt. Năm 2026, các nhà nghiên cứu đã phơi bày hàng loạt sự thật rùng rợn: từ mô thịt từ chối cái chết, ngôi mộ ma cà rồng, cho đến những âm thanh vô hình thao túng tâm trí con người.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 07:49 - 03/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
