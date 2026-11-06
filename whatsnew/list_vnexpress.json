@@ -55,7 +55,7 @@
         {
           "type": "text",
           "name": "Tổng Bí thư, Chủ tịch nước: Chuẩn bị cơ sở lý luận và thực tiễn để nghiên cứu, đề xuất sửa đổi tổng thể Hiến pháp",
-          "text": "Tổng Bí thư, Chủ tịch nước Tô Lâm nhấn mạnh phát triển hôm nay phải tạo thêm năng lực cho ngày mai, không để lợi ích trước mắt làm tổn hại môi trường, sự ổn định và cơ hội của các thế hệ tiếp theo.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:17 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tổng Bí thư, Chủ tịch nước Tô Lâm nhấn mạnh phát triển hôm nay phải tạo thêm năng lực cho ngày mai, không để lợi ích trước mắt làm tổn hại môi trường, sự ổn định và cơ hội của các thế hệ tiếp theo.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:42 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -66,7 +66,7 @@
     },
     {
       "id": "news_item_2",
-      "name": "Sự thật bất ngờ phía sau cơn khát nước ngọt khổng lồ của các trung tâm dữ liệu",
+      "name": "Thảm kịch hồ Nyos: Cái chết vô hình cướp đi gần một nghìn tám trăm sinh mạng trong đêm",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -93,31 +93,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/su-that-bat-ngo-phia-sau-con-khat-nuoc-ngot-khong-lo-cua-cac-trung-tam-du-lieu-165261106105554991.chn"
+            "href": "entrance://webview/https://genk.vn/tham-kich-ho-nyos-cai-chet-vo-hinh-cuop-di-gan-mot-nghin-tam-tram-sinh-mang-trong-dem-165261106105814581.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/su-that-bat-ngo-phia-sau-con-khat-nuoc-ngot-khong-lo-cua-cac-trung-tam-du-lieu-165261106105554991.chn"
+            "data": "entrance://webview/https://genk.vn/tham-kich-ho-nyos-cai-chet-vo-hinh-cuop-di-gan-mot-nghin-tam-tram-sinh-mang-trong-dem-165261106105814581.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/su-that-bat-ngo-phia-sau-con-khat-nuoc-ngot-khong-lo-cua-cac-trung-tam-du-lieu-165261106105554991.chn"
+            "href": "entrance://webview/https://genk.vn/tham-kich-ho-nyos-cai-chet-vo-hinh-cuop-di-gan-mot-nghin-tam-tram-sinh-mang-trong-dem-165261106105814581.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/su-that-bat-ngo-phia-sau-con-khat-nuoc-ngot-khong-lo-cua-cac-trung-tam-du-lieu-165261106105554991.chn"
+            "data": "entrance://webview/https://genk.vn/tham-kich-ho-nyos-cai-chet-vo-hinh-cuop-di-gan-mot-nghin-tam-tram-sinh-mang-trong-dem-165261106105814581.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Sự thật bất ngờ phía sau cơn khát nước ngọt khổng lồ của các trung tâm dữ liệu",
-          "text": "Hàng tỷ lít nước sạch đang bốc hơi lên bầu trời mỗi năm từ các trung tâm dữ liệu khổng lồ. Không phải máy móc ngâm trong nước, mà một quy luật vật lý khắc nghiệt đang âm thầm vận hành, biến công nghệ thành bài toán đánh đổi lớn.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:17 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Thảm kịch hồ Nyos: Cái chết vô hình cướp đi gần một nghìn tám trăm sinh mạng trong đêm",
+          "text": "Đêm 21 tháng 8 năm 1986 tại Cameroon, hồ Nyos bất ngờ giải phóng đám mây khí carbon dioxide khổng lồ cướp đi gần một nghìn tám trăm sinh mạng. Không hề có núi lửa phun trào, thảm kịch kinh hoàng này đã hé lộ một hiểm họa thiên nhiên vô cùng tàn khốc.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:42 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -179,7 +179,7 @@
         {
           "type": "text",
           "name": "Thất bại của đảng Cộng hòa có giúp Iran thoát sức ép?",
-          "text": "Iran kỳ vọng thất bại bầu cử của đảng Cộng hòa sẽ làm suy yếu quyết tâm chiến tranh của ông Trump, nhưng cục diện mới ở Washington chưa chắc có lợi cho Tehran.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:17 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Iran kỳ vọng thất bại bầu cử của đảng Cộng hòa sẽ làm suy yếu quyết tâm chiến tranh của ông Trump, nhưng cục diện mới ở Washington chưa chắc có lợi cho Tehran.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:42 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -241,7 +241,7 @@
         {
           "type": "text",
           "name": "Huawei ra PC 'sản xuất hoàn toàn trong nước'",
-          "text": "Huawei công bố Qinyun HM650, khẳng định máy tính để bàn này được sản xuất hoàn toàn bằng linh kiện nội địa, dành cho người dùng doanh nghiệp và chính phủ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:17 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Huawei công bố Qinyun HM650, khẳng định máy tính để bàn này được sản xuất hoàn toàn bằng linh kiện nội địa, dành cho người dùng doanh nghiệp và chính phủ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:42 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -303,7 +303,7 @@
         {
           "type": "text",
           "name": "Hé lộ lỗ hổng giúp tin tặc tấn công tủ lạnh, kho máu ở châu Âu",
-          "text": "Từ hàng trăm siêu thị đến các cơ sở bảo quản máu tại châu Âu, tin tặc đang khai thác lỗ hổng thiết bị kết nối Internet để chiếm quyền điều khiển và can thiệp hệ thống từ xa.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:17 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Từ hàng trăm siêu thị đến các cơ sở bảo quản máu tại châu Âu, tin tặc đang khai thác lỗ hổng thiết bị kết nối Internet để chiếm quyền điều khiển và can thiệp hệ thống từ xa.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:42 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -365,7 +365,7 @@
         {
           "type": "text",
           "name": "TP.HCM nâng cấp, cải tạo hoa viên góc đường Võ Văn Kiệt - An Dương Vương nhanh hơn 1 tháng",
-          "text": "Sáng 6-11, phường Bình Phú, TP.HCM tổ chức lễ khánh thành công trình nâng cấp cải tạo hoa viên góc đường Võ Văn Kiệt - An Dương Vương.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:17 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Sáng 6-11, phường Bình Phú, TP.HCM tổ chức lễ khánh thành công trình nâng cấp cải tạo hoa viên góc đường Võ Văn Kiệt - An Dương Vương.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:42 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -376,7 +376,7 @@
     },
     {
       "id": "news_item_7",
-      "name": "Người dùng MacBook lưu ý: macOS 28 sẽ ngừng hỗ trợ một loạt ứng dụng này",
+      "name": "Robot hình người của Unitree bị \"say nắng\", phải nằm cáng khi leo núi Thái Sơn",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -403,31 +403,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/nguoi-dung-macbook-luu-y-macos-28-se-ngung-ho-tro-mot-loat-ung-dung-nay-165261106113944069.chn"
+            "href": "entrance://webview/https://genk.vn/robot-hinh-nguoi-cua-unitree-bi-say-nang-phai-nam-cang-khi-leo-nui-thai-son-165261106105713675.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/nguoi-dung-macbook-luu-y-macos-28-se-ngung-ho-tro-mot-loat-ung-dung-nay-165261106113944069.chn"
+            "data": "entrance://webview/https://genk.vn/robot-hinh-nguoi-cua-unitree-bi-say-nang-phai-nam-cang-khi-leo-nui-thai-son-165261106105713675.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/nguoi-dung-macbook-luu-y-macos-28-se-ngung-ho-tro-mot-loat-ung-dung-nay-165261106113944069.chn"
+            "href": "entrance://webview/https://genk.vn/robot-hinh-nguoi-cua-unitree-bi-say-nang-phai-nam-cang-khi-leo-nui-thai-son-165261106105713675.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/nguoi-dung-macbook-luu-y-macos-28-se-ngung-ho-tro-mot-loat-ung-dung-nay-165261106113944069.chn"
+            "data": "entrance://webview/https://genk.vn/robot-hinh-nguoi-cua-unitree-bi-say-nang-phai-nam-cang-khi-leo-nui-thai-son-165261106105713675.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Người dùng MacBook lưu ý: macOS 28 sẽ ngừng hỗ trợ một loạt ứng dụng này",
-          "text": "Hãng vẫn giữ một phần công cụ dịch cho game cũ, nhưng ứng dụng thông thường viết riêng cho chip Intel sẽ không còn mở được.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:17 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Robot hình người của Unitree bị \"say nắng\", phải nằm cáng khi leo núi Thái Sơn",
+          "text": "Cuộc đua leo núi Thái Sơn đầy khắc nghiệt đã buộc mẫu robot hình người Unitree G1 phải rời đường đua trên cáng cứu thương vì quá nhiệt. Sự cố bất ngờ này nhanh chóng thổi bùng những tranh cãi về sức bền thực tế khi rời phòng thí nghiệm.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:42 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -489,7 +489,7 @@
         {
           "type": "text",
           "name": "5 môn học thiếu nhiều giáo viên nhất cả nước",
-          "text": "Cả nước còn thiếu khoảng 100.000 giáo viên, chủ yếu ở những môn mà sinh viên ra trường có nhiều cơ hội việc làm, thu nhập cao hơn nhà giáo, theo Bộ Giáo dục và Đào tạo.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:17 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Cả nước còn thiếu khoảng 100.000 giáo viên, chủ yếu ở những môn mà sinh viên ra trường có nhiều cơ hội việc làm, thu nhập cao hơn nhà giáo, theo Bộ Giáo dục và Đào tạo.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:42 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -551,7 +551,7 @@
         {
           "type": "text",
           "name": "AI lấy dữ liệu từ điện thoại đang khóa thế nào",
-          "text": "Mô hình AI chưa phát hành của Anthropic đã ghép ba lỗ hổng để lấy ảnh và dữ liệu cá nhân từ chiếc Pixel 9 đang khóa màn hình, chỉ qua một sợi cáp USB.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Mô hình AI chưa phát hành của Anthropic đã ghép ba lỗ hổng để lấy ảnh và dữ liệu cá nhân từ chiếc Pixel 9 đang khóa màn hình, chỉ qua một sợi cáp USB.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:42 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -613,7 +613,7 @@
         {
           "type": "text",
           "name": "Phát hiện mã độc mới tinh vi tấn công hệ điều hành Windows",
-          "text": "Không phát tán tập tin đáng ngờ theo cách thông thường, tin tặc lợi dụng các chương trình hợp pháp để đưa mã độc vào hệ thống Windows của cơ quan chính phủ.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Không phát tán tập tin đáng ngờ theo cách thông thường, tin tặc lợi dụng các chương trình hợp pháp để đưa mã độc vào hệ thống Windows của cơ quan chính phủ.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:42 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -675,7 +675,7 @@
         {
           "type": "text",
           "name": "Giã từ tuyển Bồ Đào Nha, mục tiêu 1.000 bàn thắng của Ronaldo có 'gãy ngang'?",
-          "text": "Không còn khoác áo tuyển quốc gia Bồ Đào Nha, mục tiêu đạt 1.000 bàn thắng trước khi giải nghệ của siêu sao Cristiano Ronaldo có thể bị ảnh hưởng.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Không còn khoác áo tuyển quốc gia Bồ Đào Nha, mục tiêu đạt 1.000 bàn thắng trước khi giải nghệ của siêu sao Cristiano Ronaldo có thể bị ảnh hưởng.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:42 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -686,7 +686,7 @@
     },
     {
       "id": "news_item_12",
-      "name": "Biến khí thải thành thịt, công nghệ không tưởng từ không khí liệu có đảo lộn ngành lương thực?",
+      "name": "Sự thật bất ngờ phía sau cơn khát nước ngọt khổng lồ của các trung tâm dữ liệu",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -713,31 +713,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/bien-khi-thai-thanh-thit-cong-nghe-khong-tuong-tu-khong-khi-lieu-co-dao-lon-nganh-luong-thuc-165261106105459111.chn"
+            "href": "entrance://webview/https://genk.vn/su-that-bat-ngo-phia-sau-con-khat-nuoc-ngot-khong-lo-cua-cac-trung-tam-du-lieu-165261106105554991.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/bien-khi-thai-thanh-thit-cong-nghe-khong-tuong-tu-khong-khi-lieu-co-dao-lon-nganh-luong-thuc-165261106105459111.chn"
+            "data": "entrance://webview/https://genk.vn/su-that-bat-ngo-phia-sau-con-khat-nuoc-ngot-khong-lo-cua-cac-trung-tam-du-lieu-165261106105554991.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/bien-khi-thai-thanh-thit-cong-nghe-khong-tuong-tu-khong-khi-lieu-co-dao-lon-nganh-luong-thuc-165261106105459111.chn"
+            "href": "entrance://webview/https://genk.vn/su-that-bat-ngo-phia-sau-con-khat-nuoc-ngot-khong-lo-cua-cac-trung-tam-du-lieu-165261106105554991.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/bien-khi-thai-thanh-thit-cong-nghe-khong-tuong-tu-khong-khi-lieu-co-dao-lon-nganh-luong-thuc-165261106105459111.chn"
+            "data": "entrance://webview/https://genk.vn/su-that-bat-ngo-phia-sau-con-khat-nuoc-ngot-khong-lo-cua-cac-trung-tam-du-lieu-165261106105554991.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Biến khí thải thành thịt, công nghệ không tưởng từ không khí liệu có đảo lộn ngành lương thực?",
-          "text": "Không cần đất đai, trang trại hay vật nuôi, các nhà khoa học đang biến khí carbon dioxide thành protein để tạo ra thịt. Bắt nguồn từ nghiên cứu không gian của NASA, giải pháp đột phá này liệu có thể giải quyết triệt để bài toán lương thực lớn?\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Sự thật bất ngờ phía sau cơn khát nước ngọt khổng lồ của các trung tâm dữ liệu",
+          "text": "Hàng tỷ lít nước sạch đang bốc hơi lên bầu trời mỗi năm từ các trung tâm dữ liệu khổng lồ. Không phải máy móc ngâm trong nước, mà một quy luật vật lý khắc nghiệt đang âm thầm vận hành, biến công nghệ thành bài toán đánh đổi lớn.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:42 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -799,7 +799,7 @@
         {
           "type": "text",
           "name": "KTM 450 RC 2028 - sportbike mới cho đô thị",
-          "text": "Mẫu sportbike lắp động cơ một xi-lanh dung tích 450 phân khối mới, trang bị nhiều tính năng và công nghệ.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Mẫu sportbike lắp động cơ một xi-lanh dung tích 450 phân khối mới, trang bị nhiều tính năng và công nghệ.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:42 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -861,7 +861,7 @@
         {
           "type": "text",
           "name": "Bill Gates: 'AI có thể gây ra đại dịch tệ hơn Covid-19'",
-          "text": "Tỷ phú công nghệ Bill Gates cảnh báo kẻ xấu có thể dùng AI tạo ra vũ khí sinh học, gây thiệt hại khủng khiếp hơn nhiều so với Covid-19.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tỷ phú công nghệ Bill Gates cảnh báo kẻ xấu có thể dùng AI tạo ra vũ khí sinh học, gây thiệt hại khủng khiếp hơn nhiều so với Covid-19.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:42 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -923,7 +923,7 @@
         {
           "type": "text",
           "name": "Eaton và KPS ký kết hợp tác chiến lược",
-          "text": "Hợp tác chiến lược giữa Eaton và KPS hướng tới phát triển các giải pháp nguồn điện và quản lý năng lượng trong hệ sinh thái công nghệ tòa nhà và trung tâm dữ liệu, đáp ứng nhu cầu của chủ đầu tư, tư vấn và nhà thầu tại Việt Nam.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Hợp tác chiến lược giữa Eaton và KPS hướng tới phát triển các giải pháp nguồn điện và quản lý năng lượng trong hệ sinh thái công nghệ tòa nhà và trung tâm dữ liệu, đáp ứng nhu cầu của chủ đầu tư, tư vấn và nhà thầu tại Việt Nam.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:42 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -985,7 +985,7 @@
         {
           "type": "text",
           "name": "Gỡ từng nút thắt, mặt bằng dự án quốc lộ 22 TP.HCM dần liền mạch",
-          "text": "Các xã Bà Điểm, Hóc Môn và Xuân Thới Sơn (TP.HCM) đang cùng nhau nỗ lực đẩy nhanh tiến độ giải phóng mặt bằng dự án nâng cấp quốc lộ 22.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Các xã Bà Điểm, Hóc Môn và Xuân Thới Sơn (TP.HCM) đang cùng nhau nỗ lực đẩy nhanh tiến độ giải phóng mặt bằng dự án nâng cấp quốc lộ 22.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:42 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -996,7 +996,7 @@
     },
     {
       "id": "news_item_17",
-      "name": "3 mẫu iPhone bị khai tử trên toàn cầu năm 2026",
+      "name": "Người dùng MacBook lưu ý: macOS 28 sẽ ngừng hỗ trợ một loạt ứng dụng này",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1023,31 +1023,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/3-mau-iphone-bi-khai-tu-tren-toan-cau-nam-2026-165261106103845461.chn"
+            "href": "entrance://webview/https://genk.vn/nguoi-dung-macbook-luu-y-macos-28-se-ngung-ho-tro-mot-loat-ung-dung-nay-165261106113944069.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/3-mau-iphone-bi-khai-tu-tren-toan-cau-nam-2026-165261106103845461.chn"
+            "data": "entrance://webview/https://genk.vn/nguoi-dung-macbook-luu-y-macos-28-se-ngung-ho-tro-mot-loat-ung-dung-nay-165261106113944069.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/3-mau-iphone-bi-khai-tu-tren-toan-cau-nam-2026-165261106103845461.chn"
+            "href": "entrance://webview/https://genk.vn/nguoi-dung-macbook-luu-y-macos-28-se-ngung-ho-tro-mot-loat-ung-dung-nay-165261106113944069.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/3-mau-iphone-bi-khai-tu-tren-toan-cau-nam-2026-165261106103845461.chn"
+            "data": "entrance://webview/https://genk.vn/nguoi-dung-macbook-luu-y-macos-28-se-ngung-ho-tro-mot-loat-ung-dung-nay-165261106113944069.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "3 mẫu iPhone bị khai tử trên toàn cầu năm 2026",
-          "text": "Apple đã khai tử hoàn toàn iPhone X, iPhone 5 và iPhone 4 (8GB) trên toàn cầu. Từ Mỹ đến Việt Nam, không cửa hàng chính hãng nào còn được cấp linh kiện để sửa ba mẫu máy này.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Người dùng MacBook lưu ý: macOS 28 sẽ ngừng hỗ trợ một loạt ứng dụng này",
+          "text": "Hãng vẫn giữ một phần công cụ dịch cho game cũ, nhưng ứng dụng thông thường viết riêng cho chip Intel sẽ không còn mở được.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:42 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1109,7 +1109,7 @@
         {
           "type": "text",
           "name": "Nhà Glazer: 'Sức hút thương mại không phụ thuộc thành tích của Man Utd'",
-          "text": "Đồng sở hữu Man Utd Avram Glazer cho rằng thương hiệu Man Utd vẫn giữ sức hút thương mại bất chấp kết quả trên sân.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Đồng sở hữu Man Utd Avram Glazer cho rằng thương hiệu Man Utd vẫn giữ sức hút thương mại bất chấp kết quả trên sân.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:42 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1171,7 +1171,7 @@
         {
           "type": "text",
           "name": "Thần đồng toán học Trung Quốc rời Mỹ về nước để theo đuổi AI",
-          "text": "Ngôi sao toán học nổi tiếng Mã Tiêu cho biết sẽ trở về Trung Quốc để tập trung vào lĩnh vực AI thay vì nghiên cứu khoa học thuần túy.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Ngôi sao toán học nổi tiếng Mã Tiêu cho biết sẽ trở về Trung Quốc để tập trung vào lĩnh vực AI thay vì nghiên cứu khoa học thuần túy.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1233,7 +1233,7 @@
         {
           "type": "text",
           "name": "Google cho trường tắt AI, học sinh có thể mất luôn Google Search",
-          "text": "Google cho phép trường học kiểm soát việc học sinh sử dụng AI, nhưng nếu chọn tắt chức năng AI, các em học sinh cũng có thể mất quyền truy cập Google Search.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Google cho phép trường học kiểm soát việc học sinh sử dụng AI, nhưng nếu chọn tắt chức năng AI, các em học sinh cũng có thể mất quyền truy cập Google Search.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1295,7 +1295,7 @@
         {
           "type": "text",
           "name": "Khánh Hòa khẩn trương tháo gỡ các dự án BT phía nam, tuyệt đối không chậm trễ",
-          "text": "Khánh Hòa yêu cầu các đơn vị là đại diện cơ quan nhà nước có thẩm quyền triển khai các dự án BT nghiêm túc chấn chỉnh, chủ động rà soát từng nội dung công việc của các dự án để triển khai xử lý theo thẩm quyền.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Khánh Hòa yêu cầu các đơn vị là đại diện cơ quan nhà nước có thẩm quyền triển khai các dự án BT nghiêm túc chấn chỉnh, chủ động rà soát từng nội dung công việc của các dự án để triển khai xử lý theo thẩm quyền.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1306,7 +1306,7 @@
     },
     {
       "id": "news_item_22",
-      "name": "Sony hồi sinh tai nghe Walkman 1979 với cổng USB-C, giá 1,5 triệu đồng",
+      "name": "Biến khí thải thành thịt, công nghệ không tưởng từ không khí liệu có đảo lộn ngành lương thực?",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1333,31 +1333,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/sony-hoi-sinh-tai-nghe-walkman-1979-voi-cong-usb-c-gia-15-trieu-dong-165261106110427657.chn"
+            "href": "entrance://webview/https://genk.vn/bien-khi-thai-thanh-thit-cong-nghe-khong-tuong-tu-khong-khi-lieu-co-dao-lon-nganh-luong-thuc-165261106105459111.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/sony-hoi-sinh-tai-nghe-walkman-1979-voi-cong-usb-c-gia-15-trieu-dong-165261106110427657.chn"
+            "data": "entrance://webview/https://genk.vn/bien-khi-thai-thanh-thit-cong-nghe-khong-tuong-tu-khong-khi-lieu-co-dao-lon-nganh-luong-thuc-165261106105459111.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/sony-hoi-sinh-tai-nghe-walkman-1979-voi-cong-usb-c-gia-15-trieu-dong-165261106110427657.chn"
+            "href": "entrance://webview/https://genk.vn/bien-khi-thai-thanh-thit-cong-nghe-khong-tuong-tu-khong-khi-lieu-co-dao-lon-nganh-luong-thuc-165261106105459111.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/sony-hoi-sinh-tai-nghe-walkman-1979-voi-cong-usb-c-gia-15-trieu-dong-165261106110427657.chn"
+            "data": "entrance://webview/https://genk.vn/bien-khi-thai-thanh-thit-cong-nghe-khong-tuong-tu-khong-khi-lieu-co-dao-lon-nganh-luong-thuc-165261106105459111.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Sony hồi sinh tai nghe Walkman 1979 với cổng USB-C, giá 1,5 triệu đồng",
-          "text": "Mẫu tai nghe có dáng y hệt bản đi kèm chiếc Walkman đầu tiên, chỉ đổi đầu cắm cũ sang USB-C và thêm micro để nghe gọi.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Biến khí thải thành thịt, công nghệ không tưởng từ không khí liệu có đảo lộn ngành lương thực?",
+          "text": "Không cần đất đai, trang trại hay vật nuôi, các nhà khoa học đang biến khí carbon dioxide thành protein để tạo ra thịt. Bắt nguồn từ nghiên cứu không gian của NASA, giải pháp đột phá này liệu có thể giải quyết triệt để bài toán lương thực lớn?\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1419,7 +1419,7 @@
         {
           "type": "text",
           "name": "Bitcoin và tiền số bị bán tháo",
-          "text": "Bitcoin giảm mạnh khi làn sóng bán tháo cổ phiếu công nghệ Mỹ lan sang thị trường tiền số, thổi bay hơn 1 tỷ USD vị thế phái sinh.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Bitcoin giảm mạnh khi làn sóng bán tháo cổ phiếu công nghệ Mỹ lan sang thị trường tiền số, thổi bay hơn 1 tỷ USD vị thế phái sinh.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1481,7 +1481,7 @@
         {
           "type": "text",
           "name": "SpaceX hợp tác Qualcomm phát triển mạng Starlink Mobile 5G",
-          "text": "Tập đoàn của Elon Musk đạt thỏa thuận với Qualcomm nhằm cung cấp thiết bị cho các trạm phát sóng mặt đất nhằm cạnh tranh với các ông lớn viễn thông Mỹ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tập đoàn của Elon Musk đạt thỏa thuận với Qualcomm nhằm cung cấp thiết bị cho các trạm phát sóng mặt đất nhằm cạnh tranh với các ông lớn viễn thông Mỹ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1543,7 +1543,7 @@
         {
           "type": "text",
           "name": "Siri AI đã biết tiếng Việt, iPhone đời nào dùng được?",
-          "text": "Apple bổ sung tiếng Việt vào Siri AI trong bản thử nghiệm iOS 27.3, dự kiến phát hành chính thức vào tháng 12.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Apple bổ sung tiếng Việt vào Siri AI trong bản thử nghiệm iOS 27.3, dự kiến phát hành chính thức vào tháng 12.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1605,7 +1605,7 @@
         {
           "type": "text",
           "name": "Hình ảnh vệ tinh: Tàu sân bay Mỹ USS Roosevelt tiến về Trung Đông",
-          "text": "Tàu sân bay USS Theodore Roosevelt cùng bốn tàu quân sự hộ tống đang hướng tới Trung Đông.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tàu sân bay USS Theodore Roosevelt cùng bốn tàu quân sự hộ tống đang hướng tới Trung Đông.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1616,7 +1616,7 @@
     },
     {
       "id": "news_item_27",
-      "name": "Bán hơn mười ba nghìn chiếc với giá đắt đỏ, robot siêu mô phỏng U1Pro có thực sự đáng tiền?",
+      "name": "3 mẫu iPhone bị khai tử trên toàn cầu năm 2026",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1643,31 +1643,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/ban-hon-muoi-ba-nghin-chiec-voi-gia-dat-do-robot-sieu-mo-phong-u1pro-co-thuc-su-dang-tien-165261106105402981.chn"
+            "href": "entrance://webview/https://genk.vn/3-mau-iphone-bi-khai-tu-tren-toan-cau-nam-2026-165261106103845461.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/ban-hon-muoi-ba-nghin-chiec-voi-gia-dat-do-robot-sieu-mo-phong-u1pro-co-thuc-su-dang-tien-165261106105402981.chn"
+            "data": "entrance://webview/https://genk.vn/3-mau-iphone-bi-khai-tu-tren-toan-cau-nam-2026-165261106103845461.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/ban-hon-muoi-ba-nghin-chiec-voi-gia-dat-do-robot-sieu-mo-phong-u1pro-co-thuc-su-dang-tien-165261106105402981.chn"
+            "href": "entrance://webview/https://genk.vn/3-mau-iphone-bi-khai-tu-tren-toan-cau-nam-2026-165261106103845461.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/ban-hon-muoi-ba-nghin-chiec-voi-gia-dat-do-robot-sieu-mo-phong-u1pro-co-thuc-su-dang-tien-165261106105402981.chn"
+            "data": "entrance://webview/https://genk.vn/3-mau-iphone-bi-khai-tu-tren-toan-cau-nam-2026-165261106103845461.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Bán hơn mười ba nghìn chiếc với giá đắt đỏ, robot siêu mô phỏng U1Pro có thực sự đáng tiền?",
-          "text": "Xuất hiện tại hội nghị Ô Trấn (Trung Quốc), robot siêu mô phỏng U1Pro thu hút hơn mười ba nghìn đơn hàng dù giá rất đắt. Liệu cỗ máy trị giá gần mười bảy vạn tệ này có thực sự đáp ứng được đời sống hay chỉ để vỗ về cảm xúc?\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "3 mẫu iPhone bị khai tử trên toàn cầu năm 2026",
+          "text": "Apple đã khai tử hoàn toàn iPhone X, iPhone 5 và iPhone 4 (8GB) trên toàn cầu. Từ Mỹ đến Việt Nam, không cửa hàng chính hãng nào còn được cấp linh kiện để sửa ba mẫu máy này.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1729,7 +1729,7 @@
         {
           "type": "text",
           "name": "De Miguel được chôn cất ở quê nhà Navahermosa",
-          "text": "HLV Luis de la Fuente, Chủ tịch Real Florentino Perez cùng hàng trăm người đến tiễn biệt tiền đạo Jesus de Miguel ngày 5/11.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "HLV Luis de la Fuente, Chủ tịch Real Florentino Perez cùng hàng trăm người đến tiễn biệt tiền đạo Jesus de Miguel ngày 5/11.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1791,7 +1791,7 @@
         {
           "type": "text",
           "name": "'AI4VN truyền cảm hứng theo đuổi khoa học công nghệ cho thế hệ trẻ'",
-          "text": "Bộ trưởng Vũ Hải Quân đánh giá AI4VN đang mở ra cơ hội kết nối và kỳ vọng chương trình mở rộng trong những năm tiếp theo, truyền cảm hứng theo đuổi khoa học công nghệ cho thế hệ trẻ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Bộ trưởng Vũ Hải Quân đánh giá AI4VN đang mở ra cơ hội kết nối và kỳ vọng chương trình mở rộng trong những năm tiếp theo, truyền cảm hứng theo đuổi khoa học công nghệ cho thế hệ trẻ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1853,7 +1853,7 @@
         {
           "type": "text",
           "name": "Trường học Hà Lan quay lại ghi chép tay, hạn chế laptop và điện thoại",
-          "text": "Ngay cả sinh viên ngành công nghệ thông tin cũng phải ghi chép bằng tay trong một số tiết học, nhằm giảm xao nhãng và tăng tập trung.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Ngay cả sinh viên ngành công nghệ thông tin cũng phải ghi chép bằng tay trong một số tiết học, nhằm giảm xao nhãng và tăng tập trung.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1915,7 +1915,7 @@
         {
           "type": "text",
           "name": "Gặp quan chức Nga nhưng không gặp phía Ukraine tại Nhà Trắng, ông Trump nói chiến sự sắp kết thúc",
-          "text": "Tổng thống Trump tiết lộ đã có cuộc gặp riêng ngoài lịch trình với đặc phái viên Nga Kirill Dmitriev tại Nhà Trắng.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tổng thống Trump tiết lộ đã có cuộc gặp riêng ngoài lịch trình với đặc phái viên Nga Kirill Dmitriev tại Nhà Trắng.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1926,7 +1926,7 @@
     },
     {
       "id": "news_item_32",
-      "name": "Tất cả người dân có ô tô trên cả nước chú ý quy định mới nhất áp dụng từ 26/10",
+      "name": "Sony hồi sinh tai nghe Walkman 1979 với cổng USB-C, giá 1,5 triệu đồng",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1953,31 +1953,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/tat-ca-nguoi-dan-co-o-to-tren-ca-nuoc-chu-y-quy-dinh-moi-nhat-ap-dung-tu-26-10-165261105213220057.chn"
+            "href": "entrance://webview/https://genk.vn/sony-hoi-sinh-tai-nghe-walkman-1979-voi-cong-usb-c-gia-15-trieu-dong-165261106110427657.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/tat-ca-nguoi-dan-co-o-to-tren-ca-nuoc-chu-y-quy-dinh-moi-nhat-ap-dung-tu-26-10-165261105213220057.chn"
+            "data": "entrance://webview/https://genk.vn/sony-hoi-sinh-tai-nghe-walkman-1979-voi-cong-usb-c-gia-15-trieu-dong-165261106110427657.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/tat-ca-nguoi-dan-co-o-to-tren-ca-nuoc-chu-y-quy-dinh-moi-nhat-ap-dung-tu-26-10-165261105213220057.chn"
+            "href": "entrance://webview/https://genk.vn/sony-hoi-sinh-tai-nghe-walkman-1979-voi-cong-usb-c-gia-15-trieu-dong-165261106110427657.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/tat-ca-nguoi-dan-co-o-to-tren-ca-nuoc-chu-y-quy-dinh-moi-nhat-ap-dung-tu-26-10-165261105213220057.chn"
+            "data": "entrance://webview/https://genk.vn/sony-hoi-sinh-tai-nghe-walkman-1979-voi-cong-usb-c-gia-15-trieu-dong-165261106110427657.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Tất cả người dân có ô tô trên cả nước chú ý quy định mới nhất áp dụng từ 26/10",
-          "text": "Bộ Xây dựng đã có Quyết định 1838 ngày 26/10/2026 ban hành giá tối đa dịch vụ kiểm định, miễn kiểm định lần đầu cho xe cơ giới, xe máy chuyên dùng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Sony hồi sinh tai nghe Walkman 1979 với cổng USB-C, giá 1,5 triệu đồng",
+          "text": "Mẫu tai nghe có dáng y hệt bản đi kèm chiếc Walkman đầu tiên, chỉ đổi đầu cắm cũ sang USB-C và thêm micro để nghe gọi.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2039,7 +2039,7 @@
         {
           "type": "text",
           "name": "Muốn ly hôn nhưng tiếc người chồng giỏi kiếm tiền, hào phóng",
-          "text": "Tôi đã chuẩn bị sẵn đơn ly hôn nhưng gần một tháng nay vẫn để trong ngăn kéo, chưa đủ quyết tâm đưa cho chồng ký.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tôi đã chuẩn bị sẵn đơn ly hôn nhưng gần một tháng nay vẫn để trong ngăn kéo, chưa đủ quyết tâm đưa cho chồng ký.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2101,7 +2101,7 @@
         {
           "type": "text",
           "name": "Google: Việt Nam có 45 triệu người dùng AI tạo sinh",
-          "text": "Việt Nam có quy mô kinh tế số dự kiến đạt 49 tỷ USD, tăng trưởng cao nhất khu vực Đông Nam Á, đồng thời có 45 triệu người dùng AI tạo sinh.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Việt Nam có quy mô kinh tế số dự kiến đạt 49 tỷ USD, tăng trưởng cao nhất khu vực Đông Nam Á, đồng thời có 45 triệu người dùng AI tạo sinh.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2163,7 +2163,7 @@
         {
           "type": "text",
           "name": "Cầu vồng đôi lung linh xuất hiện trên bầu trời Thanh Hóa",
-          "text": "Sau cơn mưa bất chợt vào sáng sớm 6-11, khu vực ven biển Thanh Hóa bất ngờ xuất hiện hiện tượng cầu vồng đôi khiến nhiều người thích thú.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:18 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Sau cơn mưa bất chợt vào sáng sớm 6-11, khu vực ven biển Thanh Hóa bất ngờ xuất hiện hiện tượng cầu vồng đôi khiến nhiều người thích thú.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2174,7 +2174,7 @@
     },
     {
       "id": "news_item_36",
-      "name": "Binance bị hack 6,3 tỷ USD thế nào?",
+      "name": "Bán hơn mười ba nghìn chiếc với giá đắt đỏ, robot siêu mô phỏng U1Pro có thực sự đáng tiền?",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2201,31 +2201,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/binance-bi-hack-63-ty-usd-the-nao-165261106104615802.chn"
+            "href": "entrance://webview/https://genk.vn/ban-hon-muoi-ba-nghin-chiec-voi-gia-dat-do-robot-sieu-mo-phong-u1pro-co-thuc-su-dang-tien-165261106105402981.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/binance-bi-hack-63-ty-usd-the-nao-165261106104615802.chn"
+            "data": "entrance://webview/https://genk.vn/ban-hon-muoi-ba-nghin-chiec-voi-gia-dat-do-robot-sieu-mo-phong-u1pro-co-thuc-su-dang-tien-165261106105402981.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/binance-bi-hack-63-ty-usd-the-nao-165261106104615802.chn"
+            "href": "entrance://webview/https://genk.vn/ban-hon-muoi-ba-nghin-chiec-voi-gia-dat-do-robot-sieu-mo-phong-u1pro-co-thuc-su-dang-tien-165261106105402981.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/binance-bi-hack-63-ty-usd-the-nao-165261106104615802.chn"
+            "data": "entrance://webview/https://genk.vn/ban-hon-muoi-ba-nghin-chiec-voi-gia-dat-do-robot-sieu-mo-phong-u1pro-co-thuc-su-dang-tien-165261106105402981.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Binance bị hack 6,3 tỷ USD thế nào?",
-          "text": "Báo cáo sự cố đầu tiên của Binance cho thấy nhóm tin tặc đi qua ba kỹ sư, một bản cài đặt công cụ lập trình AI giả mạo, một buổi phỏng vấn tuyển dụng giả và một công cụ AI nội bộ trước khi rút khoảng 6,34 tỷ USD.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:19 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Bán hơn mười ba nghìn chiếc với giá đắt đỏ, robot siêu mô phỏng U1Pro có thực sự đáng tiền?",
+          "text": "Xuất hiện tại hội nghị Ô Trấn (Trung Quốc), robot siêu mô phỏng U1Pro thu hút hơn mười ba nghìn đơn hàng dù giá rất đắt. Liệu cỗ máy trị giá gần mười bảy vạn tệ này có thực sự đáp ứng được đời sống hay chỉ để vỗ về cảm xúc?\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2287,7 +2287,7 @@
         {
           "type": "text",
           "name": "Vệ tinh Nga có thể đã thực hành tấn công radar hỗ trợ Ukraine",
-          "text": "Vệ tinh quân sự Nga dường như đã diễn tập tấn công vệ tinh ICEYE X36, chuyên hỗ trợ quân đội Ukraine, trong lần tiếp cận hồi tháng trước.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:19 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Vệ tinh quân sự Nga dường như đã diễn tập tấn công vệ tinh ICEYE X36, chuyên hỗ trợ quân đội Ukraine, trong lần tiếp cận hồi tháng trước.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2349,7 +2349,7 @@
         {
           "type": "text",
           "name": "5 tài năng Việt được vinh danh tại AI Awards 2026",
-          "text": "Hạng mục Tài năng AI tại AI Awards 2026 ghi nhận những đóng góp và thành tích của các chuyên gia, kỹ sư, nhà nghiên cứu trong việc phát triển và ứng dụng trí tuệ nhân tạo.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:19 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Hạng mục Tài năng AI tại AI Awards 2026 ghi nhận những đóng góp và thành tích của các chuyên gia, kỹ sư, nhà nghiên cứu trong việc phát triển và ứng dụng trí tuệ nhân tạo.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2411,7 +2411,7 @@
         {
           "type": "text",
           "name": "Vở nhạc kịch đình đám thế giới xuất hiện tại TP.HCM",
-          "text": "Cuộc đời 'Cha lập quốc' Mỹ Alexander Hamilton vừa được kể bằng những màn trình diễn hip-hop sôi động, mang hơi thở Broadway ngay giữa lòng TP.HCM.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:19 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Cuộc đời 'Cha lập quốc' Mỹ Alexander Hamilton vừa được kể bằng những màn trình diễn hip-hop sôi động, mang hơi thở Broadway ngay giữa lòng TP.HCM.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2422,7 +2422,7 @@
     },
     {
       "id": "news_item_40",
-      "name": "Google trả tiền để nhân viên nghỉ việc",
+      "name": "Tất cả người dân có ô tô trên cả nước chú ý quy định mới nhất áp dụng từ 26/10",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2449,31 +2449,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/google-tra-tien-de-nhan-vien-nghi-viec-165261106103620162.chn"
+            "href": "entrance://webview/https://genk.vn/tat-ca-nguoi-dan-co-o-to-tren-ca-nuoc-chu-y-quy-dinh-moi-nhat-ap-dung-tu-26-10-165261105213220057.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/google-tra-tien-de-nhan-vien-nghi-viec-165261106103620162.chn"
+            "data": "entrance://webview/https://genk.vn/tat-ca-nguoi-dan-co-o-to-tren-ca-nuoc-chu-y-quy-dinh-moi-nhat-ap-dung-tu-26-10-165261105213220057.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/google-tra-tien-de-nhan-vien-nghi-viec-165261106103620162.chn"
+            "href": "entrance://webview/https://genk.vn/tat-ca-nguoi-dan-co-o-to-tren-ca-nuoc-chu-y-quy-dinh-moi-nhat-ap-dung-tu-26-10-165261105213220057.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/google-tra-tien-de-nhan-vien-nghi-viec-165261106103620162.chn"
+            "data": "entrance://webview/https://genk.vn/tat-ca-nguoi-dan-co-o-to-tren-ca-nuoc-chu-y-quy-dinh-moi-nhat-ap-dung-tu-26-10-165261105213220057.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Google trả tiền để nhân viên nghỉ việc",
-          "text": "Google trả trợ cấp cho nhân viên nào chấp nhận tự nguyện nghỉ việc, tính theo số năm làm việc. Một số người đã chính thức rời công ty từ tháng 8/2026.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:19 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Tất cả người dân có ô tô trên cả nước chú ý quy định mới nhất áp dụng từ 26/10",
+          "text": "Bộ Xây dựng đã có Quyết định 1838 ngày 26/10/2026 ban hành giá tối đa dịch vụ kiểm định, miễn kiểm định lần đầu cho xe cơ giới, xe máy chuyên dùng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2535,7 +2535,7 @@
         {
           "type": "text",
           "name": "Đất bỏ hoang sẽ bị đánh thuế 0,2%: Đại biểu lo đánh đồng đất đầu cơ với đất bỏ hoang vì thiên tai",
-          "text": "Đồng tình với việc sẽ áp thuế suất 0,2% đối với đất bỏ hoang, không đưa vào sử dụng hoặc chậm đưa vào sử dụng... nhưng nhiều đại biểu Quốc hội cảnh báo nguy cơ đánh thuế cả những diện tích chưa thể khai thác vì thủ tục, thiên tai, biến đổi khí hậu.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:19 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Đồng tình với việc sẽ áp thuế suất 0,2% đối với đất bỏ hoang, không đưa vào sử dụng hoặc chậm đưa vào sử dụng... nhưng nhiều đại biểu Quốc hội cảnh báo nguy cơ đánh thuế cả những diện tích chưa thể khai thác vì thủ tục, thiên tai, biến đổi khí hậu.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2546,7 +2546,7 @@
     },
     {
       "id": "news_item_42",
-      "name": "Siêu thị châu Âu bị hack tủ đông lần hai, hơn 100 cửa hàng hỏng hết hàng hoá",
+      "name": "Binance bị hack 6,3 tỷ USD thế nào?",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2566,6 +2566,130 @@
           },
           {
             "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_42.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/binance-bi-hack-63-ty-usd-the-nao-165261106104615802.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/binance-bi-hack-63-ty-usd-the-nao-165261106104615802.chn"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/binance-bi-hack-63-ty-usd-the-nao-165261106104615802.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/binance-bi-hack-63-ty-usd-the-nao-165261106104615802.chn"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Binance bị hack 6,3 tỷ USD thế nào?",
+          "text": "Báo cáo sự cố đầu tiên của Binance cho thấy nhóm tin tặc đi qua ba kỹ sư, một bản cài đặt công cụ lập trình AI giả mạo, một buổi phỏng vấn tuyển dụng giả và một công cụ AI nội bộ trước khi rút khoảng 6,34 tỷ USD.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_43",
+      "name": "Google trả tiền để nhân viên nghỉ việc",
+      "label": "GenK • Công Nghệ & AI",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_43.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_43.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_43.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_43.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/google-tra-tien-de-nhan-vien-nghi-viec-165261106103620162.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/google-tra-tien-de-nhan-vien-nghi-viec-165261106103620162.chn"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/google-tra-tien-de-nhan-vien-nghi-viec-165261106103620162.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/google-tra-tien-de-nhan-vien-nghi-viec-165261106103620162.chn"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Google trả tiền để nhân viên nghỉ việc",
+          "text": "Google trả trợ cấp cho nhân viên nào chấp nhận tự nguyện nghỉ việc, tính theo số năm làm việc. Một số người đã chính thức rời công ty từ tháng 8/2026.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_44",
+      "name": "Siêu thị châu Âu bị hack tủ đông lần hai, hơn 100 cửa hàng hỏng hết hàng hoá",
+      "label": "GenK • Công Nghệ & AI",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_44.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_44.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_44.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_44.png"
           }
         ]
       },
@@ -2597,131 +2721,7 @@
         {
           "type": "text",
           "name": "Siêu thị châu Âu bị hack tủ đông lần hai, hơn 100 cửa hàng hỏng hết hàng hoá",
-          "text": "Đợt tấn công thứ hai trong ba tuần vào tủ đông siêu thị châu Âu làm nhiệt độ bị chỉnh lên 50 độ C ở hơn 100 cửa hàng, trong khi các nhà điều tra vẫn chưa xác định được thủ phạm.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:19 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_43",
-      "name": "Xiaomi bắt đầu phát hành HyperOS 4 ổn định: 33 thiết bị lên đời đầu tháng 11, tổng cộng 82 máy trong kế hoạch",
-      "label": "GenK • Công Nghệ & AI",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_43.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_43.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_43.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_43.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/xiaomi-bat-dau-phat-hanh-hyperos-4-on-dinh-33-thiet-bi-len-doi-dau-thang-11-tong-cong-82-may-trong-ke-hoach-165261105212843468.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/xiaomi-bat-dau-phat-hanh-hyperos-4-on-dinh-33-thiet-bi-len-doi-dau-thang-11-tong-cong-82-may-trong-ke-hoach-165261105212843468.chn"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/xiaomi-bat-dau-phat-hanh-hyperos-4-on-dinh-33-thiet-bi-len-doi-dau-thang-11-tong-cong-82-may-trong-ke-hoach-165261105212843468.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/xiaomi-bat-dau-phat-hanh-hyperos-4-on-dinh-33-thiet-bi-len-doi-dau-thang-11-tong-cong-82-may-trong-ke-hoach-165261105212843468.chn"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Xiaomi bắt đầu phát hành HyperOS 4 ổn định: 33 thiết bị lên đời đầu tháng 11, tổng cộng 82 máy trong kế hoạch",
-          "text": "Lộ trình cập nhật kéo dài đến tháng 12, bao gồm điện thoại và máy tính bảng của Xiaomi, Redmi, POCO, nhưng thời điểm nhận bản nâng cấp sẽ khác nhau giữa các thị trường.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:19 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_44",
-      "name": "Baseus bán loa trên giường: Nghe nhạc không ảnh hưởng người ngủ cùng, giá gần 700.000đ",
-      "label": "GenK • Công Nghệ & AI",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_44.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_44.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_44.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_44.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/baseus-ban-loa-tren-giuong-nghe-nhac-khong-anh-huong-nguoi-ngu-cung-gia-gan-700000d-165261105211335878.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/baseus-ban-loa-tren-giuong-nghe-nhac-khong-anh-huong-nguoi-ngu-cung-gia-gan-700000d-165261105211335878.chn"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/baseus-ban-loa-tren-giuong-nghe-nhac-khong-anh-huong-nguoi-ngu-cung-gia-gan-700000d-165261105211335878.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/baseus-ban-loa-tren-giuong-nghe-nhac-khong-anh-huong-nguoi-ngu-cung-gia-gan-700000d-165261105211335878.chn"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Baseus bán loa trên giường: Nghe nhạc không ảnh hưởng người ngủ cùng, giá gần 700.000đ",
-          "text": "Sleep SK1 có thân mỏng 14mm, truyền âm thanh qua gối bằng bộ rung kép, hỗ trợ Bluetooth 6.0 và thời lượng phát liên tục hơn 10 giờ theo công bố.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:19 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Đợt tấn công thứ hai trong ba tuần vào tủ đông siêu thị châu Âu làm nhiệt độ bị chỉnh lên 50 độ C ở hơn 100 cửa hàng, trong khi các nhà điều tra vẫn chưa xác định được thủ phạm.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 12:43 - 06/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
