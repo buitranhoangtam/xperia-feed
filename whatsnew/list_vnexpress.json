@@ -4,7 +4,7 @@
   "items": [
     {
       "id": "news_item_1",
-      "name": "Bảng xếp hạng Giải bóng chuyền nam vô địch quốc gia 2026",
+      "name": "Tin tức thế giới 9-11: Đặc nhiệm Mỹ chặn đường bộ vào Iran; CEO Nvidia bị điều tra sau khi nhận ngoại tình",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -31,31 +31,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/bang-xep-hang-giai-bong-chuyen-nam-vo-dich-quoc-gia-2026-100261109054428349.htm"
+            "href": "entrance://webview/https://tuoitre.vn/tin-tuc-the-gioi-9-11-dac-nhiem-my-chan-duong-bo-vao-iran-ceo-nvidia-bi-dieu-tra-sau-khi-nhan-ngoai-tinh-100261109052756433.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/bang-xep-hang-giai-bong-chuyen-nam-vo-dich-quoc-gia-2026-100261109054428349.htm"
+            "data": "entrance://webview/https://tuoitre.vn/tin-tuc-the-gioi-9-11-dac-nhiem-my-chan-duong-bo-vao-iran-ceo-nvidia-bi-dieu-tra-sau-khi-nhan-ngoai-tinh-100261109052756433.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/bang-xep-hang-giai-bong-chuyen-nam-vo-dich-quoc-gia-2026-100261109054428349.htm"
+            "href": "entrance://webview/https://tuoitre.vn/tin-tuc-the-gioi-9-11-dac-nhiem-my-chan-duong-bo-vao-iran-ceo-nvidia-bi-dieu-tra-sau-khi-nhan-ngoai-tinh-100261109052756433.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/bang-xep-hang-giai-bong-chuyen-nam-vo-dich-quoc-gia-2026-100261109054428349.htm"
+            "data": "entrance://webview/https://tuoitre.vn/tin-tuc-the-gioi-9-11-dac-nhiem-my-chan-duong-bo-vao-iran-ceo-nvidia-bi-dieu-tra-sau-khi-nhan-ngoai-tinh-100261109052756433.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Bảng xếp hạng Giải bóng chuyền nam vô địch quốc gia 2026",
-          "text": "Mời bạn đọc cùng nhìn lại thứ hạng chung cuộc của Giải bóng chuyền nam vô địch quốc gia 2026.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:17 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Tin tức thế giới 9-11: Đặc nhiệm Mỹ chặn đường bộ vào Iran; CEO Nvidia bị điều tra sau khi nhận ngoại tình",
+          "text": "Ông Trump nói về việc thành lập lực lượng đặc nhiệm vây Iran trên bộ; Nga công bố kết quả tấn công Ukraine.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:47 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -66,7 +66,7 @@
     },
     {
       "id": "news_item_2",
-      "name": "Tháng 11/2026, tài khoản ngân hàng có thể bị trừ thêm tiền vì lý do này",
+      "name": "CEO NVIDIA Jensen Huang thừa nhận ngoại tình, gửi lời xin lỗi đến vợ và các con",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -93,31 +93,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/thang-11-2026-tai-khoan-ngan-hang-co-the-bi-tru-them-tien-vi-ly-do-nay-165261108203737887.chn"
+            "href": "entrance://webview/https://genk.vn/ceo-nvidia-jensen-huang-thua-nhan-ngoai-tinh-gui-loi-xin-loi-den-vo-va-cac-con-165261109063700563.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/thang-11-2026-tai-khoan-ngan-hang-co-the-bi-tru-them-tien-vi-ly-do-nay-165261108203737887.chn"
+            "data": "entrance://webview/https://genk.vn/ceo-nvidia-jensen-huang-thua-nhan-ngoai-tinh-gui-loi-xin-loi-den-vo-va-cac-con-165261109063700563.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/thang-11-2026-tai-khoan-ngan-hang-co-the-bi-tru-them-tien-vi-ly-do-nay-165261108203737887.chn"
+            "href": "entrance://webview/https://genk.vn/ceo-nvidia-jensen-huang-thua-nhan-ngoai-tinh-gui-loi-xin-loi-den-vo-va-cac-con-165261109063700563.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/thang-11-2026-tai-khoan-ngan-hang-co-the-bi-tru-them-tien-vi-ly-do-nay-165261108203737887.chn"
+            "data": "entrance://webview/https://genk.vn/ceo-nvidia-jensen-huang-thua-nhan-ngoai-tinh-gui-loi-xin-loi-den-vo-va-cac-con-165261109063700563.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Tháng 11/2026, tài khoản ngân hàng có thể bị trừ thêm tiền vì lý do này",
-          "text": "Từ ngày 02/11/2026, OCB bắt đầu thu bù khoản phí SMS chưa thu đúng kỳ trước đây. Một ngày trước đó, 01/11/2026, ngân hàng đã áp dụng biểu phí mới. Với các ngân hàng khác, mức phí mới cũng đã có hiệu lực: VietinBank và Vietbank thu theo mức mới từ tháng 10/2026, còn Nam A Bank áp dụng cho tin nhắn phát sinh từ ngày 01/11/2026.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:17 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "CEO NVIDIA Jensen Huang thừa nhận ngoại tình, gửi lời xin lỗi đến vợ và các con",
+          "text": "Trong thông điệp gửi tới nhân viên hôm Chủ Nhật, CEO NVIDIA đã công khai thừa nhận không chung thủy với vợ.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:47 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -179,7 +179,7 @@
         {
           "type": "text",
           "name": "Tổng Bí thư, Chủ tịch nước Tô Lâm cùng phu nhân lên đường thăm Nhật Bản",
-          "text": "Tổng Bí thư, Chủ tịch nước Tô Lâm cùng phu nhân Ngô Phương Ly sáng nay rời Hà Nội lên đường thăm chính thức Nhật Bản ngày 8-11/11.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 06:17 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tổng Bí thư, Chủ tịch nước Tô Lâm cùng phu nhân Ngô Phương Ly sáng nay rời Hà Nội lên đường thăm chính thức Nhật Bản ngày 8-11/11.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 06:47 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -241,7 +241,7 @@
         {
           "type": "text",
           "name": "CEO Nvidia thừa nhận không chung thủy với vợ",
-          "text": "Nvidia cho biết đang điều tra khả năng CEO Jensen Huang trở thành mục tiêu của một chiến dịch tình báo nước ngoài, sau khi ông thừa nhận đã không chung thủy với vợ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 06:17 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Nvidia cho biết đang điều tra khả năng CEO Jensen Huang trở thành mục tiêu của một chiến dịch tình báo nước ngoài, sau khi ông thừa nhận đã không chung thủy với vợ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 06:47 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -303,7 +303,7 @@
         {
           "type": "text",
           "name": "Cách dùng AI tìm bằng chứng khoa học trước khi viết khóa luận",
-          "text": "Câu 'nhiều nghiên cứu đã chứng minh' xuất hiện rất thường xuyên trong khóa luận, luận văn, thậm chí trong bài báo đại chúng. Không ít trường hợp người viết chưa từng thấy các nghiên cứu ấy.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 06:17 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Câu 'nhiều nghiên cứu đã chứng minh' xuất hiện rất thường xuyên trong khóa luận, luận văn, thậm chí trong bài báo đại chúng. Không ít trường hợp người viết chưa từng thấy các nghiên cứu ấy.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 06:47 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -314,7 +314,7 @@
     },
     {
       "id": "news_item_6",
-      "name": "Man United cầm chân Aston Villa sau hai lần bị dẫn trước đến 2 bàn",
+      "name": "Bảng xếp hạng Giải bóng chuyền nam vô địch quốc gia 2026",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -341,31 +341,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/man-united-cam-chan-aston-villa-sau-hai-lan-bi-dan-truoc-den-2-ban-100261109040932886.htm"
+            "href": "entrance://webview/https://tuoitre.vn/bang-xep-hang-giai-bong-chuyen-nam-vo-dich-quoc-gia-2026-100261109054428349.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/man-united-cam-chan-aston-villa-sau-hai-lan-bi-dan-truoc-den-2-ban-100261109040932886.htm"
+            "data": "entrance://webview/https://tuoitre.vn/bang-xep-hang-giai-bong-chuyen-nam-vo-dich-quoc-gia-2026-100261109054428349.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/man-united-cam-chan-aston-villa-sau-hai-lan-bi-dan-truoc-den-2-ban-100261109040932886.htm"
+            "href": "entrance://webview/https://tuoitre.vn/bang-xep-hang-giai-bong-chuyen-nam-vo-dich-quoc-gia-2026-100261109054428349.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/man-united-cam-chan-aston-villa-sau-hai-lan-bi-dan-truoc-den-2-ban-100261109040932886.htm"
+            "data": "entrance://webview/https://tuoitre.vn/bang-xep-hang-giai-bong-chuyen-nam-vo-dich-quoc-gia-2026-100261109054428349.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Man United cầm chân Aston Villa sau hai lần bị dẫn trước đến 2 bàn",
-          "text": "Rạng sáng 9-11, Man United và Aston Villa hòa nhau 4-4 đầy kịch tính ở vòng 10 Giải ngoại hạng Anh (Premier League).\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:17 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Bảng xếp hạng Giải bóng chuyền nam vô địch quốc gia 2026",
+          "text": "Mời bạn đọc cùng nhìn lại thứ hạng chung cuộc của Giải bóng chuyền nam vô địch quốc gia 2026.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:47 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -376,7 +376,7 @@
     },
     {
       "id": "news_item_7",
-      "name": "Công an phát thông báo quan trọng liên quan đến giấy phép lái xe của người dân",
+      "name": "Tháng 11/2026, tài khoản ngân hàng có thể bị trừ thêm tiền vì lý do này",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -403,31 +403,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/cong-an-phat-thong-bao-quan-trong-lien-quan-den-giay-phep-lai-xe-cua-nguoi-dan-165261108202910919.chn"
+            "href": "entrance://webview/https://genk.vn/thang-11-2026-tai-khoan-ngan-hang-co-the-bi-tru-them-tien-vi-ly-do-nay-165261108203737887.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/cong-an-phat-thong-bao-quan-trong-lien-quan-den-giay-phep-lai-xe-cua-nguoi-dan-165261108202910919.chn"
+            "data": "entrance://webview/https://genk.vn/thang-11-2026-tai-khoan-ngan-hang-co-the-bi-tru-them-tien-vi-ly-do-nay-165261108203737887.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/cong-an-phat-thong-bao-quan-trong-lien-quan-den-giay-phep-lai-xe-cua-nguoi-dan-165261108202910919.chn"
+            "href": "entrance://webview/https://genk.vn/thang-11-2026-tai-khoan-ngan-hang-co-the-bi-tru-them-tien-vi-ly-do-nay-165261108203737887.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/cong-an-phat-thong-bao-quan-trong-lien-quan-den-giay-phep-lai-xe-cua-nguoi-dan-165261108202910919.chn"
+            "data": "entrance://webview/https://genk.vn/thang-11-2026-tai-khoan-ngan-hang-co-the-bi-tru-them-tien-vi-ly-do-nay-165261108203737887.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Công an phát thông báo quan trọng liên quan đến giấy phép lái xe của người dân",
-          "text": "Người dân cần chú ý khuyến cáo từ cơ quan Công an.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:17 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Tháng 11/2026, tài khoản ngân hàng có thể bị trừ thêm tiền vì lý do này",
+          "text": "Từ ngày 02/11/2026, OCB bắt đầu thu bù khoản phí SMS chưa thu đúng kỳ trước đây. Một ngày trước đó, 01/11/2026, ngân hàng đã áp dụng biểu phí mới. Với các ngân hàng khác, mức phí mới cũng đã có hiệu lực: VietinBank và Vietbank thu theo mức mới từ tháng 10/2026, còn Nam A Bank áp dụng cho tin nhắn phát sinh từ ngày 01/11/2026.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:47 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -489,7 +489,7 @@
         {
           "type": "text",
           "name": "Tối nay không khí lạnh mạnh tràn xuống miền Bắc",
-          "text": "Không khí lạnh mạnh sẽ tràn đến Đông Bắc Bộ từ chiều tối 8/11, sau đó mở rộng ra Tây Bắc Bộ và Bắc Trung Bộ, khiến trời chuyển lạnh, vùng núi cao có nơi dưới 13 độ C.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 06:17 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Không khí lạnh mạnh sẽ tràn đến Đông Bắc Bộ từ chiều tối 8/11, sau đó mở rộng ra Tây Bắc Bộ và Bắc Trung Bộ, khiến trời chuyển lạnh, vùng núi cao có nơi dưới 13 độ C.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 06:47 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -551,7 +551,7 @@
         {
           "type": "text",
           "name": "AI trong y sinh: ranh giới giữa phép màu và thảm họa",
-          "text": "Tại một phòng thí nghiệm ở phía nam San Francisco, nhóm nhà khoa học đang cố gắng đào tạo thế hệ kế nhiệm, nhưng không phải con người mà là robot.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 06:17 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tại một phòng thí nghiệm ở phía nam San Francisco, nhóm nhà khoa học đang cố gắng đào tạo thế hệ kế nhiệm, nhưng không phải con người mà là robot.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 06:47 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -613,7 +613,7 @@
         {
           "type": "text",
           "name": "Claude giúp máy tính lượng tử giảm hàng triệu cổng tính toán",
-          "text": "Thay vì phải lưu mọi kết quả trung gian, Claude tìm cách khôi phục chúng, giúp giảm khoảng 17 lần số cổng tính toán trong mạch lượng tử.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 06:17 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Thay vì phải lưu mọi kết quả trung gian, Claude tìm cách khôi phục chúng, giúp giảm khoảng 17 lần số cổng tính toán trong mạch lượng tử.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 06:47 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -624,7 +624,7 @@
     },
     {
       "id": "news_item_11",
-      "name": "Việt Nam bất ngờ nhận lợi thế trước đối thủ mạnh nhất ở World Cup U17",
+      "name": "Man United cầm chân Aston Villa sau hai lần bị dẫn trước đến 2 bàn",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -651,31 +651,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/viet-nam-bat-ngo-nhan-loi-the-truoc-doi-thu-manh-nhat-o-world-cup-u17-100261108212653883.htm"
+            "href": "entrance://webview/https://tuoitre.vn/man-united-cam-chan-aston-villa-sau-hai-lan-bi-dan-truoc-den-2-ban-100261109040932886.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/viet-nam-bat-ngo-nhan-loi-the-truoc-doi-thu-manh-nhat-o-world-cup-u17-100261108212653883.htm"
+            "data": "entrance://webview/https://tuoitre.vn/man-united-cam-chan-aston-villa-sau-hai-lan-bi-dan-truoc-den-2-ban-100261109040932886.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/viet-nam-bat-ngo-nhan-loi-the-truoc-doi-thu-manh-nhat-o-world-cup-u17-100261108212653883.htm"
+            "href": "entrance://webview/https://tuoitre.vn/man-united-cam-chan-aston-villa-sau-hai-lan-bi-dan-truoc-den-2-ban-100261109040932886.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/viet-nam-bat-ngo-nhan-loi-the-truoc-doi-thu-manh-nhat-o-world-cup-u17-100261108212653883.htm"
+            "data": "entrance://webview/https://tuoitre.vn/man-united-cam-chan-aston-villa-sau-hai-lan-bi-dan-truoc-den-2-ban-100261109040932886.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Việt Nam bất ngờ nhận lợi thế trước đối thủ mạnh nhất ở World Cup U17",
-          "text": "U17 Bỉ - đối thủ mạnh nhất của Việt Nam tại vòng bảng World Cup U17 2026 sẽ thiếu nhiều trụ cột trên hành trình tham dự giải đấu, khi CLB chủ quản Anderlecht quyết định không nhả quân.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:17 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Man United cầm chân Aston Villa sau hai lần bị dẫn trước đến 2 bàn",
+          "text": "Rạng sáng 9-11, Man United và Aston Villa hòa nhau 4-4 đầy kịch tính ở vòng 10 Giải ngoại hạng Anh (Premier League).\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:47 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -686,7 +686,7 @@
     },
     {
       "id": "news_item_12",
-      "name": "Công an đề nghị 523 chủ phương tiện vi phạm mang biển số sau nhanh chóng nộp phạt nguội theo Nghị định 168",
+      "name": "Công an phát thông báo quan trọng liên quan đến giấy phép lái xe của người dân",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -713,31 +713,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/cong-an-de-nghi-523-chu-phuong-tien-vi-pham-mang-bien-so-sau-nhanh-chong-nop-phat-nguoi-theo-nghi-dinh-168-165261108202149973.chn"
+            "href": "entrance://webview/https://genk.vn/cong-an-phat-thong-bao-quan-trong-lien-quan-den-giay-phep-lai-xe-cua-nguoi-dan-165261108202910919.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/cong-an-de-nghi-523-chu-phuong-tien-vi-pham-mang-bien-so-sau-nhanh-chong-nop-phat-nguoi-theo-nghi-dinh-168-165261108202149973.chn"
+            "data": "entrance://webview/https://genk.vn/cong-an-phat-thong-bao-quan-trong-lien-quan-den-giay-phep-lai-xe-cua-nguoi-dan-165261108202910919.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/cong-an-de-nghi-523-chu-phuong-tien-vi-pham-mang-bien-so-sau-nhanh-chong-nop-phat-nguoi-theo-nghi-dinh-168-165261108202149973.chn"
+            "href": "entrance://webview/https://genk.vn/cong-an-phat-thong-bao-quan-trong-lien-quan-den-giay-phep-lai-xe-cua-nguoi-dan-165261108202910919.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/cong-an-de-nghi-523-chu-phuong-tien-vi-pham-mang-bien-so-sau-nhanh-chong-nop-phat-nguoi-theo-nghi-dinh-168-165261108202149973.chn"
+            "data": "entrance://webview/https://genk.vn/cong-an-phat-thong-bao-quan-trong-lien-quan-den-giay-phep-lai-xe-cua-nguoi-dan-165261108202910919.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Công an đề nghị 523 chủ phương tiện vi phạm mang biển số sau nhanh chóng nộp phạt nguội theo Nghị định 168",
-          "text": "Phòng Cảnh sát giao thông (CSGT) Công an thành phố Bắc Ninh phát hiện 523 trường hợp điều khiển phương tiện chạy quá tốc độ trong thời gian từ ngày 26/10/2026 đến ngày 01/11/2026.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:17 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Công an phát thông báo quan trọng liên quan đến giấy phép lái xe của người dân",
+          "text": "Người dân cần chú ý khuyến cáo từ cơ quan Công an.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -799,7 +799,7 @@
         {
           "type": "text",
           "name": "Vợ giận vì tôi kể thu nhập thật của hai vợ chồng cho bố mẹ biết",
-          "text": "Vợ yêu cầu từ nay không được khoe khoang thu nhập, tiền tiết kiệm hay chuyện mua bán tài sản với bố mẹ nữa\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Vợ yêu cầu từ nay không được khoe khoang thu nhập, tiền tiết kiệm hay chuyện mua bán tài sản với bố mẹ nữa\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -861,7 +861,7 @@
         {
           "type": "text",
           "name": "Công nghệ Bluetooth mới cho phép phát âm thanh lossless",
-          "text": "Tổ chức Bluetooth SIG công bố công nghệ Bluetooth HDT với tốc độ truyền tải tối đa 7,5 Mb/giây, có thể phát âm thanh không nén qua kết nối không dây.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tổ chức Bluetooth SIG công bố công nghệ Bluetooth HDT với tốc độ truyền tải tối đa 7,5 Mb/giây, có thể phát âm thanh không nén qua kết nối không dây.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -923,7 +923,7 @@
         {
           "type": "text",
           "name": "Zalo giữ vững vị thế nền tảng giao tiếp phổ biến nhất Việt Nam",
-          "text": "Theo báo cáo \"The Connected Consumer\" quý II/2026 do Decision Lab công bố ngày 3-11, Zalo tiếp tục dẫn đầu các nền tảng nhắn tin tại thị trường Việt Nam với 81% tỉ lệ sử dụng và 54% tỉ lệ yêu thích.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Theo báo cáo \"The Connected Consumer\" quý II/2026 do Decision Lab công bố ngày 3-11, Zalo tiếp tục dẫn đầu các nền tảng nhắn tin tại thị trường Việt Nam với 81% tỉ lệ sử dụng và 54% tỉ lệ yêu thích.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -934,7 +934,7 @@
     },
     {
       "id": "news_item_16",
-      "name": "Tin tức sáng 9-11: Vốn hóa HoSE, câu lạc bộ tỉ USD còn 51 doanh nghiệp",
+      "name": "Việt Nam bất ngờ nhận lợi thế trước đối thủ mạnh nhất ở World Cup U17",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -961,31 +961,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/tin-tuc-sang-9-11-von-hoa-hose-cau-lac-bo-ti-usd-con-51-doanh-nghiep-100261108095502023.htm"
+            "href": "entrance://webview/https://tuoitre.vn/viet-nam-bat-ngo-nhan-loi-the-truoc-doi-thu-manh-nhat-o-world-cup-u17-100261108212653883.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/tin-tuc-sang-9-11-von-hoa-hose-cau-lac-bo-ti-usd-con-51-doanh-nghiep-100261108095502023.htm"
+            "data": "entrance://webview/https://tuoitre.vn/viet-nam-bat-ngo-nhan-loi-the-truoc-doi-thu-manh-nhat-o-world-cup-u17-100261108212653883.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/tin-tuc-sang-9-11-von-hoa-hose-cau-lac-bo-ti-usd-con-51-doanh-nghiep-100261108095502023.htm"
+            "href": "entrance://webview/https://tuoitre.vn/viet-nam-bat-ngo-nhan-loi-the-truoc-doi-thu-manh-nhat-o-world-cup-u17-100261108212653883.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/tin-tuc-sang-9-11-von-hoa-hose-cau-lac-bo-ti-usd-con-51-doanh-nghiep-100261108095502023.htm"
+            "data": "entrance://webview/https://tuoitre.vn/viet-nam-bat-ngo-nhan-loi-the-truoc-doi-thu-manh-nhat-o-world-cup-u17-100261108212653883.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Tin tức sáng 9-11: Vốn hóa HoSE, câu lạc bộ tỉ USD còn 51 doanh nghiệp",
-          "text": "Một số tin tức đáng chú ý: Một doanh nghiệp dầu khí muốn thoái vốn tại một chung cư tại TP.HCM; TP.HCM triển khai Tháng hành động vì bình đẳng giới năm 2026; Hơn 380.000 công dân ở TP.HCM thuộc diện gọi khám sơ tuyển nghĩa vụ quân sự...\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Việt Nam bất ngờ nhận lợi thế trước đối thủ mạnh nhất ở World Cup U17",
+          "text": "U17 Bỉ - đối thủ mạnh nhất của Việt Nam tại vòng bảng World Cup U17 2026 sẽ thiếu nhiều trụ cột trên hành trình tham dự giải đấu, khi CLB chủ quản Anderlecht quyết định không nhả quân.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -996,7 +996,7 @@
     },
     {
       "id": "news_item_17",
-      "name": "Từ nay, các ngân hàng như Agribank, Nam A Bank, OCB,... sẽ tự động từ 15.000 - 130.000 đồng/tháng với người dùng tài khoản sau",
+      "name": "Công an đề nghị 523 chủ phương tiện vi phạm mang biển số sau nhanh chóng nộp phạt nguội theo Nghị định 168",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1023,31 +1023,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/tu-nay-cac-ngan-hang-nhu-agribank-nam-a-bank-ocb-se-tu-dong-tu-15000-130000-dong-thang-voi-nguoi-dung-tai-khoan-sau-16526110817293599.chn"
+            "href": "entrance://webview/https://genk.vn/cong-an-de-nghi-523-chu-phuong-tien-vi-pham-mang-bien-so-sau-nhanh-chong-nop-phat-nguoi-theo-nghi-dinh-168-165261108202149973.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/tu-nay-cac-ngan-hang-nhu-agribank-nam-a-bank-ocb-se-tu-dong-tu-15000-130000-dong-thang-voi-nguoi-dung-tai-khoan-sau-16526110817293599.chn"
+            "data": "entrance://webview/https://genk.vn/cong-an-de-nghi-523-chu-phuong-tien-vi-pham-mang-bien-so-sau-nhanh-chong-nop-phat-nguoi-theo-nghi-dinh-168-165261108202149973.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/tu-nay-cac-ngan-hang-nhu-agribank-nam-a-bank-ocb-se-tu-dong-tu-15000-130000-dong-thang-voi-nguoi-dung-tai-khoan-sau-16526110817293599.chn"
+            "href": "entrance://webview/https://genk.vn/cong-an-de-nghi-523-chu-phuong-tien-vi-pham-mang-bien-so-sau-nhanh-chong-nop-phat-nguoi-theo-nghi-dinh-168-165261108202149973.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/tu-nay-cac-ngan-hang-nhu-agribank-nam-a-bank-ocb-se-tu-dong-tu-15000-130000-dong-thang-voi-nguoi-dung-tai-khoan-sau-16526110817293599.chn"
+            "data": "entrance://webview/https://genk.vn/cong-an-de-nghi-523-chu-phuong-tien-vi-pham-mang-bien-so-sau-nhanh-chong-nop-phat-nguoi-theo-nghi-dinh-168-165261108202149973.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Từ nay, các ngân hàng như Agribank, Nam A Bank, OCB,... sẽ tự động từ 15.000 - 130.000 đồng/tháng với người dùng tài khoản sau",
-          "text": "Nhiều ngân hàng đã điều chỉnh tăng phí dịch vụ SMS Banking từ tháng 10 và tháng 11/2026. Khoản phí được tự động trích từ tài khoản thanh toán của khách hàng theo biểu phí mới.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Công an đề nghị 523 chủ phương tiện vi phạm mang biển số sau nhanh chóng nộp phạt nguội theo Nghị định 168",
+          "text": "Phòng Cảnh sát giao thông (CSGT) Công an thành phố Bắc Ninh phát hiện 523 trường hợp điều khiển phương tiện chạy quá tốc độ trong thời gian từ ngày 26/10/2026 đến ngày 01/11/2026.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1109,7 +1109,7 @@
         {
           "type": "text",
           "name": "TDM Neo Hybrid - tai nghe ‘biến hình’ thành loa di động",
-          "text": "Tai nghe TDM Neo Hybrid có thiết kế hai trong một khi có thể biến thành loa Bluetooth, thời lượng pin 200 giờ, nhưng đánh đổi bằng chất lượng âm thanh.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tai nghe TDM Neo Hybrid có thiết kế hai trong một khi có thể biến thành loa Bluetooth, thời lượng pin 200 giờ, nhưng đánh đổi bằng chất lượng âm thanh.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1171,7 +1171,7 @@
         {
           "type": "text",
           "name": "iPhone 20 có thể bỏ nút Action và giữ nguyên Dynamic Island",
-          "text": "Apple được cho là đang lên kế hoạch gộp chung nút Action vào Camera Control, đồng thời vẫn duy trì Dynamic Island trên mẫu iPhone kỷ niệm 20 năm.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Apple được cho là đang lên kế hoạch gộp chung nút Action vào Camera Control, đồng thời vẫn duy trì Dynamic Island trên mẫu iPhone kỷ niệm 20 năm.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1233,7 +1233,7 @@
         {
           "type": "text",
           "name": "Hé lộ lỗ hổng giúp tin tặc tấn công tủ lạnh, kho máu ở châu Âu",
-          "text": "Từ hàng trăm siêu thị đến các cơ sở bảo quản máu tại châu Âu, tin tặc đang khai thác lỗ hổng thiết bị kết nối Internet để chiếm quyền điều khiển và can thiệp hệ thống từ xa.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Từ hàng trăm siêu thị đến các cơ sở bảo quản máu tại châu Âu, tin tặc đang khai thác lỗ hổng thiết bị kết nối Internet để chiếm quyền điều khiển và can thiệp hệ thống từ xa.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1244,7 +1244,7 @@
     },
     {
       "id": "news_item_21",
-      "name": "Ba Lan kêu gọi người dân hiến máu cứu người hùng cảnh sát",
+      "name": "Tin tức sáng 9-11: Vốn hóa HoSE, câu lạc bộ tỉ USD còn 51 doanh nghiệp",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1271,31 +1271,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/ba-lan-keu-goi-nguoi-dan-hien-mau-cuu-nguoi-hung-canh-sat-100261109000505137.htm"
+            "href": "entrance://webview/https://tuoitre.vn/tin-tuc-sang-9-11-von-hoa-hose-cau-lac-bo-ti-usd-con-51-doanh-nghiep-100261108095502023.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/ba-lan-keu-goi-nguoi-dan-hien-mau-cuu-nguoi-hung-canh-sat-100261109000505137.htm"
+            "data": "entrance://webview/https://tuoitre.vn/tin-tuc-sang-9-11-von-hoa-hose-cau-lac-bo-ti-usd-con-51-doanh-nghiep-100261108095502023.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/ba-lan-keu-goi-nguoi-dan-hien-mau-cuu-nguoi-hung-canh-sat-100261109000505137.htm"
+            "href": "entrance://webview/https://tuoitre.vn/tin-tuc-sang-9-11-von-hoa-hose-cau-lac-bo-ti-usd-con-51-doanh-nghiep-100261108095502023.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/ba-lan-keu-goi-nguoi-dan-hien-mau-cuu-nguoi-hung-canh-sat-100261109000505137.htm"
+            "data": "entrance://webview/https://tuoitre.vn/tin-tuc-sang-9-11-von-hoa-hose-cau-lac-bo-ti-usd-con-51-doanh-nghiep-100261108095502023.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Ba Lan kêu gọi người dân hiến máu cứu người hùng cảnh sát",
-          "text": "Tổng cục Cảnh sát Ba Lan kêu gọi người dân cả nước hiến máu nhóm AB Rh+ dành cho ông Jakub Kulik, cảnh sát đã đối đầu trực tiếp với tên khủng bố xả súng ngày 7-11.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Tin tức sáng 9-11: Vốn hóa HoSE, câu lạc bộ tỉ USD còn 51 doanh nghiệp",
+          "text": "Một số tin tức đáng chú ý: Một doanh nghiệp dầu khí muốn thoái vốn tại một chung cư tại TP.HCM; TP.HCM triển khai Tháng hành động vì bình đẳng giới năm 2026; Hơn 380.000 công dân ở TP.HCM thuộc diện gọi khám sơ tuyển nghĩa vụ quân sự...\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1306,7 +1306,7 @@
     },
     {
       "id": "news_item_22",
-      "name": "Toàn bộ người dân hay liên lạc với người thân bằng Zalo đặc biệt lưu ý cảnh báo 'nóng' từ công an",
+      "name": "Từ nay, các ngân hàng như Agribank, Nam A Bank, OCB,... sẽ tự động từ 15.000 - 130.000 đồng/tháng với người dùng tài khoản sau",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1333,31 +1333,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/toan-bo-nguoi-dan-hay-lien-lac-voi-nguoi-than-bang-zalo-dac-biet-luu-y-canh-bao-nong-tu-cong-an-165261108172439378.chn"
+            "href": "entrance://webview/https://genk.vn/tu-nay-cac-ngan-hang-nhu-agribank-nam-a-bank-ocb-se-tu-dong-tu-15000-130000-dong-thang-voi-nguoi-dung-tai-khoan-sau-16526110817293599.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/toan-bo-nguoi-dan-hay-lien-lac-voi-nguoi-than-bang-zalo-dac-biet-luu-y-canh-bao-nong-tu-cong-an-165261108172439378.chn"
+            "data": "entrance://webview/https://genk.vn/tu-nay-cac-ngan-hang-nhu-agribank-nam-a-bank-ocb-se-tu-dong-tu-15000-130000-dong-thang-voi-nguoi-dung-tai-khoan-sau-16526110817293599.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/toan-bo-nguoi-dan-hay-lien-lac-voi-nguoi-than-bang-zalo-dac-biet-luu-y-canh-bao-nong-tu-cong-an-165261108172439378.chn"
+            "href": "entrance://webview/https://genk.vn/tu-nay-cac-ngan-hang-nhu-agribank-nam-a-bank-ocb-se-tu-dong-tu-15000-130000-dong-thang-voi-nguoi-dung-tai-khoan-sau-16526110817293599.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/toan-bo-nguoi-dan-hay-lien-lac-voi-nguoi-than-bang-zalo-dac-biet-luu-y-canh-bao-nong-tu-cong-an-165261108172439378.chn"
+            "data": "entrance://webview/https://genk.vn/tu-nay-cac-ngan-hang-nhu-agribank-nam-a-bank-ocb-se-tu-dong-tu-15000-130000-dong-thang-voi-nguoi-dung-tai-khoan-sau-16526110817293599.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Toàn bộ người dân hay liên lạc với người thân bằng Zalo đặc biệt lưu ý cảnh báo 'nóng' từ công an",
-          "text": "Công an TP. Hà Nội vừa phát phát cảnh báo về chiêu thức lừa đảo tinh vi mới trên Zalo: Thay vì trực tiếp mượn tiền, kẻ gian lập tài khoản giả hoặc hack nick người thân để nhờ gọi điện, nhận tiền hộ, từ đó từng bước dẫn dụ nạn nhân chuyển khoản.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Từ nay, các ngân hàng như Agribank, Nam A Bank, OCB,... sẽ tự động từ 15.000 - 130.000 đồng/tháng với người dùng tài khoản sau",
+          "text": "Nhiều ngân hàng đã điều chỉnh tăng phí dịch vụ SMS Banking từ tháng 10 và tháng 11/2026. Khoản phí được tự động trích từ tài khoản thanh toán của khách hàng theo biểu phí mới.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1419,7 +1419,7 @@
         {
           "type": "text",
           "name": "10 trải nghiệm trên máy bay xa xỉ nhất thế giới",
-          "text": "Từ căn hộ riêng trên máy bay, phòng tắm spa ở độ cao hơn 12.000 m đến quầy bar giữa không trung, nhiều hãng hàng không cung cấp dịch vụ cao cấp, giá tới hàng chục nghìn USD.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Từ căn hộ riêng trên máy bay, phòng tắm spa ở độ cao hơn 12.000 m đến quầy bar giữa không trung, nhiều hãng hàng không cung cấp dịch vụ cao cấp, giá tới hàng chục nghìn USD.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1481,7 +1481,7 @@
         {
           "type": "text",
           "name": "Dàn âm thanh triệu USD tại Vietnam High-End Show 2026",
-          "text": "Vietnam Hi-End Show 2026 quy tụ nhiều hệ thống âm thanh tỷ đồng, trong đó cao nhất là bộ dàn trị giá một triệu USD (26 tỷ đồng).\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Vietnam Hi-End Show 2026 quy tụ nhiều hệ thống âm thanh tỷ đồng, trong đó cao nhất là bộ dàn trị giá một triệu USD (26 tỷ đồng).\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1543,7 +1543,7 @@
         {
           "type": "text",
           "name": "Phát hiện mã độc mới tinh vi tấn công hệ điều hành Windows",
-          "text": "Không phát tán tập tin đáng ngờ theo cách thông thường, tin tặc lợi dụng các chương trình hợp pháp để đưa mã độc vào hệ thống Windows của cơ quan chính phủ.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Không phát tán tập tin đáng ngờ theo cách thông thường, tin tặc lợi dụng các chương trình hợp pháp để đưa mã độc vào hệ thống Windows của cơ quan chính phủ.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1554,7 +1554,7 @@
     },
     {
       "id": "news_item_26",
-      "name": "Thời tiết hôm nay 9-11: Bắc Bộ rét 13 độ C; Nam Bộ ngày oi, chiều mưa vài nơi",
+      "name": "Ba Lan kêu gọi người dân hiến máu cứu người hùng cảnh sát",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1581,31 +1581,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/thoi-tiet-hom-nay-9-11-bac-bo-ret-13-do-c-nam-bo-ngay-oi-chieu-mua-vai-noi-10026110816050979.htm"
+            "href": "entrance://webview/https://tuoitre.vn/ba-lan-keu-goi-nguoi-dan-hien-mau-cuu-nguoi-hung-canh-sat-100261109000505137.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/thoi-tiet-hom-nay-9-11-bac-bo-ret-13-do-c-nam-bo-ngay-oi-chieu-mua-vai-noi-10026110816050979.htm"
+            "data": "entrance://webview/https://tuoitre.vn/ba-lan-keu-goi-nguoi-dan-hien-mau-cuu-nguoi-hung-canh-sat-100261109000505137.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/thoi-tiet-hom-nay-9-11-bac-bo-ret-13-do-c-nam-bo-ngay-oi-chieu-mua-vai-noi-10026110816050979.htm"
+            "href": "entrance://webview/https://tuoitre.vn/ba-lan-keu-goi-nguoi-dan-hien-mau-cuu-nguoi-hung-canh-sat-100261109000505137.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/thoi-tiet-hom-nay-9-11-bac-bo-ret-13-do-c-nam-bo-ngay-oi-chieu-mua-vai-noi-10026110816050979.htm"
+            "data": "entrance://webview/https://tuoitre.vn/ba-lan-keu-goi-nguoi-dan-hien-mau-cuu-nguoi-hung-canh-sat-100261109000505137.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Thời tiết hôm nay 9-11: Bắc Bộ rét 13 độ C; Nam Bộ ngày oi, chiều mưa vài nơi",
-          "text": "Hôm nay 9-11, thời tiết Bắc Bộ rét kèm mưa. Nam Bộ trời oi, có mưa chiều, Trung Bộ mưa to.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Ba Lan kêu gọi người dân hiến máu cứu người hùng cảnh sát",
+          "text": "Tổng cục Cảnh sát Ba Lan kêu gọi người dân cả nước hiến máu nhóm AB Rh+ dành cho ông Jakub Kulik, cảnh sát đã đối đầu trực tiếp với tên khủng bố xả súng ngày 7-11.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1616,7 +1616,7 @@
     },
     {
       "id": "news_item_27",
-      "name": "Sẽ phạt đến 200 triệu đồng nếu phát hiện tài khoản ngân hàng của người dân có giao dịch nhận/chuyển tiền sau",
+      "name": "Toàn bộ người dân hay liên lạc với người thân bằng Zalo đặc biệt lưu ý cảnh báo 'nóng' từ công an",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1643,31 +1643,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/se-phat-den-200-trieu-dong-neu-phat-hien-tai-khoan-ngan-hang-cua-nguoi-dan-co-giao-dich-nhan-chuyen-tien-sau-165261108171918533.chn"
+            "href": "entrance://webview/https://genk.vn/toan-bo-nguoi-dan-hay-lien-lac-voi-nguoi-than-bang-zalo-dac-biet-luu-y-canh-bao-nong-tu-cong-an-165261108172439378.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/se-phat-den-200-trieu-dong-neu-phat-hien-tai-khoan-ngan-hang-cua-nguoi-dan-co-giao-dich-nhan-chuyen-tien-sau-165261108171918533.chn"
+            "data": "entrance://webview/https://genk.vn/toan-bo-nguoi-dan-hay-lien-lac-voi-nguoi-than-bang-zalo-dac-biet-luu-y-canh-bao-nong-tu-cong-an-165261108172439378.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/se-phat-den-200-trieu-dong-neu-phat-hien-tai-khoan-ngan-hang-cua-nguoi-dan-co-giao-dich-nhan-chuyen-tien-sau-165261108171918533.chn"
+            "href": "entrance://webview/https://genk.vn/toan-bo-nguoi-dan-hay-lien-lac-voi-nguoi-than-bang-zalo-dac-biet-luu-y-canh-bao-nong-tu-cong-an-165261108172439378.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/se-phat-den-200-trieu-dong-neu-phat-hien-tai-khoan-ngan-hang-cua-nguoi-dan-co-giao-dich-nhan-chuyen-tien-sau-165261108171918533.chn"
+            "data": "entrance://webview/https://genk.vn/toan-bo-nguoi-dan-hay-lien-lac-voi-nguoi-than-bang-zalo-dac-biet-luu-y-canh-bao-nong-tu-cong-an-165261108172439378.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Sẽ phạt đến 200 triệu đồng nếu phát hiện tài khoản ngân hàng của người dân có giao dịch nhận/chuyển tiền sau",
-          "text": "Khi tài khoản cá nhân bị lợi dụng để tiếp nhận, luân chuyển dòng tiền có nguồn gốc bất hợp pháp, chủ tài khoản sẽ phải đối mặt với nguy cơ bị cơ quan chức năng xác minh và xử lý nghiêm theo quy định của pháp luật.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Toàn bộ người dân hay liên lạc với người thân bằng Zalo đặc biệt lưu ý cảnh báo 'nóng' từ công an",
+          "text": "Công an TP. Hà Nội vừa phát phát cảnh báo về chiêu thức lừa đảo tinh vi mới trên Zalo: Thay vì trực tiếp mượn tiền, kẻ gian lập tài khoản giả hoặc hack nick người thân để nhờ gọi điện, nhận tiền hộ, từ đó từng bước dẫn dụ nạn nhân chuyển khoản.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1729,7 +1729,7 @@
         {
           "type": "text",
           "name": "Trẻ sơ sinh có cần uống thêm nước lọc?",
-          "text": "Con tôi 20 ngày tuổi, bú mẹ hoàn toàn. Gần đây trời nóng, môi bé khô, có nên cho con uống thêm nước lọc giữa cữ bú để tránh mất nước, làm sao biết trẻ đã đủ nước? (Thanh An, 29 tuổi, Hà Nội)\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Con tôi 20 ngày tuổi, bú mẹ hoàn toàn. Gần đây trời nóng, môi bé khô, có nên cho con uống thêm nước lọc giữa cữ bú để tránh mất nước, làm sao biết trẻ đã đủ nước? (Thanh An, 29 tuổi, Hà Nội)\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1791,7 +1791,7 @@
         {
           "type": "text",
           "name": "Mô hình AI mở của Trung Quốc có thể kém hơn ước tính",
-          "text": "Kết quả kiểm thử mới của công ty Artificial Analysis cho thấy mô hình AI trọng số mở của Trung Quốc vẫn tụt hậu so với đối thủ Mỹ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Kết quả kiểm thử mới của công ty Artificial Analysis cho thấy mô hình AI trọng số mở của Trung Quốc vẫn tụt hậu so với đối thủ Mỹ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1853,7 +1853,7 @@
         {
           "type": "text",
           "name": "Eaton và KPS ký kết hợp tác chiến lược",
-          "text": "Hợp tác chiến lược giữa Eaton và KPS hướng tới phát triển các giải pháp nguồn điện và quản lý năng lượng trong hệ sinh thái công nghệ tòa nhà và trung tâm dữ liệu, đáp ứng nhu cầu của chủ đầu tư, tư vấn và nhà thầu tại Việt Nam.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Hợp tác chiến lược giữa Eaton và KPS hướng tới phát triển các giải pháp nguồn điện và quản lý năng lượng trong hệ sinh thái công nghệ tòa nhà và trung tâm dữ liệu, đáp ứng nhu cầu của chủ đầu tư, tư vấn và nhà thầu tại Việt Nam.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "news_item_31",
-      "name": "Biên Phòng lập hat-trick vô địch bóng chuyền quốc gia",
+      "name": "Thời tiết hôm nay 9-11: Bắc Bộ rét 13 độ C; Nam Bộ ngày oi, chiều mưa vài nơi",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1891,31 +1891,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/bien-phong-lap-hat-trick-vo-dich-bong-chuyen-quoc-gia-100261108234343385.htm"
+            "href": "entrance://webview/https://tuoitre.vn/thoi-tiet-hom-nay-9-11-bac-bo-ret-13-do-c-nam-bo-ngay-oi-chieu-mua-vai-noi-10026110816050979.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/bien-phong-lap-hat-trick-vo-dich-bong-chuyen-quoc-gia-100261108234343385.htm"
+            "data": "entrance://webview/https://tuoitre.vn/thoi-tiet-hom-nay-9-11-bac-bo-ret-13-do-c-nam-bo-ngay-oi-chieu-mua-vai-noi-10026110816050979.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/bien-phong-lap-hat-trick-vo-dich-bong-chuyen-quoc-gia-100261108234343385.htm"
+            "href": "entrance://webview/https://tuoitre.vn/thoi-tiet-hom-nay-9-11-bac-bo-ret-13-do-c-nam-bo-ngay-oi-chieu-mua-vai-noi-10026110816050979.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/bien-phong-lap-hat-trick-vo-dich-bong-chuyen-quoc-gia-100261108234343385.htm"
+            "data": "entrance://webview/https://tuoitre.vn/thoi-tiet-hom-nay-9-11-bac-bo-ret-13-do-c-nam-bo-ngay-oi-chieu-mua-vai-noi-10026110816050979.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Biên Phòng lập hat-trick vô địch bóng chuyền quốc gia",
-          "text": "Tối 8-11, tại chung kết Giải bóng chuyền nam vô địch quốc gia 2026, Biên Phòng lên ngôi sau chiến thắng kịch tính trước Công An TP.HCM.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Thời tiết hôm nay 9-11: Bắc Bộ rét 13 độ C; Nam Bộ ngày oi, chiều mưa vài nơi",
+          "text": "Hôm nay 9-11, thời tiết Bắc Bộ rét kèm mưa. Nam Bộ trời oi, có mưa chiều, Trung Bộ mưa to.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1926,7 +1926,7 @@
     },
     {
       "id": "news_item_32",
-      "name": "Apple bảo có hơn 100.000 ứng dụng được tối ưu cho iPhone Duo, ấy thế mà Google vẫn... \"làm ngơ\"",
+      "name": "Sẽ phạt đến 200 triệu đồng nếu phát hiện tài khoản ngân hàng của người dân có giao dịch nhận/chuyển tiền sau",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1953,31 +1953,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/apple-bao-co-hon-100000-ung-dung-duoc-toi-uu-cho-iphone-duo-ay-the-ma-google-van-lam-ngo-165261108162841385.chn"
+            "href": "entrance://webview/https://genk.vn/se-phat-den-200-trieu-dong-neu-phat-hien-tai-khoan-ngan-hang-cua-nguoi-dan-co-giao-dich-nhan-chuyen-tien-sau-165261108171918533.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/apple-bao-co-hon-100000-ung-dung-duoc-toi-uu-cho-iphone-duo-ay-the-ma-google-van-lam-ngo-165261108162841385.chn"
+            "data": "entrance://webview/https://genk.vn/se-phat-den-200-trieu-dong-neu-phat-hien-tai-khoan-ngan-hang-cua-nguoi-dan-co-giao-dich-nhan-chuyen-tien-sau-165261108171918533.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/apple-bao-co-hon-100000-ung-dung-duoc-toi-uu-cho-iphone-duo-ay-the-ma-google-van-lam-ngo-165261108162841385.chn"
+            "href": "entrance://webview/https://genk.vn/se-phat-den-200-trieu-dong-neu-phat-hien-tai-khoan-ngan-hang-cua-nguoi-dan-co-giao-dich-nhan-chuyen-tien-sau-165261108171918533.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/apple-bao-co-hon-100000-ung-dung-duoc-toi-uu-cho-iphone-duo-ay-the-ma-google-van-lam-ngo-165261108162841385.chn"
+            "data": "entrance://webview/https://genk.vn/se-phat-den-200-trieu-dong-neu-phat-hien-tai-khoan-ngan-hang-cua-nguoi-dan-co-giao-dich-nhan-chuyen-tien-sau-165261108171918533.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Apple bảo có hơn 100.000 ứng dụng được tối ưu cho iPhone Duo, ấy thế mà Google vẫn... \"làm ngơ\"",
-          "text": "Apple cho biết hơn 100.000 ứng dụng đã được tối ưu cho iPhone Duo sau hai tuần, nhưng con số tính theo bộ công cụ lập trình dùng dựng ứng dụng, không phải mức độ thiết kế lại cho hai màn hình.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Sẽ phạt đến 200 triệu đồng nếu phát hiện tài khoản ngân hàng của người dân có giao dịch nhận/chuyển tiền sau",
+          "text": "Khi tài khoản cá nhân bị lợi dụng để tiếp nhận, luân chuyển dòng tiền có nguồn gốc bất hợp pháp, chủ tài khoản sẽ phải đối mặt với nguy cơ bị cơ quan chức năng xác minh và xử lý nghiêm theo quy định của pháp luật.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2039,7 +2039,7 @@
         {
           "type": "text",
           "name": "Honda hé lộ Avencier - SUV hybrid 3 hàng ghế",
-          "text": "Mẫu xe gầm cao 3 hàng ghế trang bị hệ truyền động hybrid mới, dự kiến ra mắt trong tháng 11.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Mẫu xe gầm cao 3 hàng ghế trang bị hệ truyền động hybrid mới, dự kiến ra mắt trong tháng 11.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2101,7 +2101,7 @@
         {
           "type": "text",
           "name": "Oppo Pad Mini – tablet mỏng nhẹ, màn hình OLED nhám",
-          "text": "Oppo Pad Mini 8,8 inch có giá 25 triệu đồng, sử dụng tấm nền OLED nhám, độ phân giải 2.5K và tần số quét 144 Hz.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Oppo Pad Mini 8,8 inch có giá 25 triệu đồng, sử dụng tấm nền OLED nhám, độ phân giải 2.5K và tần số quét 144 Hz.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2112,7 +2112,7 @@
     },
     {
       "id": "news_item_35",
-      "name": "Ông Trump tuyên bố sẽ trở lại, chê bầu cử giữa kỳ là 'bước lùi lịch sử'",
+      "name": "Biên Phòng lập hat-trick vô địch bóng chuyền quốc gia",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2139,31 +2139,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/ong-trump-tuyen-bo-se-tro-lai-che-bau-cu-giua-ky-la-buoc-lui-lich-su-100261108233501619.htm"
+            "href": "entrance://webview/https://tuoitre.vn/bien-phong-lap-hat-trick-vo-dich-bong-chuyen-quoc-gia-100261108234343385.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/ong-trump-tuyen-bo-se-tro-lai-che-bau-cu-giua-ky-la-buoc-lui-lich-su-100261108233501619.htm"
+            "data": "entrance://webview/https://tuoitre.vn/bien-phong-lap-hat-trick-vo-dich-bong-chuyen-quoc-gia-100261108234343385.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/ong-trump-tuyen-bo-se-tro-lai-che-bau-cu-giua-ky-la-buoc-lui-lich-su-100261108233501619.htm"
+            "href": "entrance://webview/https://tuoitre.vn/bien-phong-lap-hat-trick-vo-dich-bong-chuyen-quoc-gia-100261108234343385.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/ong-trump-tuyen-bo-se-tro-lai-che-bau-cu-giua-ky-la-buoc-lui-lich-su-100261108233501619.htm"
+            "data": "entrance://webview/https://tuoitre.vn/bien-phong-lap-hat-trick-vo-dich-bong-chuyen-quoc-gia-100261108234343385.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Ông Trump tuyên bố sẽ trở lại, chê bầu cử giữa kỳ là 'bước lùi lịch sử'",
-          "text": "Tổng thống Mỹ cho rằng chiến thắng của Đảng Dân chủ tại bầu cử giữa kỳ là bước lùi lớn trong lịch sử Mỹ.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Biên Phòng lập hat-trick vô địch bóng chuyền quốc gia",
+          "text": "Tối 8-11, tại chung kết Giải bóng chuyền nam vô địch quốc gia 2026, Biên Phòng lên ngôi sau chiến thắng kịch tính trước Công An TP.HCM.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2174,7 +2174,7 @@
     },
     {
       "id": "news_item_36",
-      "name": "AI hack miễn phí đang nhắm vào các ngân hàng ở Đông Nam Á",
+      "name": "Apple bảo có hơn 100.000 ứng dụng được tối ưu cho iPhone Duo, ấy thế mà Google vẫn... \"làm ngơ\"",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2201,31 +2201,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://genk.vn/ai-hack-mien-phi-dang-nham-vao-cac-ngan-hang-o-dong-nam-a-165261108155642289.chn"
+            "href": "entrance://webview/https://genk.vn/apple-bao-co-hon-100000-ung-dung-duoc-toi-uu-cho-iphone-duo-ay-the-ma-google-van-lam-ngo-165261108162841385.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/ai-hack-mien-phi-dang-nham-vao-cac-ngan-hang-o-dong-nam-a-165261108155642289.chn"
+            "data": "entrance://webview/https://genk.vn/apple-bao-co-hon-100000-ung-dung-duoc-toi-uu-cho-iphone-duo-ay-the-ma-google-van-lam-ngo-165261108162841385.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://genk.vn/ai-hack-mien-phi-dang-nham-vao-cac-ngan-hang-o-dong-nam-a-165261108155642289.chn"
+            "href": "entrance://webview/https://genk.vn/apple-bao-co-hon-100000-ung-dung-duoc-toi-uu-cho-iphone-duo-ay-the-ma-google-van-lam-ngo-165261108162841385.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/ai-hack-mien-phi-dang-nham-vao-cac-ngan-hang-o-dong-nam-a-165261108155642289.chn"
+            "data": "entrance://webview/https://genk.vn/apple-bao-co-hon-100000-ung-dung-duoc-toi-uu-cho-iphone-duo-ay-the-ma-google-van-lam-ngo-165261108162841385.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "AI hack miễn phí đang nhắm vào các ngân hàng ở Đông Nam Á",
-          "text": "Microsoft cho biết một nhóm hack đặt tại Campuchia từ tháng 10 dùng ARTEX, công cụ AI mã nguồn mở tự động hóa tấn công, để nhắm vào các tổ chức tài chính chủ yếu ở Đông Nam Á.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Apple bảo có hơn 100.000 ứng dụng được tối ưu cho iPhone Duo, ấy thế mà Google vẫn... \"làm ngơ\"",
+          "text": "Apple cho biết hơn 100.000 ứng dụng đã được tối ưu cho iPhone Duo sau hai tuần, nhưng con số tính theo bộ công cụ lập trình dùng dựng ứng dụng, không phải mức độ thiết kế lại cho hai màn hình.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2287,7 +2287,7 @@
         {
           "type": "text",
           "name": "Chery triệu hồi gần 54.000 xe tại Trung Quốc do lỗi gãy trục bánh sau",
-          "text": "Hãng xe Trung Quốc thông báo triệu hồi 53.882 chiếc Tiggo 5x và Omoda tại thị trường nội địa sau sự cố gãy trục sau ở Malaysia.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Hãng xe Trung Quốc thông báo triệu hồi 53.882 chiếc Tiggo 5x và Omoda tại thị trường nội địa sau sự cố gãy trục sau ở Malaysia.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2349,7 +2349,7 @@
         {
           "type": "text",
           "name": "TP HCM mở thêm cơ chế đào tạo nhân lực chất lượng cao",
-          "text": "TP HCM dự kiến giao nhiệm vụ, đặt hàng hoặc đấu thầu để các trường công, tư, viện nghiên cứu, tổ chức nước ngoài tham gia đào tạo nhân lực chất lượng cao trong 6 lĩnh vực, đáp ứng nhu cầu phát triển siêu đô thị.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "TP HCM dự kiến giao nhiệm vụ, đặt hàng hoặc đấu thầu để các trường công, tư, viện nghiên cứu, tổ chức nước ngoài tham gia đào tạo nhân lực chất lượng cao trong 6 lĩnh vực, đáp ứng nhu cầu phát triển siêu đô thị.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2360,7 +2360,7 @@
     },
     {
       "id": "news_item_39",
-      "name": "Pháp tuyên bố bước vào bàn đàm phán hòa bình cho  Ukraine ở Abu Dhabi",
+      "name": "Ông Trump tuyên bố sẽ trở lại, chê bầu cử giữa kỳ là 'bước lùi lịch sử'",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2380,6 +2380,130 @@
           },
           {
             "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_39.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/ong-trump-tuyen-bo-se-tro-lai-che-bau-cu-giua-ky-la-buoc-lui-lich-su-100261108233501619.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/ong-trump-tuyen-bo-se-tro-lai-che-bau-cu-giua-ky-la-buoc-lui-lich-su-100261108233501619.htm"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/ong-trump-tuyen-bo-se-tro-lai-che-bau-cu-giua-ky-la-buoc-lui-lich-su-100261108233501619.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/ong-trump-tuyen-bo-se-tro-lai-che-bau-cu-giua-ky-la-buoc-lui-lich-su-100261108233501619.htm"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Ông Trump tuyên bố sẽ trở lại, chê bầu cử giữa kỳ là 'bước lùi lịch sử'",
+          "text": "Tổng thống Mỹ cho rằng chiến thắng của Đảng Dân chủ tại bầu cử giữa kỳ là bước lùi lớn trong lịch sử Mỹ.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:48 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_40",
+      "name": "AI hack miễn phí đang nhắm vào các ngân hàng ở Đông Nam Á",
+      "label": "GenK • Công Nghệ & AI",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_40.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_40.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_40.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_40.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/ai-hack-mien-phi-dang-nham-vao-cac-ngan-hang-o-dong-nam-a-165261108155642289.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/ai-hack-mien-phi-dang-nham-vao-cac-ngan-hang-o-dong-nam-a-165261108155642289.chn"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://genk.vn/ai-hack-mien-phi-dang-nham-vao-cac-ngan-hang-o-dong-nam-a-165261108155642289.chn"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://genk.vn/ai-hack-mien-phi-dang-nham-vao-cac-ngan-hang-o-dong-nam-a-165261108155642289.chn"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "AI hack miễn phí đang nhắm vào các ngân hàng ở Đông Nam Á",
+          "text": "Microsoft cho biết một nhóm hack đặt tại Campuchia từ tháng 10 dùng ARTEX, công cụ AI mã nguồn mở tự động hóa tấn công, để nhắm vào các tổ chức tài chính chủ yếu ở Đông Nam Á.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:49 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_41",
+      "name": "Pháp tuyên bố bước vào bàn đàm phán hòa bình cho  Ukraine ở Abu Dhabi",
+      "label": "Tuổi Trẻ • Thời Sự",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_41.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_41.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_41.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_41.png"
           }
         ]
       },
@@ -2411,7 +2535,7 @@
         {
           "type": "text",
           "name": "Pháp tuyên bố bước vào bàn đàm phán hòa bình cho  Ukraine ở Abu Dhabi",
-          "text": "Paris khẳng định sẽ có mặt và đảm bảo tiếng nói của châu Âu được ghi nhận tại vòng đàm phán hòa bình cho Ukraine tiếp theo ở Abu Dhabi.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Paris khẳng định sẽ có mặt và đảm bảo tiếng nói của châu Âu được ghi nhận tại vòng đàm phán hòa bình cho Ukraine tiếp theo ở Abu Dhabi.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:49 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2421,27 +2545,27 @@
       }
     },
     {
-      "id": "news_item_40",
+      "id": "news_item_42",
       "name": "Hai phi hành gia đi bộ ngoài không gian gần 7 giờ để lắp pin Mặt Trời",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_40.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_42.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_40.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_42.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_40.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_42.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_40.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_42.png"
           }
         ]
       },
@@ -2473,7 +2597,7 @@
         {
           "type": "text",
           "name": "Hai phi hành gia đi bộ ngoài không gian gần 7 giờ để lắp pin Mặt Trời",
-          "text": "Hai phi hành gia hoàn thành chuyến đi bộ ngoài không gian gần 7 giờ để lắp tấm pin Mặt Trời cuối cùng, giúp Trạm Vũ trụ Quốc tế tăng sản lượng điện lên đến 30%.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:18 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Hai phi hành gia hoàn thành chuyến đi bộ ngoài không gian gần 7 giờ để lắp tấm pin Mặt Trời cuối cùng, giúp Trạm Vũ trụ Quốc tế tăng sản lượng điện lên đến 30%.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:49 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2483,89 +2607,27 @@
       }
     },
     {
-      "id": "news_item_41",
-      "name": "Hai tàu lửa đâm nhau ở Ai Cập, gần trăm người thương vong",
-      "label": "Tuổi Trẻ • Thời Sự",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_41.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_41.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_41.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_41.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://tuoitre.vn/hai-tau-lua-dam-nhau-o-ai-cap-gan-tram-nguoi-thuong-vong-100261108230150616.htm"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/hai-tau-lua-dam-nhau-o-ai-cap-gan-tram-nguoi-thuong-vong-100261108230150616.htm"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://tuoitre.vn/hai-tau-lua-dam-nhau-o-ai-cap-gan-tram-nguoi-thuong-vong-100261108230150616.htm"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/hai-tau-lua-dam-nhau-o-ai-cap-gan-tram-nguoi-thuong-vong-100261108230150616.htm"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Hai tàu lửa đâm nhau ở Ai Cập, gần trăm người thương vong",
-          "text": "Vụ va chạm giữa hai đoàn tàu xảy ra ngày 8-11 tại tỉnh Giza, Ai Cập. Khu vực xảy ra tai nạn từng chứng kiến những thảm họa đường sắt nghiêm trọng nhất trong lịch sử nước này.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 06:19 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_42",
+      "id": "news_item_43",
       "name": "Cảnh giác với các chiêu trò cài iOS lên điện thoại Android",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_42.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_43.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_42.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_43.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_42.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_43.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_42.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_43.png"
           }
         ]
       },
@@ -2597,7 +2659,7 @@
         {
           "type": "text",
           "name": "Cảnh giác với các chiêu trò cài iOS lên điện thoại Android",
-          "text": "Theo hướng dẫn của nhóm phát triển và trang cộng đồng theo dõi dự án, HackiOS không có tệp cài đặt đóng gói sẵn, nên mọi liên kết \"tải HackiOS\" đều đáng ngờ.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:19 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Theo hướng dẫn của nhóm phát triển và trang cộng đồng theo dõi dự án, HackiOS không có tệp cài đặt đóng gói sẵn, nên mọi liên kết \"tải HackiOS\" đều đáng ngờ.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:49 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2607,27 +2669,27 @@
       }
     },
     {
-      "id": "news_item_43",
+      "id": "news_item_44",
       "name": "Trải nghiệm nhanh BOOX Palma 3 tại Inknovation 2026: Ấn tượng với khung nhôm, màn hình E-ink sắc nét",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_43.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_44.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_43.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_44.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_43.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_44.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_43.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_44.png"
           }
         ]
       },
@@ -2659,69 +2721,7 @@
         {
           "type": "text",
           "name": "Trải nghiệm nhanh BOOX Palma 3 tại Inknovation 2026: Ấn tượng với khung nhôm, màn hình E-ink sắc nét",
-          "text": "Xuất hiện tại sự kiện Inknovation 2026, BOOX Palma 3 gây chú ý với thiết kế quen thuộc nhưng được nâng cấp khung nhôm anodized, mang lại cảm giác cầm nắm cao cấp hơn. Màn hình E-ink 300 PPI tiếp tục là điểm cộng đáng chú ý của thiết bị.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:19 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_44",
-      "name": "TDM.NEO chính thức về Việt Nam: Tai nghe \"biến hình\" thành loa di động chỉ với 1 thao tác xoay",
-      "label": "GenK • Công Nghệ & AI",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_44.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_44.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_44.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_44.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/tdmneo-chinh-thuc-ve-viet-nam-tai-nghe-bien-hinh-thanh-loa-di-dong-chi-voi-1-thao-tac-xoay-165261108135040658.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/tdmneo-chinh-thuc-ve-viet-nam-tai-nghe-bien-hinh-thanh-loa-di-dong-chi-voi-1-thao-tac-xoay-165261108135040658.chn"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/tdmneo-chinh-thuc-ve-viet-nam-tai-nghe-bien-hinh-thanh-loa-di-dong-chi-voi-1-thao-tac-xoay-165261108135040658.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/tdmneo-chinh-thuc-ve-viet-nam-tai-nghe-bien-hinh-thanh-loa-di-dong-chi-voi-1-thao-tac-xoay-165261108135040658.chn"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "TDM.NEO chính thức về Việt Nam: Tai nghe \"biến hình\" thành loa di động chỉ với 1 thao tác xoay",
-          "text": "Sau khi gây chú ý tại CES 2026 và thành công trên Kickstarter, TDM.NEO đã có buổi ra mắt đầu tiên tại thị trường Việt Nam cùng nhà phân phối Streamcast Asia.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:19 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Xuất hiện tại sự kiện Inknovation 2026, BOOX Palma 3 gây chú ý với thiết kế quen thuộc nhưng được nâng cấp khung nhôm anodized, mang lại cảm giác cầm nắm cao cấp hơn. Màn hình E-ink 300 PPI tiếp tục là điểm cộng đáng chú ý của thiết bị.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 06:49 - 09/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
