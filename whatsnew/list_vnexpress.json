@@ -4,7 +4,7 @@
   "items": [
     {
       "id": "news_item_1",
-      "name": "Bộ trưởng Chiến tranh Mỹ gọi nỗ lực luận tội là 'trò hề'",
+      "name": "Nghệ sĩ kỳ cựu Nhật Bản làm 'Đại sứ đặc biệt Việt - Nhật'",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -31,31 +31,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/bo-truong-chien-tranh-my-goi-no-luc-luan-toi-la-tro-he-100261110212142144.htm"
+            "href": "entrance://webview/https://tuoitre.vn/nghe-si-ky-cuu-nhat-ban-lam-dai-su-dac-biet-viet-nhat-100261110203603977.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/bo-truong-chien-tranh-my-goi-no-luc-luan-toi-la-tro-he-100261110212142144.htm"
+            "data": "entrance://webview/https://tuoitre.vn/nghe-si-ky-cuu-nhat-ban-lam-dai-su-dac-biet-viet-nhat-100261110203603977.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/bo-truong-chien-tranh-my-goi-no-luc-luan-toi-la-tro-he-100261110212142144.htm"
+            "href": "entrance://webview/https://tuoitre.vn/nghe-si-ky-cuu-nhat-ban-lam-dai-su-dac-biet-viet-nhat-100261110203603977.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/bo-truong-chien-tranh-my-goi-no-luc-luan-toi-la-tro-he-100261110212142144.htm"
+            "data": "entrance://webview/https://tuoitre.vn/nghe-si-ky-cuu-nhat-ban-lam-dai-su-dac-biet-viet-nhat-100261110203603977.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Bộ trưởng Chiến tranh Mỹ gọi nỗ lực luận tội là 'trò hề'",
-          "text": "Bộ trưởng Chiến tranh Mỹ Pete Hegseth chỉ trích nỗ lực luận tội ông, gọi đây là \"trò hề chính trị\".\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 22:17 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Nghệ sĩ kỳ cựu Nhật Bản làm 'Đại sứ đặc biệt Việt - Nhật'",
+          "text": "Nam diễn viên gạo cội Nhật Bản Sugi Ryotaro được trao chứng nhận là \"Đại sứ đặc biệt Việt - Nhật\" nhiệm kỳ 2026 - 2029 trong buổi lễ ngày 10-11.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 22:47 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -117,7 +117,7 @@
         {
           "type": "text",
           "name": "Săn sale 11/11: Loa, tai nghe, sạc dự phòng Ugreen, Lenovo, Edifier... chỉ từ 25k",
-          "text": "Đủ các món phụ kiện công nghệ có giá chỉ từ vài chục nghìn đồng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:17 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Đủ các món phụ kiện công nghệ có giá chỉ từ vài chục nghìn đồng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:47 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -128,7 +128,7 @@
     },
     {
       "id": "news_item_3",
-      "name": "Cuộc họp báo gấp gáp khi ông Trump đưa trùm đấu võ đến Nhà Trắng",
+      "name": "Mẹo bảo quản sò huyết tươi sống cả tuần",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -155,31 +155,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/cuoc-hop-bao-gap-gap-khi-ong-trump-dua-trum-dau-vo-den-nha-trang-5142773.html"
+            "href": "entrance://webview/https://vnexpress.net/meo-bao-quan-so-huyet-tuoi-song-ca-tuan-5142870.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/cuoc-hop-bao-gap-gap-khi-ong-trump-dua-trum-dau-vo-den-nha-trang-5142773.html"
+            "data": "entrance://webview/https://vnexpress.net/meo-bao-quan-so-huyet-tuoi-song-ca-tuan-5142870.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/cuoc-hop-bao-gap-gap-khi-ong-trump-dua-trum-dau-vo-den-nha-trang-5142773.html"
+            "href": "entrance://webview/https://vnexpress.net/meo-bao-quan-so-huyet-tuoi-song-ca-tuan-5142870.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/cuoc-hop-bao-gap-gap-khi-ong-trump-dua-trum-dau-vo-den-nha-trang-5142773.html"
+            "data": "entrance://webview/https://vnexpress.net/meo-bao-quan-so-huyet-tuoi-song-ca-tuan-5142870.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Cuộc họp báo gấp gáp khi ông Trump đưa trùm đấu võ đến Nhà Trắng",
-          "text": "Ông Trump cùng trùm đấu võ Dana White xuất hiện tại phòng họp báo Nhà Trắng đột ngột đến mức các trợ lý chưa kịp gắn huy hiệu tổng thống lên bục phát biểu.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:17 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Mẹo bảo quản sò huyết tươi sống cả tuần",
+          "text": "Ngâm nước máy khiến sò huyết dễ chết ngạt do nhiễm clo. Người nội trợ có thể áp dụng phương pháp \"ngủ đông\" để giữ nguyên liệu tươi sống nhiều ngày.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:47 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -241,7 +241,7 @@
         {
           "type": "text",
           "name": "Kỹ sư để tác nhân AI vượt quyền, xâm nhập đối thủ",
-          "text": "Nhân viên startup Railway đã để tác nhân vượt quyền xâm nhập hệ thống đối thủ Primcloud, làm dấy lên câu hỏi về trách nhiệm pháp lý thời AI.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:17 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Nhân viên startup Railway đã để tác nhân vượt quyền xâm nhập hệ thống đối thủ Primcloud, làm dấy lên câu hỏi về trách nhiệm pháp lý thời AI.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:47 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -303,7 +303,7 @@
         {
           "type": "text",
           "name": "'Mẹ đẻ' giọng đọc AI review phim chia sẻ cách đưa nghiên cứu khoa học ra thị trường",
-          "text": "Tiến sĩ Nguyễn Thị Thu Trang, giảng viên Đại học Bách khoa Hà Nội, người phát triển giọng đọc AI 'quốc dân' review phim, chia sẻ với sinh viên cách đưa nghiên cứu khoa học ra thị trường.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 22:17 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tiến sĩ Nguyễn Thị Thu Trang, giảng viên Đại học Bách khoa Hà Nội, người phát triển giọng đọc AI 'quốc dân' review phim, chia sẻ với sinh viên cách đưa nghiên cứu khoa học ra thị trường.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 22:47 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -314,7 +314,7 @@
     },
     {
       "id": "news_item_6",
-      "name": "Bảng xếp hạng Giải U23 - Gia Lai VTV Cup 2026: Việt Nam dẫn đầu",
+      "name": "Đang làm thủ tục xuất cảnh, người phụ nữ phát hiện đứng tên công ty nợ thuế 12 tỉ",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -341,31 +341,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/bang-xep-hang-giai-u23-gia-lai-vtv-cup-2026-viet-nam-dan-dau-100261110211926357.htm"
+            "href": "entrance://webview/https://tuoitre.vn/dang-lam-thu-tuc-xuat-canh-nguoi-phu-nu-phat-hien-dung-ten-cong-ty-no-thue-12-ti-100261110205650524.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/bang-xep-hang-giai-u23-gia-lai-vtv-cup-2026-viet-nam-dan-dau-100261110211926357.htm"
+            "data": "entrance://webview/https://tuoitre.vn/dang-lam-thu-tuc-xuat-canh-nguoi-phu-nu-phat-hien-dung-ten-cong-ty-no-thue-12-ti-100261110205650524.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/bang-xep-hang-giai-u23-gia-lai-vtv-cup-2026-viet-nam-dan-dau-100261110211926357.htm"
+            "href": "entrance://webview/https://tuoitre.vn/dang-lam-thu-tuc-xuat-canh-nguoi-phu-nu-phat-hien-dung-ten-cong-ty-no-thue-12-ti-100261110205650524.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/bang-xep-hang-giai-u23-gia-lai-vtv-cup-2026-viet-nam-dan-dau-100261110211926357.htm"
+            "data": "entrance://webview/https://tuoitre.vn/dang-lam-thu-tuc-xuat-canh-nguoi-phu-nu-phat-hien-dung-ten-cong-ty-no-thue-12-ti-100261110205650524.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Bảng xếp hạng Giải U23 - Gia Lai VTV Cup 2026: Việt Nam dẫn đầu",
-          "text": "U23 Việt Nam đã vươn lên dẫn đầu Giải giao hữu quốc tế U23 - Gia Lai VTV Cup 2026 sau lượt trận đầu tiên.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 22:17 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Đang làm thủ tục xuất cảnh, người phụ nữ phát hiện đứng tên công ty nợ thuế 12 tỉ",
+          "text": "Một phụ nữ bất ngờ bị từ chối xuất cảnh khi phát hiện đứng tên đại diện pháp luật công ty nợ thuế 12 tỉ đồng dù không biết doanh nghiệp này tồn tại.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 22:47 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -427,7 +427,7 @@
         {
           "type": "text",
           "name": "Nhà cửa lên đời, ví tiền vẫn vui: 5 món gia dụng đáng chốt đơn dịp 11.11",
-          "text": "Từ tự pha espresso, xay sinh tố mỗi sáng đến lọc nước uống và làm mát phòng, đây là những món đáng canh giá nếu bạn muốn nâng cấp tiện nghi hằng ngày.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:17 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Từ tự pha espresso, xay sinh tố mỗi sáng đến lọc nước uống và làm mát phòng, đây là những món đáng canh giá nếu bạn muốn nâng cấp tiện nghi hằng ngày.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:47 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -438,7 +438,7 @@
     },
     {
       "id": "news_item_8",
-      "name": "Những lợi thế ngành bán dẫn Việt - Nhật có thể bổ trợ nhau",
+      "name": "Tại sao 6h-9h sáng lại là thời điểm dễ đột quỵ nhất trong ngày?",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -465,31 +465,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/nhung-loi-the-nganh-ban-dan-viet-nhat-co-the-bo-tro-nhau-5142903.html"
+            "href": "entrance://webview/https://vnexpress.net/tai-sao-6h-9h-sang-lai-la-thoi-diem-de-dot-quy-nhat-trong-ngay-5142802.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nhung-loi-the-nganh-ban-dan-viet-nhat-co-the-bo-tro-nhau-5142903.html"
+            "data": "entrance://webview/https://vnexpress.net/tai-sao-6h-9h-sang-lai-la-thoi-diem-de-dot-quy-nhat-trong-ngay-5142802.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/nhung-loi-the-nganh-ban-dan-viet-nhat-co-the-bo-tro-nhau-5142903.html"
+            "href": "entrance://webview/https://vnexpress.net/tai-sao-6h-9h-sang-lai-la-thoi-diem-de-dot-quy-nhat-trong-ngay-5142802.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nhung-loi-the-nganh-ban-dan-viet-nhat-co-the-bo-tro-nhau-5142903.html"
+            "data": "entrance://webview/https://vnexpress.net/tai-sao-6h-9h-sang-lai-la-thoi-diem-de-dot-quy-nhat-trong-ngay-5142802.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Những lợi thế ngành bán dẫn Việt - Nhật có thể bổ trợ nhau",
-          "text": "Các chuyên gia cho rằng, Việt Nam lợi thế về nhân lực trong khi Nhật mạnh về vật liệu và thiết bị, có thể kết hợp để cùng phát triển ngành bán dẫn.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:17 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Tại sao 6h-9h sáng lại là thời điểm dễ đột quỵ nhất trong ngày?",
+          "text": "Nguy cơ đột quỵ tăng cao vào những giờ đầu buổi sáng do huyết áp tăng đột biến khi thức giấc, đồng thời máu có xu hướng đặc hơn và tiểu cầu dễ kết dính.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:47 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -551,7 +551,7 @@
         {
           "type": "text",
           "name": "Tấm wafer kim cương đơn tinh thể 200 mm đầu tiên trên thế giới",
-          "text": "Công ty Diamond Foundry thông báo sản xuất thành công tấm wafer kim cương đơn tinh thể 200 mm hôm 6/11, mở đường cho chip bán dẫn thế hệ mới.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:17 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Công ty Diamond Foundry thông báo sản xuất thành công tấm wafer kim cương đơn tinh thể 200 mm hôm 6/11, mở đường cho chip bán dẫn thế hệ mới.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:47 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -613,7 +613,7 @@
         {
           "type": "text",
           "name": "Trung Quốc có thực sự cần Nvidia để chạy đua AI?",
-          "text": "DeepSeek, Huawei và các hãng công nghệ Trung Quốc đang phát triển chip AI nội địa, nhưng Nvidia vẫn giữ vai trò quan trọng trong cuộc đua này.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "DeepSeek, Huawei và các hãng công nghệ Trung Quốc đang phát triển chip AI nội địa, nhưng Nvidia vẫn giữ vai trò quan trọng trong cuộc đua này.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 22:47 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -624,7 +624,7 @@
     },
     {
       "id": "news_item_11",
-      "name": "Nghệ sĩ kỳ cựu Nhật Bản làm 'Đại sứ đặc biệt Việt - Nhật'",
+      "name": "Tỉnh có lễ hội Việt Nam lớn nhất Nhật Bản lập văn phòng xúc tiến thương mại tại Hà Nội",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -651,31 +651,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/nghe-si-ky-cuu-nhat-ban-lam-dai-su-dac-biet-viet-nhat-100261110203603977.htm"
+            "href": "entrance://webview/https://tuoitre.vn/tinh-co-le-hoi-viet-nam-lon-nhat-nhat-ban-lap-van-phong-xuc-tien-thuong-mai-tai-ha-noi-100261110194041773.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/nghe-si-ky-cuu-nhat-ban-lam-dai-su-dac-biet-viet-nhat-100261110203603977.htm"
+            "data": "entrance://webview/https://tuoitre.vn/tinh-co-le-hoi-viet-nam-lon-nhat-nhat-ban-lap-van-phong-xuc-tien-thuong-mai-tai-ha-noi-100261110194041773.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/nghe-si-ky-cuu-nhat-ban-lam-dai-su-dac-biet-viet-nhat-100261110203603977.htm"
+            "href": "entrance://webview/https://tuoitre.vn/tinh-co-le-hoi-viet-nam-lon-nhat-nhat-ban-lap-van-phong-xuc-tien-thuong-mai-tai-ha-noi-100261110194041773.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/nghe-si-ky-cuu-nhat-ban-lam-dai-su-dac-biet-viet-nhat-100261110203603977.htm"
+            "data": "entrance://webview/https://tuoitre.vn/tinh-co-le-hoi-viet-nam-lon-nhat-nhat-ban-lap-van-phong-xuc-tien-thuong-mai-tai-ha-noi-100261110194041773.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Nghệ sĩ kỳ cựu Nhật Bản làm 'Đại sứ đặc biệt Việt - Nhật'",
-          "text": "Nam diễn viên gạo cội Nhật Bản Sugi Ryotaro được trao chứng nhận là \"Đại sứ đặc biệt Việt - Nhật\" nhiệm kỳ 2026 - 2029 trong buổi lễ ngày 10-11.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Tỉnh có lễ hội Việt Nam lớn nhất Nhật Bản lập văn phòng xúc tiến thương mại tại Hà Nội",
+          "text": "Tổng Bí thư, Chủ tịch nước Tô Lâm hoan nghênh việc Kanagawa lập Văn phòng xúc tiến thương mại - công nghiệp khi thăm tỉnh này ngày 10-11.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 22:47 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -737,7 +737,7 @@
         {
           "type": "text",
           "name": "Một linh kiện trong điện thoại cũ đang đắt giá đến mức các hãng phải tháo ra dùng lại",
-          "text": "Những linh kiện tháo từ thiết bị cũ được xử lý lại rồi đưa vào điện thoại mới, giúp giảm chi phí sản xuất và giữ giá bán.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Những linh kiện tháo từ thiết bị cũ được xử lý lại rồi đưa vào điện thoại mới, giúp giảm chi phí sản xuất và giữ giá bán.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:47 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -748,7 +748,7 @@
     },
     {
       "id": "news_item_13",
-      "name": "Tàu hàng hơn 23.000 tấn mắc cạn gần biển Lăng Cô",
+      "name": "Mỗi ngày TP HCM có gần 150 doanh nghiệp lập mới",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -775,31 +775,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/tau-hang-hon-23-000-tan-mac-can-gan-bien-lang-co-5142894.html"
+            "href": "entrance://webview/https://vnexpress.net/moi-ngay-tp-hcm-co-gan-150-doanh-nghiep-lap-moi-5142923.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/tau-hang-hon-23-000-tan-mac-can-gan-bien-lang-co-5142894.html"
+            "data": "entrance://webview/https://vnexpress.net/moi-ngay-tp-hcm-co-gan-150-doanh-nghiep-lap-moi-5142923.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/tau-hang-hon-23-000-tan-mac-can-gan-bien-lang-co-5142894.html"
+            "href": "entrance://webview/https://vnexpress.net/moi-ngay-tp-hcm-co-gan-150-doanh-nghiep-lap-moi-5142923.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/tau-hang-hon-23-000-tan-mac-can-gan-bien-lang-co-5142894.html"
+            "data": "entrance://webview/https://vnexpress.net/moi-ngay-tp-hcm-co-gan-150-doanh-nghiep-lap-moi-5142923.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Tàu hàng hơn 23.000 tấn mắc cạn gần biển Lăng Cô",
-          "text": "Tàu hàng VTA NEPTUNE cùng 20 thuyền viên bị gió lớn, sóng mạnh đánh trôi neo, mắc cạn gần bãi biển khu nghỉ dưỡng Laguna, xã Chân Mây - Lăng Cô.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Mỗi ngày TP HCM có gần 150 doanh nghiệp lập mới",
+          "text": "TP HCM có gần 45.000 doanh nghiệp thành lập mới trong 10 tháng đầu năm - chiếm hơn 1/4 cả nước, tương đương gần 150 đơn vị mở mới mỗi ngày.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -861,7 +861,7 @@
         {
           "type": "text",
           "name": "AI giúp 'giải đáp câu hỏi lớn của điện toán lượng tử'",
-          "text": "Một mô hình chưa công bố của Anthropic giúp giới khoa học chứng minh giả thuyết Aaronson-Ambainis, vấn đề đã tồn tại lâu năm trong điện toán lượng tử.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Một mô hình chưa công bố của Anthropic giúp giới khoa học chứng minh giả thuyết Aaronson-Ambainis, vấn đề đã tồn tại lâu năm trong điện toán lượng tử.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -923,7 +923,7 @@
         {
           "type": "text",
           "name": "Việt Nam - Nhật Bản rót gần 500 tỉ đồng cho 11 dự án bán dẫn",
-          "text": "Việt Nam và Nhật Bản đồng tài trợ gần 500 tỉ đồng cho 11 dự án nghiên cứu bán dẫn, đồng thời lên kế hoạch đào tạo 100 tiến sĩ AI từ năm 2027.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Việt Nam và Nhật Bản đồng tài trợ gần 500 tỉ đồng cho 11 dự án nghiên cứu bán dẫn, đồng thời lên kế hoạch đào tạo 100 tiến sĩ AI từ năm 2027.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -934,7 +934,7 @@
     },
     {
       "id": "news_item_16",
-      "name": "Đang làm thủ tục xuất cảnh, người phụ nữ phát hiện đứng tên công ty nợ thuế 12 tỉ",
+      "name": "Viettel ra mắt trung tâm logistics tại Đà Nẵng có robot tự hành",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -961,31 +961,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/dang-lam-thu-tuc-xuat-canh-nguoi-phu-nu-phat-hien-dung-ten-cong-ty-no-thue-12-ti-100261110205650524.htm"
+            "href": "entrance://webview/https://tuoitre.vn/viettel-ra-mat-trung-tam-logistics-tai-da-nang-co-robot-tu-hanh-100261110200721223.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/dang-lam-thu-tuc-xuat-canh-nguoi-phu-nu-phat-hien-dung-ten-cong-ty-no-thue-12-ti-100261110205650524.htm"
+            "data": "entrance://webview/https://tuoitre.vn/viettel-ra-mat-trung-tam-logistics-tai-da-nang-co-robot-tu-hanh-100261110200721223.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/dang-lam-thu-tuc-xuat-canh-nguoi-phu-nu-phat-hien-dung-ten-cong-ty-no-thue-12-ti-100261110205650524.htm"
+            "href": "entrance://webview/https://tuoitre.vn/viettel-ra-mat-trung-tam-logistics-tai-da-nang-co-robot-tu-hanh-100261110200721223.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/dang-lam-thu-tuc-xuat-canh-nguoi-phu-nu-phat-hien-dung-ten-cong-ty-no-thue-12-ti-100261110205650524.htm"
+            "data": "entrance://webview/https://tuoitre.vn/viettel-ra-mat-trung-tam-logistics-tai-da-nang-co-robot-tu-hanh-100261110200721223.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Đang làm thủ tục xuất cảnh, người phụ nữ phát hiện đứng tên công ty nợ thuế 12 tỉ",
-          "text": "Một phụ nữ bất ngờ bị từ chối xuất cảnh khi phát hiện đứng tên đại diện pháp luật công ty nợ thuế 12 tỉ đồng dù không biết doanh nghiệp này tồn tại.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Viettel ra mắt trung tâm logistics tại Đà Nẵng có robot tự hành",
+          "text": "Trung tâm Logistics Viettel Đà Nẵng có quy mô hơn 8,6ha, được trang bị robot tự hành AGV giúp thời gian xử lý mỗi đơn hàng nhanh hơn 33% so với thông thường.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1047,7 +1047,7 @@
         {
           "type": "text",
           "name": "Sale đồ công nghệ ngày đôi 11/11: Củ sạc nhanh, pin dự phòng, tai nghe... món nào cũng giảm tới gần nửa giá",
-          "text": "Lại thêm một đợt sale đậm để săn đồ công nghệ dịp cuối năm.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Lại thêm một đợt sale đậm để săn đồ công nghệ dịp cuối năm.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "news_item_18",
-      "name": "Cứu 10 người mắc kẹt do lũ",
+      "name": "Vì sao phụ nữ dễ tăng mỡ bụng khi estrogen suy giảm?",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1085,31 +1085,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/cuu-10-nguoi-mac-ket-do-lu-5142916.html"
+            "href": "entrance://webview/https://vnexpress.net/vi-sao-phu-nu-de-tang-mo-bung-khi-estrogen-suy-giam-5142814.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/cuu-10-nguoi-mac-ket-do-lu-5142916.html"
+            "data": "entrance://webview/https://vnexpress.net/vi-sao-phu-nu-de-tang-mo-bung-khi-estrogen-suy-giam-5142814.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/cuu-10-nguoi-mac-ket-do-lu-5142916.html"
+            "href": "entrance://webview/https://vnexpress.net/vi-sao-phu-nu-de-tang-mo-bung-khi-estrogen-suy-giam-5142814.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/cuu-10-nguoi-mac-ket-do-lu-5142916.html"
+            "data": "entrance://webview/https://vnexpress.net/vi-sao-phu-nu-de-tang-mo-bung-khi-estrogen-suy-giam-5142814.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Cứu 10 người mắc kẹt do lũ",
-          "text": "10 người ở xã Hướng Hiệp đi làm, bị nước lũ cô lập trong rừng trồng tràm, được công an cứu hộ, đưa qua sông an toàn.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Vì sao phụ nữ dễ tăng mỡ bụng khi estrogen suy giảm?",
+          "text": "Estrogen suy giảm góp phần làm thay đổi quá trình chuyển hóa, giảm khối cơ và tăng tích tụ mỡ vùng bụng, ngay cả khi cân nặng không thay đổi nhiều.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1171,7 +1171,7 @@
         {
           "type": "text",
           "name": "Insta360 Luna Pro - máy quay vlog 8K tích hợp gimbal",
-          "text": "Insta360 Luna Pro có thể quay video ngang độ phân giải 8K hoặc 4K với định dạng dọc, tích hợp gimbal chống rung và ống kính Leica Summicron f/1.8.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Insta360 Luna Pro có thể quay video ngang độ phân giải 8K hoặc 4K với định dạng dọc, tích hợp gimbal chống rung và ống kính Leica Summicron f/1.8.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1233,7 +1233,7 @@
         {
           "type": "text",
           "name": "Cách dùng AI tìm bằng chứng khoa học trước khi viết khóa luận",
-          "text": "Câu 'nhiều nghiên cứu đã chứng minh' xuất hiện rất thường xuyên trong khóa luận, luận văn, thậm chí trong bài báo đại chúng. Không ít trường hợp người viết chưa từng thấy các nghiên cứu ấy.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Câu 'nhiều nghiên cứu đã chứng minh' xuất hiện rất thường xuyên trong khóa luận, luận văn, thậm chí trong bài báo đại chúng. Không ít trường hợp người viết chưa từng thấy các nghiên cứu ấy.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1244,7 +1244,7 @@
     },
     {
       "id": "news_item_21",
-      "name": "Tỉnh có lễ hội Việt Nam lớn nhất Nhật Bản lập văn phòng xúc tiến thương mại tại Hà Nội",
+      "name": "Hậu bầu cử giữa kỳ, người Mỹ quan tâm điều gì nhất?",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1271,31 +1271,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/tinh-co-le-hoi-viet-nam-lon-nhat-nhat-ban-lap-van-phong-xuc-tien-thuong-mai-tai-ha-noi-100261110194041773.htm"
+            "href": "entrance://webview/https://tuoitre.vn/hau-bau-cu-giua-ky-nguoi-my-quan-tam-dieu-gi-nhat-100261110200305721.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/tinh-co-le-hoi-viet-nam-lon-nhat-nhat-ban-lap-van-phong-xuc-tien-thuong-mai-tai-ha-noi-100261110194041773.htm"
+            "data": "entrance://webview/https://tuoitre.vn/hau-bau-cu-giua-ky-nguoi-my-quan-tam-dieu-gi-nhat-100261110200305721.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/tinh-co-le-hoi-viet-nam-lon-nhat-nhat-ban-lap-van-phong-xuc-tien-thuong-mai-tai-ha-noi-100261110194041773.htm"
+            "href": "entrance://webview/https://tuoitre.vn/hau-bau-cu-giua-ky-nguoi-my-quan-tam-dieu-gi-nhat-100261110200305721.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/tinh-co-le-hoi-viet-nam-lon-nhat-nhat-ban-lap-van-phong-xuc-tien-thuong-mai-tai-ha-noi-100261110194041773.htm"
+            "data": "entrance://webview/https://tuoitre.vn/hau-bau-cu-giua-ky-nguoi-my-quan-tam-dieu-gi-nhat-100261110200305721.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Tỉnh có lễ hội Việt Nam lớn nhất Nhật Bản lập văn phòng xúc tiến thương mại tại Hà Nội",
-          "text": "Tổng Bí thư, Chủ tịch nước Tô Lâm hoan nghênh việc Kanagawa lập Văn phòng xúc tiến thương mại - công nghiệp khi thăm tỉnh này ngày 10-11.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Hậu bầu cử giữa kỳ, người Mỹ quan tâm điều gì nhất?",
+          "text": "Người dân Mỹ không muốn Quốc hội khóa mới tiếp tục sa lầy vào các cuộc đối đầu chính trị đảng phái.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1357,7 +1357,7 @@
         {
           "type": "text",
           "name": "Ốp trong suốt \"chống ố vàng\", chống sốc, có MagSafe xịn mà người dùng iPhone nào cũng nên có một cái, giá sale chỉ khoảng 400.000 đồng",
-          "text": "Mẫu ốp lưng giá dễ tiếp cận giúp người dùng iPhone 17/18 Pro Max \"khoe\" được trọn vẹn màu của máy, bốn góc có đệm khí chống va đập.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Mẫu ốp lưng giá dễ tiếp cận giúp người dùng iPhone 17/18 Pro Max \"khoe\" được trọn vẹn màu của máy, bốn góc có đệm khí chống va đập.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1368,7 +1368,7 @@
     },
     {
       "id": "news_item_23",
-      "name": "Văn phòng hãng xe Trung Quốc bị khám xét giữa tranh chấp với Land Rover",
+      "name": "Dấu hiệu cảnh báo kiệt sức tinh thần",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1395,31 +1395,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/van-phong-hang-xe-trung-quoc-bi-kham-xet-giua-tranh-chap-voi-land-rover-5142910.html"
+            "href": "entrance://webview/https://vnexpress.net/dau-hieu-canh-bao-kiet-suc-tinh-than-5142794.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/van-phong-hang-xe-trung-quoc-bi-kham-xet-giua-tranh-chap-voi-land-rover-5142910.html"
+            "data": "entrance://webview/https://vnexpress.net/dau-hieu-canh-bao-kiet-suc-tinh-than-5142794.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/van-phong-hang-xe-trung-quoc-bi-kham-xet-giua-tranh-chap-voi-land-rover-5142910.html"
+            "href": "entrance://webview/https://vnexpress.net/dau-hieu-canh-bao-kiet-suc-tinh-than-5142794.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/van-phong-hang-xe-trung-quoc-bi-kham-xet-giua-tranh-chap-voi-land-rover-5142910.html"
+            "data": "entrance://webview/https://vnexpress.net/dau-hieu-canh-bao-kiet-suc-tinh-than-5142794.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Văn phòng hãng xe Trung Quốc bị khám xét giữa tranh chấp với Land Rover",
-          "text": "Hai văn phòng của hãng xe Trung Quốc BYD bị thu giữ dữ liệu điện tử theo yêu cầu của Jaguar Land Rover, giữa nghi vấn sao chép công nghệ dòng Defender để phát triển SUV Ti7.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Dấu hiệu cảnh báo kiệt sức tinh thần",
+          "text": "Dễ nổi nóng và thiếu kiên nhẫn, thường xuyên đau đầu, rối loạn giấc ngủ là những biểu hiện thường gặp do não bộ quá tải gây kiệt sức tinh thần.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1481,7 +1481,7 @@
         {
           "type": "text",
           "name": "Meta triển khai AI ước tính tuổi người dùng mạng xã hội",
-          "text": "Meta triển khai công nghệ nhận diện độ tuổi người dùng trên Instagram, đồng thời có kế hoạch mở rộng sang Threads và Facebook.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Meta triển khai công nghệ nhận diện độ tuổi người dùng trên Instagram, đồng thời có kế hoạch mở rộng sang Threads và Facebook.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1543,7 +1543,7 @@
         {
           "type": "text",
           "name": "Claude giúp máy tính lượng tử giảm hàng triệu cổng tính toán",
-          "text": "Thay vì phải lưu mọi kết quả trung gian, Claude tìm cách khôi phục chúng, giúp giảm khoảng 17 lần số cổng tính toán trong mạch lượng tử.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Thay vì phải lưu mọi kết quả trung gian, Claude tìm cách khôi phục chúng, giúp giảm khoảng 17 lần số cổng tính toán trong mạch lượng tử.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1554,88 +1554,26 @@
     },
     {
       "id": "news_item_26",
-      "name": "Viettel ra mắt trung tâm logistics tại Đà Nẵng có robot tự hành",
-      "label": "Tuổi Trẻ • Thời Sự",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_26.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_26.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_26.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_26.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://tuoitre.vn/viettel-ra-mat-trung-tam-logistics-tai-da-nang-co-robot-tu-hanh-100261110200721223.htm"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/viettel-ra-mat-trung-tam-logistics-tai-da-nang-co-robot-tu-hanh-100261110200721223.htm"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://tuoitre.vn/viettel-ra-mat-trung-tam-logistics-tai-da-nang-co-robot-tu-hanh-100261110200721223.htm"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/viettel-ra-mat-trung-tam-logistics-tai-da-nang-co-robot-tu-hanh-100261110200721223.htm"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Viettel ra mắt trung tâm logistics tại Đà Nẵng có robot tự hành",
-          "text": "Trung tâm Logistics Viettel Đà Nẵng có quy mô hơn 8,6ha, được trang bị robot tự hành AGV giúp thời gian xử lý mỗi đơn hàng nhanh hơn 33% so với thông thường.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_27",
       "name": "Những chiếc iPhone cũ đáng mua nhất lúc này",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_27.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_26.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_27.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_26.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_27.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_26.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_27.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_26.png"
           }
         ]
       },
@@ -1667,7 +1605,69 @@
         {
           "type": "text",
           "name": "Những chiếc iPhone cũ đáng mua nhất lúc này",
-          "text": "Dòng iPhone 18 tại Việt Nam hiện chỉ có bản Pro, giá từ 38,999 triệu đồng. Trong khi đó, nhiều mẫu iPhone cũ đã giảm 8 - 14 triệu đồng so với giá máy mới cùng dòng hoặc giá lên kệ ban đầu.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Dòng iPhone 18 tại Việt Nam hiện chỉ có bản Pro, giá từ 38,999 triệu đồng. Trong khi đó, nhiều mẫu iPhone cũ đã giảm 8 - 14 triệu đồng so với giá máy mới cùng dòng hoặc giá lên kệ ban đầu.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_27",
+      "name": "Thai phụ lên cơn hen cấp do tự ý ngừng thuốc hít",
+      "label": "VnExpress • Thời Sự",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_27.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_27.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_27.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_27.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://vnexpress.net/thai-phu-len-con-hen-cap-do-tu-y-ngung-thuoc-hit-5142777.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/thai-phu-len-con-hen-cap-do-tu-y-ngung-thuoc-hit-5142777.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://vnexpress.net/thai-phu-len-con-hen-cap-do-tu-y-ngung-thuoc-hit-5142777.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/thai-phu-len-con-hen-cap-do-tu-y-ngung-thuoc-hit-5142777.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Thai phụ lên cơn hen cấp do tự ý ngừng thuốc hít",
+          "text": "Chị Ly, 26 tuổi, hen phế quản song tự ý ngừng thuốc hít do phát hiện mang thai, sau đó lên cơn hen cấp.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1678,88 +1678,26 @@
     },
     {
       "id": "news_item_28",
-      "name": "Người Việt dùng AI giải mã bài thuốc cổ truyền",
-      "label": "VnExpress • Thời Sự",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_28.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_28.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_28.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_28.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/nguoi-viet-dung-ai-giai-ma-bai-thuoc-co-truyen-5142865.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nguoi-viet-dung-ai-giai-ma-bai-thuoc-co-truyen-5142865.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/nguoi-viet-dung-ai-giai-ma-bai-thuoc-co-truyen-5142865.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nguoi-viet-dung-ai-giai-ma-bai-thuoc-co-truyen-5142865.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Người Việt dùng AI giải mã bài thuốc cổ truyền",
-          "text": "Các kỹ sư của BioAI ứng dụng AI để phân tích thành phần dược liệu, tìm hiểu cách chúng tác động trong cơ thể, từ đó gợi ý cơ sở khoa học cho các bài thuốc cổ truyền.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_29",
       "name": "Anthropic ra phiên bản mới của Mythos và Fable",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_29.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_28.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_29.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_28.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_29.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_28.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_29.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_28.png"
           }
         ]
       },
@@ -1791,7 +1729,7 @@
         {
           "type": "text",
           "name": "Anthropic ra phiên bản mới của Mythos và Fable",
-          "text": "Anthropic phát hành Mythos 5.2 và Fable 5.2, phiên bản mới của những mô hình tiên tiến nhất công ty, cho kết quả đầu ra nhanh với giá rẻ hơn.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Anthropic phát hành Mythos 5.2 và Fable 5.2, phiên bản mới của những mô hình tiên tiến nhất công ty, cho kết quả đầu ra nhanh với giá rẻ hơn.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1801,27 +1739,27 @@
       }
     },
     {
-      "id": "news_item_30",
+      "id": "news_item_29",
       "name": "Zalo giữ vững vị thế nền tảng giao tiếp phổ biến nhất Việt Nam",
       "label": "Tuổi Trẻ • Nhịp Sống Số",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_30.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_29.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_30.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_29.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_30.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_29.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_30.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_29.png"
           }
         ]
       },
@@ -1853,7 +1791,69 @@
         {
           "type": "text",
           "name": "Zalo giữ vững vị thế nền tảng giao tiếp phổ biến nhất Việt Nam",
-          "text": "Theo báo cáo \"The Connected Consumer\" quý II/2026 do Decision Lab công bố ngày 3-11, Zalo tiếp tục dẫn đầu các nền tảng nhắn tin tại thị trường Việt Nam với 81% tỉ lệ sử dụng và 54% tỉ lệ yêu thích.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Theo báo cáo \"The Connected Consumer\" quý II/2026 do Decision Lab công bố ngày 3-11, Zalo tiếp tục dẫn đầu các nền tảng nhắn tin tại thị trường Việt Nam với 81% tỉ lệ sử dụng và 54% tỉ lệ yêu thích.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_30",
+      "name": "Triều cường gây ngập hẻm Nguyễn Văn Quỳ, phường triển khai dự án chống ngập",
+      "label": "Tuổi Trẻ • Thời Sự",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_30.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_30.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_30.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_30.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/trieu-cuong-gay-ngap-hem-nguyen-van-quy-phuong-trien-khai-du-an-chong-ngap-100261110195404912.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/trieu-cuong-gay-ngap-hem-nguyen-van-quy-phuong-trien-khai-du-an-chong-ngap-100261110195404912.htm"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/trieu-cuong-gay-ngap-hem-nguyen-van-quy-phuong-trien-khai-du-an-chong-ngap-100261110195404912.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/trieu-cuong-gay-ngap-hem-nguyen-van-quy-phuong-trien-khai-du-an-chong-ngap-100261110195404912.htm"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Triều cường gây ngập hẻm Nguyễn Văn Quỳ, phường triển khai dự án chống ngập",
+          "text": "Triều cường dâng cao khiến nhiều hộ dân tại hẻm 85 Nguyễn Văn Quỳ (phường Tân Thuận, TP.HCM) phải nâng nền nhà chống ngập. UBND phường cho biết đang triển khai nâng cấp 5 tuyến hẻm, kết hợp cải tạo hệ thống thoát nước nhằm giảm ngập cho người dân.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1864,88 +1864,26 @@
     },
     {
       "id": "news_item_31",
-      "name": "Hậu bầu cử giữa kỳ, người Mỹ quan tâm điều gì nhất?",
-      "label": "Tuổi Trẻ • Thời Sự",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_31.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_31.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_31.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_31.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://tuoitre.vn/hau-bau-cu-giua-ky-nguoi-my-quan-tam-dieu-gi-nhat-100261110200305721.htm"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/hau-bau-cu-giua-ky-nguoi-my-quan-tam-dieu-gi-nhat-100261110200305721.htm"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://tuoitre.vn/hau-bau-cu-giua-ky-nguoi-my-quan-tam-dieu-gi-nhat-100261110200305721.htm"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/hau-bau-cu-giua-ky-nguoi-my-quan-tam-dieu-gi-nhat-100261110200305721.htm"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Hậu bầu cử giữa kỳ, người Mỹ quan tâm điều gì nhất?",
-          "text": "Người dân Mỹ không muốn Quốc hội khóa mới tiếp tục sa lầy vào các cuộc đối đầu chính trị đảng phái.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_32",
       "name": "Driver GPU AMD đang âm thầm bào mòn SSD của người dùng, mỗi tháng mất 1% sức khỏe ổ cứng",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_32.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_31.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_32.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_31.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_32.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_31.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_32.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_31.png"
           }
         ]
       },
@@ -1977,7 +1915,69 @@
         {
           "type": "text",
           "name": "Driver GPU AMD đang âm thầm bào mòn SSD của người dùng, mỗi tháng mất 1% sức khỏe ổ cứng",
-          "text": "Trong bối cảnh giá SSD đang đắt đỏ như hiện tại, việc hao mòn này sẽ đánh thẳng vào túi tiền của người dùng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Trong bối cảnh giá SSD đang đắt đỏ như hiện tại, việc hao mòn này sẽ đánh thẳng vào túi tiền của người dùng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_32",
+      "name": "'Doanh nghiệp nên quản lý AI Agent như một người lao động'",
+      "label": "VnExpress • Thời Sự",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_32.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_32.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_32.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_32.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://vnexpress.net/doanh-nghiep-nen-quan-ly-ai-agent-nhu-mot-nguoi-lao-dong-5142134.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/doanh-nghiep-nen-quan-ly-ai-agent-nhu-mot-nguoi-lao-dong-5142134.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://vnexpress.net/doanh-nghiep-nen-quan-ly-ai-agent-nhu-mot-nguoi-lao-dong-5142134.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/doanh-nghiep-nen-quan-ly-ai-agent-nhu-mot-nguoi-lao-dong-5142134.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "'Doanh nghiệp nên quản lý AI Agent như một người lao động'",
+          "text": "AI Agent có thể tự lập kế hoạch và thực hiện nhiệm vụ, có thể được doanh nghiệp quản lý, thử nghiệm, phân quyền và đánh giá như một nhân sự.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1988,88 +1988,26 @@
     },
     {
       "id": "news_item_33",
-      "name": "Sinh viên tranh biện ranh giới bảo tồn và thương mại hóa ẩm thực",
-      "label": "VnExpress • Thời Sự",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_33.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_33.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_33.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_33.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/sinh-vien-tranh-bien-ranh-gioi-bao-ton-va-thuong-mai-hoa-am-thuc-5142835.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/sinh-vien-tranh-bien-ranh-gioi-bao-ton-va-thuong-mai-hoa-am-thuc-5142835.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/sinh-vien-tranh-bien-ranh-gioi-bao-ton-va-thuong-mai-hoa-am-thuc-5142835.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/sinh-vien-tranh-bien-ranh-gioi-bao-ton-va-thuong-mai-hoa-am-thuc-5142835.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Sinh viên tranh biện ranh giới bảo tồn và thương mại hóa ẩm thực",
-          "text": "Sinh viên trường Đại học Khoa học Xã hội và Nhân văn khẳng định dự án \"Nối Vị\" tôn trọng công thức địa phương, hướng đến trao truyền tri thức.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:18 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_34",
       "name": "Tác nhân AI tự vận hành phòng thí nghiệm sinh học",
       "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_34.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_33.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_34.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_33.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_34.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_33.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_34.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_33.png"
           }
         ]
       },
@@ -2101,7 +2039,69 @@
         {
           "type": "text",
           "name": "Tác nhân AI tự vận hành phòng thí nghiệm sinh học",
-          "text": "Các chuyên gia Trung Quốc thiết kế phòng thí nghiệm di truyền trong đó tác nhân AI thực hiện mọi thao tác tổng hợp và giải trình tự ADN.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:19 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Các chuyên gia Trung Quốc thiết kế phòng thí nghiệm di truyền trong đó tác nhân AI thực hiện mọi thao tác tổng hợp và giải trình tự ADN.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_34",
+      "name": "Xét xử vụ 1,2 triệu bình chữa cháy giả: Chi 8.000-10.000 đồng mỗi bình để được kiểm định 'đạt'",
+      "label": "Tuổi Trẻ • Thời Sự",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_34.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_34.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_34.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_34.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/xet-xu-vu-12-trieu-binh-chua-chay-gia-chi-8000-10000-dong-moi-binh-de-duoc-kiem-dinh-dat-100261110185430528.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/xet-xu-vu-12-trieu-binh-chua-chay-gia-chi-8000-10000-dong-moi-binh-de-duoc-kiem-dinh-dat-100261110185430528.htm"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/xet-xu-vu-12-trieu-binh-chua-chay-gia-chi-8000-10000-dong-moi-binh-de-duoc-kiem-dinh-dat-100261110185430528.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/xet-xu-vu-12-trieu-binh-chua-chay-gia-chi-8000-10000-dong-moi-binh-de-duoc-kiem-dinh-dat-100261110185430528.htm"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Xét xử vụ 1,2 triệu bình chữa cháy giả: Chi 8.000-10.000 đồng mỗi bình để được kiểm định 'đạt'",
+          "text": "9 bị cáo bị đưa ra xét xử trong vụ án sản xuất, tiêu thụ hơn 1,27 triệu bình chữa cháy giả, thu về hơn 460 tỉ đồng. Để những sản phẩm kém chất lượng được kiểm định \"đạt\", doanh nghiệp đã chi hơn 17 tỉ đồng hối lộ, với mức 8.000-10.000 đồng cho mỗi bình.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2163,7 +2163,7 @@
         {
           "type": "text",
           "name": "Cẩm nang săn sale 11.11: 4 bước chốt đơn cho những tín đồ mua sắm",
-          "text": "Wishlist thì dài, ngân sách thì có hạn, săn sale sao cho hời? Bỏ túi ngay 4 bí kíp săn sale 11.11 trên Lazada! Tha hồ chốt đơn giá \"dễ thở\" khi kết hợp Voucher Max tới 11 triệu đồng và Voucher thương hiệu giảm 20%.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:19 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Wishlist thì dài, ngân sách thì có hạn, săn sale sao cho hời? Bỏ túi ngay 4 bí kíp săn sale 11.11 trên Lazada! Tha hồ chốt đơn giá \"dễ thở\" khi kết hợp Voucher Max tới 11 triệu đồng và Voucher thương hiệu giảm 20%.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2174,7 +2174,7 @@
     },
     {
       "id": "news_item_36",
-      "name": "Chạy bộ sau tuổi 45: vì sao hồi phục quan trọng hơn tốc độ",
+      "name": "Tàu vỏ sắt dài 40 m cháy ngùn ngụt ở TP HCM",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2201,31 +2201,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/chay-bo-sau-tuoi-45-vi-sao-hoi-phuc-quan-trong-hon-toc-do-5141028.html"
+            "href": "entrance://webview/https://vnexpress.net/tau-vo-sat-dai-40-m-chay-ngun-ngut-o-tp-hcm-5142955.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/chay-bo-sau-tuoi-45-vi-sao-hoi-phuc-quan-trong-hon-toc-do-5141028.html"
+            "data": "entrance://webview/https://vnexpress.net/tau-vo-sat-dai-40-m-chay-ngun-ngut-o-tp-hcm-5142955.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/chay-bo-sau-tuoi-45-vi-sao-hoi-phuc-quan-trong-hon-toc-do-5141028.html"
+            "href": "entrance://webview/https://vnexpress.net/tau-vo-sat-dai-40-m-chay-ngun-ngut-o-tp-hcm-5142955.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/chay-bo-sau-tuoi-45-vi-sao-hoi-phuc-quan-trong-hon-toc-do-5141028.html"
+            "data": "entrance://webview/https://vnexpress.net/tau-vo-sat-dai-40-m-chay-ngun-ngut-o-tp-hcm-5142955.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Chạy bộ sau tuổi 45: vì sao hồi phục quan trọng hơn tốc độ",
-          "text": "Sau tuổi 45, runner cần chú ý giấc ngủ, sức khỏe tim mạch và khả năng hồi phục, thay vì chỉ tập trung cải thiện pace hay tăng quãng đường.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:19 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Tàu vỏ sắt dài 40 m cháy ngùn ngụt ở TP HCM",
+          "text": "Tàu vỏ sắt dài hơn 40 m đang neo đậu tại cơ sở sửa chữa gần cầu Cửa Lấp, xã Long Hải bất ngờ bốc cháy, khói đen cuồn cuộn, trưa 10/11.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2236,8 +2236,8 @@
     },
     {
       "id": "news_item_37",
-      "name": "Triều cường gây ngập hẻm Nguyễn Văn Quỳ, phường triển khai dự án chống ngập",
-      "label": "Tuổi Trẻ • Thời Sự",
+      "name": "Những lợi thế ngành bán dẫn Việt - Nhật có thể bổ trợ nhau",
+      "label": "VnExpress • Công Nghệ",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
@@ -2263,31 +2263,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/trieu-cuong-gay-ngap-hem-nguyen-van-quy-phuong-trien-khai-du-an-chong-ngap-100261110195404912.htm"
+            "href": "entrance://webview/https://vnexpress.net/nhung-loi-the-nganh-ban-dan-viet-nhat-co-the-bo-tro-nhau-5142903.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/trieu-cuong-gay-ngap-hem-nguyen-van-quy-phuong-trien-khai-du-an-chong-ngap-100261110195404912.htm"
+            "data": "entrance://webview/https://vnexpress.net/nhung-loi-the-nganh-ban-dan-viet-nhat-co-the-bo-tro-nhau-5142903.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/trieu-cuong-gay-ngap-hem-nguyen-van-quy-phuong-trien-khai-du-an-chong-ngap-100261110195404912.htm"
+            "href": "entrance://webview/https://vnexpress.net/nhung-loi-the-nganh-ban-dan-viet-nhat-co-the-bo-tro-nhau-5142903.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/trieu-cuong-gay-ngap-hem-nguyen-van-quy-phuong-trien-khai-du-an-chong-ngap-100261110195404912.htm"
+            "data": "entrance://webview/https://vnexpress.net/nhung-loi-the-nganh-ban-dan-viet-nhat-co-the-bo-tro-nhau-5142903.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Triều cường gây ngập hẻm Nguyễn Văn Quỳ, phường triển khai dự án chống ngập",
-          "text": "Triều cường dâng cao khiến nhiều hộ dân tại hẻm 85 Nguyễn Văn Quỳ (phường Tân Thuận, TP.HCM) phải nâng nền nhà chống ngập. UBND phường cho biết đang triển khai nâng cấp 5 tuyến hẻm, kết hợp cải tạo hệ thống thoát nước nhằm giảm ngập cho người dân.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 22:19 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Những lợi thế ngành bán dẫn Việt - Nhật có thể bổ trợ nhau",
+          "text": "Các chuyên gia cho rằng, Việt Nam lợi thế về nhân lực trong khi Nhật mạnh về vật liệu và thiết bị, có thể kết hợp để cùng phát triển ngành bán dẫn.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2298,8 +2298,8 @@
     },
     {
       "id": "news_item_38",
-      "name": "Panasonic trồng 5.000 cây bần trắng cho rừng phòng hộ Long Thành",
-      "label": "GenK • Công Nghệ & AI",
+      "name": "Triển khai xác định ranh mốc thu hồi đất làm metro số 2 Thủ Dầu Một - TP.HCM",
+      "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
@@ -2318,6 +2318,68 @@
           },
           {
             "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_38.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/trien-khai-xac-dinh-ranh-moc-thu-hoi-dat-lam-metro-so-2-thu-dau-mot-tphcm-100261110192929857.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/trien-khai-xac-dinh-ranh-moc-thu-hoi-dat-lam-metro-so-2-thu-dau-mot-tphcm-100261110192929857.htm"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/trien-khai-xac-dinh-ranh-moc-thu-hoi-dat-lam-metro-so-2-thu-dau-mot-tphcm-100261110192929857.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/trien-khai-xac-dinh-ranh-moc-thu-hoi-dat-lam-metro-so-2-thu-dau-mot-tphcm-100261110192929857.htm"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Triển khai xác định ranh mốc thu hồi đất làm metro số 2 Thủ Dầu Một - TP.HCM",
+          "text": "UBND phường Phú Lợi (TP.HCM) phối hợp với các đơn vị liên quan bàn giao hồ sơ, xác định ranh mốc thu hồi đất phục vụ dự án metro số 2 TP Thủ Dầu Một - TP.HCM.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_39",
+      "name": "Panasonic trồng 5.000 cây bần trắng cho rừng phòng hộ Long Thành",
+      "label": "GenK • Công Nghệ & AI",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_39.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_39.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_39.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_39.png"
           }
         ]
       },
@@ -2349,69 +2411,7 @@
         {
           "type": "text",
           "name": "Panasonic trồng 5.000 cây bần trắng cho rừng phòng hộ Long Thành",
-          "text": "Hơn 150 người lội bùn trồng rừng, kèm lớp học STEM và hội thảo sinh kế.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:19 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_39",
-      "name": "Xét xử vụ 1,2 triệu bình chữa cháy giả: Chi 8.000-10.000 đồng mỗi bình để được kiểm định 'đạt'",
-      "label": "Tuổi Trẻ • Thời Sự",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_39.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_39.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_39.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_39.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://tuoitre.vn/xet-xu-vu-12-trieu-binh-chua-chay-gia-chi-8000-10000-dong-moi-binh-de-duoc-kiem-dinh-dat-100261110185430528.htm"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/xet-xu-vu-12-trieu-binh-chua-chay-gia-chi-8000-10000-dong-moi-binh-de-duoc-kiem-dinh-dat-100261110185430528.htm"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://tuoitre.vn/xet-xu-vu-12-trieu-binh-chua-chay-gia-chi-8000-10000-dong-moi-binh-de-duoc-kiem-dinh-dat-100261110185430528.htm"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/xet-xu-vu-12-trieu-binh-chua-chay-gia-chi-8000-10000-dong-moi-binh-de-duoc-kiem-dinh-dat-100261110185430528.htm"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Xét xử vụ 1,2 triệu bình chữa cháy giả: Chi 8.000-10.000 đồng mỗi bình để được kiểm định 'đạt'",
-          "text": "9 bị cáo bị đưa ra xét xử trong vụ án sản xuất, tiêu thụ hơn 1,27 triệu bình chữa cháy giả, thu về hơn 460 tỉ đồng. Để những sản phẩm kém chất lượng được kiểm định \"đạt\", doanh nghiệp đã chi hơn 17 tỉ đồng hối lộ, với mức 8.000-10.000 đồng cho mỗi bình.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 22:19 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Hơn 150 người lội bùn trồng rừng, kèm lớp học STEM và hội thảo sinh kế.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2422,8 +2422,8 @@
     },
     {
       "id": "news_item_40",
-      "name": "Chân dung bác sĩ nội trú đầu tiên tại Việt Nam: Từ hơn 200 lá gan tử thi đến phương pháp làm rạng danh phẫu thuật nước nhà",
-      "label": "GenK • Công Nghệ & AI",
+      "name": "Đại sứ OCOP TP.HCM: Thầy giáo với nhiều biến tấu từ bún khô",
+      "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
@@ -2442,6 +2442,68 @@
           },
           {
             "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_40.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/dai-su-ocop-tphcm-thay-giao-voi-nhieu-bien-tau-tu-bun-kho-100261110170404243.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/dai-su-ocop-tphcm-thay-giao-voi-nhieu-bien-tau-tu-bun-kho-100261110170404243.htm"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/dai-su-ocop-tphcm-thay-giao-voi-nhieu-bien-tau-tu-bun-kho-100261110170404243.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/dai-su-ocop-tphcm-thay-giao-voi-nhieu-bien-tau-tu-bun-kho-100261110170404243.htm"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Đại sứ OCOP TP.HCM: Thầy giáo với nhiều biến tấu từ bún khô",
+          "text": "Không chỉ tận tâm truyền dạy tri thức mỗi ngày trên bục giảng, thầy Hậu còn là người lan tỏa tình yêu quê hương, đất nước thông qua việc khơi dậy niềm tự hào về nông sản Việt, sản phẩm làng nghề truyền thống và các sản phẩm OCOP đến với các em học sinh.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_41",
+      "name": "Chân dung bác sĩ nội trú đầu tiên tại Việt Nam: Từ hơn 200 lá gan tử thi đến phương pháp làm rạng danh phẫu thuật nước nhà",
+      "label": "GenK • Công Nghệ & AI",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_41.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_41.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_41.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_41.png"
           }
         ]
       },
@@ -2473,7 +2535,7 @@
         {
           "type": "text",
           "name": "Chân dung bác sĩ nội trú đầu tiên tại Việt Nam: Từ hơn 200 lá gan tử thi đến phương pháp làm rạng danh phẫu thuật nước nhà",
-          "text": "Ít ai hình dung rằng, phía sau tên tuổi lừng lẫy ấy là những năm tháng miệt mài trong phòng giải phẫu, nơi ông dành nhiều năm nghiên cứu cấu trúc gan trên hàng trăm tử thi, với dụng cụ vô cùng thô sơ...\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:19 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Ít ai hình dung rằng, phía sau tên tuổi lừng lẫy ấy là những năm tháng miệt mài trong phòng giải phẫu, nơi ông dành nhiều năm nghiên cứu cấu trúc gan trên hàng trăm tử thi, với dụng cụ vô cùng thô sơ...\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2483,27 +2545,27 @@
       }
     },
     {
-      "id": "news_item_41",
+      "id": "news_item_42",
       "name": "Nam giới ăn uống kiểu này, testosterone âm thầm suy giảm: Nghiên cứu chỉ ra sự thật đáng chú ý",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_41.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_42.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_41.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_42.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_41.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_42.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_41.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_42.png"
           }
         ]
       },
@@ -2535,7 +2597,7 @@
         {
           "type": "text",
           "name": "Nam giới ăn uống kiểu này, testosterone âm thầm suy giảm: Nghiên cứu chỉ ra sự thật đáng chú ý",
-          "text": "Một nghiên cứu mới cho thấy nam giới tiêu thụ nhiều thịt và các sản phẩm từ sữa thường có nồng độ testosterone thấp hơn.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:19 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Một nghiên cứu mới cho thấy nam giới tiêu thụ nhiều thịt và các sản phẩm từ sữa thường có nồng độ testosterone thấp hơn.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2545,27 +2607,27 @@
       }
     },
     {
-      "id": "news_item_42",
+      "id": "news_item_43",
       "name": "Xe điện Trung Quốc mất giá gần một nửa sau 3 năm",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_42.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_43.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_42.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_43.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_42.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_43.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_42.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_43.png"
           }
         ]
       },
@@ -2597,7 +2659,7 @@
         {
           "type": "text",
           "name": "Xe điện Trung Quốc mất giá gần một nửa sau 3 năm",
-          "text": "TPO - Một chiếc ô tô điện 3 năm tuổi tại Trung Quốc hiện chỉ bán lại được với giá khoảng 45% giá mua ban đầu, trong khi đa số đại lý từ chối mua lại xe điện đã sử dụng trên 5 năm.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:19 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "TPO - Một chiếc ô tô điện 3 năm tuổi tại Trung Quốc hiện chỉ bán lại được với giá khoảng 45% giá mua ban đầu, trong khi đa số đại lý từ chối mua lại xe điện đã sử dụng trên 5 năm.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 22:48 - 10/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
