@@ -55,7 +55,7 @@
         {
           "type": "text",
           "name": "Phản ứng của ông Trump sau khi CEO Nvidia Jensen Huang từ chức",
-          "text": "Tổng thống Mỹ Donald Trump bình luận cựu giám đốc điều hành (CEO) của Tập đoàn Apple Tim Cook nên thay thế ông Jensen Huang ở vị trí CEO Tập đoàn Nvidia.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:17 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tổng thống Mỹ Donald Trump bình luận cựu giám đốc điều hành (CEO) của Tập đoàn Apple Tim Cook nên thay thế ông Jensen Huang ở vị trí CEO Tập đoàn Nvidia.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:47 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -117,7 +117,7 @@
         {
           "type": "text",
           "name": "Tổng thống Trump đề xuất Tim Cook thay thế Jensen Huang",
-          "text": "Hội đồng quản trị Nvidia đã chọn Giám đốc tài chính Colette Kress làm CEO tạm quyền trong lúc tìm người kế nhiệm.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:17 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Hội đồng quản trị Nvidia đã chọn Giám đốc tài chính Colette Kress làm CEO tạm quyền trong lúc tìm người kế nhiệm.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:47 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -128,7 +128,7 @@
     },
     {
       "id": "news_item_3",
-      "name": "Tổng thống El Salvador nhờ người dân chỉ điểm hang ổ băng đảng để không kích",
+      "name": "Nước lũ bủa vây Hoà Thịnh",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -155,31 +155,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/tong-thong-el-salvador-nho-nguoi-dan-chi-diem-hang-o-bang-dang-de-khong-kich-5143893.html"
+            "href": "entrance://webview/https://vnexpress.net/nuoc-lu-bua-vay-hoa-thinh-5143793.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/tong-thong-el-salvador-nho-nguoi-dan-chi-diem-hang-o-bang-dang-de-khong-kich-5143893.html"
+            "data": "entrance://webview/https://vnexpress.net/nuoc-lu-bua-vay-hoa-thinh-5143793.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/tong-thong-el-salvador-nho-nguoi-dan-chi-diem-hang-o-bang-dang-de-khong-kich-5143893.html"
+            "href": "entrance://webview/https://vnexpress.net/nuoc-lu-bua-vay-hoa-thinh-5143793.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/tong-thong-el-salvador-nho-nguoi-dan-chi-diem-hang-o-bang-dang-de-khong-kich-5143893.html"
+            "data": "entrance://webview/https://vnexpress.net/nuoc-lu-bua-vay-hoa-thinh-5143793.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Tổng thống El Salvador nhờ người dân chỉ điểm hang ổ băng đảng để không kích",
-          "text": "Tổng thống El Salvador nhờ người dùng X cung cấp tọa độ khu nhà của băng đảng Haiti, sau đó điều trực thăng phóng rocket tấn công.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:17 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Nước lũ bủa vây Hoà Thịnh",
+          "text": "Nước lũ tràn vào chợ xã Hòa Thịnh và thôn Mỹ Xuân 1 từ rạng sáng 12/11, có nơi ngập gần một mét, lực lượng chức năng phải sơ tán người dân đến nơi an toàn.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:47 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -241,7 +241,7 @@
         {
           "type": "text",
           "name": "Gói thầu 10 tỷ USD mở đường cho SpaceX xây nhà máy AI Mặt Trăng",
-          "text": "Nếu giành được gói thầu xây dựng căn cứ Mặt Trăng từ NASA, Elon Musk có thể hiện thực hóa kế hoạch phát triển kinh tế Mặt Trăng, bao gồm thiết lập nhà máy vệ tinh AI.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:17 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Nếu giành được gói thầu xây dựng căn cứ Mặt Trăng từ NASA, Elon Musk có thể hiện thực hóa kế hoạch phát triển kinh tế Mặt Trăng, bao gồm thiết lập nhà máy vệ tinh AI.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:47 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -303,7 +303,7 @@
         {
           "type": "text",
           "name": "'Mẹ đẻ' giọng đọc AI review phim chia sẻ cách đưa nghiên cứu khoa học ra thị trường",
-          "text": "Tiến sĩ Nguyễn Thị Thu Trang, giảng viên Đại học Bách khoa Hà Nội, người phát triển giọng đọc AI 'quốc dân' review phim, chia sẻ với sinh viên cách đưa nghiên cứu khoa học ra thị trường.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:17 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tiến sĩ Nguyễn Thị Thu Trang, giảng viên Đại học Bách khoa Hà Nội, người phát triển giọng đọc AI 'quốc dân' review phim, chia sẻ với sinh viên cách đưa nghiên cứu khoa học ra thị trường.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:47 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -365,7 +365,7 @@
         {
           "type": "text",
           "name": "Giá vàng giảm về đáy 1 năm sau tin CEO Nvidia Jensen Huang từ chức",
-          "text": "Từ trên ngưỡng 4.000 USD/ounce, giá vàng thế giới giảm không ngừng, đến 23h hôm nay, 12-11, chỉ còn 3.852 USD/ounce sau tin CEO Nvidia Jensen Huang từ chức. Đây cũng là mức đáy trong vòng một năm qua.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:17 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Từ trên ngưỡng 4.000 USD/ounce, giá vàng thế giới giảm không ngừng, đến 23h hôm nay, 12-11, chỉ còn 3.852 USD/ounce sau tin CEO Nvidia Jensen Huang từ chức. Đây cũng là mức đáy trong vòng một năm qua.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:47 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -427,7 +427,7 @@
         {
           "type": "text",
           "name": "Ông Jensen Huang từ chức CEO NVIDIA",
-          "text": "Sau liên tiếp các vụ bê bối tình ái, ông Jensen Huang đã từ chức CEO NVIDIA và quyết định này có hiệu lực ngay lập tức.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:17 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Sau liên tiếp các vụ bê bối tình ái, ông Jensen Huang đã từ chức CEO NVIDIA và quyết định này có hiệu lực ngay lập tức.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:47 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -438,7 +438,7 @@
     },
     {
       "id": "news_item_8",
-      "name": "Chồng Alice Huang 'có thể đã biết vợ thân mật với CEO Nvidia từ lâu'",
+      "name": "Cha của Meghan bị đưa trở lại nhà tù vì tự ý cắt bỏ vòng giám sát",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -465,31 +465,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/chong-alice-huang-co-the-da-biet-vo-than-mat-voi-ceo-nvidia-tu-lau-5143921.html"
+            "href": "entrance://webview/https://vnexpress.net/cha-cua-meghan-bi-dua-tro-lai-nha-tu-vi-tu-y-cat-bo-vong-giam-sat-5143779.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/chong-alice-huang-co-the-da-biet-vo-than-mat-voi-ceo-nvidia-tu-lau-5143921.html"
+            "data": "entrance://webview/https://vnexpress.net/cha-cua-meghan-bi-dua-tro-lai-nha-tu-vi-tu-y-cat-bo-vong-giam-sat-5143779.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/chong-alice-huang-co-the-da-biet-vo-than-mat-voi-ceo-nvidia-tu-lau-5143921.html"
+            "href": "entrance://webview/https://vnexpress.net/cha-cua-meghan-bi-dua-tro-lai-nha-tu-vi-tu-y-cat-bo-vong-giam-sat-5143779.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/chong-alice-huang-co-the-da-biet-vo-than-mat-voi-ceo-nvidia-tu-lau-5143921.html"
+            "data": "entrance://webview/https://vnexpress.net/cha-cua-meghan-bi-dua-tro-lai-nha-tu-vi-tu-y-cat-bo-vong-giam-sat-5143779.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Chồng Alice Huang 'có thể đã biết vợ thân mật với CEO Nvidia từ lâu'",
-          "text": "Khang Vĩ có thể đã biết về mối quan hệ thân mật giữa vợ là Alice Huang với CEO Nvidia Jensen Huang từ lâu và \"chấp nhận điều này\".\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:17 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Cha của Meghan bị đưa trở lại nhà tù vì tự ý cắt bỏ vòng giám sát",
+          "text": "Thomas Markle, nghi phạm tàng trữ tài liệu khiêu dâm trẻ em, bị đưa trở lại nhà tù do tự ý cắt bỏ vòng giám sát điện tử đeo ở cổ chân.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:47 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -551,7 +551,7 @@
         {
           "type": "text",
           "name": "Megaspeed lên tiếng giữa bê bối ngoại tình của CEO Nvidia",
-          "text": "Megaspeed, công ty cũ của Alice Huang, khẳng định coi trọng nghĩa vụ tuân thủ luật kiểm soát xuất khẩu của Mỹ, đồng thời sẽ tích cực hợp tác điều tra.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:17 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Megaspeed, công ty cũ của Alice Huang, khẳng định coi trọng nghĩa vụ tuân thủ luật kiểm soát xuất khẩu của Mỹ, đồng thời sẽ tích cực hợp tác điều tra.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:47 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -613,7 +613,7 @@
         {
           "type": "text",
           "name": "Trung Quốc có thực sự cần Nvidia để chạy đua AI?",
-          "text": "DeepSeek, Huawei và các hãng công nghệ Trung Quốc đang phát triển chip AI nội địa, nhưng Nvidia vẫn giữ vai trò quan trọng trong cuộc đua này.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:17 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "DeepSeek, Huawei và các hãng công nghệ Trung Quốc đang phát triển chip AI nội địa, nhưng Nvidia vẫn giữ vai trò quan trọng trong cuộc đua này.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -675,7 +675,7 @@
         {
           "type": "text",
           "name": "Cổ phiếu Nvidia lao dốc, bốc hơi 601 tỉ USD vốn hóa sau khi CEO Jensen Huang từ chức",
-          "text": "Cổ phiếu Nvidia có lúc giảm tới 14% ngay khi mở cửa phiên 12-11, làm bốc hơi 601 tỉ USD vốn hóa.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:17 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Cổ phiếu Nvidia có lúc giảm tới 14% ngay khi mở cửa phiên 12-11, làm bốc hơi 601 tỉ USD vốn hóa.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -737,7 +737,7 @@
         {
           "type": "text",
           "name": "Vẫn còn sale: Philips, Xiaomi tung deal đồ máy cạo râu, massage, bàn chải điện, tăm nước...",
-          "text": "Không chỉ smartphone hay đồ gia dụng, những thiết bị chăm sóc cá nhân cũng đang có nhiều deal xịn đợt sale to cuối năm.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:17 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Không chỉ smartphone hay đồ gia dụng, những thiết bị chăm sóc cá nhân cũng đang có nhiều deal xịn đợt sale to cuối năm.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -748,7 +748,7 @@
     },
     {
       "id": "news_item_13",
-      "name": "VPBank và Visa ra mắt thẻ tín dụng dành riêng cho người mê du lịch",
+      "name": "6 điều nên làm sau khi uống nhiều cà phê",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -775,31 +775,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/vpbank-va-visa-ra-mat-the-tin-dung-danh-rieng-cho-nguoi-me-du-lich-5143960.html"
+            "href": "entrance://webview/https://vnexpress.net/6-dieu-nen-lam-sau-khi-uong-nhieu-ca-phe-5143652.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/vpbank-va-visa-ra-mat-the-tin-dung-danh-rieng-cho-nguoi-me-du-lich-5143960.html"
+            "data": "entrance://webview/https://vnexpress.net/6-dieu-nen-lam-sau-khi-uong-nhieu-ca-phe-5143652.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/vpbank-va-visa-ra-mat-the-tin-dung-danh-rieng-cho-nguoi-me-du-lich-5143960.html"
+            "href": "entrance://webview/https://vnexpress.net/6-dieu-nen-lam-sau-khi-uong-nhieu-ca-phe-5143652.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/vpbank-va-visa-ra-mat-the-tin-dung-danh-rieng-cho-nguoi-me-du-lich-5143960.html"
+            "data": "entrance://webview/https://vnexpress.net/6-dieu-nen-lam-sau-khi-uong-nhieu-ca-phe-5143652.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "VPBank và Visa ra mắt thẻ tín dụng dành riêng cho người mê du lịch",
-          "text": "VPBank hợp tác Visa ra mắt thẻ tín dụng VPBank SkyOne Visa, dòng thẻ dành riêng cho người mê du lịch, miễn phí chuyển đổi ngoại tệ trọn đời, kèm nhiều ưu đãi tích điểm.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:17 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "6 điều nên làm sau khi uống nhiều cà phê",
+          "text": "Uống nước vừa đủ, ăn nhẹ, tránh tập nặng và hạn chế dùng thiết bị điện tử trước giờ ngủ giúp giảm khó chịu sau khi nạp quá nhiều caffeine trong cà phê.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -861,7 +861,7 @@
         {
           "type": "text",
           "name": "Microsoft mở văn phòng mới ở TP HCM sau đợt điều chỉnh nhân sự",
-          "text": "Microsoft Việt Nam khai trương văn phòng mới tại TP HCM, khẳng định quan tâm đến \"sức khỏe tinh thần\" người lao động và đồng hành lâu dài tại Việt Nam.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:17 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Microsoft Việt Nam khai trương văn phòng mới tại TP HCM, khẳng định quan tâm đến \"sức khỏe tinh thần\" người lao động và đồng hành lâu dài tại Việt Nam.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -923,7 +923,7 @@
         {
           "type": "text",
           "name": "Việt Nam - Nhật Bản rót gần 500 tỉ đồng cho 11 dự án bán dẫn",
-          "text": "Việt Nam và Nhật Bản đồng tài trợ gần 500 tỉ đồng cho 11 dự án nghiên cứu bán dẫn, đồng thời lên kế hoạch đào tạo 100 tiến sĩ AI từ năm 2027.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Việt Nam và Nhật Bản đồng tài trợ gần 500 tỉ đồng cho 11 dự án nghiên cứu bán dẫn, đồng thời lên kế hoạch đào tạo 100 tiến sĩ AI từ năm 2027.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -985,7 +985,7 @@
         {
           "type": "text",
           "name": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân sẽ dự APEC 2026 tại Trung Quốc",
-          "text": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân sẽ có chuyến công tác Trung Quốc từ ngày 17 đến 20-11 tới.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân sẽ có chuyến công tác Trung Quốc từ ngày 17 đến 20-11 tới.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1047,7 +1047,7 @@
         {
           "type": "text",
           "name": "Ngày nào cũng sạc pin điện thoại, thế mà nhiều người vẫn không biết chu kỳ sạc là gì",
-          "text": "Lý giải khái niệm chu kỳ sạc, và loạt biểu đồ giúp bạn tính xem sạc đến khi nào thì pin đầy.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Lý giải khái niệm chu kỳ sạc, và loạt biểu đồ giúp bạn tính xem sạc đến khi nào thì pin đầy.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "news_item_18",
-      "name": "Cách Vinhomes Green Paradise thu hút cư dân tới Cần Giờ",
+      "name": "Nổ lớn trong nhà dân, người đàn ông tử vong",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1085,31 +1085,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/cach-vinhomes-green-paradise-thu-hut-cu-dan-toi-can-gio-5143907.html"
+            "href": "entrance://webview/https://vnexpress.net/no-lon-trong-nha-dan-nguoi-dan-ong-tu-vong-5143873.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/cach-vinhomes-green-paradise-thu-hut-cu-dan-toi-can-gio-5143907.html"
+            "data": "entrance://webview/https://vnexpress.net/no-lon-trong-nha-dan-nguoi-dan-ong-tu-vong-5143873.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/cach-vinhomes-green-paradise-thu-hut-cu-dan-toi-can-gio-5143907.html"
+            "href": "entrance://webview/https://vnexpress.net/no-lon-trong-nha-dan-nguoi-dan-ong-tu-vong-5143873.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/cach-vinhomes-green-paradise-thu-hut-cu-dan-toi-can-gio-5143907.html"
+            "data": "entrance://webview/https://vnexpress.net/no-lon-trong-nha-dan-nguoi-dan-ong-tu-vong-5143873.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Cách Vinhomes Green Paradise thu hút cư dân tới Cần Giờ",
-          "text": "Với lợi thế cảnh quan rừng - biển, mạng lưới hạ tầng liên vùng và hệ sinh thái theo mô hình đô thị tích hợp, Vinhomes Green Paradise hướng tới thu hút cộng đồng cư dân đến Cần Giờ.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Nổ lớn trong nhà dân, người đàn ông tử vong",
+          "text": "Tiếng nổ lớn phát ra từ ngôi nhà ở xã Núi Thành khiến người đàn ông 58 tuổi tử vong, nhiều đồ đạc hư hỏng, sáng 12/11.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1171,7 +1171,7 @@
         {
           "type": "text",
           "name": "Nhiều công ty AI Trung Quốc tìm nguồn thuê chip Nvidia",
-          "text": "Trước nguy cơ Mỹ có thể kiểm soát chặt hơn sau bê bối của Jensen Huang, nhiều công ty AI Trung Quốc đang nỗ lực thuê sức mạnh điện toán từ chip Nvidia nước ngoài.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Trước nguy cơ Mỹ có thể kiểm soát chặt hơn sau bê bối của Jensen Huang, nhiều công ty AI Trung Quốc đang nỗ lực thuê sức mạnh điện toán từ chip Nvidia nước ngoài.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1233,7 +1233,7 @@
         {
           "type": "text",
           "name": "Cách dùng AI tìm bằng chứng khoa học trước khi viết khóa luận",
-          "text": "Câu 'nhiều nghiên cứu đã chứng minh' xuất hiện rất thường xuyên trong khóa luận, luận văn, thậm chí trong bài báo đại chúng. Không ít trường hợp người viết chưa từng thấy các nghiên cứu ấy.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Câu 'nhiều nghiên cứu đã chứng minh' xuất hiện rất thường xuyên trong khóa luận, luận văn, thậm chí trong bài báo đại chúng. Không ít trường hợp người viết chưa từng thấy các nghiên cứu ấy.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1295,7 +1295,7 @@
         {
           "type": "text",
           "name": "U23 Việt Nam chia tay Williams Minh Hoàng, Khoa Ngô",
-          "text": "Sau trận thắng U23 Singapore ở Gia Lai VTV Cup 2026, Williams Minh Hoàng, Khoa Ngô, Đức Phú và Đinh Quang Kiệt đã chia tay đội tuyển U23 Việt Nam.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Sau trận thắng U23 Singapore ở Gia Lai VTV Cup 2026, Williams Minh Hoàng, Khoa Ngô, Đức Phú và Đinh Quang Kiệt đã chia tay đội tuyển U23 Việt Nam.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1357,7 +1357,7 @@
         {
           "type": "text",
           "name": "Làm video hướng dẫn viết code thủ công, một lập trình viên người Việt lại bị hỏi có phải là AI",
-          "text": "Cho dù vẫn hướng dẫn mọi người code thủ công, anh lại không hề ghét AI, trái lại anh cho rằng, AI sẽ chỉ hỗ trợ tốt nếu mọi người có kiến thức tốt.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Cho dù vẫn hướng dẫn mọi người code thủ công, anh lại không hề ghét AI, trái lại anh cho rằng, AI sẽ chỉ hỗ trợ tốt nếu mọi người có kiến thức tốt.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1368,7 +1368,7 @@
     },
     {
       "id": "news_item_23",
-      "name": "Mua được căn hộ giá hơn một USD",
+      "name": "Bác sĩ Nhật cảnh báo thói quen khiến huyết áp tăng vọt, nguy cơ đột quỵ",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1395,31 +1395,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/mua-duoc-can-ho-gia-hon-mot-usd-5143836.html"
+            "href": "entrance://webview/https://vnexpress.net/bac-si-nhat-canh-bao-thoi-quen-khien-huyet-ap-tang-vot-nguy-co-dot-quy-5143800.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/mua-duoc-can-ho-gia-hon-mot-usd-5143836.html"
+            "data": "entrance://webview/https://vnexpress.net/bac-si-nhat-canh-bao-thoi-quen-khien-huyet-ap-tang-vot-nguy-co-dot-quy-5143800.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/mua-duoc-can-ho-gia-hon-mot-usd-5143836.html"
+            "href": "entrance://webview/https://vnexpress.net/bac-si-nhat-canh-bao-thoi-quen-khien-huyet-ap-tang-vot-nguy-co-dot-quy-5143800.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/mua-duoc-can-ho-gia-hon-mot-usd-5143836.html"
+            "data": "entrance://webview/https://vnexpress.net/bac-si-nhat-canh-bao-thoi-quen-khien-huyet-ap-tang-vot-nguy-co-dot-quy-5143800.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Mua được căn hộ giá hơn một USD",
-          "text": "Một người đàn ông trúng đấu giá căn hộ rộng 68 m2 tại tỉnh Hắc Long Giang với giá 11 tệ (khoảng 1,7 USD), nhưng phải trả thêm khoảng 300 USD thuế chuyển nhượng.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Bác sĩ Nhật cảnh báo thói quen khiến huyết áp tăng vọt, nguy cơ đột quỵ",
+          "text": "Bật dậy ngay khi thức giấc vào sáng lạnh khiến cơ thể sốc nhiệt, huyết áp tăng vọt dẫn tới nguy cơ co thắt mạch máu, nhồi máu cơ tim hoặc đột quỵ, theo chuyên gia nội khoa Nhật Bản.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1481,7 +1481,7 @@
         {
           "type": "text",
           "name": "Sức mạnh của công nghệ bản sao số trong ngành kỹ thuật",
-          "text": "\"Bản sao ảo\" của mọi vật thể như ôtô, nhà máy, mạng lưới giao thông giúp giới kỹ sư tiết kiệm thời gian, chi phí và giảm rủi ro so với thử nghiệm trực tiếp.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "\"Bản sao ảo\" của mọi vật thể như ôtô, nhà máy, mạng lưới giao thông giúp giới kỹ sư tiết kiệm thời gian, chi phí và giảm rủi ro so với thử nghiệm trực tiếp.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1543,7 +1543,7 @@
         {
           "type": "text",
           "name": "Claude giúp máy tính lượng tử giảm hàng triệu cổng tính toán",
-          "text": "Thay vì phải lưu mọi kết quả trung gian, Claude tìm cách khôi phục chúng, giúp giảm khoảng 17 lần số cổng tính toán trong mạch lượng tử.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Thay vì phải lưu mọi kết quả trung gian, Claude tìm cách khôi phục chúng, giúp giảm khoảng 17 lần số cổng tính toán trong mạch lượng tử.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1605,7 +1605,7 @@
         {
           "type": "text",
           "name": "Ông Putin nói muốn hòa bình kéo dài mãi mãi ở Ukraine",
-          "text": "Ngày 12-11, Đặc phái viên Mỹ Steve Witkoff và Jared Kushner đã đến Điện Kremlin để trao đổi với Tổng thống Nga Vladimir Putin, trong nỗ lực thúc đẩy thỏa thuận hòa bình giữa Nga - Ukraine.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Ngày 12-11, Đặc phái viên Mỹ Steve Witkoff và Jared Kushner đã đến Điện Kremlin để trao đổi với Tổng thống Nga Vladimir Putin, trong nỗ lực thúc đẩy thỏa thuận hòa bình giữa Nga - Ukraine.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1667,7 +1667,7 @@
         {
           "type": "text",
           "name": "Từ 12/11, người dùng Samsung Wallet tại Việt Nam quét mã VietQR để trả bằng ShopeePay",
-          "text": "Giao dịch hoàn tất ngay trong ví, còn Samsung Pay được tích hợp vào Shopee.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Giao dịch hoàn tất ngay trong ví, còn Samsung Pay được tích hợp vào Shopee.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1678,7 +1678,7 @@
     },
     {
       "id": "news_item_28",
-      "name": "Nhà Trắng: Quốc hội điều tra chính quyền Trump là hành vi phạm tội",
+      "name": "Iran hé lộ vũ khí giống tên lửa hành trình tàng hình của Mỹ",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1705,31 +1705,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/nha-trang-quoc-hoi-dieu-tra-chinh-quyen-trump-la-hanh-vi-pham-toi-5143733.html"
+            "href": "entrance://webview/https://vnexpress.net/iran-he-lo-vu-khi-giong-ten-lua-hanh-trinh-tang-hinh-cua-my-5143748.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nha-trang-quoc-hoi-dieu-tra-chinh-quyen-trump-la-hanh-vi-pham-toi-5143733.html"
+            "data": "entrance://webview/https://vnexpress.net/iran-he-lo-vu-khi-giong-ten-lua-hanh-trinh-tang-hinh-cua-my-5143748.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/nha-trang-quoc-hoi-dieu-tra-chinh-quyen-trump-la-hanh-vi-pham-toi-5143733.html"
+            "href": "entrance://webview/https://vnexpress.net/iran-he-lo-vu-khi-giong-ten-lua-hanh-trinh-tang-hinh-cua-my-5143748.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nha-trang-quoc-hoi-dieu-tra-chinh-quyen-trump-la-hanh-vi-pham-toi-5143733.html"
+            "data": "entrance://webview/https://vnexpress.net/iran-he-lo-vu-khi-giong-ten-lua-hanh-trinh-tang-hinh-cua-my-5143748.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Nhà Trắng: Quốc hội điều tra chính quyền Trump là hành vi phạm tội",
-          "text": "Nhà Trắng cảnh báo các nghị sĩ Dân chủ rằng việc họ điều tra chính quyền Trump có thể bị coi là \"hành vi phạm tội trắng trợn\".\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Iran hé lộ vũ khí giống tên lửa hành trình tàng hình của Mỹ",
+          "text": "Iran công bố quả đạn được cho là biến thể thuộc dòng Paveh, với hình dáng giống tên lửa hành trình tàng hình AGM-158 JASSM của Mỹ.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1791,7 +1791,7 @@
         {
           "type": "text",
           "name": "Bộ trưởng Khoa học và Công nghệ: Từng đồng ngân sách phải được sử dụng hiệu quả",
-          "text": "Bộ trưởng Vũ Hải Quân khẳng định quyết tâm tháo gỡ vướng mắc, đẩy nhanh phân bổ, giải ngân kinh phí khoa học công nghệ, đồng thời bảo đảm từng đồng ngân sách được sử dụng hiệu quả.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Bộ trưởng Vũ Hải Quân khẳng định quyết tâm tháo gỡ vướng mắc, đẩy nhanh phân bổ, giải ngân kinh phí khoa học công nghệ, đồng thời bảo đảm từng đồng ngân sách được sử dụng hiệu quả.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1853,7 +1853,7 @@
         {
           "type": "text",
           "name": "Zalo giữ vững vị thế nền tảng giao tiếp phổ biến nhất Việt Nam",
-          "text": "Theo báo cáo \"The Connected Consumer\" quý II/2026 do Decision Lab công bố ngày 3-11, Zalo tiếp tục dẫn đầu các nền tảng nhắn tin tại thị trường Việt Nam với 81% tỉ lệ sử dụng và 54% tỉ lệ yêu thích.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Theo báo cáo \"The Connected Consumer\" quý II/2026 do Decision Lab công bố ngày 3-11, Zalo tiếp tục dẫn đầu các nền tảng nhắn tin tại thị trường Việt Nam với 81% tỉ lệ sử dụng và 54% tỉ lệ yêu thích.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1915,7 +1915,7 @@
         {
           "type": "text",
           "name": "Xả súng gần Nhà Trắng, ít nhất 5 người thương vong",
-          "text": "Cảnh sát Mỹ triển khai lực lượng lớn ứng phó vụ xả súng tại khu Logan Circle, gần Nhà Trắng. Nghi phạm hiện vẫn cố thủ trong tòa nhà.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Cảnh sát Mỹ triển khai lực lượng lớn ứng phó vụ xả súng tại khu Logan Circle, gần Nhà Trắng. Nghi phạm hiện vẫn cố thủ trong tòa nhà.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1977,7 +1977,7 @@
         {
           "type": "text",
           "name": "Vì sao nghệ sĩ sáng tạo thường dễ mắc bệnh tâm thần hơn nhà khoa học?",
-          "text": "Hình ảnh người nghệ sĩ tài năng nhưng luôn sống trong đau khổ đã tồn tại qua nhiều thế kỷ. Tuy nhiên, một nghiên cứu quy mô lớn tại Thụy Điển vừa phát hiện mối liên hệ này không xuất hiện tương tự ở các nhà khoa học, đồng thời hé lộ vai trò đáng chú ý của yếu tố di truyền.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Hình ảnh người nghệ sĩ tài năng nhưng luôn sống trong đau khổ đã tồn tại qua nhiều thế kỷ. Tuy nhiên, một nghiên cứu quy mô lớn tại Thụy Điển vừa phát hiện mối liên hệ này không xuất hiện tương tự ở các nhà khoa học, đồng thời hé lộ vai trò đáng chú ý của yếu tố di truyền.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1988,7 +1988,7 @@
     },
     {
       "id": "news_item_33",
-      "name": "Lương thấp không phải lý do tôi bỏ nghề giáo viên sau 12 năm",
+      "name": "Bạn có giải mã được thành ngữ ẩn sau hình ảnh chú hổ bay?",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2015,31 +2015,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/luong-thap-khong-phai-ly-do-khien-toi-muon-bo-viec-giao-vien-sau-12-nam-5143940.html"
+            "href": "entrance://webview/https://vnexpress.net/ban-co-giai-ma-duoc-thanh-ngu-an-sau-hinh-anh-chu-ho-bay-5140630.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/luong-thap-khong-phai-ly-do-khien-toi-muon-bo-viec-giao-vien-sau-12-nam-5143940.html"
+            "data": "entrance://webview/https://vnexpress.net/ban-co-giai-ma-duoc-thanh-ngu-an-sau-hinh-anh-chu-ho-bay-5140630.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/luong-thap-khong-phai-ly-do-khien-toi-muon-bo-viec-giao-vien-sau-12-nam-5143940.html"
+            "href": "entrance://webview/https://vnexpress.net/ban-co-giai-ma-duoc-thanh-ngu-an-sau-hinh-anh-chu-ho-bay-5140630.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/luong-thap-khong-phai-ly-do-khien-toi-muon-bo-viec-giao-vien-sau-12-nam-5143940.html"
+            "data": "entrance://webview/https://vnexpress.net/ban-co-giai-ma-duoc-thanh-ngu-an-sau-hinh-anh-chu-ho-bay-5140630.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Lương thấp không phải lý do tôi bỏ nghề giáo viên sau 12 năm",
-          "text": "12 năm dạy Tiếng Anh ở tiểu học, dù còn rất yêu nghề, trân trọng hơn một thập kỷ đứng lớp, nhưng tôi cũng bắt đầu tính chuyện bỏ việc.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Bạn có giải mã được thành ngữ ẩn sau hình ảnh chú hổ bay?",
+          "text": "Dùng chỉ một người, tổ chức hoặc sự vật vốn đã rất tài giỏi, mạnh mẽ nay lại được tiếp thêm sức mạnh, điều kiện... trở nên càng mạnh mẽ.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2101,7 +2101,7 @@
         {
           "type": "text",
           "name": "Những bài toán công nghệ cho tăng trưởng hai con số",
-          "text": "Bộ Khoa học và Công nghệ đang tham gia giải các bài toán về năng suất công nghiệp, kinh tế số, năng lượng và làm chủ công nghệ lõi, nhằm tạo động lực tăng trưởng mới cho nền kinh tế.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Bộ Khoa học và Công nghệ đang tham gia giải các bài toán về năng suất công nghiệp, kinh tế số, năng lượng và làm chủ công nghệ lõi, nhằm tạo động lực tăng trưởng mới cho nền kinh tế.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:48 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2163,7 +2163,7 @@
         {
           "type": "text",
           "name": "Hội đồng Liên bang Nga trao tặng huy hiệu danh dự cho Chủ tịch Quốc hội Trần Thanh Mẫn",
-          "text": "Chiều 12-11, Chủ tịch Quốc hội Trần Thanh Mẫn và Chủ tịch Hội đồng Liên bang Nga Valentina Matviyenko tiến hành hội đàm, dự lễ ký và trao nhiều văn kiện. Đặc biệt, Hội đồng Liên bang Nga trao tặng huy hiệu danh dự cho Chủ tịch Quốc hội Trần Thanh Mẫn.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Chiều 12-11, Chủ tịch Quốc hội Trần Thanh Mẫn và Chủ tịch Hội đồng Liên bang Nga Valentina Matviyenko tiến hành hội đàm, dự lễ ký và trao nhiều văn kiện. Đặc biệt, Hội đồng Liên bang Nga trao tặng huy hiệu danh dự cho Chủ tịch Quốc hội Trần Thanh Mẫn.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:49 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2225,7 +2225,7 @@
         {
           "type": "text",
           "name": "Người đàn ông nhìn thấy mắt mèo trên mặt bạn bè sau phẫu thuật não, hiện tượng kỳ lạ kéo dài hàng giờ",
-          "text": "Sau ca phẫu thuật não, một người đàn ông 28 tuổi bắt đầu nhìn thấy đôi mắt hình hạnh nhân và những đường vằn của mèo cưng xuất hiện trên khuôn mặt người khác. Đôi khi, hiện tượng còn diễn ra theo chiều ngược lại, hé lộ cách ký ức có thể can thiệp vào nhận thức thị giác.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Sau ca phẫu thuật não, một người đàn ông 28 tuổi bắt đầu nhìn thấy đôi mắt hình hạnh nhân và những đường vằn của mèo cưng xuất hiện trên khuôn mặt người khác. Đôi khi, hiện tượng còn diễn ra theo chiều ngược lại, hé lộ cách ký ức có thể can thiệp vào nhận thức thị giác.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:49 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2236,7 +2236,7 @@
     },
     {
       "id": "news_item_37",
-      "name": "Cựu phó chủ tịch Thanh Hóa nhận tiền doanh nghiệp: 'Mình tốt thì người ta tốt lại'",
+      "name": "Phó tổng thống Indonesia nộp đơn từ chức",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2263,31 +2263,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/cuu-pho-chu-tich-thanh-hoa-nhan-tien-doanh-nghiep-minh-tot-thi-nguoi-ta-tot-lai-5143915.html"
+            "href": "entrance://webview/https://vnexpress.net/pho-tong-thong-indonesia-nop-don-tu-chuc-5143848.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/cuu-pho-chu-tich-thanh-hoa-nhan-tien-doanh-nghiep-minh-tot-thi-nguoi-ta-tot-lai-5143915.html"
+            "data": "entrance://webview/https://vnexpress.net/pho-tong-thong-indonesia-nop-don-tu-chuc-5143848.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/cuu-pho-chu-tich-thanh-hoa-nhan-tien-doanh-nghiep-minh-tot-thi-nguoi-ta-tot-lai-5143915.html"
+            "href": "entrance://webview/https://vnexpress.net/pho-tong-thong-indonesia-nop-don-tu-chuc-5143848.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/cuu-pho-chu-tich-thanh-hoa-nhan-tien-doanh-nghiep-minh-tot-thi-nguoi-ta-tot-lai-5143915.html"
+            "data": "entrance://webview/https://vnexpress.net/pho-tong-thong-indonesia-nop-don-tu-chuc-5143848.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Cựu phó chủ tịch Thanh Hóa nhận tiền doanh nghiệp: 'Mình tốt thì người ta tốt lại'",
-          "text": "Ông Lê Đức Giang thừa nhận cầm 180 triệu đồng, tạo điều kiện cho doanh nghiệp khai thác cát gấp 4 lần, song cho đây là quà Tết, thậm chí ông mừng tuổi lại nhiều hơn.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Phó tổng thống Indonesia nộp đơn từ chức",
+          "text": "Phó tổng thống Indonesia Gibran Rakabuming Raka, con trai cựu tổng thống Joko Widodo, nộp đơn từ chức sau những tranh cãi về bằng cấp trong quá trình tranh cử.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:49 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2349,7 +2349,7 @@
         {
           "type": "text",
           "name": "Phát hiện loài cóc mắt mới",
-          "text": "Các nhà khoa học phát hiện loài cóc mắt mới tại Vườn quốc gia Vũ Quang, có chiều dài 63-76 mm, chưa từng được mô tả trước đó.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Các nhà khoa học phát hiện loài cóc mắt mới tại Vườn quốc gia Vũ Quang, có chiều dài 63-76 mm, chưa từng được mô tả trước đó.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:49 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2411,7 +2411,7 @@
         {
           "type": "text",
           "name": "'Jack Ma Thái Lan' bị tuyên 1.244 năm tù vì lừa đảo đầu tư du lịch",
-          "text": "Tòa án Thái Lan tuyên một người đàn ông 1.244 năm tù vì hành vi điều hành đường dây lừa đảo đầu tư tour du lịch, nhưng tổng hợp án chỉ còn 20 năm.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tòa án Thái Lan tuyên một người đàn ông 1.244 năm tù vì hành vi điều hành đường dây lừa đảo đầu tư tour du lịch, nhưng tổng hợp án chỉ còn 20 năm.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:49 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2473,7 +2473,7 @@
         {
           "type": "text",
           "name": "Tiểu hành tinh chỉ rộng 11m khiến giới khoa học đau đầu, bí ẩn gia tốc bất thường chưa có lời giải",
-          "text": "Từng được cho là di chuyển nhờ những luồng hơi nước thoát ra từ lớp băng bên trong, tiểu hành tinh 1998 KY26 nay đứng trước một giả thuyết hoàn toàn khác. Vật thể nhỏ bé này có thể đã khô cạn, còn ánh sáng Mặt trời mới là yếu tố tạo nên chuyển động khó hiểu.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Từng được cho là di chuyển nhờ những luồng hơi nước thoát ra từ lớp băng bên trong, tiểu hành tinh 1998 KY26 nay đứng trước một giả thuyết hoàn toàn khác. Vật thể nhỏ bé này có thể đã khô cạn, còn ánh sáng Mặt trời mới là yếu tố tạo nên chuyển động khó hiểu.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:49 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2535,7 +2535,7 @@
         {
           "type": "text",
           "name": "Đại sứ Hà Lan: TP.HCM luôn khiến tôi ấn tượng!",
-          "text": "Từng đến TP.HCM cách đây 20 năm, Đại sứ Hà Lan Remco van Wijngaarden cho biết ông luôn ấn tượng với bản sắc và tốc độ phát triển của thành phố.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Từng đến TP.HCM cách đây 20 năm, Đại sứ Hà Lan Remco van Wijngaarden cho biết ông luôn ấn tượng với bản sắc và tốc độ phát triển của thành phố.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:49 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2597,7 +2597,7 @@
         {
           "type": "text",
           "name": "Tất cả người dân khi hát karaoke chú ý quy định phạt đến 160 triệu đồng đã áp dụng",
-          "text": "Hành vi hát karaoke gây tiếng ồn vượt ngưỡng cho phép sẽ bị xử phạt nặng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Hành vi hát karaoke gây tiếng ồn vượt ngưỡng cho phép sẽ bị xử phạt nặng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:49 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2659,7 +2659,7 @@
         {
           "type": "text",
           "name": "Săn sale 11/11, người đàn ông mua được căn hộ giá 42 nghìn, 2 phòng ngủ",
-          "text": "Người đàn ông này đã vượt qua 1.676 người tham gia khác để săn thành công một căn với mức giá không thể hời hơn, chỉ 42 nghìn.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Người đàn ông này đã vượt qua 1.676 người tham gia khác để săn thành công một căn với mức giá không thể hời hơn, chỉ 42 nghìn.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:49 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2721,7 +2721,7 @@
         {
           "type": "text",
           "name": "Cách tích hợp giấy khai sinh vào ứng dụng VNeID nhanh chóng, đơn giản",
-          "text": "Việc tích hợp Giấy khai sinh trên ứng dụng VNeID giúp người dân thuận tiện hơn trong việc quản lý, tra cứu thông tin hộ tịch và thực hiện các thủ tục hành chính trên môi trường điện tử.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:18 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Việc tích hợp Giấy khai sinh trên ứng dụng VNeID giúp người dân thuận tiện hơn trong việc quản lý, tra cứu thông tin hộ tịch và thực hiện các thủ tục hành chính trên môi trường điện tử.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:49 - 13/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
