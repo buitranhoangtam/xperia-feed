@@ -4,7 +4,7 @@
   "items": [
     {
       "id": "news_item_1",
-      "name": "Hơn nửa triệu doanh nghiệp trên cả nước phải kê khai thông tin chủ sở hữu hưởng lợi",
+      "name": "Khám chữa bệnh ở Huế sẽ được giảm phí tham quan di tích",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -31,31 +31,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/hon-nua-trieu-doanh-nghiep-tren-ca-nuoc-phai-ke-khai-thong-tin-chu-so-huu-huong-loi-100261115192010975.htm"
+            "href": "entrance://webview/https://tuoitre.vn/kham-chua-benh-o-hue-se-duoc-giam-phi-tham-quan-di-tich-100261115190439057.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/hon-nua-trieu-doanh-nghiep-tren-ca-nuoc-phai-ke-khai-thong-tin-chu-so-huu-huong-loi-100261115192010975.htm"
+            "data": "entrance://webview/https://tuoitre.vn/kham-chua-benh-o-hue-se-duoc-giam-phi-tham-quan-di-tich-100261115190439057.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/hon-nua-trieu-doanh-nghiep-tren-ca-nuoc-phai-ke-khai-thong-tin-chu-so-huu-huong-loi-100261115192010975.htm"
+            "href": "entrance://webview/https://tuoitre.vn/kham-chua-benh-o-hue-se-duoc-giam-phi-tham-quan-di-tich-100261115190439057.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/hon-nua-trieu-doanh-nghiep-tren-ca-nuoc-phai-ke-khai-thong-tin-chu-so-huu-huong-loi-100261115192010975.htm"
+            "data": "entrance://webview/https://tuoitre.vn/kham-chua-benh-o-hue-se-duoc-giam-phi-tham-quan-di-tich-100261115190439057.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Hơn nửa triệu doanh nghiệp trên cả nước phải kê khai thông tin chủ sở hữu hưởng lợi",
-          "text": "Theo Bộ Tài chính, đến giữa tháng 10, cả nước có đến hơn 554.000 doanh nghiệp thuộc diện bổ sung thông tin chủ sở hữu hưởng lợi. Nhiều địa phương đang ấn định thời hạn hoàn thành và cảnh báo mức phạt lên đến 100 triệu đồng nếu vi phạm.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:17 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Khám chữa bệnh ở Huế sẽ được giảm phí tham quan di tích",
+          "text": "Khách trong nước và quốc tế đến Huế khám, chữa bệnh, lưu trú ít nhất một đêm và có hoạt động tham quan du lịch sẽ được giảm 30% phí tham quan di tích.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:47 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -117,7 +117,7 @@
         {
           "type": "text",
           "name": "Các mẫu laptop đáng nâng cấp dịp mua sắm cuối năm 2026",
-          "text": "Dịp mua sắm cuối năm là thời điểm thích hợp để nâng cấp máy tính phục vụ công việc. Các mẫu laptop trang bị vi xử lý AMD thu hút sự quan tâm nhờ khả năng tối ưu hiệu năng và tiết kiệm điện năng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:17 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Dịp mua sắm cuối năm là thời điểm thích hợp để nâng cấp máy tính phục vụ công việc. Các mẫu laptop trang bị vi xử lý AMD thu hút sự quan tâm nhờ khả năng tối ưu hiệu năng và tiết kiệm điện năng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:47 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -179,7 +179,7 @@
         {
           "type": "text",
           "name": "Nhà ở xã hội dự kiến vẫn được bán lại theo giá thị trường sau 5 năm",
-          "text": "Nhà ở xã hội sau 5 năm dự kiến chỉ được chuyển nhượng cho đúng nhóm thụ hưởng, nhưng có thể vẫn được bán lại theo giá thị trường.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 21:17 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Nhà ở xã hội sau 5 năm dự kiến chỉ được chuyển nhượng cho đúng nhóm thụ hưởng, nhưng có thể vẫn được bán lại theo giá thị trường.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 21:47 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -241,7 +241,7 @@
         {
           "type": "text",
           "name": "TP HCM đề xuất cho doanh nghiệp dùng miễn phí dữ liệu mở để huấn luyện AI",
-          "text": "Dự thảo Nghị quyết đề xuất doanh nghiệp, tổ chức nghiên cứu hoạt động trong khu đô thị khoa học TP HCM có thể được khai thác miễn phí dữ liệu mở để huấn luyện AI, phát triển ứng dụng số.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 21:17 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Dự thảo Nghị quyết đề xuất doanh nghiệp, tổ chức nghiên cứu hoạt động trong khu đô thị khoa học TP HCM có thể được khai thác miễn phí dữ liệu mở để huấn luyện AI, phát triển ứng dụng số.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 21:47 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -303,7 +303,7 @@
         {
           "type": "text",
           "name": "Những 'điểm mù' công nghệ đằng sau sự cố dừng bay toàn nước Mỹ",
-          "text": "Lệnh dừng bay toàn nước Mỹ phơi bày những điểm yếu của hạ tầng công nghệ: từ lỗi phần mềm, đứt cáp quang đến hệ thống dự phòng cũng có thể tê liệt.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 21:17 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Lệnh dừng bay toàn nước Mỹ phơi bày những điểm yếu của hạ tầng công nghệ: từ lỗi phần mềm, đứt cáp quang đến hệ thống dự phòng cũng có thể tê liệt.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 21:47 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -314,7 +314,7 @@
     },
     {
       "id": "news_item_6",
-      "name": "Điện Kremlin: Nga vẫn dùng vũ lực để đạt mục tiêu ở  Ukraine nếu không đạt thỏa thuận với châu Âu",
+      "name": "Giáo xứ Đồng Tiến đãi bữa trưa cho 150 người khó khăn",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -341,31 +341,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/dien-kremlin-nga-van-dung-vu-luc-de-dat-muc-tieu-o-ukraine-neu-khong-dat-thoa-thuan-voi-chau-au-10026111520010961.htm"
+            "href": "entrance://webview/https://tuoitre.vn/giao-xu-dong-tien-dai-bua-trua-cho-150-nguoi-kho-khan-100261115191828862.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/dien-kremlin-nga-van-dung-vu-luc-de-dat-muc-tieu-o-ukraine-neu-khong-dat-thoa-thuan-voi-chau-au-10026111520010961.htm"
+            "data": "entrance://webview/https://tuoitre.vn/giao-xu-dong-tien-dai-bua-trua-cho-150-nguoi-kho-khan-100261115191828862.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/dien-kremlin-nga-van-dung-vu-luc-de-dat-muc-tieu-o-ukraine-neu-khong-dat-thoa-thuan-voi-chau-au-10026111520010961.htm"
+            "href": "entrance://webview/https://tuoitre.vn/giao-xu-dong-tien-dai-bua-trua-cho-150-nguoi-kho-khan-100261115191828862.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/dien-kremlin-nga-van-dung-vu-luc-de-dat-muc-tieu-o-ukraine-neu-khong-dat-thoa-thuan-voi-chau-au-10026111520010961.htm"
+            "data": "entrance://webview/https://tuoitre.vn/giao-xu-dong-tien-dai-bua-trua-cho-150-nguoi-kho-khan-100261115191828862.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Điện Kremlin: Nga vẫn dùng vũ lực để đạt mục tiêu ở  Ukraine nếu không đạt thỏa thuận với châu Âu",
-          "text": "Người phát ngôn Điện Kremlin Dmitry Peskov đưa ra một số bình luận đáng chú ý trong bối cảnh Mỹ tạo điều kiện để Matxcơva và châu Âu tiếp xúc trực tiếp tìm thảo luận về giải pháp cho cuộc xung đột Nga - Ukraine.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:17 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Giáo xứ Đồng Tiến đãi bữa trưa cho 150 người khó khăn",
+          "text": "Giáo xứ Đồng Tiến (TP.HCM) tổ chức bữa trưa thân tình, đón 150 người có hoàn cảnh khó khăn đến dùng bữa, nhận quà.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:47 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -427,7 +427,7 @@
         {
           "type": "text",
           "name": "Jensen Huang rời Nvidia giữa bê bối, Elon Musk đăng một chữ kèm thông điệp đầy ẩn ý",
-          "text": "Chỉ viết “Jensen” khi chia sẻ một video nói về di sản trường tồn, Elon Musk tiếp tục thể hiện sự ủng hộ dành cho nhà đồng sáng lập Nvidia. Trước đó, ông còn nói việc thuê Huang sẽ là “một vinh dự”.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:17 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Chỉ viết “Jensen” khi chia sẻ một video nói về di sản trường tồn, Elon Musk tiếp tục thể hiện sự ủng hộ dành cho nhà đồng sáng lập Nvidia. Trước đó, ông còn nói việc thuê Huang sẽ là “một vinh dự”.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:47 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -489,7 +489,7 @@
         {
           "type": "text",
           "name": "Anh nghiêm giọng với con gái tôi dù cháu chỉ làm đổ cốc nước",
-          "text": "Thấy con sợ hãi, tôi phải giải thích trẻ nhỏ đôi khi vụng về, mình cứ bình tĩnh chỉ bảo; anh không vui, bảo tôi bênh con vô nguyên tắc.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 21:17 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Thấy con sợ hãi, tôi phải giải thích trẻ nhỏ đôi khi vụng về, mình cứ bình tĩnh chỉ bảo; anh không vui, bảo tôi bênh con vô nguyên tắc.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 21:47 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -551,7 +551,7 @@
         {
           "type": "text",
           "name": "Loạt thách thức để bắt tầng trên tên lửa Starship bằng 'đũa gắp'",
-          "text": "SpaceX lần đầu vượt qua loạt thách thức kỹ thuật, thu hồi thành công tầng trên tên lửa Starship bằng hệ thống \"đũa gắp\" sau 15 chuyến bay thử nghiệm.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 21:17 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "SpaceX lần đầu vượt qua loạt thách thức kỹ thuật, thu hồi thành công tầng trên tên lửa Starship bằng hệ thống \"đũa gắp\" sau 15 chuyến bay thử nghiệm.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 21:47 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -613,7 +613,7 @@
         {
           "type": "text",
           "name": "Microsoft xin lỗi sau sự cố dịch vụ tại 74 quốc gia và vùng lãnh thổ, công bố nguyên nhân",
-          "text": "Sự cố kéo dài hơn 24 giờ khiến Outlook, Teams và Copilot gián đoạn trên diện rộng, với hơn 7,4 triệu lượt báo cáo trên toàn cầu.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 21:17 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Sự cố kéo dài hơn 24 giờ khiến Outlook, Teams và Copilot gián đoạn trên diện rộng, với hơn 7,4 triệu lượt báo cáo trên toàn cầu.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -624,7 +624,7 @@
     },
     {
       "id": "news_item_11",
-      "name": "Cuộc thi Lan tỏa năng lượng tích cực 2026: Lan tỏa yêu thương qua hoạt động an sinh",
+      "name": "Hollywood chi hàng triệu USD mời sao hạng A đóng phim truyền hình",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -651,31 +651,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-lan-toa-yeu-thuong-qua-hoat-dong-an-sinh-100261115172153708.htm"
+            "href": "entrance://webview/https://tuoitre.vn/hollywood-chi-hang-trieu-usd-moi-sao-hang-a-dong-phim-truyen-hinh-100261115192130601.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-lan-toa-yeu-thuong-qua-hoat-dong-an-sinh-100261115172153708.htm"
+            "data": "entrance://webview/https://tuoitre.vn/hollywood-chi-hang-trieu-usd-moi-sao-hang-a-dong-phim-truyen-hinh-100261115192130601.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-lan-toa-yeu-thuong-qua-hoat-dong-an-sinh-100261115172153708.htm"
+            "href": "entrance://webview/https://tuoitre.vn/hollywood-chi-hang-trieu-usd-moi-sao-hang-a-dong-phim-truyen-hinh-100261115192130601.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-lan-toa-yeu-thuong-qua-hoat-dong-an-sinh-100261115172153708.htm"
+            "data": "entrance://webview/https://tuoitre.vn/hollywood-chi-hang-trieu-usd-moi-sao-hang-a-dong-phim-truyen-hinh-100261115192130601.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Cuộc thi Lan tỏa năng lượng tích cực 2026: Lan tỏa yêu thương qua hoạt động an sinh",
-          "text": "Sự sẻ chia từ cộng đồng luôn là điểm tựa thiết thực đối với những người lao động có thu nhập thấp và trẻ em có hoàn cảnh khó khăn. Bởi hơn cả những phần quà vật chất, đó còn là sự quan tâm, động viên, tiếp thêm hơi ấm tình người.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:17 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Hollywood chi hàng triệu USD mời sao hạng A đóng phim truyền hình",
+          "text": "Dù thời kỳ bùng nổ của truyền hình trực tuyến đã qua, những ngôi sao hàng đầu Hollywood vẫn nhận được mức thù lao đáng kinh ngạc, có người bỏ túi tới 2 triệu USD cho mỗi tập phim.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -737,7 +737,7 @@
         {
           "type": "text",
           "name": "Từ nay 15/11, bắt đầu áp dụng quy định mới liên quan chuyển tiền tự động trên 10 triệu đồng, 20 triệu, 50 triệu, 100 triệu đồng",
-          "text": "Từ ngày 15/11/2026, Thông tư 53/2026/TT-NHNN của Ngân hàng Nhà nước Việt Nam (NHNN) chính thức có hiệu lực, đưa ra quy định mới về an toàn, quản lý rủi ro và điều kiện triển khai hệ thống trí tuệ nhân tạo (AI) trong ngành Ngân hàng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:17 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Từ ngày 15/11/2026, Thông tư 53/2026/TT-NHNN của Ngân hàng Nhà nước Việt Nam (NHNN) chính thức có hiệu lực, đưa ra quy định mới về an toàn, quản lý rủi ro và điều kiện triển khai hệ thống trí tuệ nhân tạo (AI) trong ngành Ngân hàng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -799,7 +799,7 @@
         {
           "type": "text",
           "name": "Xe tải lật, hàng tấn đá tảng đổ xuống quốc lộ",
-          "text": "Xe tải chở đá lật nghiêng trên quốc lộ 48, đoạn qua xã Quỳ Hợp, khiến nhiều tảng đá nặng hàng tấn văng xuống đường, cản trở giao thông.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 21:17 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Xe tải chở đá lật nghiêng trên quốc lộ 48, đoạn qua xã Quỳ Hợp, khiến nhiều tảng đá nặng hàng tấn văng xuống đường, cản trở giao thông.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -861,7 +861,7 @@
         {
           "type": "text",
           "name": "Meta bị phạt 887 triệu USD vì tự ý xem ảnh người dùng Facebook",
-          "text": "Italy phạt Meta vì ứng dụng Facebook trên Android truy cập ảnh, video trong điện thoại mà không có sự đồng ý cụ thể của người dùng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 21:17 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Italy phạt Meta vì ứng dụng Facebook trên Android truy cập ảnh, video trong điện thoại mà không có sự đồng ý cụ thể của người dùng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -923,7 +923,7 @@
         {
           "type": "text",
           "name": "Microsoft gặp sự cố toàn cầu, kéo theo cả nền tảng AI của OpenAI và Anthropic",
-          "text": "Sự cố Microsoft khiến hàng chục nghìn người dùng không thể truy cập Outlook, Teams, Microsoft 365, đồng thời ảnh hưởng đến các nền tảng AI.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 21:17 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Sự cố Microsoft khiến hàng chục nghìn người dùng không thể truy cập Outlook, Teams, Microsoft 365, đồng thời ảnh hưởng đến các nền tảng AI.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -934,7 +934,7 @@
     },
     {
       "id": "news_item_16",
-      "name": "Khám chữa bệnh ở Huế sẽ được giảm phí tham quan di tích",
+      "name": "Ngôi sao Malaysia khiến dư luận Trung Quốc phẫn nộ vì sút bóng vào người đối thủ",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -961,31 +961,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/kham-chua-benh-o-hue-se-duoc-giam-phi-tham-quan-di-tich-100261115190439057.htm"
+            "href": "entrance://webview/https://tuoitre.vn/ngoi-sao-malaysia-khien-du-luan-trung-quoc-phan-no-vi-sut-bong-vao-nguoi-doi-thu-100261115185820342.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/kham-chua-benh-o-hue-se-duoc-giam-phi-tham-quan-di-tich-100261115190439057.htm"
+            "data": "entrance://webview/https://tuoitre.vn/ngoi-sao-malaysia-khien-du-luan-trung-quoc-phan-no-vi-sut-bong-vao-nguoi-doi-thu-100261115185820342.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/kham-chua-benh-o-hue-se-duoc-giam-phi-tham-quan-di-tich-100261115190439057.htm"
+            "href": "entrance://webview/https://tuoitre.vn/ngoi-sao-malaysia-khien-du-luan-trung-quoc-phan-no-vi-sut-bong-vao-nguoi-doi-thu-100261115185820342.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/kham-chua-benh-o-hue-se-duoc-giam-phi-tham-quan-di-tich-100261115190439057.htm"
+            "data": "entrance://webview/https://tuoitre.vn/ngoi-sao-malaysia-khien-du-luan-trung-quoc-phan-no-vi-sut-bong-vao-nguoi-doi-thu-100261115185820342.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Khám chữa bệnh ở Huế sẽ được giảm phí tham quan di tích",
-          "text": "Khách trong nước và quốc tế đến Huế khám, chữa bệnh, lưu trú ít nhất một đêm và có hoạt động tham quan du lịch sẽ được giảm 30% phí tham quan di tích.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:17 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Ngôi sao Malaysia khiến dư luận Trung Quốc phẫn nộ vì sút bóng vào người đối thủ",
+          "text": "Hậu vệ Dominic Tan của Malaysia gây phẫn nộ khi sút bóng trúng người cầu thủ Trung Quốc đang nằm sân, châm ngòi cho màn xô xát trong trận giao hữu tối ngày 14-11.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1047,7 +1047,7 @@
         {
           "type": "text",
           "name": "iPhone Duo có thể gập mở liên tục trong 12 năm",
-          "text": "CNET đã thử nghiệm độ bền của iPhone Duo sau 440.300 lần gập, cho thấy sự thay đổi trong cảm giác mở và độ bền của thiết bị.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:17 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "CNET đã thử nghiệm độ bền của iPhone Duo sau 440.300 lần gập, cho thấy sự thay đổi trong cảm giác mở và độ bền của thiết bị.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1109,7 +1109,7 @@
         {
           "type": "text",
           "name": "Bố mẹ vợ ốm đau lại gọi tôi nhưng tiền của dành con khác",
-          "text": "Mỗi khi bố mẹ vợ đau ốm, đi khám bệnh hay nằm viện, vợ chồng tôi là những người đứng ra lo liệu, nhưng luôn bị đối xử bất công.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Mỗi khi bố mẹ vợ đau ốm, đi khám bệnh hay nằm viện, vợ chồng tôi là những người đứng ra lo liệu, nhưng luôn bị đối xử bất công.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1171,7 +1171,7 @@
         {
           "type": "text",
           "name": "Hai ngày chao đảo vì các sự cố công nghệ",
-          "text": "Outlook của Microsoft gián đoạn trên toàn cầu, hệ thống liên lạc hàng không Mỹ gặp trục trặc, trong khi nhiều cuộc tấn công mạng nhắm vào hạ tầng thiết yếu tuần này.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Outlook của Microsoft gián đoạn trên toàn cầu, hệ thống liên lạc hàng không Mỹ gặp trục trặc, trong khi nhiều cuộc tấn công mạng nhắm vào hạ tầng thiết yếu tuần này.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1233,7 +1233,7 @@
         {
           "type": "text",
           "name": "'Mẹ đẻ' giọng đọc AI review phim chia sẻ cách đưa nghiên cứu khoa học ra thị trường",
-          "text": "Tiến sĩ Nguyễn Thị Thu Trang, giảng viên Đại học Bách khoa Hà Nội, người phát triển giọng đọc AI 'quốc dân' review phim, chia sẻ với sinh viên cách đưa nghiên cứu khoa học ra thị trường.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tiến sĩ Nguyễn Thị Thu Trang, giảng viên Đại học Bách khoa Hà Nội, người phát triển giọng đọc AI 'quốc dân' review phim, chia sẻ với sinh viên cách đưa nghiên cứu khoa học ra thị trường.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1244,7 +1244,7 @@
     },
     {
       "id": "news_item_21",
-      "name": "Giáo xứ Đồng Tiến đãi bữa trưa cho 150 người khó khăn",
+      "name": "Làng nghề truyền thống kể chuyện văn hóa, tạo giá trị cho sản phẩm OCOP",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1271,31 +1271,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/giao-xu-dong-tien-dai-bua-trua-cho-150-nguoi-kho-khan-100261115191828862.htm"
+            "href": "entrance://webview/https://tuoitre.vn/lang-nghe-truyen-thong-ke-chuyen-van-hoa-tao-gia-tri-cho-san-pham-ocop-100261115182715211.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/giao-xu-dong-tien-dai-bua-trua-cho-150-nguoi-kho-khan-100261115191828862.htm"
+            "data": "entrance://webview/https://tuoitre.vn/lang-nghe-truyen-thong-ke-chuyen-van-hoa-tao-gia-tri-cho-san-pham-ocop-100261115182715211.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/giao-xu-dong-tien-dai-bua-trua-cho-150-nguoi-kho-khan-100261115191828862.htm"
+            "href": "entrance://webview/https://tuoitre.vn/lang-nghe-truyen-thong-ke-chuyen-van-hoa-tao-gia-tri-cho-san-pham-ocop-100261115182715211.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/giao-xu-dong-tien-dai-bua-trua-cho-150-nguoi-kho-khan-100261115191828862.htm"
+            "data": "entrance://webview/https://tuoitre.vn/lang-nghe-truyen-thong-ke-chuyen-van-hoa-tao-gia-tri-cho-san-pham-ocop-100261115182715211.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Giáo xứ Đồng Tiến đãi bữa trưa cho 150 người khó khăn",
-          "text": "Giáo xứ Đồng Tiến (TP.HCM) tổ chức bữa trưa thân tình, đón 150 người có hoàn cảnh khó khăn đến dùng bữa, nhận quà.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Làng nghề truyền thống kể chuyện văn hóa, tạo giá trị cho sản phẩm OCOP",
+          "text": "Không chỉ cạnh tranh bằng chất lượng, mẫu mã hay giá bán, sản phẩm OCOP còn có lợi thế từ câu chuyện về lịch sử, con người và tri thức bản địa. Khai thác những giá trị này đúng cách có thể giúp sản phẩm làng nghề tạo dấu ấn trên thị trường.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1357,7 +1357,7 @@
         {
           "type": "text",
           "name": "Hàng không Mỹ chao đảo, hủy hàng chục nghìn chuyến bay khi thay mạng cáp quang?",
-          "text": "Một sự cố kéo dài gần 5 giờ đồng hồ, làm gián đoạn hơn 20.000 chuyến bay tại Mỹ vào ngày 13/11 có thể xuất phát từ một bộ định tuyến (router) của nhà thầu L3Harris.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Một sự cố kéo dài gần 5 giờ đồng hồ, làm gián đoạn hơn 20.000 chuyến bay tại Mỹ vào ngày 13/11 có thể xuất phát từ một bộ định tuyến (router) của nhà thầu L3Harris.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1419,7 +1419,7 @@
         {
           "type": "text",
           "name": "Tổng Bí thư, Chủ tịch nước gặp lãnh đạo các nước tại Hội nghị cấp cao Pháp ngữ",
-          "text": "Tổng Bí thư, Chủ tịch nước Tô Lâm gặp lãnh đạo nhiều quốc gia và trao đổi các vấn đề khi dự Hội nghị cấp cao Pháp ngữ lần thứ 20 ở Phnom Penh.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tổng Bí thư, Chủ tịch nước Tô Lâm gặp lãnh đạo nhiều quốc gia và trao đổi các vấn đề khi dự Hội nghị cấp cao Pháp ngữ lần thứ 20 ở Phnom Penh.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1481,7 +1481,7 @@
         {
           "type": "text",
           "name": "Kiến nghị phục chức cho Jensen Huang vượt mốc 100.000 chữ ký",
-          "text": "Bản kiến nghị kêu gọi đưa Huang trở lại vị trí CEO Nvidia hiện thu hút hơn 120.000 chữ ký, trong đó có những người nổi tiếng như Elon Musk và CEO Replit Amjad Masad.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Bản kiến nghị kêu gọi đưa Huang trở lại vị trí CEO Nvidia hiện thu hút hơn 120.000 chữ ký, trong đó có những người nổi tiếng như Elon Musk và CEO Replit Amjad Masad.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1543,7 +1543,7 @@
         {
           "type": "text",
           "name": "Trung Quốc có thực sự cần Nvidia để chạy đua AI?",
-          "text": "DeepSeek, Huawei và các hãng công nghệ Trung Quốc đang phát triển chip AI nội địa, nhưng Nvidia vẫn giữ vai trò quan trọng trong cuộc đua này.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "DeepSeek, Huawei và các hãng công nghệ Trung Quốc đang phát triển chip AI nội địa, nhưng Nvidia vẫn giữ vai trò quan trọng trong cuộc đua này.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1554,7 +1554,7 @@
     },
     {
       "id": "news_item_26",
-      "name": "Hollywood chi hàng triệu USD mời sao hạng A đóng phim truyền hình",
+      "name": "SCIC rao bán vốn góp tại trường đại học có loạt cổ đông IDICO, Habeco...",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1581,31 +1581,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/hollywood-chi-hang-trieu-usd-moi-sao-hang-a-dong-phim-truyen-hinh-100261115192130601.htm"
+            "href": "entrance://webview/https://tuoitre.vn/scic-rao-ban-von-gop-tai-truong-dai-hoc-co-loat-co-dong-idico-habeco-100261115172407964.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/hollywood-chi-hang-trieu-usd-moi-sao-hang-a-dong-phim-truyen-hinh-100261115192130601.htm"
+            "data": "entrance://webview/https://tuoitre.vn/scic-rao-ban-von-gop-tai-truong-dai-hoc-co-loat-co-dong-idico-habeco-100261115172407964.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/hollywood-chi-hang-trieu-usd-moi-sao-hang-a-dong-phim-truyen-hinh-100261115192130601.htm"
+            "href": "entrance://webview/https://tuoitre.vn/scic-rao-ban-von-gop-tai-truong-dai-hoc-co-loat-co-dong-idico-habeco-100261115172407964.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/hollywood-chi-hang-trieu-usd-moi-sao-hang-a-dong-phim-truyen-hinh-100261115192130601.htm"
+            "data": "entrance://webview/https://tuoitre.vn/scic-rao-ban-von-gop-tai-truong-dai-hoc-co-loat-co-dong-idico-habeco-100261115172407964.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Hollywood chi hàng triệu USD mời sao hạng A đóng phim truyền hình",
-          "text": "Dù thời kỳ bùng nổ của truyền hình trực tuyến đã qua, những ngôi sao hàng đầu Hollywood vẫn nhận được mức thù lao đáng kinh ngạc, có người bỏ túi tới 2 triệu USD cho mỗi tập phim.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "SCIC rao bán vốn góp tại trường đại học có loạt cổ đông IDICO, Habeco...",
+          "text": "SCIC dự kiến đấu giá toàn bộ phần vốn góp tại Trường đại học Công nghiệp Vinh vào ngày mai (16-11). Danh sách thành viên góp vốn của trường có sự hiện diện của nhiều doanh nghiệp hoạt động trong lĩnh vực bất động sản, xây dựng và đầu tư.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1667,7 +1667,7 @@
         {
           "type": "text",
           "name": "Sự cố xảy ra trong thử nghiệm siêu tên lửa táo bạo chưa từng thấy của tỷ phú Elon Musk",
-          "text": "TPO - Nỗ lực của hãng SpaceX nhằm thu hồi toàn bộ tàu Starship ngay tại bệ phóng đã thất bại, khi tên lửa đẩy gặp trục trặc và rơi xuống biển. Tuy nhiên, con tàu vũ trụ vẫn tiếp tục bay lên quỹ đạo, đánh dấu cuộc thử nghiệm táo bạo nhất từ trước đến nay của công ty.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "TPO - Nỗ lực của hãng SpaceX nhằm thu hồi toàn bộ tàu Starship ngay tại bệ phóng đã thất bại, khi tên lửa đẩy gặp trục trặc và rơi xuống biển. Tuy nhiên, con tàu vũ trụ vẫn tiếp tục bay lên quỹ đạo, đánh dấu cuộc thử nghiệm táo bạo nhất từ trước đến nay của công ty.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1729,7 +1729,7 @@
         {
           "type": "text",
           "name": "Điểm tin 17h: Miền Bắc chuyển rét giữa tuần tới | 25 đại học được ưu tiên đầu tư phòng thí nghiệm bán dẫn",
-          "text": "Nhiều đường ở Đồng Nai ngập gần nửa mét do mưa lớn; Meta bị phạt 887 triệu USD vì tự ý xem ảnh người dùng Facebook...\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Nhiều đường ở Đồng Nai ngập gần nửa mét do mưa lớn; Meta bị phạt 887 triệu USD vì tự ý xem ảnh người dùng Facebook...\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1791,7 +1791,7 @@
         {
           "type": "text",
           "name": "Tương lai không Jensen Huang của Nvidia",
-          "text": "Được xem là linh hồn của Nvidia, việc nhà sáng lập Jensen Huang rời bỏ mọi chức vụ có thể khiến tương lai hãng chip bán dẫn thay đổi mạnh mẽ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Được xem là linh hồn của Nvidia, việc nhà sáng lập Jensen Huang rời bỏ mọi chức vụ có thể khiến tương lai hãng chip bán dẫn thay đổi mạnh mẽ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1853,7 +1853,7 @@
         {
           "type": "text",
           "name": "Việt Nam - Nhật Bản rót gần 500 tỉ đồng cho 11 dự án bán dẫn",
-          "text": "Việt Nam và Nhật Bản đồng tài trợ gần 500 tỉ đồng cho 11 dự án nghiên cứu bán dẫn, đồng thời lên kế hoạch đào tạo 100 tiến sĩ AI từ năm 2027.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Việt Nam và Nhật Bản đồng tài trợ gần 500 tỉ đồng cho 11 dự án nghiên cứu bán dẫn, đồng thời lên kế hoạch đào tạo 100 tiến sĩ AI từ năm 2027.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "news_item_31",
-      "name": "Ngôi sao Malaysia khiến dư luận Trung Quốc phẫn nộ vì sút bóng vào người đối thủ",
+      "name": "Phim mới của Johnny Depp khởi đầu thuận lợi",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -1891,31 +1891,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/ngoi-sao-malaysia-khien-du-luan-trung-quoc-phan-no-vi-sut-bong-vao-nguoi-doi-thu-100261115185820342.htm"
+            "href": "entrance://webview/https://tuoitre.vn/phim-moi-cua-johnny-depp-khoi-dau-thuan-loi-100261115174029884.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/ngoi-sao-malaysia-khien-du-luan-trung-quoc-phan-no-vi-sut-bong-vao-nguoi-doi-thu-100261115185820342.htm"
+            "data": "entrance://webview/https://tuoitre.vn/phim-moi-cua-johnny-depp-khoi-dau-thuan-loi-100261115174029884.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/ngoi-sao-malaysia-khien-du-luan-trung-quoc-phan-no-vi-sut-bong-vao-nguoi-doi-thu-100261115185820342.htm"
+            "href": "entrance://webview/https://tuoitre.vn/phim-moi-cua-johnny-depp-khoi-dau-thuan-loi-100261115174029884.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/ngoi-sao-malaysia-khien-du-luan-trung-quoc-phan-no-vi-sut-bong-vao-nguoi-doi-thu-100261115185820342.htm"
+            "data": "entrance://webview/https://tuoitre.vn/phim-moi-cua-johnny-depp-khoi-dau-thuan-loi-100261115174029884.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Ngôi sao Malaysia khiến dư luận Trung Quốc phẫn nộ vì sút bóng vào người đối thủ",
-          "text": "Hậu vệ Dominic Tan của Malaysia gây phẫn nộ khi sút bóng trúng người cầu thủ Trung Quốc đang nằm sân, châm ngòi cho màn xô xát trong trận giao hữu tối 14-11.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Phim mới của Johnny Depp khởi đầu thuận lợi",
+          "text": "Johnny Depp chấp nhận mức thù lao thấp hơn, khoảng 5 triệu USD, để đổi lấy tỉ lệ chia lợi nhuận cao hơn nếu 'Ebenezer: Phép màu đêm Giáng sinh' đạt thành công tại phòng vé.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1977,7 +1977,7 @@
         {
           "type": "text",
           "name": "Hóa ra \"đạo quân AI Agent bay lượn\" được các thầy dạy AI dùng là tiện ích Chrome rẻ tiền này",
-          "text": "Sự thật đằng sau “đội quân AI Agent” có khả năng làm việc suốt ngày đêm, không ăn không uống chỉ tốn tiền điện và tiền token có thể khiến bạn bất ngờ.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Sự thật đằng sau “đội quân AI Agent” có khả năng làm việc suốt ngày đêm, không ăn không uống chỉ tốn tiền điện và tiền token có thể khiến bạn bất ngờ.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2039,7 +2039,7 @@
         {
           "type": "text",
           "name": "Bị bắt vì dùng hệ thống Bitharvest để kinh doanh đa cấp",
-          "text": "Bà Nguyễn Thanh Hương bị cáo buộc dùng Bitharvest để dụ khách hàng đầu tư theo hình thức đa cấp rồi chiếm đoạt tiền.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Bà Nguyễn Thanh Hương bị cáo buộc dùng Bitharvest để dụ khách hàng đầu tư theo hình thức đa cấp rồi chiếm đoạt tiền.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2101,7 +2101,7 @@
         {
           "type": "text",
           "name": "SpaceX lần đầu bắt thành công tầng trên tên lửa Starship bằng đũa gắp",
-          "text": "SpaceX bắt thành công tầng trên, còn gọi là tàu vũ trụ, của tên lửa Starship khổng lồ bằng hệ thống \"đũa gắp\" - cánh tay cơ khí gắn trên tháp phóng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "SpaceX bắt thành công tầng trên, còn gọi là tàu vũ trụ, của tên lửa Starship khổng lồ bằng hệ thống \"đũa gắp\" - cánh tay cơ khí gắn trên tháp phóng.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2112,7 +2112,7 @@
     },
     {
       "id": "news_item_35",
-      "name": "Làng nghề truyền thống kể chuyện văn hóa, tạo giá trị cho sản phẩm OCOP",
+      "name": "Bộ trưởng Ngoại giao Việt Nam điều hành phiên thảo luận của các lãnh đạo Pháp ngữ tại Campuchia",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2139,31 +2139,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/lang-nghe-truyen-thong-ke-chuyen-van-hoa-tao-gia-tri-cho-san-pham-ocop-100261115182715211.htm"
+            "href": "entrance://webview/https://tuoitre.vn/bo-truong-ngoai-giao-viet-nam-dieu-hanh-phien-thao-luan-cua-cac-lanh-dao-phap-ngu-tai-campuchia-100261115175418154.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/lang-nghe-truyen-thong-ke-chuyen-van-hoa-tao-gia-tri-cho-san-pham-ocop-100261115182715211.htm"
+            "data": "entrance://webview/https://tuoitre.vn/bo-truong-ngoai-giao-viet-nam-dieu-hanh-phien-thao-luan-cua-cac-lanh-dao-phap-ngu-tai-campuchia-100261115175418154.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/lang-nghe-truyen-thong-ke-chuyen-van-hoa-tao-gia-tri-cho-san-pham-ocop-100261115182715211.htm"
+            "href": "entrance://webview/https://tuoitre.vn/bo-truong-ngoai-giao-viet-nam-dieu-hanh-phien-thao-luan-cua-cac-lanh-dao-phap-ngu-tai-campuchia-100261115175418154.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/lang-nghe-truyen-thong-ke-chuyen-van-hoa-tao-gia-tri-cho-san-pham-ocop-100261115182715211.htm"
+            "data": "entrance://webview/https://tuoitre.vn/bo-truong-ngoai-giao-viet-nam-dieu-hanh-phien-thao-luan-cua-cac-lanh-dao-phap-ngu-tai-campuchia-100261115175418154.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Làng nghề truyền thống kể chuyện văn hóa, tạo giá trị cho sản phẩm OCOP",
-          "text": "Không chỉ cạnh tranh bằng chất lượng, mẫu mã hay giá bán, sản phẩm OCOP còn có lợi thế từ câu chuyện về lịch sử, con người và tri thức bản địa. Khai thác những giá trị này đúng cách có thể giúp sản phẩm làng nghề tạo dấu ấn trên thị trường.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Bộ trưởng Ngoại giao Việt Nam điều hành phiên thảo luận của các lãnh đạo Pháp ngữ tại Campuchia",
+          "text": "Các ý kiến tại cuộc thảo luận do Bộ trưởng Ngoại giao Lê Hoài Trung điều hành sẽ được tổng hợp để đề ra những định hướng, biện pháp hợp tác Pháp ngữ trong thời gian tới.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2225,7 +2225,7 @@
         {
           "type": "text",
           "name": "Thứ Bảy tuần này là ngày bao nhiêu? Câu trả lời của ChatGPT gây tranh luận",
-          "text": "Một câu hỏi tưởng chừng rất đơn giản được đặt ra cho ChatGPT: Nếu hôm nay là Chủ Nhật 15/11/2026 thì thứ Bảy tuần này là ngày bao nhiêu? Câu trả lời của ChatGPT đã khiến nhiều cư dân mạng tranh luận, có những người cho rằng ChatGPT trả lời sai. Vì sao lại như vậy?\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Một câu hỏi tưởng chừng rất đơn giản được đặt ra cho ChatGPT: Nếu hôm nay là Chủ Nhật 15/11/2026 thì thứ Bảy tuần này là ngày bao nhiêu? Câu trả lời của ChatGPT đã khiến nhiều cư dân mạng tranh luận, có những người cho rằng ChatGPT trả lời sai. Vì sao lại như vậy?\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:48 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2287,7 +2287,7 @@
         {
           "type": "text",
           "name": "Nhân viên bán ôtô giả tin nhắn kế toán lừa tiền khách hàng",
-          "text": "Đinh Thành Sơn, nhân viên tư vấn bán ôtô, làm giả tin nhắn của kế toán, yêu cầu khách chuyển tiền đặt cọc, mua phụ kiện để chiếm đoạt 738 triệu đồng.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Đinh Thành Sơn, nhân viên tư vấn bán ôtô, làm giả tin nhắn của kế toán, yêu cầu khách chuyển tiền đặt cọc, mua phụ kiện để chiếm đoạt 738 triệu đồng.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 21:49 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2349,7 +2349,7 @@
         {
           "type": "text",
           "name": "Looki L1 - camera ‘nhật ký AI’ giá 6,9 triệu đồng",
-          "text": "Looki L1 thuộc dòng camera đeo cổ hoặc kẹp áo, tích hợp AI, tự động tổng hợp khoảnh khắc đời sống thành nhật ký cá nhân sinh động.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Looki L1 thuộc dòng camera đeo cổ hoặc kẹp áo, tích hợp AI, tự động tổng hợp khoảnh khắc đời sống thành nhật ký cá nhân sinh động.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 21:49 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2360,7 +2360,7 @@
     },
     {
       "id": "news_item_39",
-      "name": "SCIC rao bán vốn góp tại trường đại học có loạt cổ đông IDICO, Habeco...",
+      "name": "Nagakawa - hãng máy lạnh duy nhất trên sàn bất ngờ lỗ sau hai quý lãi kỷ lục",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2387,31 +2387,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/scic-rao-ban-von-gop-tai-truong-dai-hoc-co-loat-co-dong-idico-habeco-100261115172407964.htm"
+            "href": "entrance://webview/https://tuoitre.vn/nagakawa-hang-may-lanh-duy-nhat-tren-san-bat-ngo-lo-sau-hai-quy-lai-ky-luc-100261115182932766.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/scic-rao-ban-von-gop-tai-truong-dai-hoc-co-loat-co-dong-idico-habeco-100261115172407964.htm"
+            "data": "entrance://webview/https://tuoitre.vn/nagakawa-hang-may-lanh-duy-nhat-tren-san-bat-ngo-lo-sau-hai-quy-lai-ky-luc-100261115182932766.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/scic-rao-ban-von-gop-tai-truong-dai-hoc-co-loat-co-dong-idico-habeco-100261115172407964.htm"
+            "href": "entrance://webview/https://tuoitre.vn/nagakawa-hang-may-lanh-duy-nhat-tren-san-bat-ngo-lo-sau-hai-quy-lai-ky-luc-100261115182932766.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/scic-rao-ban-von-gop-tai-truong-dai-hoc-co-loat-co-dong-idico-habeco-100261115172407964.htm"
+            "data": "entrance://webview/https://tuoitre.vn/nagakawa-hang-may-lanh-duy-nhat-tren-san-bat-ngo-lo-sau-hai-quy-lai-ky-luc-100261115182932766.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "SCIC rao bán vốn góp tại trường đại học có loạt cổ đông IDICO, Habeco...",
-          "text": "SCIC dự kiến đấu giá toàn bộ phần vốn góp tại Trường đại học Công nghiệp Vinh vào ngày mai (16-11). Danh sách thành viên góp vốn của trường có sự hiện diện của nhiều doanh nghiệp hoạt động trong lĩnh vực bất động sản, xây dựng và đầu tư.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Nagakawa - hãng máy lạnh duy nhất trên sàn bất ngờ lỗ sau hai quý lãi kỷ lục",
+          "text": "Sau hai quý liên tiếp ghi nhận lợi nhuận ở mức cao, Tập đoàn Nagakawa bất ngờ lỗ trước thuế gần 450 triệu đồng trong quý 3-2026, dù doanh thu vẫn tăng trưởng.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:49 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2473,7 +2473,7 @@
         {
           "type": "text",
           "name": "Nỗi lo của người mua máy cũ",
-          "text": "VTV.vn - Thông tư không đặt ra lệnh cấm chung đối với việc người dân mua bán điện thoại, máy tính cũ có nguồn gốc hợp pháp ở trong nước.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "VTV.vn - Thông tư không đặt ra lệnh cấm chung đối với việc người dân mua bán điện thoại, máy tính cũ có nguồn gốc hợp pháp ở trong nước.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:49 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2484,7 +2484,7 @@
     },
     {
       "id": "news_item_41",
-      "name": "Phim mới của Johnny Depp khởi đầu thuận lợi",
+      "name": "Đã có iPhone 18, người chụp hình dạo 'hồn ở đâu bây giờ'?",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -2511,31 +2511,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/phim-moi-cua-johnny-depp-khoi-dau-thuan-loi-100261115174029884.htm"
+            "href": "entrance://webview/https://tuoitre.vn/da-co-iphone-18-nguoi-chup-hinh-dao-hon-o-dau-bay-gio-100261115182501923.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/phim-moi-cua-johnny-depp-khoi-dau-thuan-loi-100261115174029884.htm"
+            "data": "entrance://webview/https://tuoitre.vn/da-co-iphone-18-nguoi-chup-hinh-dao-hon-o-dau-bay-gio-100261115182501923.htm"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://tuoitre.vn/phim-moi-cua-johnny-depp-khoi-dau-thuan-loi-100261115174029884.htm"
+            "href": "entrance://webview/https://tuoitre.vn/da-co-iphone-18-nguoi-chup-hinh-dao-hon-o-dau-bay-gio-100261115182501923.htm"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/phim-moi-cua-johnny-depp-khoi-dau-thuan-loi-100261115174029884.htm"
+            "data": "entrance://webview/https://tuoitre.vn/da-co-iphone-18-nguoi-chup-hinh-dao-hon-o-dau-bay-gio-100261115182501923.htm"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Phim mới của Johnny Depp khởi đầu thuận lợi",
-          "text": "Johnny Depp chấp nhận mức thù lao thấp hơn, khoảng 5 triệu USD, để đổi lấy tỉ lệ chia lợi nhuận cao hơn nếu 'Ebenezer: Phép màu đêm Giáng sinh' đạt thành công tại phòng vé.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Đã có iPhone 18, người chụp hình dạo 'hồn ở đâu bây giờ'?",
+          "text": "Khi camera điện thoại ngày càng tiện lợi và chất lượng thì người chụp ảnh dạo \"hồn ở đâu bây giờ\"?\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 21:49 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2597,7 +2597,7 @@
         {
           "type": "text",
           "name": "Nvidia dưới thời Jensen Huang: Từ chip đồ họa đến hạ tầng AI",
-          "text": "VTV.vn - Trong 33 năm dưới thời Jensen Huang, Nvidia từ một hãng chip đồ họa cho trò chơi điện tử trở thành nhà cung cấp hạ tầng trí tuệ nhân tạo hàng đầu.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "VTV.vn - Trong 33 năm dưới thời Jensen Huang, Nvidia từ một hãng chip đồ họa cho trò chơi điện tử trở thành nhà cung cấp hạ tầng trí tuệ nhân tạo hàng đầu.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:49 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2659,7 +2659,7 @@
         {
           "type": "text",
           "name": "Khi công nghệ bị lợi dụng để trục lợi tâm linh",
-          "text": "VTV.vn - Các phiên livestream đi chùa trực tuyến đang bị lợi dụng để trục lợi, lừa đảo và đánh cắp thông tin cá nhân thông qua những chiêu thức tinh vi trên không gian mạng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "VTV.vn - Các phiên livestream đi chùa trực tuyến đang bị lợi dụng để trục lợi, lừa đảo và đánh cắp thông tin cá nhân thông qua những chiêu thức tinh vi trên không gian mạng.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:49 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2721,7 +2721,7 @@
         {
           "type": "text",
           "name": "Biến động lãnh đạo và phép thử với các đế chế công nghệ",
-          "text": "VTV.vn - Câu chuyện tại Nvidia cho thấy khủng hoảng ở cấp lãnh đạo có thể tác động đến cổ phiếu, niềm tin nhà đầu tư và cả hệ sinh thái công nghệ.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:18 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "VTV.vn - Câu chuyện tại Nvidia cho thấy khủng hoảng ở cấp lãnh đạo có thể tác động đến cổ phiếu, niềm tin nhà đầu tư và cả hệ sinh thái công nghệ.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 21:49 - 15/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
