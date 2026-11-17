@@ -55,7 +55,7 @@
         {
           "type": "text",
           "name": "NÓNG: Rơi máy bay quân sự An-22 của Nga ở Siberia, toàn bộ 17 người thiệt mạng",
-          "text": "Phi hành đoàn được cho là đã cố gắng điều khiển chiếc máy bay tránh xa khu dân cư trước khi gặp nạn.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:17 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Phi hành đoàn được cho là đã cố gắng điều khiển chiếc máy bay tránh xa khu dân cư trước khi gặp nạn.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:47 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -117,7 +117,7 @@
         {
           "type": "text",
           "name": "Đây là Xiaomi 18 Pro Max: Màu xanh quá đẹp, màn hình phụ có AI, camera Leica chụp chân dung đã ngon hơn nhiều, giá lại còn rẻ hơn cả vivo và OPPO",
-          "text": "Máy nhẹ hơn iPhone 18 Pro Max, chụp chân dung tự nhiên hơn đời trước, còn màn hình chống nhìn trộm chưa được như kỳ vọng nhưng giá lại hợp lý hơn nhiều so với vivo và OPPO.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:17 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Máy nhẹ hơn iPhone 18 Pro Max, chụp chân dung tự nhiên hơn đời trước, còn màn hình chống nhìn trộm chưa được như kỳ vọng nhưng giá lại hợp lý hơn nhiều so với vivo và OPPO.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:47 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -128,7 +128,7 @@
     },
     {
       "id": "news_item_3",
-      "name": "Việt Nam - Kyrgyzstan: 4 tân binh đá chính",
+      "name": "'Hotgirl' Ly Meo ra tòa sau 3 tháng đầu thú",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
@@ -155,31 +155,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/viet-nam-vs-kyrgyzstan-5145800.html"
+            "href": "entrance://webview/https://vnexpress.net/hotgirl-ly-meo-ra-toa-sau-3-thang-dau-thu-5145702.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/viet-nam-vs-kyrgyzstan-5145800.html"
+            "data": "entrance://webview/https://vnexpress.net/hotgirl-ly-meo-ra-toa-sau-3-thang-dau-thu-5145702.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/viet-nam-vs-kyrgyzstan-5145800.html"
+            "href": "entrance://webview/https://vnexpress.net/hotgirl-ly-meo-ra-toa-sau-3-thang-dau-thu-5145702.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/viet-nam-vs-kyrgyzstan-5145800.html"
+            "data": "entrance://webview/https://vnexpress.net/hotgirl-ly-meo-ra-toa-sau-3-thang-dau-thu-5145702.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Việt Nam - Kyrgyzstan: 4 tân binh đá chính",
-          "text": "Bóng lăn lúc 19h. Việt Nam chơi trận giao hữu FIFA cuối cùng của năm 2026, gặp Kyrgyzstan trên sân Thiên Trường.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:17 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "'Hotgirl' Ly Meo ra tòa sau 3 tháng đầu thú",
+          "text": "Ba tháng sau khi ra đầu thú, Ly Meo bị đưa ra xét xử vì biết bạn trai cùng nhóm giang hồ Tú Cơ mua bán ma túy nhưng không tố giác.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:47 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -190,88 +190,26 @@
     },
     {
       "id": "news_item_4",
-      "name": "Siêu máy tính Trung Quốc duy trì vị trí số một thế giới",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_4.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_4.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_4.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_4.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/sieu-may-tinh-trung-quoc-duy-tri-vi-tri-so-mot-the-gioi-5145758.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/sieu-may-tinh-trung-quoc-duy-tri-vi-tri-so-mot-the-gioi-5145758.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/sieu-may-tinh-trung-quoc-duy-tri-vi-tri-so-mot-the-gioi-5145758.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/sieu-may-tinh-trung-quoc-duy-tri-vi-tri-so-mot-the-gioi-5145758.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Siêu máy tính Trung Quốc duy trì vị trí số một thế giới",
-          "text": "Siêu máy tính LineShine tiếp tục dẫn đầu hai bảng xếp hạng toàn cầu TOP500 và HPCG, vượt qua El Capitan của Mỹ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:17 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_5",
       "name": "Ra mắt sổ tay AI hướng dẫn giáo viên soạn bài, quản lý lớp học",
       "label": "Tuổi Trẻ • Nhịp Sống Số",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_5.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_4.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_5.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_4.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_5.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_4.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_5.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_4.png"
           }
         ]
       },
@@ -303,7 +241,7 @@
         {
           "type": "text",
           "name": "Ra mắt sổ tay AI hướng dẫn giáo viên soạn bài, quản lý lớp học",
-          "text": "Sổ tay điện tử cung cấp các hướng dẫn, câu lệnh mẫu và tình huống thực tế, giúp giáo viên ứng dụng trí tuệ nhân tạo (AI) vào soạn bài, kiểm tra đánh giá, xây dựng học liệu và quản lý lớp học.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:17 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Sổ tay điện tử cung cấp các hướng dẫn, câu lệnh mẫu và tình huống thực tế, giúp giáo viên ứng dụng trí tuệ nhân tạo (AI) vào soạn bài, kiểm tra đánh giá, xây dựng học liệu và quản lý lớp học.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:47 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -313,27 +251,27 @@
       }
     },
     {
-      "id": "news_item_6",
+      "id": "news_item_5",
       "name": "Điệu nhảy ngẫu hứng của Thủ tướng Timor-Leste tại Hội nghị ASEAN",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_6.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_5.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_6.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_5.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_6.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_5.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_6.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_5.png"
           }
         ]
       },
@@ -365,7 +303,7 @@
         {
           "type": "text",
           "name": "Điệu nhảy ngẫu hứng của Thủ tướng Timor-Leste tại Hội nghị ASEAN",
-          "text": "Hình ảnh Thủ tướng Xanana Gusmão say sưa nhún nhảy cùng các nghệ sĩ khiến nhiều người thích thú.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:17 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Hình ảnh Thủ tướng Xanana Gusmão say sưa nhún nhảy cùng các nghệ sĩ khiến nhiều người thích thú.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:47 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -375,27 +313,27 @@
       }
     },
     {
-      "id": "news_item_7",
+      "id": "news_item_6",
       "name": "Đừng xem thường 2 món đồ giá vài chục này: Quen mà lạ, có cả tá công dụng, ai không biết thì quá phí!",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_7.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_6.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_7.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_6.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_7.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_6.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_7.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_6.png"
           }
         ]
       },
@@ -427,7 +365,69 @@
         {
           "type": "text",
           "name": "Đừng xem thường 2 món đồ giá vài chục này: Quen mà lạ, có cả tá công dụng, ai không biết thì quá phí!",
-          "text": "Từ khử mùi giày, vệ sinh đồ thể thao đến chăm sóc cơ thể sau khi cạo râu, đây là hai món đồ nhỏ mà cánh mày râu nên biết để tiết kiệm cả thời gian lẫn tiền bạc.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:17 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Từ khử mùi giày, vệ sinh đồ thể thao đến chăm sóc cơ thể sau khi cạo râu, đây là hai món đồ nhỏ mà cánh mày râu nên biết để tiết kiệm cả thời gian lẫn tiền bạc.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:47 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_7",
+      "name": "'Chung một đại dương - Chung một tương lai'",
+      "label": "VnExpress • Thời Sự",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_7.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_7.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_7.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_7.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://vnexpress.net/chung-mot-dai-duong-chung-mot-tuong-lai-5145710.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/chung-mot-dai-duong-chung-mot-tuong-lai-5145710.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://vnexpress.net/chung-mot-dai-duong-chung-mot-tuong-lai-5145710.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/chung-mot-dai-duong-chung-mot-tuong-lai-5145710.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "'Chung một đại dương - Chung một tương lai'",
+          "text": "Nhân dịp dự Tuần lễ Cấp cao APEC tại Thâm Quyến và làm việc song phương ở Trung Quốc, Tổng Bí thư, Chủ tịch nước Tô Lâm có bài viết \"Chung một đại dương - Chung một tương lai\" trên China Daily.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:47 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -438,150 +438,26 @@
     },
     {
       "id": "news_item_8",
-      "name": "Bạn đời của CZ lỗ hơn 100 triệu USD khi tiền số lao dốc",
-      "label": "VnExpress • Thời Sự",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_8.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_8.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_8.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_8.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/ban-doi-cua-cz-lo-hon-100-trieu-usd-khi-tien-so-lao-doc-5145696.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/ban-doi-cua-cz-lo-hon-100-trieu-usd-khi-tien-so-lao-doc-5145696.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/ban-doi-cua-cz-lo-hon-100-trieu-usd-khi-tien-so-lao-doc-5145696.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/ban-doi-cua-cz-lo-hon-100-trieu-usd-khi-tien-so-lao-doc-5145696.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Bạn đời của CZ lỗ hơn 100 triệu USD khi tiền số lao dốc",
-          "text": "Yi He, đồng CEO sàn tiền số Binance và bạn đời của nhà sáng lập CZ, công khai tài khoản giảm hơn 101 triệu USD trong 30 ngày.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:17 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_9",
-      "name": "42 công trình được vinh danh Giải thưởng Sáng tạo khoa học công nghệ Việt Nam",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_9.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_9.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_9.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_9.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/42-cong-trinh-duoc-vinh-danh-giai-thuong-sang-tao-khoa-hoc-cong-nghe-viet-nam-5145839.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/42-cong-trinh-duoc-vinh-danh-giai-thuong-sang-tao-khoa-hoc-cong-nghe-viet-nam-5145839.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/42-cong-trinh-duoc-vinh-danh-giai-thuong-sang-tao-khoa-hoc-cong-nghe-viet-nam-5145839.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/42-cong-trinh-duoc-vinh-danh-giai-thuong-sang-tao-khoa-hoc-cong-nghe-viet-nam-5145839.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "42 công trình được vinh danh Giải thưởng Sáng tạo khoa học công nghệ Việt Nam",
-          "text": "Giải thưởng Vifotec năm 2025 vinh danh 42 công trình xuất sắc góp phần nâng cao năng suất, giảm chi phí, tiết kiệm tài nguyên và tăng khả năng tự chủ công nghệ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:17 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_10",
       "name": "Những 'điểm mù' công nghệ đằng sau sự cố dừng bay toàn nước Mỹ",
       "label": "Tuổi Trẻ • Nhịp Sống Số",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_10.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_8.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_10.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_8.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_10.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_8.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_10.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_8.png"
           }
         ]
       },
@@ -613,7 +489,7 @@
         {
           "type": "text",
           "name": "Những 'điểm mù' công nghệ đằng sau sự cố dừng bay toàn nước Mỹ",
-          "text": "Lệnh dừng bay toàn nước Mỹ phơi bày những điểm yếu của hạ tầng công nghệ: từ lỗi phần mềm, đứt cáp quang đến hệ thống dự phòng cũng có thể tê liệt.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:17 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Lệnh dừng bay toàn nước Mỹ phơi bày những điểm yếu của hạ tầng công nghệ: từ lỗi phần mềm, đứt cáp quang đến hệ thống dự phòng cũng có thể tê liệt.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:47 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -623,27 +499,27 @@
       }
     },
     {
-      "id": "news_item_11",
+      "id": "news_item_9",
       "name": "Loạt phát biểu đáng chú ý của ông Trump bên lề Hội nghị cấp cao ASEAN ở Philippines",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_11.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_9.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_11.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_9.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_11.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_9.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_11.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_9.png"
           }
         ]
       },
@@ -675,7 +551,7 @@
         {
           "type": "text",
           "name": "Loạt phát biểu đáng chú ý của ông Trump bên lề Hội nghị cấp cao ASEAN ở Philippines",
-          "text": "Ông Trump có loạt phát biểu đáng chú ý bên lề cuộc gặp lãnh đạo nhóm Bộ tứ (Quad) tại Manila, Philippines.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:17 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Ông Trump có loạt phát biểu đáng chú ý bên lề cuộc gặp lãnh đạo nhóm Bộ tứ (Quad) tại Manila, Philippines.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:47 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -685,27 +561,27 @@
       }
     },
     {
-      "id": "news_item_12",
+      "id": "news_item_10",
       "name": "Microsoft 365 sập hàng chục tiếng mới khôi phục được, nguyên nhân từ một lỗi tồn tại suốt 3 tháng nay",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_12.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_10.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_12.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_10.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_12.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_10.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_12.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_10.png"
           }
         ]
       },
@@ -737,7 +613,7 @@
         {
           "type": "text",
           "name": "Microsoft 365 sập hàng chục tiếng mới khôi phục được, nguyên nhân từ một lỗi tồn tại suốt 3 tháng nay",
-          "text": "Vào lúc đỉnh điểm, 80% máy chủ dành cho các dịch vụ Microsoft 365 đã không thể hoạt động được.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:17 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Vào lúc đỉnh điểm, 80% máy chủ dành cho các dịch vụ Microsoft 365 đã không thể hoạt động được.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:47 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -747,27 +623,27 @@
       }
     },
     {
-      "id": "news_item_13",
-      "name": "Phát tán 35.000 phim lậu, hai người bị khởi tố",
+      "id": "news_item_11",
+      "name": "Mỹ, Nga có thể phản đối kế hoạch cấm robot sát thủ",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_13.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_11.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_13.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_11.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_13.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_11.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_13.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_11.png"
           }
         ]
       },
@@ -775,31 +651,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/phat-tan-35-000-phim-lau-hai-nguoi-bi-khoi-to-5145806.html"
+            "href": "entrance://webview/https://vnexpress.net/my-nga-co-the-phan-doi-ke-hoach-cam-robot-sat-thu-5145687.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/phat-tan-35-000-phim-lau-hai-nguoi-bi-khoi-to-5145806.html"
+            "data": "entrance://webview/https://vnexpress.net/my-nga-co-the-phan-doi-ke-hoach-cam-robot-sat-thu-5145687.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/phat-tan-35-000-phim-lau-hai-nguoi-bi-khoi-to-5145806.html"
+            "href": "entrance://webview/https://vnexpress.net/my-nga-co-the-phan-doi-ke-hoach-cam-robot-sat-thu-5145687.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/phat-tan-35-000-phim-lau-hai-nguoi-bi-khoi-to-5145806.html"
+            "data": "entrance://webview/https://vnexpress.net/my-nga-co-the-phan-doi-ke-hoach-cam-robot-sat-thu-5145687.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Phát tán 35.000 phim lậu, hai người bị khởi tố",
-          "text": "Lê Văn Sơn và Nguyễn Trường Giang bị cáo buộc tham gia vận hành website phim lậu, xây dựng kho dữ liệu hơn 35.000 bộ phim, nhận tiền công hơn 6 tỷ đồng.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Mỹ, Nga có thể phản đối kế hoạch cấm robot sát thủ",
+          "text": "Mỹ và Nga dự kiến phản đối nỗ lực khởi động đàm phán về cấm vũ khí tự hành, còn gọi là robot sát thủ, theo các nguồn tin.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -809,89 +685,27 @@
       }
     },
     {
-      "id": "news_item_14",
-      "name": "'Việt Nam cần dồn lực cho chip chuyên dụng'",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_14.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_14.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_14.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_14.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/viet-nam-can-don-luc-cho-chip-chuyen-dung-5145663.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/viet-nam-can-don-luc-cho-chip-chuyen-dung-5145663.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/viet-nam-can-don-luc-cho-chip-chuyen-dung-5145663.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/viet-nam-can-don-luc-cho-chip-chuyen-dung-5145663.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "'Việt Nam cần dồn lực cho chip chuyên dụng'",
-          "text": "Việt Nam sẽ tập trung phát triển chip bán dẫn ở phân khúc chuyên dụng, gắn với công nghệ chiến lược, thay vì cạnh tranh trực diện trong lĩnh vực chip đa dụng, theo Thứ trưởng Lê Xuân Định.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_15",
+      "id": "news_item_12",
       "name": "Microsoft xin lỗi sau sự cố dịch vụ tại 74 quốc gia và vùng lãnh thổ, công bố nguyên nhân",
       "label": "Tuổi Trẻ • Nhịp Sống Số",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_15.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_12.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_15.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_12.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_15.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_12.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_15.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_12.png"
           }
         ]
       },
@@ -923,7 +737,7 @@
         {
           "type": "text",
           "name": "Microsoft xin lỗi sau sự cố dịch vụ tại 74 quốc gia và vùng lãnh thổ, công bố nguyên nhân",
-          "text": "Sự cố kéo dài hơn 24 giờ khiến Outlook, Teams và Copilot gián đoạn trên diện rộng, với hơn 7,4 triệu lượt báo cáo trên toàn cầu.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Sự cố kéo dài hơn 24 giờ khiến Outlook, Teams và Copilot gián đoạn trên diện rộng, với hơn 7,4 triệu lượt báo cáo trên toàn cầu.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -933,27 +747,27 @@
       }
     },
     {
-      "id": "news_item_16",
+      "id": "news_item_13",
       "name": "Thi đấu hơn người, Thái Lan có lần thứ 17 vô địch King’s Cup",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_16.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_13.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_16.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_13.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_16.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_13.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_16.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_13.png"
           }
         ]
       },
@@ -985,7 +799,7 @@
         {
           "type": "text",
           "name": "Thi đấu hơn người, Thái Lan có lần thứ 17 vô địch King’s Cup",
-          "text": "Tối 17-11, tuyển Thái Lan đánh bại Tajikistan với tỉ số 3-0 trong trận chung kết King’s Cup 2026, qua đó lần thứ 17 giành chức vô địch giải đấu.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tối 17-11, tuyển Thái Lan đánh bại Tajikistan với tỉ số 3-0 trong trận chung kết King’s Cup 2026, qua đó lần thứ 17 giành chức vô địch giải đấu.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -995,27 +809,27 @@
       }
     },
     {
-      "id": "news_item_17",
+      "id": "news_item_14",
       "name": "Xiaomi đưa máy giặt, tủ lạnh cao cấp về Việt Nam: Phép thử cho dài hạn?",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_17.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_14.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_17.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_14.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_17.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_14.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_17.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_14.png"
           }
         ]
       },
@@ -1047,7 +861,193 @@
         {
           "type": "text",
           "name": "Xiaomi đưa máy giặt, tủ lạnh cao cấp về Việt Nam: Phép thử cho dài hạn?",
-          "text": "Sau hơn một năm bước chân vào mảng gia dụng lớn tại Việt Nam, Xiaomi giới thiệu dòng thiết bị cao cấp - Mijia Pro Series với máy giặt sấy 3 lồng giặt và tủ lạnh 4 cửa dung tích lớn 560L.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Sau hơn một năm bước chân vào mảng gia dụng lớn tại Việt Nam, Xiaomi giới thiệu dòng thiết bị cao cấp - Mijia Pro Series với máy giặt sấy 3 lồng giặt và tủ lạnh 4 cửa dung tích lớn 560L.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_15",
+      "name": "Từ tiếng Việt nào thay dấu nặng thành dấu sắc vẫn nghĩa là mẹ?",
+      "label": "VnExpress • Thời Sự",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_15.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_15.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_15.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_15.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://vnexpress.net/tu-tieng-viet-nao-thay-dau-nang-thanh-dau-sac-van-nghia-la-me-5145560.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/tu-tieng-viet-nao-thay-dau-nang-thanh-dau-sac-van-nghia-la-me-5145560.html"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://vnexpress.net/tu-tieng-viet-nao-thay-dau-nang-thanh-dau-sac-van-nghia-la-me-5145560.html"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://vnexpress.net/tu-tieng-viet-nao-thay-dau-nang-thanh-dau-sac-van-nghia-la-me-5145560.html"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Từ tiếng Việt nào thay dấu nặng thành dấu sắc vẫn nghĩa là mẹ?",
+          "text": "Chỉ thay đổi một dấu thanh, từ tiếng Việt quen thuộc đã chuyển sang cách viết khác nhưng vẫn giữ nguyên ý nghĩa đặc biệt. Bạn có đoán ra không?\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_16",
+      "name": "Microsoft gặp sự cố toàn cầu, kéo theo cả nền tảng AI của OpenAI và Anthropic",
+      "label": "Tuổi Trẻ • Nhịp Sống Số",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_16.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_16.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_16.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_16.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/microsoft-gap-su-co-toan-cau-keo-theo-ca-nen-tang-ai-cua-openai-va-anthropic-10026111309442104.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/microsoft-gap-su-co-toan-cau-keo-theo-ca-nen-tang-ai-cua-openai-va-anthropic-10026111309442104.htm"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/microsoft-gap-su-co-toan-cau-keo-theo-ca-nen-tang-ai-cua-openai-va-anthropic-10026111309442104.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/microsoft-gap-su-co-toan-cau-keo-theo-ca-nen-tang-ai-cua-openai-va-anthropic-10026111309442104.htm"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Microsoft gặp sự cố toàn cầu, kéo theo cả nền tảng AI của OpenAI và Anthropic",
+          "text": "Sự cố Microsoft khiến hàng chục nghìn người dùng không thể truy cập Outlook, Teams, Microsoft 365, đồng thời ảnh hưởng đến các nền tảng AI.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+        }
+      ],
+      "type": {
+        "service": "market_vn",
+        "id": "vnexpress",
+        "name": "Tin Tức"
+      }
+    },
+    {
+      "id": "news_item_17",
+      "name": "Tổng Bí thư, Chủ tịch nước hoan nghênh các tập đoàn vùng Vịnh Lớn Trung Quốc sản xuất công nghệ cao tại Việt Nam",
+      "label": "Tuổi Trẻ • Thời Sự",
+      "price": "Bản Tin Mới",
+      "promotional_image": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_17.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_17.png"
+          }
+        ]
+      },
+      "icon": {
+        "links": [
+          {
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_17.png"
+          },
+          {
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_17.png"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "get",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-hoan-nghenh-cac-tap-doan-vung-vinh-lon-trung-quoc-san-xuat-cong-nghe-cao-tai-viet-nam-10026111722194755.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-hoan-nghenh-cac-tap-doan-vung-vinh-lon-trung-quoc-san-xuat-cong-nghe-cao-tai-viet-nam-10026111722194755.htm"
+          }
+        },
+        {
+          "type": "open",
+          "link": {
+            "href": "entrance://webview/https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-hoan-nghenh-cac-tap-doan-vung-vinh-lon-trung-quoc-san-xuat-cong-nghe-cao-tai-viet-nam-10026111722194755.htm"
+          },
+          "intent": {
+            "action": "android.intent.action.VIEW",
+            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
+            "data": "entrance://webview/https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-hoan-nghenh-cac-tap-doan-vung-vinh-lon-trung-quoc-san-xuat-cong-nghe-cao-tai-viet-nam-10026111722194755.htm"
+          }
+        }
+      ],
+      "cards": [
+        {
+          "type": "text",
+          "name": "Tổng Bí thư, Chủ tịch nước hoan nghênh các tập đoàn vùng Vịnh Lớn Trung Quốc sản xuất công nghệ cao tại Việt Nam",
+          "text": "Tổng Bí thư, Chủ tịch nước Tô Lâm dự một diễn đàn về kết nối công nghệ với vùng Vịnh Lớn, tiếp lãnh đạo Quảng Đông và một số doanh nghiệp Trung Quốc ngày 17-11.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1058,8 +1058,8 @@
     },
     {
       "id": "news_item_18",
-      "name": "Nga tập kích loạt 'nhà máy tên lửa, cơ sở hạ tầng' của Ukraine",
-      "label": "VnExpress • Thời Sự",
+      "name": "Huawei sắp giải quyết nếp gấp smartphone gập mà không cần màn hình nhám như iPhone Duo?",
+      "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
@@ -1085,31 +1085,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/nga-tap-kich-loat-nha-may-ten-lua-co-so-ha-tang-cua-ukraine-5145727.html"
+            "href": "entrance://webview/https://genk.vn/huawei-sap-giai-quyet-nep-gap-smartphone-gap-ma-khong-can-man-hinh-nham-nhu-iphone-duo-16526111717391127.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nga-tap-kich-loat-nha-may-ten-lua-co-so-ha-tang-cua-ukraine-5145727.html"
+            "data": "entrance://webview/https://genk.vn/huawei-sap-giai-quyet-nep-gap-smartphone-gap-ma-khong-can-man-hinh-nham-nhu-iphone-duo-16526111717391127.chn"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/nga-tap-kich-loat-nha-may-ten-lua-co-so-ha-tang-cua-ukraine-5145727.html"
+            "href": "entrance://webview/https://genk.vn/huawei-sap-giai-quyet-nep-gap-smartphone-gap-ma-khong-can-man-hinh-nham-nhu-iphone-duo-16526111717391127.chn"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/nga-tap-kich-loat-nha-may-ten-lua-co-so-ha-tang-cua-ukraine-5145727.html"
+            "data": "entrance://webview/https://genk.vn/huawei-sap-giai-quyet-nep-gap-smartphone-gap-ma-khong-can-man-hinh-nham-nhu-iphone-duo-16526111717391127.chn"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Nga tập kích loạt 'nhà máy tên lửa, cơ sở hạ tầng' của Ukraine",
-          "text": "Nga tuyên bố tấn công loạt nhà máy sản xuất tên lửa và UAV của Ukraine, cũng như hai cây cầu chủ chốt ở Kiev.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Huawei sắp giải quyết nếp gấp smartphone gập mà không cần màn hình nhám như iPhone Duo?",
+          "text": "Video giới thiệu Mate X8 hé lộ màn hình gần như hoàn toàn phẳng, làm dấy lên kỳ vọng Huawei có thể xử lý nếp gấp theo cách khác với Apple.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1121,7 +1121,7 @@
     {
       "id": "news_item_19",
       "name": "Elon Musk tiết lộ siêu tên lửa Starship V4 sẽ lớn và mạnh hơn",
-      "label": "VnExpress • Công Nghệ",
+      "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
@@ -1171,7 +1171,7 @@
         {
           "type": "text",
           "name": "Elon Musk tiết lộ siêu tên lửa Starship V4 sẽ lớn và mạnh hơn",
-          "text": "Elon Musk, nhà sáng lập kiêm CEO SpaceX, cho biết phiên bản mới của tên lửa Starship sẽ dài 70 m, tăng 40% kích thước và chứa nhiều nhiên liệu đẩy hơn 60% so với phiên bản V3 hiện nay.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Elon Musk, nhà sáng lập kiêm CEO SpaceX, cho biết phiên bản mới của tên lửa Starship sẽ dài 70 m, tăng 40% kích thước và chứa nhiều nhiên liệu đẩy hơn 60% so với phiên bản V3 hiện nay.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1182,336 +1182,26 @@
     },
     {
       "id": "news_item_20",
-      "name": "Microsoft gặp sự cố toàn cầu, kéo theo cả nền tảng AI của OpenAI và Anthropic",
-      "label": "Tuổi Trẻ • Nhịp Sống Số",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_20.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_20.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_20.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_20.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://tuoitre.vn/microsoft-gap-su-co-toan-cau-keo-theo-ca-nen-tang-ai-cua-openai-va-anthropic-10026111309442104.htm"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/microsoft-gap-su-co-toan-cau-keo-theo-ca-nen-tang-ai-cua-openai-va-anthropic-10026111309442104.htm"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://tuoitre.vn/microsoft-gap-su-co-toan-cau-keo-theo-ca-nen-tang-ai-cua-openai-va-anthropic-10026111309442104.htm"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/microsoft-gap-su-co-toan-cau-keo-theo-ca-nen-tang-ai-cua-openai-va-anthropic-10026111309442104.htm"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Microsoft gặp sự cố toàn cầu, kéo theo cả nền tảng AI của OpenAI và Anthropic",
-          "text": "Sự cố Microsoft khiến hàng chục nghìn người dùng không thể truy cập Outlook, Teams, Microsoft 365, đồng thời ảnh hưởng đến các nền tảng AI.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_21",
-      "name": "Tổng Bí thư, Chủ tịch nước hoan nghênh các tập đoàn vùng Vịnh Lớn Trung Quốc sản xuất công nghệ cao tại Việt Nam",
-      "label": "Tuổi Trẻ • Thời Sự",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_21.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_21.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_21.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_21.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-hoan-nghenh-cac-tap-doan-vung-vinh-lon-trung-quoc-san-xuat-cong-nghe-cao-tai-viet-nam-10026111722194755.htm"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-hoan-nghenh-cac-tap-doan-vung-vinh-lon-trung-quoc-san-xuat-cong-nghe-cao-tai-viet-nam-10026111722194755.htm"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-hoan-nghenh-cac-tap-doan-vung-vinh-lon-trung-quoc-san-xuat-cong-nghe-cao-tai-viet-nam-10026111722194755.htm"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-hoan-nghenh-cac-tap-doan-vung-vinh-lon-trung-quoc-san-xuat-cong-nghe-cao-tai-viet-nam-10026111722194755.htm"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Tổng Bí thư, Chủ tịch nước hoan nghênh các tập đoàn vùng Vịnh Lớn Trung Quốc sản xuất công nghệ cao tại Việt Nam",
-          "text": "Tổng Bí thư, Chủ tịch nước Tô Lâm dự một diễn đàn về kết nối công nghệ với vùng Vịnh Lớn, tiếp lãnh đạo Quảng Đông và một số doanh nghiệp Trung Quốc ngày 17-11.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_22",
-      "name": "Huawei sắp giải quyết nếp gấp smartphone gập mà không cần màn hình nhám như iPhone Duo?",
-      "label": "GenK • Công Nghệ & AI",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_22.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_22.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_22.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_22.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/huawei-sap-giai-quyet-nep-gap-smartphone-gap-ma-khong-can-man-hinh-nham-nhu-iphone-duo-16526111717391127.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/huawei-sap-giai-quyet-nep-gap-smartphone-gap-ma-khong-can-man-hinh-nham-nhu-iphone-duo-16526111717391127.chn"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://genk.vn/huawei-sap-giai-quyet-nep-gap-smartphone-gap-ma-khong-can-man-hinh-nham-nhu-iphone-duo-16526111717391127.chn"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://genk.vn/huawei-sap-giai-quyet-nep-gap-smartphone-gap-ma-khong-can-man-hinh-nham-nhu-iphone-duo-16526111717391127.chn"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Huawei sắp giải quyết nếp gấp smartphone gập mà không cần màn hình nhám như iPhone Duo?",
-          "text": "Video giới thiệu Mate X8 hé lộ màn hình gần như hoàn toàn phẳng, làm dấy lên kỳ vọng Huawei có thể xử lý nếp gấp theo cách khác với Apple.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_23",
-      "name": "Khu đô thị 17.000 tỷ đồng ở Nha Trang được mở rộng thêm 16,22 ha",
-      "label": "VnExpress • Thời Sự",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_23.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_23.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_23.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_23.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/khu-do-thi-17-000-ty-dong-o-nha-trang-duoc-mo-rong-them-16-22-ha-5145789.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/khu-do-thi-17-000-ty-dong-o-nha-trang-duoc-mo-rong-them-16-22-ha-5145789.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/khu-do-thi-17-000-ty-dong-o-nha-trang-duoc-mo-rong-them-16-22-ha-5145789.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/khu-do-thi-17-000-ty-dong-o-nha-trang-duoc-mo-rong-them-16-22-ha-5145789.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Khu đô thị 17.000 tỷ đồng ở Nha Trang được mở rộng thêm 16,22 ha",
-          "text": "Khu đô thị hỗn hợp thành phố Nha Trang với tổng đầu tư hơn 17.000 tỷ đồng được mở rộng thêm 16,22 ha, đồng thời điều chỉnh cơ cấu sản phẩm nhà ở và địa điểm thực hiện.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_24",
-      "name": "Sam Altman nói về Jensen Huang: 'Người hùng cũng có khuyết điểm'",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_24.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_24.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_24.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_24.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/sam-altman-noi-ve-jensen-huang-nguoi-hung-cung-co-khuyet-diem-5145580.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/sam-altman-noi-ve-jensen-huang-nguoi-hung-cung-co-khuyet-diem-5145580.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/sam-altman-noi-ve-jensen-huang-nguoi-hung-cung-co-khuyet-diem-5145580.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/sam-altman-noi-ve-jensen-huang-nguoi-hung-cung-co-khuyet-diem-5145580.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Sam Altman nói về Jensen Huang: 'Người hùng cũng có khuyết điểm'",
-          "text": "CEO OpenAI Sam Altman nói \"đồng cảm sâu sắc\" với Jensen Huang, nhưng từ chối bình luận về khả năng cựu CEO Nvidia quay lại công ty.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_25",
       "name": "'Mẹ đẻ' giọng đọc AI review phim chia sẻ cách đưa nghiên cứu khoa học ra thị trường",
       "label": "Tuổi Trẻ • Nhịp Sống Số",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_25.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_20.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_25.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_20.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_25.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_20.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_25.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_20.png"
           }
         ]
       },
@@ -1543,7 +1233,7 @@
         {
           "type": "text",
           "name": "'Mẹ đẻ' giọng đọc AI review phim chia sẻ cách đưa nghiên cứu khoa học ra thị trường",
-          "text": "Tiến sĩ Nguyễn Thị Thu Trang, giảng viên Đại học Bách khoa Hà Nội, người phát triển giọng đọc AI 'quốc dân' review phim, chia sẻ với sinh viên cách đưa nghiên cứu khoa học ra thị trường.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tiến sĩ Nguyễn Thị Thu Trang, giảng viên Đại học Bách khoa Hà Nội, người phát triển giọng đọc AI 'quốc dân' review phim, chia sẻ với sinh viên cách đưa nghiên cứu khoa học ra thị trường.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1553,27 +1243,27 @@
       }
     },
     {
-      "id": "news_item_26",
+      "id": "news_item_21",
       "name": "Chủ tịch Quốc hội Trần Thanh Mẫn bắt đầu lịch trình dự AIPA-47",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_26.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_21.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_26.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_21.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_26.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_21.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_26.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_21.png"
           }
         ]
       },
@@ -1605,7 +1295,7 @@
         {
           "type": "text",
           "name": "Chủ tịch Quốc hội Trần Thanh Mẫn bắt đầu lịch trình dự AIPA-47",
-          "text": "Chiều 17-11, Chủ tịch Quốc hội Trần Thanh Mẫn dự phiên họp Ban Chấp hành Đại hội đồng liên Nghị viện ASEAN lần thứ 47 (AIPA-47) và gặp song phương Chủ tịch Quốc hội Timor-Leste.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Chiều 17-11, Chủ tịch Quốc hội Trần Thanh Mẫn dự phiên họp Ban Chấp hành Đại hội đồng liên Nghị viện ASEAN lần thứ 47 (AIPA-47) và gặp song phương Chủ tịch Quốc hội Timor-Leste.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1615,27 +1305,27 @@
       }
     },
     {
-      "id": "news_item_27",
+      "id": "news_item_22",
       "name": "Đứng top 1 Google vẫn vô hình trước AI: 62% đường link mà AI gợi ý nằm ngoài top 10 tìm kiếm",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_27.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_22.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_27.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_22.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_27.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_22.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_27.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_22.png"
           }
         ]
       },
@@ -1667,7 +1357,7 @@
         {
           "type": "text",
           "name": "Đứng top 1 Google vẫn vô hình trước AI: 62% đường link mà AI gợi ý nằm ngoài top 10 tìm kiếm",
-          "text": "Suốt hai thập kỷ, thắng trên Google gần như là thắng khách hàng. Nhưng một lớp trung gian mới vừa chen vào giữa thương hiệu và người mua, và nó chơi theo một bộ luật khác hẳn.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Suốt hai thập kỷ, thắng trên Google gần như là thắng khách hàng. Nhưng một lớp trung gian mới vừa chen vào giữa thương hiệu và người mua, và nó chơi theo một bộ luật khác hẳn.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1677,27 +1367,27 @@
       }
     },
     {
-      "id": "news_item_28",
-      "name": "Vissan đầu tư 1.558 tỷ đồng di dời nhà máy về Tây Ninh",
+      "id": "news_item_23",
+      "name": "4 thay đổi thị lực không do tuổi tác",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_28.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_23.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_28.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_23.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_28.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_23.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_28.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_23.png"
           }
         ]
       },
@@ -1705,31 +1395,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/vissan-dau-tu-1-558-ty-dong-di-doi-nha-may-ve-tay-ninh-5145585.html"
+            "href": "entrance://webview/https://vnexpress.net/4-thay-doi-thi-luc-khong-do-tuoi-tac-5145524.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/vissan-dau-tu-1-558-ty-dong-di-doi-nha-may-ve-tay-ninh-5145585.html"
+            "data": "entrance://webview/https://vnexpress.net/4-thay-doi-thi-luc-khong-do-tuoi-tac-5145524.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/vissan-dau-tu-1-558-ty-dong-di-doi-nha-may-ve-tay-ninh-5145585.html"
+            "href": "entrance://webview/https://vnexpress.net/4-thay-doi-thi-luc-khong-do-tuoi-tac-5145524.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/vissan-dau-tu-1-558-ty-dong-di-doi-nha-may-ve-tay-ninh-5145585.html"
+            "data": "entrance://webview/https://vnexpress.net/4-thay-doi-thi-luc-khong-do-tuoi-tac-5145524.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Vissan đầu tư 1.558 tỷ đồng di dời nhà máy về Tây Ninh",
-          "text": "Vissan vừa động thổ nhà máy chế biến thực phẩm hơn 1.558 tỷ đồng tại Tây Ninh, thay thế cơ sở sản xuất ở 420 Nơ Trang Long, TP HCM.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "4 thay đổi thị lực không do tuổi tác",
+          "text": "Thị lực thay đổi theo tuổi là quá trình tự nhiên, nhưng một số biểu hiện bất thường có thể liên quan đến bệnh lý mắt cần được điều trị sớm.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1739,89 +1429,27 @@
       }
     },
     {
-      "id": "news_item_29",
-      "name": "Apple có thể ra kính thông minh đầu tiên năm tới",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_29.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_29.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_29.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_29.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/apple-co-the-ra-kinh-thong-minh-dau-tien-nam-toi-5145397.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/apple-co-the-ra-kinh-thong-minh-dau-tien-nam-toi-5145397.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/apple-co-the-ra-kinh-thong-minh-dau-tien-nam-toi-5145397.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/apple-co-the-ra-kinh-thong-minh-dau-tien-nam-toi-5145397.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Apple có thể ra kính thông minh đầu tiên năm tới",
-          "text": "Apple Glass được cho là sẽ xuất hiện tại sự kiện WWDC tháng 6/2027, tập trung vào tương tác giọng nói qua trợ lý Siri, cạnh tranh trực tiếp với kính Meta.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_30",
+      "id": "news_item_24",
       "name": "Trung Quốc có thực sự cần Nvidia để chạy đua AI?",
       "label": "Tuổi Trẻ • Nhịp Sống Số",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_30.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_24.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_30.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_24.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_30.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_24.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_30.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_24.png"
           }
         ]
       },
@@ -1853,7 +1481,7 @@
         {
           "type": "text",
           "name": "Trung Quốc có thực sự cần Nvidia để chạy đua AI?",
-          "text": "DeepSeek, Huawei và các hãng công nghệ Trung Quốc đang phát triển chip AI nội địa, nhưng Nvidia vẫn giữ vai trò quan trọng trong cuộc đua này.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "DeepSeek, Huawei và các hãng công nghệ Trung Quốc đang phát triển chip AI nội địa, nhưng Nvidia vẫn giữ vai trò quan trọng trong cuộc đua này.\n\nNguồn: Tuổi Trẻ (Nhịp Sống Số)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1863,27 +1491,27 @@
       }
     },
     {
-      "id": "news_item_31",
+      "id": "news_item_25",
       "name": "Tàu sân bay Mỹ dày đặc ở Trung Đông, chiến tranh có tái diễn?",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_31.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_25.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_31.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_25.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_31.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_25.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_31.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_25.png"
           }
         ]
       },
@@ -1915,7 +1543,7 @@
         {
           "type": "text",
           "name": "Tàu sân bay Mỹ dày đặc ở Trung Đông, chiến tranh có tái diễn?",
-          "text": "Nguy cơ chiến tranh Mỹ - Iran tái bùng phát dường như không còn phụ thuộc riêng vào Tổng thống Trump, mà còn nằm trong tính toán của Tehran.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Nguy cơ chiến tranh Mỹ - Iran tái bùng phát dường như không còn phụ thuộc riêng vào Tổng thống Trump, mà còn nằm trong tính toán của Tehran.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1925,27 +1553,27 @@
       }
     },
     {
-      "id": "news_item_32",
+      "id": "news_item_26",
       "name": "Loạt ngân hàng lớn tại Mỹ gặp sự cố hệ thống, hàng nghìn người dùng không thể đăng nhập",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_32.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_26.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_32.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_26.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_32.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_26.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_32.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_26.png"
           }
         ]
       },
@@ -1977,7 +1605,7 @@
         {
           "type": "text",
           "name": "Loạt ngân hàng lớn tại Mỹ gặp sự cố hệ thống, hàng nghìn người dùng không thể đăng nhập",
-          "text": "JPMorgan Chase, ngân hàng lớn nhất Mỹ, cho biết lỗi phần mềm trên hệ thống phần cứng nội bộ đã làm gián đoạn quá trình xử lý một số giao dịch. Sự cố cũng có thể ảnh hưởng đến các ngân hàng khác có giao dịch với JPMorgan.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "JPMorgan Chase, ngân hàng lớn nhất Mỹ, cho biết lỗi phần mềm trên hệ thống phần cứng nội bộ đã làm gián đoạn quá trình xử lý một số giao dịch. Sự cố cũng có thể ảnh hưởng đến các ngân hàng khác có giao dịch với JPMorgan.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -1987,27 +1615,27 @@
       }
     },
     {
-      "id": "news_item_33",
-      "name": "Sao 'Stranger Things' tham quan Hà Nội",
+      "id": "news_item_27",
+      "name": "Trung tá Ấn Độ trúng 'mỹ nhân kế', trao kế hoạch tác chiến cho người tình trên mạng",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_33.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_27.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_33.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_27.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_33.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_27.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_33.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_27.png"
           }
         ]
       },
@@ -2015,31 +1643,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/sao-stranger-things-tham-quan-ha-noi-5145753.html"
+            "href": "entrance://webview/https://vnexpress.net/trung-ta-an-do-trung-my-nhan-ke-trao-ke-hoach-tac-chien-cho-nguoi-tinh-tren-mang-5145662.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/sao-stranger-things-tham-quan-ha-noi-5145753.html"
+            "data": "entrance://webview/https://vnexpress.net/trung-ta-an-do-trung-my-nhan-ke-trao-ke-hoach-tac-chien-cho-nguoi-tinh-tren-mang-5145662.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/sao-stranger-things-tham-quan-ha-noi-5145753.html"
+            "href": "entrance://webview/https://vnexpress.net/trung-ta-an-do-trung-my-nhan-ke-trao-ke-hoach-tac-chien-cho-nguoi-tinh-tren-mang-5145662.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/sao-stranger-things-tham-quan-ha-noi-5145753.html"
+            "data": "entrance://webview/https://vnexpress.net/trung-ta-an-do-trung-my-nhan-ke-trao-ke-hoach-tac-chien-cho-nguoi-tinh-tren-mang-5145662.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Sao 'Stranger Things' tham quan Hà Nội",
-          "text": "Charlie Heaton, thủ vai Jonathan Byers trong series \"Stranger Things\", gây chú ý khi đăng tải chuyến dạo phố Hà Nội bằng xe máy.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Trung tá Ấn Độ trúng 'mỹ nhân kế', trao kế hoạch tác chiến cho người tình trên mạng",
+          "text": "Trung tá Ấn Độ bị bắt với cáo buộc tiết lộ nhiều bí mật quân sự, trong đó có kế hoạch tác chiến của không quân, cho \"người tình\" quen trên mạng.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2049,89 +1677,27 @@
       }
     },
     {
-      "id": "news_item_34",
-      "name": "Việt Nam nghiên cứu chung, hợp tác khoa học công nghệ với Trung Quốc",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_34.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_34.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_34.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_34.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/viet-nam-nghien-cuu-chung-hop-tac-khoa-hoc-cong-nghe-voi-trung-quoc-5145620.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/viet-nam-nghien-cuu-chung-hop-tac-khoa-hoc-cong-nghe-voi-trung-quoc-5145620.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/viet-nam-nghien-cuu-chung-hop-tac-khoa-hoc-cong-nghe-voi-trung-quoc-5145620.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/viet-nam-nghien-cuu-chung-hop-tac-khoa-hoc-cong-nghe-voi-trung-quoc-5145620.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "Việt Nam nghiên cứu chung, hợp tác khoa học công nghệ với Trung Quốc",
-          "text": "Việt Nam và Trung Quốc công bố các nhiệm vụ nghiên cứu chung, đồng thời ký 16 văn kiện hợp tác giữa cơ quan, trường đại học và doanh nghiệp về khoa học và công nghệ.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_35",
+      "id": "news_item_28",
       "name": "Ông Jensen Huang 'phá vỡ im lặng', tuyên bố sẵn sàng trở lại ghế CEO Nvidia",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_35.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_28.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_35.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_28.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_35.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_28.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_35.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_28.png"
           }
         ]
       },
@@ -2163,7 +1729,7 @@
         {
           "type": "text",
           "name": "Ông Jensen Huang 'phá vỡ im lặng', tuyên bố sẵn sàng trở lại ghế CEO Nvidia",
-          "text": "Tỉ phú Jensen Huang vừa có những phát biểu công khai đầu tiên kể từ khi ông từ chức Giám đốc điều hành (CEO) của Tập đoàn sản xuất chip Nvidia.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tỉ phú Jensen Huang vừa có những phát biểu công khai đầu tiên kể từ khi ông từ chức Giám đốc điều hành (CEO) của Tập đoàn sản xuất chip Nvidia.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2173,27 +1739,27 @@
       }
     },
     {
-      "id": "news_item_36",
+      "id": "news_item_29",
       "name": "Từ bàn phím vẽ trên giấy đến cuộc đua AI triệu đô",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_36.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_29.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_36.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_29.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_36.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_29.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_36.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_29.png"
           }
         ]
       },
@@ -2225,7 +1791,7 @@
         {
           "type": "text",
           "name": "Từ bàn phím vẽ trên giấy đến cuộc đua AI triệu đô",
-          "text": "Người ta có thể choáng ngợp trước con số 1 triệu USD. Nhưng đằng sau giải thưởng hiện kim của Âu Lạc Grand Prize 2026 còn là những câu chuyện về những người “ngoại đạo” dám rẽ hướng vào lĩnh vực mới hoặc theo đuổi những bài toán công nghệ chẳng ai nghĩ họ sẽ chọn.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Người ta có thể choáng ngợp trước con số 1 triệu USD. Nhưng đằng sau giải thưởng hiện kim của Âu Lạc Grand Prize 2026 còn là những câu chuyện về những người “ngoại đạo” dám rẽ hướng vào lĩnh vực mới hoặc theo đuổi những bài toán công nghệ chẳng ai nghĩ họ sẽ chọn.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2235,27 +1801,27 @@
       }
     },
     {
-      "id": "news_item_37",
-      "name": "Xóa bỏ địa giới hành chính trong chi trợ cấp, rút BHXH một lần",
+      "id": "news_item_30",
+      "name": "Bác sĩ Hàn Quốc chỉ ra 5 dấu hiệu lá gan đang 'kêu cứu'",
       "label": "VnExpress • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_37.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_30.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_37.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_30.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_37.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_30.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_37.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_30.png"
           }
         ]
       },
@@ -2263,31 +1829,31 @@
         {
           "type": "get",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/xoa-bo-dia-gioi-hanh-chinh-trong-chi-tro-cap-rut-bhxh-mot-lan-5145757.html"
+            "href": "entrance://webview/https://vnexpress.net/bac-si-han-quoc-chi-ra-5-dau-hieu-la-gan-dang-keu-cuu-5145671.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/xoa-bo-dia-gioi-hanh-chinh-trong-chi-tro-cap-rut-bhxh-mot-lan-5145757.html"
+            "data": "entrance://webview/https://vnexpress.net/bac-si-han-quoc-chi-ra-5-dau-hieu-la-gan-dang-keu-cuu-5145671.html"
           }
         },
         {
           "type": "open",
           "link": {
-            "href": "entrance://webview/https://vnexpress.net/xoa-bo-dia-gioi-hanh-chinh-trong-chi-tro-cap-rut-bhxh-mot-lan-5145757.html"
+            "href": "entrance://webview/https://vnexpress.net/bac-si-han-quoc-chi-ra-5-dau-hieu-la-gan-dang-keu-cuu-5145671.html"
           },
           "intent": {
             "action": "android.intent.action.VIEW",
             "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/xoa-bo-dia-gioi-hanh-chinh-trong-chi-tro-cap-rut-bhxh-mot-lan-5145757.html"
+            "data": "entrance://webview/https://vnexpress.net/bac-si-han-quoc-chi-ra-5-dau-hieu-la-gan-dang-keu-cuu-5145671.html"
           }
         }
       ],
       "cards": [
         {
           "type": "text",
-          "name": "Xóa bỏ địa giới hành chính trong chi trợ cấp, rút BHXH một lần",
-          "text": "Người dưới 75 tuổi không đủ điều kiện hưởng lương hưu, lao động rút BHXH một lần, thanh toán chi phí khám chữa được làm thủ tục trên toàn quốc thay vì phụ thuộc địa bàn quản lý như trước.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "name": "Bác sĩ Hàn Quốc chỉ ra 5 dấu hiệu lá gan đang 'kêu cứu'",
+          "text": "Tình trạng kiệt sức kéo dài dù ngủ đủ giấc kết hợp ngứa ngáy da và chướng bụng cảnh báo nguy cơ gan suy giảm chức năng nghiêm trọng, theo bác sĩ chuyên khoa nội Hàn Quốc.\n\nNguồn: VnExpress (Thời Sự)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2297,89 +1863,27 @@
       }
     },
     {
-      "id": "news_item_38",
-      "name": "TP HCM lấy hiệu quả kinh doanh làm thước đo chuyển đổi số doanh nghiệp nhỏ",
-      "label": "VnExpress • Công Nghệ",
-      "price": "Bản Tin Mới",
-      "promotional_image": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_38.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_38.png"
-          }
-        ]
-      },
-      "icon": {
-        "links": [
-          {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_38.png"
-          },
-          {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_38.png"
-          }
-        ]
-      },
-      "actions": [
-        {
-          "type": "get",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/tp-hcm-lay-hieu-qua-kinh-doanh-lam-thuoc-do-chuyen-doi-so-doanh-nghiep-nho-5145711.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/tp-hcm-lay-hieu-qua-kinh-doanh-lam-thuoc-do-chuyen-doi-so-doanh-nghiep-nho-5145711.html"
-          }
-        },
-        {
-          "type": "open",
-          "link": {
-            "href": "entrance://webview/https://vnexpress.net/tp-hcm-lay-hieu-qua-kinh-doanh-lam-thuoc-do-chuyen-doi-so-doanh-nghiep-nho-5145711.html"
-          },
-          "intent": {
-            "action": "android.intent.action.VIEW",
-            "target-class": "com.sonymobile.entrance.news.XperiaNewsReaderActivity",
-            "data": "entrance://webview/https://vnexpress.net/tp-hcm-lay-hieu-qua-kinh-doanh-lam-thuoc-do-chuyen-doi-so-doanh-nghiep-nho-5145711.html"
-          }
-        }
-      ],
-      "cards": [
-        {
-          "type": "text",
-          "name": "TP HCM lấy hiệu quả kinh doanh làm thước đo chuyển đổi số doanh nghiệp nhỏ",
-          "text": "Lãnh đạo UBND TP HCM khẳng định chuyển đổi số chỉ thành công khi lan tỏa tới từng cửa hàng, hộ kinh doanh và lấy hiệu quả thực tế làm tiêu chí đánh giá chính.\n\nNguồn: VnExpress (Công Nghệ)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
-        }
-      ],
-      "type": {
-        "service": "market_vn",
-        "id": "vnexpress",
-        "name": "Tin Tức"
-      }
-    },
-    {
-      "id": "news_item_39",
+      "id": "news_item_31",
       "name": "Singapore nhận búa Chủ tịch ASEAN: 'Hội nhập sâu rộng hơn, Quan hệ đối tác rộng mở hơn!'",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_39.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_31.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_39.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_31.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_39.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_31.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_39.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_31.png"
           }
         ]
       },
@@ -2411,7 +1915,7 @@
         {
           "type": "text",
           "name": "Singapore nhận búa Chủ tịch ASEAN: 'Hội nhập sâu rộng hơn, Quan hệ đối tác rộng mở hơn!'",
-          "text": "Hội nghị cấp cao ASEAN lần thứ 49 bế mạc với nghi thức Philippines, nước Chủ tịch ASEAN 2026, trao chiếc búa biểu trưng cho Chủ tịch 2027 là Singapore.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Hội nghị cấp cao ASEAN lần thứ 49 bế mạc với nghi thức Philippines, nước Chủ tịch ASEAN 2026, trao chiếc búa biểu trưng cho Chủ tịch 2027 là Singapore.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2421,27 +1925,27 @@
       }
     },
     {
-      "id": "news_item_40",
+      "id": "news_item_32",
       "name": "Trải nghiệm nhanh HUAWEI Watch 6 và Watch 6 Pro: Bản Pro khác biệt ở đâu?",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_40.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_32.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_40.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_32.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_40.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_32.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_40.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_32.png"
           }
         ]
       },
@@ -2473,7 +1977,7 @@
         {
           "type": "text",
           "name": "Trải nghiệm nhanh HUAWEI Watch 6 và Watch 6 Pro: Bản Pro khác biệt ở đâu?",
-          "text": "Cùng có X-TAP và eSIM, hai dòng đồng hồ tạo khác biệt chủ yếu ở chất liệu, kích thước và tính năng ngoài trời, khiến lựa chọn bản Pro phụ thuộc nhiều vào nhu cầu đeo.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:18 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Cùng có X-TAP và eSIM, hai dòng đồng hồ tạo khác biệt chủ yếu ở chất liệu, kích thước và tính năng ngoài trời, khiến lựa chọn bản Pro phụ thuộc nhiều vào nhu cầu đeo.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2483,27 +1987,27 @@
       }
     },
     {
-      "id": "news_item_41",
+      "id": "news_item_33",
       "name": "HLV Kim Sang Sik xin lỗi, mong người hâm mộ đừng chỉ trích thủ môn Trung Kiên",
       "label": "Tuổi Trẻ • Thời Sự",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_41.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_33.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_41.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_33.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_41.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_33.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_41.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_33.png"
           }
         ]
       },
@@ -2535,7 +2039,7 @@
         {
           "type": "text",
           "name": "HLV Kim Sang Sik xin lỗi, mong người hâm mộ đừng chỉ trích thủ môn Trung Kiên",
-          "text": "Phát biểu sau trận thua Kyrgyzstan ở Casper Cup 2026, HLV Kim Sang Sik xin lỗi và mong người hâm mộ đừng chỉ trích thủ môn Trung Kiên vì mắc sai sót.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:19 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Phát biểu sau trận thua Kyrgyzstan ở Casper Cup 2026, HLV Kim Sang Sik xin lỗi và mong người hâm mộ đừng chỉ trích thủ môn Trung Kiên vì mắc sai sót.\n\nNguồn: Tuổi Trẻ (Thời Sự)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2545,27 +2049,27 @@
       }
     },
     {
-      "id": "news_item_42",
+      "id": "news_item_34",
       "name": "Giờ đã có chỗ sờ tận tay máy ảnh medium format Hasselblad tại Việt Nam",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_42.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_34.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_42.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_34.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_42.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_34.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_42.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_34.png"
           }
         ]
       },
@@ -2597,7 +2101,7 @@
         {
           "type": "text",
           "name": "Giờ đã có chỗ sờ tận tay máy ảnh medium format Hasselblad tại Việt Nam",
-          "text": "Cửa hàng chính hãng đầu tiên ở Phú Mỹ Hưng (Thành phố Hồ Chí Minh) trưng bày X2D II 100C, 907X 100C và cả những mẫu máy mang dấu ấn lịch sử của hãng, bên cạnh toàn bộ hệ sinh thái DJI.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:19 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Cửa hàng chính hãng đầu tiên ở Phú Mỹ Hưng (Thành phố Hồ Chí Minh) trưng bày X2D II 100C, 907X 100C và cả những mẫu máy mang dấu ấn lịch sử của hãng, bên cạnh toàn bộ hệ sinh thái DJI.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2607,27 +2111,27 @@
       }
     },
     {
-      "id": "news_item_43",
+      "id": "news_item_35",
       "name": "Trải nghiệm \"Face ID\" trên iPhone Duo: Mở nhanh, dùng tạm được nhưng bị giới hạn khá nhiều",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_43.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_35.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_43.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_35.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_43.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_35.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_43.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_35.png"
           }
         ]
       },
@@ -2659,7 +2163,7 @@
         {
           "type": "text",
           "name": "Trải nghiệm \"Face ID\" trên iPhone Duo: Mở nhanh, dùng tạm được nhưng bị giới hạn khá nhiều",
-          "text": "Tính năng mới của iOS 27.3 beta 2 giúp iPhone Duo đỡ phụ thuộc vào cảm biến vân tay, nhưng chưa thể thay thế Face ID.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:19 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Tính năng mới của iOS 27.3 beta 2 giúp iPhone Duo đỡ phụ thuộc vào cảm biến vân tay, nhưng chưa thể thay thế Face ID.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
@@ -2669,27 +2173,27 @@
       }
     },
     {
-      "id": "news_item_44",
+      "id": "news_item_36",
       "name": "Trên tay Insta360 Luna Pro: Bỏ camera tele, giữ lại những thứ vlogger thực sự cần",
       "label": "GenK • Công Nghệ & AI",
       "price": "Bản Tin Mới",
       "promotional_image": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_44.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_36.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_44.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_36.png"
           }
         ]
       },
       "icon": {
         "links": [
           {
-            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_44.png"
+            "href": "https://cdn.jsdelivr.net/gh/buitranhoangtam/xperia-feed@main/whatsnew/images/news_36.png"
           },
           {
-            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_44.png"
+            "href": "https://raw.githubusercontent.com/buitranhoangtam/xperia-feed/main/whatsnew/images/news_36.png"
           }
         ]
       },
@@ -2721,7 +2225,7 @@
         {
           "type": "text",
           "name": "Trên tay Insta360 Luna Pro: Bỏ camera tele, giữ lại những thứ vlogger thực sự cần",
-          "text": "Không sở hữu hệ thống camera kép như “đàn anh” Luna Ultra, Insta360 Luna Pro vẫn giữ được những tính năng đáng giá nhất của dòng máy quay gimbal bỏ túi này. Đặc biệt, mức giá dễ tiếp cận hơn đáng kể khiến đây trở thành lựa chọn đáng chú ý cho những người mới bắt đầu sáng tạo nội dung.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:19 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
+          "text": "Không sở hữu hệ thống camera kép như “đàn anh” Luna Ultra, Insta360 Luna Pro vẫn giữ được những tính năng đáng giá nhất của dòng máy quay gimbal bỏ túi này. Đặc biệt, mức giá dễ tiếp cận hơn đáng kể khiến đây trở thành lựa chọn đáng chú ý cho những người mới bắt đầu sáng tạo nội dung.\n\nNguồn: GenK (Công Nghệ & AI)\nCập nhật lúc: 04:48 - 18/11/2026\n\nBấm nút OPEN để đọc trực tiếp bài viết trên trình đọc Sony News Suite."
         }
       ],
       "type": {
